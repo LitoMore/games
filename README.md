@@ -4,7 +4,11 @@ List of games I already own
 
 ## Apple App Store
 
+> To be written
+
 ## Epic Games
+
+> To be written
 
 ## Nintendo Switch
 
@@ -113,4 +117,12 @@ List of games I already own
 
 ## PlayStation 4
 
+> To be written
+
 ## Steam
+
+> To be written
+
+## Others
+
+> To be written
