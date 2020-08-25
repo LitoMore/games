@@ -291,7 +291,7 @@ List of games I already own
 - [Trine 2](https://steamcommunity.com/app/35720)
 - [Trine 3: The Artifacts of Power](https://steamcommunity.com/app/319910)
 - [Unheard](https://steamcommunity.com/app/942970)
-- [Wallpaper Engine：壁纸引擎](https://steamcommunity.com/app/431960)
+- [Wallpaper Engine](https://steamcommunity.com/app/431960)
 - [WayOut](https://steamcommunity.com/app/551110)
 - [Windosill](https://steamcommunity.com/app/37600)
 - [Wolcen: Lords of Mayhem](https://steamcommunity.com/app/424370)
