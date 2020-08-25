@@ -2,14 +2,6 @@
 
 List of games I already own
 
-## App Store
-
-> To be written
-
-## Epic Games
-
-> To be written
-
 ## Nintendo Switch™
 
 - [1-2-Switch](https://www.nintendo.com/games/detail/1-2-switch-switch/)
@@ -366,7 +358,3 @@ List of games I already own
 - [Zup! XS](https://steamcommunity.com/app/673800)
 - [Zup! Zero](https://steamcommunity.com/app/610360)
 - [Zup! Zero 2](https://steamcommunity.com/app/658550)
-
-## Others
-
-> To be written
