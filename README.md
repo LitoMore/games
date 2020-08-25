@@ -143,6 +143,8 @@ List of games I already own
 
 - [God of War](https://store.playstation.com/en-hk/product/HP9000-CUSA07413_00-00000000GODOFWAR)
 
+> To be written
+
 ## Steam
 
 > To be written
