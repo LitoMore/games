@@ -2,7 +2,7 @@
 
 List of games I already own
 
-## Apple App Store
+## App Store
 
 > To be written
 
@@ -10,7 +10,7 @@ List of games I already own
 
 > To be written
 
-## Nintendo Switch
+## Nintendo Switch™
 
 - [1-2-Switch](https://www.nintendo.com/games/detail/1-2-switch-switch/)
 - [ASTRAL CHAIN](https://www.nintendo.com/games/detail/astral-chain-switch/)
@@ -139,9 +139,9 @@ List of games I already own
 - [YouTube](https://www.nintendo.com/games/detail/youtube-switch/)
 - [Zumba® Burn It Up!](https://www.nintendo.com/games/detail/zumba-burn-it-up-switch/)
 
-## PlayStation 4
+## PlayStation® 4
 
-> To be written
+- [God of War](https://store.playstation.com/en-hk/product/HP9000-CUSA07413_00-00000000GODOFWAR)
 
 ## Steam
 
