@@ -6,6 +6,7 @@ List of games I already own
 
 - [MapleStory: The Girl's Fate](https://namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EC%9A%B4%EB%AA%85%EC%9D%98%20%EC%86%8C%EB%85%80)
 - [The Legend of Zelda: A Link Between Worlds](https://www.nintendo.com/games/detail/the-legend-of-zelda-a-link-between-worlds-3ds/)
+- [The Legend of Zelda: The Minish Cap](https://www.nintendolife.com/reviews/3ds-eshop/legend_of_zelda_the_minish_cap_gba)
 
 ## Nintendo Switch™
 
