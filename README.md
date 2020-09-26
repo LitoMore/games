@@ -88,6 +88,7 @@ List of games I already own
 - [NoReload Heroes](https://www.nintendo.com/games/detail/noreload-heroes-switch/)
 - [Oceanhorn - Monster of Uncharted Seas](https://www.nintendo.com/games/detail/oceanhorn-monster-of-uncharted-seas-switch/)
 - [Octopath Traveler™](https://www.nintendo.com/games/detail/octopath-traveler-switch/)
+- [Ori and the Blind Forest: Definitive Edition](https://www.nintendo.com/games/detail/ori-and-the-blind-forest-definitive-edition-switch/)
 - [Overcooked Special Edition](https://www.nintendo.com/games/detail/overcooked-special-edition-switch/)
 - [Overcooked! 2](https://www.nintendo.com/games/detail/overcooked-2-switch/)
 - [Paladins](https://www.nintendo.com/games/detail/paladins-switch/)
