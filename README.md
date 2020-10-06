@@ -2,6 +2,14 @@
 
 List of games I already own
 
+## Contents
+
+- [Epic Games](#epic-games)
+- [Nintendo 3DS](#nintendo-3ds)
+- [Nintendo Switch™](#nintendo-switch)
+- [PlayStation®4](#playstation4)
+- [Steam](#steam)
+
 ## Epic Games
 
 - [20XX](https://www.epicgames.com/store/en-US/product/20xx)
