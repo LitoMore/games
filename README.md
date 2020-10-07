@@ -1,26 +1,17 @@
 # Games
 
-[![](https://img.shields.io/badge/App_Store-97-ddd?logo=app-store&labelColor=0d96f6&logoColor=white)](#app-store)
-[![](https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white)](#battlenet)
-[![](https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131)](#epic-games)
-[![](https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128)](#nintendo-3ds)
-[![](https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012)](#nintendo-switch)
-[![](https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white)](#origin)
-[![](https://img.shields.io/badge/PlayStation_4-93-ddd?logo=playstation&labelColor=003791)](#playstation4)
-[![](https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000)](#steam)
-
 List of games I already own
 
 ## Contents
 
-- [App Store](#app-store)
-- [Battle.net](#battlenet)
-- [Epic Games](#epic-games)
-- [Nintendo 3DS™](#nintendo-3ds)
-- [Nintendo Switch™](#nintendo-switch)
-- [Origin](#origin)
-- [PlayStation®4](#playstation4)
-- [Steam](#steam)
+- [![](https://img.shields.io/badge/App_Store-97-ddd?logo=app-store&labelColor=0d96f6&logoColor=white)](#app-store)
+- [![](https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white)](#battlenet)
+- [![](https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131)](#epic-games)
+- [![](https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128)](#nintendo-3ds)
+- [![](https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012)](#nintendo-switch)
+- [![](https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white)](#origin)
+- [![](https://img.shields.io/badge/PlayStation_4-93-ddd?logo=playstation&labelColor=003791)](#playstation4)
+- [![](https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000)](#steam)
 
 ## App Store
 
