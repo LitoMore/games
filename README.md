@@ -103,15 +103,15 @@ List of games I already own
 - [Temple Run](https://apps.apple.com/us/app/temple-run/id420009108)
 - [Temple Run 2](https://apps.apple.com/us/app/temple-run-2/id572395608)
 - [Tetris®](https://apps.apple.com/us/app/tetris/id1491074310)
+- [The Legend of Sword and Fairy](https://apps.apple.com/us/app/%E6%96%B0%E4%BB%99%E5%8A%8D%E5%A5%87%E4%BF%A0%E5%82%B3-%E6%AD%A3%E7%89%88%E5%96%AE%E6%A9%9F/id945322477)
 - [The Room Pocket](https://apps.apple.com/us/app/the-room-pocket/id573156739)
 - [The Room Two](https://apps.apple.com/us/app/the-room-two/id667362389)
 - [The Room Three](https://apps.apple.com/us/app/the-room-three/id918054748)
 - [The Room: Old Sins](https://apps.apple.com/us/app/the-room-old-sins/id1286676015)
 - [The Trail](https://apps.apple.com/us/app/the-trail/id1147002179)
 - [Time Surfer](https://apps.apple.com/us/app/time-surfer/id549361775)
+- [Travel Frog](https://apps.apple.com/us/app/%E6%97%85%E3%81%8B%E3%81%88%E3%82%8B/id1255032913)
 - [VOEZ](https://apps.apple.com/us/app/voez/id1007929736)
-- [旅かえる](https://apps.apple.com/us/app/%E6%97%85%E3%81%8B%E3%81%88%E3%82%8B/id1255032913)
-- [新仙劍奇俠傳](https://apps.apple.com/us/app/%E6%96%B0%E4%BB%99%E5%8A%8D%E5%A5%87%E4%BF%A0%E5%82%B3-%E6%AD%A3%E7%89%88%E5%96%AE%E6%A9%9F/id945322477)
 
 ## Battle.net
 
