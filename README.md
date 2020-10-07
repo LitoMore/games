@@ -1,11 +1,17 @@
 # Games
 
+[![](https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131)](#epic-games)
+[![](https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128)](#nintendo-3ds)
+[![](https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012)](#nintendo-switch)
+[![](https://img.shields.io/badge/PlayStation_4-93-ddd?logo=playstation&labelColor=003791)](#playstation4)
+[![](https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000)](#steam)
+
 List of games I already own
 
 ## Contents
 
 - [Epic Games](#epic-games)
-- [Nintendo 3DS](#nintendo-3ds)
+- [Nintendo 3DS™](#nintendo-3ds)
 - [Nintendo Switch™](#nintendo-switch)
 - [PlayStation®4](#playstation4)
 - [Steam](#steam)
@@ -459,7 +465,6 @@ List of games I already own
 - [Zup! 4](https://steamcommunity.com/app/591420)
 - [Zup! 5](https://steamcommunity.com/app/645090)
 - [Zup! 6](https://steamcommunity.com/app/566160)
-- [Zup! 6 - OST](https://steamcommunity.com/app/723000)
 - [Zup! 7](https://steamcommunity.com/app/658560)
 - [Zup! 8](https://steamcommunity.com/app/799070)
 - [Zup! S](https://steamcommunity.com/app/617670)
