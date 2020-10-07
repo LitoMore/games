@@ -1,6 +1,7 @@
 # Games
 
 [![](https://img.shields.io/badge/App_Store-97-ddd?logo=app-store&labelColor=0d96f6&logoColor=white)](#app-store)
+![](https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=121419&logoColor=white)
 [![](https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131)](#epic-games)
 [![](https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128)](#nintendo-3ds)
 [![](https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012)](#nintendo-switch)
@@ -119,6 +120,15 @@ List of games I already own
 - [VOEZ](https://apps.apple.com/us/app/voez/id1007929736)
 - [旅かえる](https://apps.apple.com/us/app/%E6%97%85%E3%81%8B%E3%81%88%E3%82%8B/id1255032913)
 - [新仙劍奇俠傳](https://apps.apple.com/us/app/%E6%96%B0%E4%BB%99%E5%8A%8D%E5%A5%87%E4%BF%A0%E5%82%B3-%E6%AD%A3%E7%89%88%E5%96%AE%E6%A9%9F/id945322477)
+
+## Battle.net
+
+- [Call of Duty®: Modern Warfare®](https://us.shop.battle.net/en-us/family/call-of-duty-mw)
+- [Diablo® III](https://us.diablo3.com/)
+- [Heroes of the Storm™](https://heroesofthestorm.com/en-us/)
+- [Overwatch®](https://playoverwatch.com/en-us/)
+- [StarCraft® II](https://starcraft2.com/en-us/)
+- [World of Warcraft®](https://worldofwarcraft.com/en-us/)
 
 ## Epic Games
 
