@@ -4,6 +4,7 @@
 [![](https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131)](#epic-games)
 [![](https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128)](#nintendo-3ds)
 [![](https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012)](#nintendo-switch)
+[![](https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white)](#origin)
 [![](https://img.shields.io/badge/PlayStation_4-93-ddd?logo=playstation&labelColor=003791)](#playstation4)
 [![](https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000)](#steam)
 
@@ -15,6 +16,7 @@ List of games I already own
 - [Epic Games](#epic-games)
 - [Nintendo 3DS™](#nintendo-3ds)
 - [Nintendo Switch™](#nintendo-switch)
+- [Origin](#origin)
 - [PlayStation®4](#playstation4)
 - [Steam](#steam)
 
@@ -323,6 +325,10 @@ List of games I already own
 - [Yo-kai Watch 4++](https://ec.nintendo.com/JP/ja/bundles/70070000008641)
 - [Yoshi’s Crafted World™](https://www.nintendo.com/games/detail/yoshis-crafted-world-switch/)
 - [Zumba® Burn It Up!](https://www.nintendo.com/games/detail/zumba-burn-it-up-switch/)
+
+## Origin
+
+- [SimCity™](https://www.origin.com/usa/en-us/store/simcity/simcity)
 
 ## PlayStation®4
 
