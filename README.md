@@ -1,7 +1,7 @@
 # Games
 
 [![](https://img.shields.io/badge/App_Store-97-ddd?logo=app-store&labelColor=0d96f6&logoColor=white)](#app-store)
-![](https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=121419&logoColor=white)
+[![](https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=121419)](#battlenet)
 [![](https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131)](#epic-games)
 [![](https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128)](#nintendo-3ds)
 [![](https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012)](#nintendo-switch)
@@ -14,6 +14,7 @@ List of games I already own
 ## Contents
 
 - [App Store](#app-store)
+- [Battle.net](#battlenet)
 - [Epic Games](#epic-games)
 - [Nintendo 3DS™](#nintendo-3ds)
 - [Nintendo Switch™](#nintendo-switch)
