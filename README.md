@@ -15,6 +15,7 @@ List of games I already own
 - [![](https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000)](#steam)
 - [![](https://img.shields.io/badge/Uplay-1-ddd?logo=ubisoft&labelColor=0070ff)](#uplay)
 - [![](https://img.shields.io/badge/Windows-2-ddd?logo=windows&labelColor=0078d6)](#Windows)
+- [![](https://img.shields.io/badge/Xbox-2-ddd?logo=xbox&labelColor=107c10)](#xbox)
 
 ## App Store
 
@@ -598,3 +599,8 @@ List of games I already own
 
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Tale of Wuxia](https://wulin.fhyx.com/)
+
+## Xbox
+
+- [Adera](https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p)
+- [Tentacles: Enter the Mind](https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n)
