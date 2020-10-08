@@ -14,7 +14,7 @@ List of games I already own
 - [![](https://img.shields.io/badge/PlayStation_4-93-ddd?logo=playstation&labelColor=003791)](#playstation4)
 - [![](https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000)](#steam)
 - [![](https://img.shields.io/badge/Uplay-1-ddd?logo=ubisoft&labelColor=0070ff)](#uplay)
-- [![](https://img.shields.io/badge/Windows-1-ddd?logo=windows&labelColor=0078d6)](#Windows)
+- [![](https://img.shields.io/badge/Windows-2-ddd?logo=windows&labelColor=0078d6)](#Windows)
 
 ## App Store
 
@@ -596,4 +596,5 @@ List of games I already own
 
 ## Windows
 
+- [Minecraft](https://www.minecraft.net/en-us)
 - [Tale of Wuxia](https://wulin.fhyx.com/)
