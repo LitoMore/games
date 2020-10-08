@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  List of games I already own
+  List of video games I already own
 </p>
 
 ## App Store
