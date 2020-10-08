@@ -13,6 +13,7 @@ List of games I already own
 - [![](https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white)](#origin)
 - [![](https://img.shields.io/badge/PlayStation_4-93-ddd?logo=playstation&labelColor=003791)](#playstation4)
 - [![](https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000)](#steam)
+- [![](https://img.shields.io/badge/Windows-1-ddd?logo=windows&labelColor=0078d6)](#Windows)
 
 ## App Store
 
@@ -587,3 +588,7 @@ List of games I already own
 - [Zup! XS](https://steamcommunity.com/app/673800)
 - [Zup! Zero](https://steamcommunity.com/app/610360)
 - [Zup! Zero 2](https://steamcommunity.com/app/658550)
+
+## Windows
+
+- [Tale of Wuxia](https://wulin.fhyx.com/)
