@@ -7,6 +7,7 @@ List of games I already own
 - [![](https://img.shields.io/badge/App_Store-97-ddd?logo=app-store&labelColor=0d96f6&logoColor=white)](#app-store)
 - [![](https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white)](#battlenet)
 - [![](https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131)](#epic-games)
+- [![](https://img.shields.io/badge/GOG.com-1-ddd?logo=gog.com&labelColor=86328a)](#gogcom)
 - [![](https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128)](#nintendo-3ds)
 - [![](https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012)](#nintendo-switch)
 - [![](https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white)](#origin)
@@ -188,6 +189,10 @@ List of games I already own
 - [Watch Dogs 2](https://www.epicgames.com/store/en-US/product/watch-dogs-2)
 - [Where The Water Tastes Like Wine](https://www.epicgames.com/store/en-US/product/where-the-water-tastes-like-wine)
 - [Wilmot's Warehouse](https://www.epicgames.com/store/en-US/product/wilmots-warehouse)
+
+## GOG.com
+
+- [Heroes of Might and Magic® 2: Gold](https://www.gog.com/game/heroes_of_might_and_magic_2_gold_edition)
 
 ## Nintendo 3DS™
 
