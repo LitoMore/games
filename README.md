@@ -1,21 +1,19 @@
 # Games
 
+[![](https://img.shields.io/badge/App_Store-97-ddd?logo=app-store&labelColor=0d96f6&logoColor=white)](#app-store)
+[![](https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white)](#battlenet)
+[![](https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131)](#epic-games)
+[![](https://img.shields.io/badge/GOG.com-1-ddd?logo=gog.com&labelColor=86328a)](#gogcom)
+[![](https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128)](#nintendo-3ds)
+[![](https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012)](#nintendo-switch)
+[![](https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white)](#origin)
+[![](https://img.shields.io/badge/PlayStation_4-93-ddd?logo=playstation&labelColor=003791)](#playstation4)
+[![](https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000)](#steam)
+[![](https://img.shields.io/badge/Uplay-1-ddd?logo=ubisoft&labelColor=0070ff)](#uplay)
+[![](https://img.shields.io/badge/Windows-2-ddd?logo=windows&labelColor=0078d6)](#Windows)
+[![](https://img.shields.io/badge/Xbox-2-ddd?logo=xbox&labelColor=107c10)](#xbox)
+
 List of games I already own
-
-## Contents
-
-- [![](https://img.shields.io/badge/App_Store-97-ddd?logo=app-store&labelColor=0d96f6&logoColor=white)](#app-store)
-- [![](https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white)](#battlenet)
-- [![](https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131)](#epic-games)
-- [![](https://img.shields.io/badge/GOG.com-1-ddd?logo=gog.com&labelColor=86328a)](#gogcom)
-- [![](https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128)](#nintendo-3ds)
-- [![](https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012)](#nintendo-switch)
-- [![](https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white)](#origin)
-- [![](https://img.shields.io/badge/PlayStation_4-93-ddd?logo=playstation&labelColor=003791)](#playstation4)
-- [![](https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000)](#steam)
-- [![](https://img.shields.io/badge/Uplay-1-ddd?logo=ubisoft&labelColor=0070ff)](#uplay)
-- [![](https://img.shields.io/badge/Windows-2-ddd?logo=windows&labelColor=0078d6)](#Windows)
-- [![](https://img.shields.io/badge/Xbox-2-ddd?logo=xbox&labelColor=107c10)](#xbox)
 
 ## App Store
 
