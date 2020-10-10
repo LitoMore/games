@@ -17,13 +17,13 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-swtich">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-130-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-131-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-93-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-94-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000"/>
@@ -262,6 +262,7 @@
 - [Diablo III: Eternal Collection](https://www.nintendo.com/games/detail/diablo-iii-eternal-collection-switch/)
 - [DORAEMON STORY OF SEASONS](https://www.nintendo.com/games/detail/doraemon-story-of-seasons-switch/)
 - [Dount Country](https://www.nintendo.com/games/detail/donut-county-switch/)
+- [Dr Kawashima’s Brain Training for Nintendo Switch](https://www.nintendo.co.uk/Games/Nintendo-Switch/Dr-Kawashima-s-Brain-Training-for-Nintendo-Switch-1656777.html)
 - [Dragon's Dogma: Dark Arisen](https://www.nintendo.com/games/detail/dragons-dogma-dark-arisen-switch/)
 - [ESCAPE TRICK: 35 Fateful Enigmas](https://www.nintendo.com/games/detail/escape-trick-35-fateful-enigmas-switch/)
 - [FIFA 18](https://www.nintendolife.com/reviews/nintendo-switch/fifa_18)
@@ -438,6 +439,7 @@
 - [Resident Evil 6](https://www.playstation.com/en-us/games/resident-evil-6-ps4/)
 - [Rise of the Tomb Raider: 20 Year Celebration](https://www.playstation.com/en-us/games/rise-of-the-tomb-raider-20-year-celebration-ps4/)
 - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://www.playstation.com/en-us/games/playerunknowns-battlegrounds-ps4/)
+- [Sakura Wars™](https://www.playstation.com/en-us/games/sakura-wars-ps4/)
 - [Sekiro™: Shadows Die Twice](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/)
 - [Shadow of the Colossus](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
 - [SONIC FORCES](https://www.playstation.com/en-us/games/sonic-forces-ps4/)
