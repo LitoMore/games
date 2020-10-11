@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000"/>
   </a>
   <a href="#uplay">
-    <img src="https://img.shields.io/badge/Uplay-1-ddd?logo=ubisoft&labelColor=0070ff"/>
+    <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
   </a>
   <a href="#windows">
     <img src="https://img.shields.io/badge/Windows-2-ddd?logo=windows&labelColor=0078d6"/>
@@ -194,7 +194,7 @@
 - [Pathway](https://www.epicgames.com/store/en-US/product/pathway)
 - [Pikuniku](https://www.epicgames.com/store/en-US/product/pikuniku)
 - [Railway Empire](https://www.epicgames.com/store/en-US/product/railway-empire)
-- [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/product/remnant-from-the-ashe)
+- [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/product/remnant-from-the-ashes)
 - [RollerCoaster Tycoon® 3: Complete Edition](https://www.epicgames.com/store/en-US/product/rollercoaster-tycoon-3-complete-edition)
 - [Saints Row®: The Third™ Remastered](https://www.epicgames.com/store/en-US/product/saints-row-the-third-remastered)
 - [SAMURAI SHODOWN NEOGEO COLLECTION](https://www.epicgames.com/store/en-US/product/samurai-shodown-neogeo-collection)
@@ -622,6 +622,7 @@
 ## Uplay
 
 - [Rayman® 2: The Great Escape](https://store.ubi.com/us/game/?lang=en_US&pid=56c4947e88a7e300458b465c)
+- [Heroes of Might and Magic® 2: Gold](https://store.ubi.com/ie/game?pid=5902fbba88a7e3f0618b4567)
 
 ## Windows
 
