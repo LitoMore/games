@@ -621,8 +621,8 @@
 
 ## Uplay
 
-- [Rayman® 2: The Great Escape](https://store.ubi.com/us/game/?lang=en_US&pid=56c4947e88a7e300458b465c)
 - [Heroes of Might and Magic® 2: Gold](https://store.ubi.com/ie/game?pid=5902fbba88a7e3f0618b4567)
+- [Rayman® 2: The Great Escape](https://store.ubi.com/us/game/?lang=en_US&pid=56c4947e88a7e300458b465c)
 
 ## Windows
 
