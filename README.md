@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-94-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-150-ddd?logo=steam&labelColor=000"/>
+    <img src="https://img.shields.io/badge/Steam-151-ddd?logo=steam&labelColor=000"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -537,6 +537,7 @@
 - [Half-Life: Source](https://steamcommunity.com/app/280)
 - [Half-Life Deathmatch: Source](https://steamcommunity.com/app/360)
 - [Halo Wars: Definitive Edition](https://steamcommunity.com/app/459220)
+- [Heroes® of Might & Magic® III - HD Edition](https://store.steampowered.com/app/297000)
 - [Ho Tu Lo Shu：The Books of Dragon](https://steamcommunity.com/app/952860)
 - [Human Fall Flat](https://steamcommunity.com/app/477160)
 - [ICEY](https://steamcommunity.com/app/553640)
