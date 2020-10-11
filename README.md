@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-64-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-66-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-1-ddd?logo=gog.com&labelColor=86328a"/>
@@ -156,6 +156,7 @@
 
 - [20XX](https://www.epicgames.com/store/en-US/product/20xx)
 - [3 out of 10, EP 1: "Welcome To Shovelworks"](https://www.epicgames.com/store/en-US/product/3-out-of-10-ep-1)
+- [ABZU](https://www.epicgames.com/store/en-US/product/abzu)
 - [AER Memories of Old](https://www.epicgames.com/store/en-US/product/aer-memories-of-old)
 - [Amnesia: The Dark Descent](https://www.epicgames.com/store/en-US/product/amnesia-the-dark-descent)
 - [ARK: Survival Evolved](https://www.epicgames.com/store/en-US/product/ark)
@@ -325,6 +326,7 @@
 - [Pokémon™: Let’s Go, Pikachu!](https://www.nintendo.com/games/detail/pokemon-lets-go-pikachu-switch/)
 - [Resident Evil Revelations Collection](https://www.nintendo.com/games/detail/resident-evil-revelations-collection-switch/)
 - [Ring Fit Adventure](https://www.nintendo.com/games/detail/ring-fit-adventure-switch/)
+- [Rising Storm 2: Vietnam](https://www.epicgames.com/store/en-US/product/rising-storm-2-vietnam)
 - [Robonauts](https://www.nintendo.com/games/detail/robonauts-switch/)
 - [SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE](https://www.nintendo.com/games/detail/saints-row-the-third-the-full-package-switch/)
 - [Sid Meier’s Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch/)
