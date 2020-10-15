@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-66-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-68-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-1-ddd?logo=gog.com&labelColor=86328a"/>
@@ -158,6 +158,7 @@
 - [3 out of 10, EP 1: "Welcome To Shovelworks"](https://www.epicgames.com/store/en-US/product/3-out-of-10-ep-1)
 - [ABZU](https://www.epicgames.com/store/en-US/product/abzu)
 - [AER Memories of Old](https://www.epicgames.com/store/en-US/product/aer-memories-of-old)
+- [Amnesia: A Machine for Pigs](https://www.epicgames.com/store/en-US/product/amnesia-a-machine-for-pigs)
 - [Amnesia: The Dark Descent](https://www.epicgames.com/store/en-US/product/amnesia-the-dark-descent)
 - [ARK: Survival Evolved](https://www.epicgames.com/store/en-US/product/ark)
 - [Aztez](https://www.epicgames.com/store/en-US/product/aztez)
@@ -189,6 +190,7 @@
 - [Into The Breach](https://www.epicgames.com/store/en-US/product/into-the-breach)
 - [Jotun: Valhalla Edition](https://www.epicgames.com/store/en-US/product/jotun)
 - [Kingdom Come: Deliverance](https://www.epicgames.com/store/en-US/product/kingdom-come-deliverance)
+- [Kingdom New Lands](https://www.epicgames.com/store/en-US/product/kingdom-new-lands)
 - [Next Up Hero](https://www.epicgames.com/store/en-US/product/next-up-hero)
 - [Offworld Trading Company](https://www.epicgames.com/store/en-US/product/offworld-trading-company)
 - [Overcooked](https://www.epicgames.com/store/en-US/product/overcooked)
