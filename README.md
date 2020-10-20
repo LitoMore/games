@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-swtich">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-131-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-132-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -297,6 +297,7 @@
 - [Luigi’s Mansion™ 3](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/)
 - [Mana Spark](https://www.nintendo.com/games/detail/mana-spark-switch/)
 - [Mario & Sonic at the Olympic Games Tokyo 2020](https://www.nintendo.com/games/detail/mario-and-sonic-at-the-olympic-games-tokyo-2020-switch/)
+- [Mario Kart Live: Home Circuit™](https://www.nintendo.com/games/detail/mario-kart-live-home-circuit-switch/)
 - [Mario Kart™ 8 Deluxe](https://www.nintendo.com/games/detail/mario-kart-8-deluxe-switch/)
 - [Mario Tennis™ Aces](https://www.nintendo.com/games/detail/mario-tennis-aces-switch/)
 - [MEMBRANE](https://www.nintendo.com/games/detail/membrane-switch/)
