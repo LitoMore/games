@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-68-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-70-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-1-ddd?logo=gog.com&labelColor=86328a"/>
@@ -168,6 +168,7 @@
 - [Carcassonne](https://www.epicgames.com/store/en-US/product/carcassonne)
 - [Celeste](https://www.epicgames.com/store/en-US/product/celeste)
 - [Close To The Sun](https://www.epicgames.com/store/en-US/product/close-to-the-sun)
+- [Costume Quest 2](https://www.epicgames.com/store/en-US/product/costume-quest-2)
 - [Crashlands](https://www.epicgames.com/store/en-US/product/crashlands)
 - [Darksiders II Deathinitive Edition](https://www.epicgames.com/store/en-US/product/darksiders2)
 - [Darksiders Warmastered Edition](https://www.epicgames.com/store/en-US/product/darksiders)
@@ -191,6 +192,7 @@
 - [Jotun: Valhalla Edition](https://www.epicgames.com/store/en-US/product/jotun)
 - [Kingdom Come: Deliverance](https://www.epicgames.com/store/en-US/product/kingdom-come-deliverance)
 - [Kingdom New Lands](https://www.epicgames.com/store/en-US/product/kingdom-new-lands)
+- [Layers of Fear 2](https://www.epicgames.com/store/en-US/product/layers-of-fear-2)
 - [Next Up Hero](https://www.epicgames.com/store/en-US/product/next-up-hero)
 - [Offworld Trading Company](https://www.epicgames.com/store/en-US/product/offworld-trading-company)
 - [Overcooked](https://www.epicgames.com/store/en-US/product/overcooked)
