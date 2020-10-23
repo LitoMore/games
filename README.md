@@ -16,7 +16,7 @@
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
-  <a href="#nintendo-swtich">
+  <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-132-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
