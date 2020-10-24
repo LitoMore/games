@@ -259,6 +259,7 @@
 - [Chasm](https://www.nintendo.com/games/detail/chasm-switch/)
 - [Child of Light® Ultimate Edition](https://www.nintendo.com/games/detail/child-of-light-ultimate-edition-switch/)
 - [Clubhouse Games™: 51 Worldwide Classics](https://www.nintendo.com/games/detail/clubhouse-games-51-worldwide-classics-switch/)
+- [Collection of Mana](https://www.nintendo.com/games/detail/collection-of-mana-switch/)
 - [Crypt of the NecroDancer: Nintendo Switch Edition](https://www.nintendo.com/games/detail/crypt-of-the-necrodancer-nintendo-switch-edition-switch/)
 - [Cuphead](https://www.nintendo.com/games/detail/cuphead-switch/)
 - [Cytus α](https://www.nintendo.com/games/detail/cytus-a-switch/)
