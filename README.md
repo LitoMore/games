@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-133-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-135-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -304,6 +304,7 @@
 - [Mario Kart™ 8 Deluxe](https://www.nintendo.com/games/detail/mario-kart-8-deluxe-switch/)
 - [Mario Tennis™ Aces](https://www.nintendo.com/games/detail/mario-tennis-aces-switch/)
 - [MEMBRANE](https://www.nintendo.com/games/detail/membrane-switch/)
+- [New Super Mario Bros.™ U Deluxe](https://www.nintendo.com/games/detail/new-super-mario-bros-u-deluxe-switch/)
 - [Minecraft](https://www.nintendo.com/games/detail/minecraft-switch/)
 - [MODEL Debut #nicola](https://store.nintendo.com.hk/70010000028466)
 - [Monster Hunter Generations Ultimate™](https://www.nintendo.com/games/detail/monster-hunter-generations-ultimate-switch/)
@@ -340,6 +341,7 @@
 - [Splatoon™ 2](https://www.nintendo.com/games/detail/splatoon-2-switch/)
 - [Stardew Valley](https://www.nintendo.com/games/detail/stardew-valley-switch/)
 - [Super Bomberman R](https://www.nintendo.com/games/detail/super-bomberman-r-switch/)
+- [Super Mario Bros.™ 35[(https://www.nintendo.com/games/detail/super-mario-bros-35-switch/)
 - [Super Mario Maker™ 2](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/)
 - [Super Mario Odyssey™](https://www.nintendo.com/games/detail/super-mario-odyssey-switch/)
 - [Super Mario Party™](https://www.nintendo.com/games/detail/super-mario-party-switch/)
