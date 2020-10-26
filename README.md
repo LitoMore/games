@@ -341,7 +341,7 @@
 - [Splatoon™ 2](https://www.nintendo.com/games/detail/splatoon-2-switch/)
 - [Stardew Valley](https://www.nintendo.com/games/detail/stardew-valley-switch/)
 - [Super Bomberman R](https://www.nintendo.com/games/detail/super-bomberman-r-switch/)
-- [Super Mario Bros.™ 35[(https://www.nintendo.com/games/detail/super-mario-bros-35-switch/)
+- [Super Mario Bros.™ 35](https://www.nintendo.com/games/detail/super-mario-bros-35-switch/)
 - [Super Mario Maker™ 2](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/)
 - [Super Mario Odyssey™](https://www.nintendo.com/games/detail/super-mario-odyssey-switch/)
 - [Super Mario Party™](https://www.nintendo.com/games/detail/super-mario-party-switch/)
