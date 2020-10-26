@@ -17,13 +17,13 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-135-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-138-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-94-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-96-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-151-ddd?logo=steam&labelColor=000"/>
@@ -237,6 +237,7 @@
 ## Nintendo Switch™
 
 - [1-2-Switch](https://www.nintendo.com/games/detail/1-2-switch-switch/)
+- [30-in-1 Game Collection](https://www.nintendo.com/games/detail/30-in-1-game-collection-switch/)
 - [Animal Crossing™: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
 - [Arena of Valor](https://www.nintendo.com/games/detail/arena-of-valor-switch/)
 - [Asphalt 9: Legends](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
@@ -254,7 +255,9 @@
 - [Boundy Bob](https://www.nintendo.com/games/detail/bouncy-bob-switch/)
 - [Burnstar](https://www.nintendo.com/games/detail/burnstar-switch/)
 - [Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda](https://www.nintendo.com/games/detail/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-switch/)
+- [Capcom Belt Action Collection](https://store-jp.nintendo.com/list/software/70010000008904.html)
 - [Captain Toad™: Treasure Tracker](https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-switch/)
+- [Carnival Games®](https://www.nintendo.com/games/detail/carnival-games-switch/)
 - [Celeste](https://www.nintendo.com/games/detail/celeste-switch/)
 - [Chasm](https://www.nintendo.com/games/detail/chasm-switch/)
 - [Child of Light® Ultimate Edition](https://www.nintendo.com/games/detail/child-of-light-ultimate-edition-switch/)
@@ -399,6 +402,7 @@
 - [Chronicles of Teddy: Harmony of Exidus](https://www.playstation.com/en-us/games/chronicles-of-teddy-harmony-of-exidus-ps4/)
 - [Cities: Skylines - PlayStation®4 Edition](https://www.playstation.com/en-us/games/cities-skylines-ps4/)
 - [Control](https://www.playstation.com/en-us/games/control-ps4/)
+- [Crash Bandicoot™ 4: It’s About Time](https://store.playstation.com/en-us/product/UP0002-CUSA19035_00-CB4STANDARD00001)
 - [Cyber Danganronpa VR: The Class Trial](https://store.playstation.com/en-hk/product/JP0365-CUSA04582_00-ASIA000000000000)
 - [Danganronpa 1•2 Reload](https://www.playstation.com/en-us/games/danganronpa-1-2-reload-ps4/)
 - [Danganronpa V3: Killing Harmony](https://www.playstation.com/en-us/games/danganronpa-v3-killing-harmony-ps4/)
@@ -425,6 +429,7 @@
 - [Gran Turismo Sport](https://www.playstation.com/en-us/explore/playstation-vr/bundles/playstation-vr-gran-turismo-sport-bundle/)
 - [Horizon Zero Dawn: Complete Edition](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/)
 - [KINGDOM HEARTS III](https://www.playstation.com/en-us/games/kingdom-hearts-iii-ps4/)
+- [Kingdoms of Amalur: Re-Reckoning](https://store.playstation.com/en-us/product/UP4389-CUSA17271_00-KOAFATEEDITIONUS)
 - [Kunio-kun: The World Classics Collection](https://store.playstation.com/en-hk/product/JP0036-CUSA11418_00-ASIA000000000000)
 - [Marvel's Iron Man VR](https://www.playstation.com/en-us/games/marvels-iron-man-vr-ps4/)
 - [Marvel's Spider-Man](https://www.playstation.com/en-us/games/marvels-spider-man-ps4/)
