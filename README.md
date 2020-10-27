@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-96-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-151-ddd?logo=steam&labelColor=000"/>
+    <img src="https://img.shields.io/badge/Steam-160-ddd?logo=steam&labelColor=000"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -568,6 +568,8 @@
 - [LEGO® Batman™ 3: Beyond Gotham](https://steamcommunity.com/app/313690)
 - [LIMBO](https://steamcommunity.com/app/48000)
 - [Linea, the Game](https://steamcommunity.com/app/428900)
+- [Lines Infinite](https://steampowered.com/app/733050)
+- [Lines X](https://steampowered.com/app/724740)
 - [LYNE](https://steamcommunity.com/app/266010)
 - [Mad Max](https://steamcommunity.com/app/234140)
 - [Marvel Heroes Omega](https://steamcommunity.com/app/226320)
@@ -576,6 +578,7 @@
 - [Middle-earth™: Shadow of Mordor™](https://steamcommunity.com/app/241930)
 - [MiG-29 Fulcrum](https://steamcommunity.com/app/32740)
 - [Noel The Mortal Fate S1-7](https://steamcommunity.com/app/850000)
+- [Nonogram - The Greatest Painter](https://steampowered.com/app/742490)
 - [Oceanhorn: Monster of Uncharted Seas](https://steamcommunity.com/app/339200)
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
 - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://steamcommunity.com/app/578080)
@@ -592,7 +595,11 @@
 - [Saints Row: The Third](https://steamcommunity.com/app/55230)
 - [Shadow of the Tomb Raider](https://steamcommunity.com/app/750920)
 - [Sleeping Dogs: Definitive Edition](https://steamcommunity.com/app/307690)
+- [Sorry, James](https://steampowered.com/app/659190)
 - [Stardew Valley](https://steamcommunity.com/app/413150)
+- [Sudoku Jigsaw](https://steampowered.com/app/858040)
+- [Sudoku Killer](https://steampowered.com/app/861270)
+- [Sudoku Universe](https://steampowered.com/app/733070)
 - [Super Meat Boy](https://steamcommunity.com/app/40800)
 - [Tachyon: The Fringe](https://steamcommunity.com/app/32760)
 - [Team Fortress Classic](https://steamcommunity.com/app/20)
@@ -600,6 +607,7 @@
 - [Teddy Floppy Ear - Mountain Adventure](https://steamcommunity.com/app/340300)
 - [Teddy Floppy Ear - The Race](https://steamcommunity.com/app/371420)
 - [Terraria](https://steamcommunity.com/app/105600)
+- [The Big Journey](https://steampowered.com/app/742480)
 - [The Elder Scrolls Online](https://steamcommunity.com/app/306130)
 - [theHunter: Call of the Wild™](https://steamcommunity.com/app/518790)
 - [The Witcher 2: Assassins of Kings Enhanced Edition](https://steamcommunity.com/app/20920)
@@ -619,6 +627,7 @@
 - [Unheard](https://steamcommunity.com/app/942970)
 - [Wallpaper Engine](https://steamcommunity.com/app/431960)
 - [WayOut](https://steamcommunity.com/app/551110)
+- [WayOut 2: Hex](https://steampowered.com/app/585950)
 - [Windosill](https://steamcommunity.com/app/37600)
 - [Wolcen: Lords of Mayhem](https://steamcommunity.com/app/424370)
 - [Zup!](https://steamcommunity.com/app/533300)
