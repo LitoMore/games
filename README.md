@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-70-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-72-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-1-ddd?logo=gog.com&labelColor=86328a"/>
@@ -163,6 +163,7 @@
 - [ARK: Survival Evolved](https://www.epicgames.com/store/en-US/product/ark)
 - [Aztez](https://www.epicgames.com/store/en-US/product/aztez)
 - [Barony](https://www.epicgames.com/store/en-US/product/barony)
+- [Blair Witch](https://www.epicgames.com/store/en-US/product/blair-witch)
 - [Borderlands 2](https://www.epicgames.com/store/en-US/product/borderlands-2)
 - [Borderlands: The Pre-Sequel](https://www.epicgames.com/store/en-US/product/borderlands-the-pre-sequel)
 - [Carcassonne](https://www.epicgames.com/store/en-US/product/carcassonne)
@@ -180,6 +181,7 @@
 - [Football Manager 2020](https://www.epicgames.com/store/en-US/product/football-manager-2020)
 - [For The King](https://www.epicgames.com/store/en-US/product/for-the-king)
 - [Fortnite](https://www.epicgames.com/store/en-US/product/fortnite)
+- [Ghostbusters: The Video Game Remastered](https://www.epicgames.com/store/en-US/product/ghostbusters-the-video-game-remastered)
 - [God's Trigger](https://www.epicgames.com/store/en-US/product/gods-trigger)
 - [Gone Home](https://www.epicgames.com/store/en-US/product/gone-home)
 - [GoNNER](https://www.epicgames.com/store/en-US/product/gonner)
