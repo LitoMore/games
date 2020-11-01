@@ -669,4 +669,4 @@
 
 ## Related
 
-- [Transformers](https://github.com/LitoMore/transformers) - List of Transfromers toys I already ow
+- [Transformers](https://github.com/LitoMore/transformers) - List of Transfromers toys I already own
