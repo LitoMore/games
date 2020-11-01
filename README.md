@@ -666,3 +666,7 @@
 
 - [Adera](https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p)
 - [Tentacles: Enter the Mind](https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n)
+
+## Related
+
+- [Transformers](https://github.com/LitoMore/transformers) - List of Transfromers toys I already ow
