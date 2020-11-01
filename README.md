@@ -669,4 +669,5 @@
 
 ## Related
 
-- [Transformers](https://github.com/LitoMore/transformers) - List of Transfromers toys I already own
+- [Transformers](https://github.com/LitoMore/transformers) - My Transformers toys
+- [LEGO® Bricks](https://github.com/LitoMore/lego-bricks) - My LEGO® Bricks
