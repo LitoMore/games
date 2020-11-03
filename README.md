@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-97-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-98-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-160-ddd?logo=steam&labelColor=000"/>
@@ -454,6 +454,7 @@
 - [Nioh 2](https://www.playstation.com/en-us/games/nioh-2-ps4/)
 - [Outlast 2](https://www.playstation.com/en-us/games/outlast-2-ps4/)
 - [Patapon™ 2 Remastered](https://www.playstation.com/en-us/games/patapon-2-remastered-ps4/)
+- [Patapon™ Remastered](https://www.playstation.com/en-us/games/patapon-remastered-ps4/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5-ps4/)
 - [Persona 5 Scramble: The Phantom Strikers](https://www.playstation.com/en-hk/games/persona-5-scramble-the-phantom-strikers-ps4/)
 - [Red Dead Redemption 2](https://www.playstation.com/en-us/games/red-dead-redemption-2-ps4/)
