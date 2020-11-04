@@ -17,13 +17,13 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-138-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-139-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-101-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-160-ddd?logo=steam&labelColor=000"/>
@@ -336,6 +336,7 @@
 - [Paper Mario™: The Origami King](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/)
 - [Party Golf](https://www.nintendo.com/games/detail/party-golf-switch/)
 - [Phoenix Wright: Ace Attorney Trilogy](https://www.nintendo.com/games/detail/phoenix-wright-ace-attorney-trilogy-switch/)
+- [Pikmin™ 3 Deluxe](https://www.nintendo.com/games/detail/pikmin-3-deluxe-switch/)
 - [Plague Road](https://www.nintendo.com/games/detail/plague-road-switch/)
 - [Pokémon™ Quest](https://www.nintendo.com/games/detail/pokemon-quest-switch/)
 - [Pokémon™ Shield](https://www.nintendo.com/games/detail/pokemon-shield-switch/)
@@ -394,6 +395,7 @@
 - [Ace Combat 7: Skies Unknown](https://www.playstation.com/en-us/games/ace-combat-7-skies-unknown-ps4/)
 - [Action Henk](https://www.playstation.com/en-us/games/action-henk-ps4/)
 - [Aegis Defenders](https://www.playstation.com/en-us/games/aegis-defenders-ps4/)
+- [AeternoBlade II](https://www.playstation.com/en-us/games/aeternoblade-ii-ps4/)
 - [Assassin’s Creed® Origins](https://www.playstation.com/en-us/games/assassins-creed-origins-ps4/)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight-ps4/)
 - [Beat Saber](https://www.playstation.com/en-us/games/beat-saber-ps4/)
@@ -482,6 +484,7 @@
 - [The Room VR: A Dark Matter](https://www.playstation.com/en-us/games/the-room-vr-a-dark-matter-ps4/)
 - [The Sims 4](https://www.playstation.com/en-us/games/the-sims-4-ps4/)
 - [The Surge](https://www.playstation.com/en-us/games/the-surge-ps4/)
+- [The Witcher 3: Wild Hunt – Complete Edition](https://store.playstation.com/en-us/product/UP4497-CUSA05725_00-00000000000GOTY5)
 - [Tilt Brush](https://www.playstation.com/en-us/games/tilt-brush-ps4/)
 - [Titanfall 2](https://www.playstation.com/en-us/games/titanfall-2-ps4/)
 - [Tom Clancy’s The Division® 2](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/)
