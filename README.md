@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-98-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-101-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-160-ddd?logo=steam&labelColor=000"/>
@@ -416,7 +416,7 @@
 - [Danganronpa V3: Killing Harmony](https://www.playstation.com/en-us/games/danganronpa-v3-killing-harmony-ps4/)
 - [Danganronpa™ Another Episode: Ultra Despair Girls](https://www.playstation.com/en-us/games/danganronpa-another-episode-ultra-despair-girls-psvita/)
 - [Darksiders III](https://www.playstation.com/en-us/games/darksiders-iii-ps4/)
-- [Death Stranding](https://www.playstation.com/en-us/games/death-stranding-ps4/)
+- [Death Stranding](https://www.playstation.com/en-us/games/death-stranding/)
 - [Destiny](https://www.playstation.com/en-us/games/destiny-ps4/)
 - [Detroit: Become Human](https://www.playstation.com/en-us/games/detroit-become-human-ps4/)
 - [Devil May Cry 5](https://www.playstation.com/en-us/games/devil-may-cry-5-ps4/)
@@ -435,6 +435,8 @@
 - [God of War](https://www.playstation.com/en-us/games/god-of-war-ps4/)
 - [God of War® III Remastered](https://www.playstation.com/en-us/games/god-of-war-iii-remastered-ps4/)
 - [Gran Turismo Sport](https://www.playstation.com/en-us/explore/playstation-vr/bundles/playstation-vr-gran-turismo-sport-bundle/)
+- [Guilty Gear Xrd REV 2](https://www.playstation.com/en-us/games/guilty-gear-xrd-rev-2-ps4/)
+- [Hollow Knight: Voidheart Edition](https://www.playstation.com/en-us/games/hollow-knight-voidheart-edition-ps4/)
 - [Horizon Zero Dawn: Complete Edition](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/)
 - [KINGDOM HEARTS III](https://www.playstation.com/en-us/games/kingdom-hearts-iii-ps4/)
 - [Kingdoms of Amalur: Re-Reckoning](https://store.playstation.com/en-us/product/UP4389-CUSA17271_00-KOAFATEEDITIONUS)
@@ -442,6 +444,7 @@
 - [Marvel's Iron Man VR](https://www.playstation.com/en-us/games/marvels-iron-man-vr-ps4/)
 - [Marvel's Spider-Man](https://www.playstation.com/en-us/games/marvels-spider-man-ps4/)
 - [Metro Exodus](https://www.playstation.com/en-us/games/metro-exodus-ps4/)
+- [Middle-earth™: Shadow of War™](https://www.playstation.com/en-us/games/middle-earth-shadow-of-war-ps4/)
 - [Mirror’s Edge™ Catalyst](https://www.playstation.com/en-us/games/mirrors-edge-catalyst-ps4/)
 - [MLB® The Show™ 19](https://www.playstation.com/en-us/games/mlb-the-show-19-ps4/)
 - [Monster Energy Supercross - The Official Videogame](https://www.playstation.com/en-us/games/monster-energy-supercross-the-official-videogame-ps4/)
