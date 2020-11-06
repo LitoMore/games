@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-72-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-73-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-7-ddd?logo=gog.com&labelColor=86328a"/>
@@ -175,6 +175,7 @@
 - [Darksiders Warmastered Edition](https://www.epicgames.com/store/en-US/product/darksiders)
 - [Death Coming](https://www.epicgames.com/store/en-US/product/death-coming)
 - [Drawful 2](https://www.epicgames.com/store/en-US/product/drawful-2)
+- [Dungeons 3](https://www.epicgames.com/store/en-US/product/dungeons-3)
 - [Enter The Gungeon](https://www.epicgames.com/store/en-US/product/enter-the-gungeon)
 - [Farming Simulator 19](https://www.epicgames.com/store/en-US/product/farming-simulator-19)
 - [Faster Then Light](https://www.epicgames.com/store/en-US/product/faster-than-light)
