@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-73-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-74-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-7-ddd?logo=gog.com&labelColor=86328a"/>
@@ -220,6 +220,7 @@
 - [Tacoma](https://www.epicgames.com/store/en-US/product/tacoma)
 - [The Alto Collection](https://www.epicgames.com/store/en-US/product/the-alto-collection)
 - [The Escapists](https://www.epicgames.com/store/en-US/product/the-escapists)
+- [The Textorcist: The Story of Ray Bibbia](https://www.epicgames.com/store/en-US/product/the-textorcist)
 - [The Wolf Among Us](https://www.epicgames.com/store/en-US/product/the-wolf-among-us)
 - [Ticket to Ride](https://www.epicgames.com/store/en-US/product/ticket-to-ride)
 - [Torchlight II](https://www.epicgames.com/store/en-US/product/torchlight-2)
