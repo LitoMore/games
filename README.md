@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-139-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-142-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-160-ddd?logo=steam&labelColor=000"/>
+    <img src="https://img.shields.io/badge/Steam-164-ddd?logo=steam&labelColor=000"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -287,6 +287,7 @@
 - [FIFA 18](https://www.nintendolife.com/reviews/nintendo-switch/fifa_18)
 - [FINAL FANTASY X/X-2 HD Remaster](https://www.nintendo.com/games/detail/final-fantasy-xx-2-hd-remaster-switch/)
 - [FLASHBACK™](https://www.nintendo.com/games/detail/flashback-switch/)
+- [FiNC HOME FiT](https://store-jp.nintendo.com/list/software/70010000026360.html)
 - [Fire Emblem™: Three Houses](https://www.nintendo.com/games/detail/fire-emblem-three-houses-switch/)
 - [Fishing Star World Tour](https://www.nintendo.com/games/detail/fishing-star-world-tour-switch/)
 - [Fitness Boxing](https://www.nintendo.com/games/detail/fitness-boxing-switch/)
@@ -305,6 +306,7 @@
 - [Jump Rope Challenge](https://www.nintendo.com/games/detail/jump-rope-challenge-switch/)
 - [Jumping Joe & Friends](https://www.nintendo.com/games/detail/jumping-joe-and-friends-switch/)
 - [Just Dance® 2020](https://www.nintendo.com/games/detail/just-dance-2020-switch/)
+- [Just Dance® 2021](https://www.nintendo.com/games/detail/just-dance-2021-switch/)
 - [Just Shapes & Beats](https://www.nintendo.com/games/detail/just-shapes-and-beats-switch/)
 - [KAMIKO](https://www.nintendo.com/games/detail/kamiko-switch/)
 - [Kitten Squad](https://www.nintendo.com/games/detail/kitten-squad-switch/)
@@ -350,6 +352,7 @@
 - [Rising Storm 2: Vietnam](https://www.epicgames.com/store/en-US/product/rising-storm-2-vietnam)
 - [Robonauts](https://www.nintendo.com/games/detail/robonauts-switch/)
 - [SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE](https://www.nintendo.com/games/detail/saints-row-the-third-the-full-package-switch/)
+- [Sakuna: Of Rice and Ruin](https://www.nintendo.com/games/detail/sakuna-of-rice-and-ruin-switch/)
 - [Sid Meier’s Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch/)
 - [Snipperclips Plus - Cut it out, together!](https://www.nintendo.com/games/detail/snipperclips-plus-switch/)
 - [Splatoon™ 2](https://www.nintendo.com/games/detail/splatoon-2-switch/)
@@ -508,6 +511,7 @@
 - [ARK: Survival Of The Fittest](https://steamcommunity.com/app/407530)
 - [Armored Fist 3](https://steamcommunity.com//app/32710)
 - [Aseprite](https://steamcommunity.com/app/431730)
+- [Baba Is You](https://store.steampowered.com/app/736260)
 - [Bastion](https://steamcommunity.com/app/107100)
 - [Batman: Arkham Asylum GOTY Edition](https://steamcommunity.com/app/35140)
 - [Batman: Arkham City GOTY](https://steamcommunity.com/app/200260)
@@ -549,6 +553,7 @@
 - [Doki Doki Literature Club](https://steamcommunity.com/app/698780)
 - [Don't Starve](https://steamcommunity.com/app/219740)
 - [Don't Starve Together](https://steamcommunity.com/app/322330)
+- [Environmental Station Alpha](https://store.steampowered.com/app/350070)
 - [Evoland](https://steamcommunity.com/app/233470)
 - [Evoland 2](https://steamcommunity.com/app/359310)
 - [Evoland Legendary Edition](https://steamcommunity.com/app/1020470)
@@ -596,6 +601,7 @@
 - [Middle-earth™: Shadow of Mordor™](https://steamcommunity.com/app/241930)
 - [MiG-29 Fulcrum](https://steamcommunity.com/app/32740)
 - [Noel The Mortal Fate S1-7](https://steamcommunity.com/app/850000)
+- [Noita](https://store.steampowered.com/app/881100)
 - [Nonogram - The Greatest Painter](https://steampowered.com/app/742490)
 - [Oceanhorn: Monster of Uncharted Seas](https://steamcommunity.com/app/339200)
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
@@ -627,11 +633,12 @@
 - [Terraria](https://steamcommunity.com/app/105600)
 - [The Big Journey](https://steampowered.com/app/742480)
 - [The Elder Scrolls Online](https://steamcommunity.com/app/306130)
-- [theHunter: Call of the Wild™](https://steamcommunity.com/app/518790)
+- [The Swapper](https://store.steampowered.com/app/231160)
 - [The Witcher 2: Assassins of Kings Enhanced Edition](https://steamcommunity.com/app/20920)
 - [The Witcher 3: Wild Hunt](https://steamcommunity.com/app/292030)
 - [The Witcher: Enhanced Edition](https://steamcommunity.com/app/20900)
 - [The Witness](https://steamcommunity.com/app/210970)
+- [theHunter: Call of the Wild™](https://steamcommunity.com/app/518790)
 - [There Is No Game: Jam Edition 2015](https://steamcommunity.com/app/1241700)
 - [There Is No Game: Wrong Dimension](https://steamcommunity.com/app/1240210)
 - [Thief](https://steamcommunity.com/app/239160)
