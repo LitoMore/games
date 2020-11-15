@@ -25,8 +25,11 @@
   <a href="#playstation4">
     <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
   </a>
+    <a href="#playstation5">
+    <img src="https://img.shields.io/badge/PlayStation_5-0-ddd?logo=playstation&labelColor=000000"/>
+  </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-164-ddd?logo=steam&labelColor=000"/>
+    <img src="https://img.shields.io/badge/Steam-164-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -500,6 +503,10 @@
 - [What Remains of Edith Finch](https://www.playstation.com/en-us/games/what-remains-of-edith-finch-ps4/)
 - [WipEout Omega Collection](https://www.playstation.com/en-us/games/wipeout-omega-collection-ps4/)
 - [Wolfenstein: Cyberpilot](https://www.playstation.com/en-us/games/wolfenstein-cyberpilot-ps4/)
+
+## PlayStation®5
+
+> Ordered
 
 ## Steam
 
