@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Epic_Games-74-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
-    <img src="https://img.shields.io/badge/GOG.com-7-ddd?logo=gog.com&labelColor=86328a"/>
+    <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
   </a>
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
@@ -235,6 +235,7 @@
 
 - [ArcaniA](https://www.gog.com/game/arcania)
 - [ArcaniA: Fall of Setarrif](https://www.gog.com/game/arcania_fall_of_setarrif)
+- [Butcher](https://www.gog.com/game/butcher)
 - [Gothic](https://www.gog.com/game/gothic)
 - [Gothic 2 Gold Edition](https://www.gog.com/game/gothic_2_gold_edition)
 - [Gothic 3](https://www.gog.com/game/gothic_3)
