@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-97-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-98-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -113,6 +113,7 @@
 - [MapleStory M: Fantasy MMORPG](https://apps.apple.com/us/app/maplestory-m-fantasy-mmorpg/id1290086677)
 - [Mario Kart Tour](https://apps.apple.com/us/app/mario-kart-tour/id1293634699)
 - [Minecraft](https://apps.apple.com/us/app/minecraft/id479516143)
+- [MO:Astray](https://www.moastray.game/en)
 - [Mobile Legends: Bang Bang](https://apps.apple.com/us/app/mobile-legends-bang-bang/id1160056295)
 - [Monster Dash](https://apps.apple.com/us/app/monster-dash/id370070561)
 - [Monument Valley](https://apps.apple.com/us/app/monument-valley/id728293409)
