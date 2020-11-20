@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-74-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-76-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-0-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-164-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -180,6 +180,7 @@
 - [Death Coming](https://www.epicgames.com/store/en-US/product/death-coming)
 - [Drawful 2](https://www.epicgames.com/store/en-US/product/drawful-2)
 - [Dungeons 3](https://www.epicgames.com/store/en-US/product/dungeons-3)
+- [Elite Dangerous](https://www.epicgames.com/store/en-US/product/elite-dangerous)
 - [Enter The Gungeon](https://www.epicgames.com/store/en-US/product/enter-the-gungeon)
 - [Farming Simulator 19](https://www.epicgames.com/store/en-US/product/farming-simulator-19)
 - [Faster Then Light](https://www.epicgames.com/store/en-US/product/faster-than-light)
@@ -226,6 +227,7 @@
 - [The Escapists](https://www.epicgames.com/store/en-US/product/the-escapists)
 - [The Textorcist: The Story of Ray Bibbia](https://www.epicgames.com/store/en-US/product/the-textorcist)
 - [The Wolf Among Us](https://www.epicgames.com/store/en-US/product/the-wolf-among-us)
+- [The World Next Door](https://www.epicgames.com/store/en-US/product/the-world-next-door)
 - [Ticket to Ride](https://www.epicgames.com/store/en-US/product/ticket-to-ride)
 - [Torchlight II](https://www.epicgames.com/store/en-US/product/torchlight-2)
 - [Watch Dogs 2](https://www.epicgames.com/store/en-US/product/watch-dogs-2)
@@ -584,6 +586,13 @@
 - [Half-Life: Source](https://steamcommunity.com/app/280)
 - [Half-Life Deathmatch: Source](https://steamcommunity.com/app/360)
 - [Halo Wars: Definitive Edition](https://steamcommunity.com/app/459220)
+- [Heroes of the Three Kingdoms](https://steamcommunity.com/app/1437820)
+- [Heroes of the Three Kingdoms 2](https://steamcommunity.com/app/1437830)
+- [Heroes of the Three Kingdoms 3](https://steamcommunity.com/app/1437840)
+- [Heroes of the Three Kingdoms 4](https://steamcommunity.com/app/1437850)
+- [Heroes of the Three Kingdoms 5](https://steamcommunity.com/app/1437860)
+- [Heroes of the Three Kingdoms 6](https://steamcommunity.com/app/1437870)
+- [Heroes of the Three Kingdoms 7](https://steamcommunity.com/app/1437880)
 - [Heroes® of Might & Magic® III - HD Edition](https://store.steampowered.com/app/297000)
 - [Ho Tu Lo Shu：The Books of Dragon](https://steamcommunity.com/app/952860)
 - [Human Fall Flat](https://steamcommunity.com/app/477160)
