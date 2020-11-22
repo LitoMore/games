@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-142-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-143-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -327,6 +327,7 @@
 - [Mario Tennis™ Aces](https://www.nintendo.com/games/detail/mario-tennis-aces-switch/)
 - [MEMBRANE](https://www.nintendo.com/games/detail/membrane-switch/)
 - [Minecraft](https://www.nintendo.com/games/detail/minecraft-switch/)
+- [MO:Astray](https://www.nintendo.com/games/detail/moastray-switch/)
 - [MODEL Debut #nicola](https://store.nintendo.com.hk/70010000028466)
 - [Monster Hunter Generations Ultimate™](https://www.nintendo.com/games/detail/monster-hunter-generations-ultimate-switch/)
 - [Moving Out](https://www.nintendo.com/games/detail/moving-out-switch/)
