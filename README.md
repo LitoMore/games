@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-143-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-144-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
   </a>
     <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-0-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-3-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
@@ -308,6 +308,7 @@
 - [Hollow Knight](https://www.nintendo.com/games/detail/hollow-knight-switch/)
 - [Hulu](https://www.nintendo.com/games/detail/hulu-switch/)
 - [Human: Fall Flat](https://www.nintendo.com/games/detail/human-fall-flat-switch/)
+- [Hyrule Warriors: Age of Calamity](https://www.nintendo.com/games/detail/hyrule-warriors-age-of-calamity-switch/)
 - [InkyPen](https://www.nintendo.com/games/detail/inkypen-switch/)
 - [Into the Beach](https://www.nintendo.com/games/detail/into-the-breach-switch/)
 - [Jump Rope Challenge](https://www.nintendo.com/games/detail/jump-rope-challenge-switch/)
@@ -511,7 +512,9 @@
 
 ## PlayStation®5
 
-> Ordered
+- [Marvel's Spider-Man Remastered](https://www.playstation.com/en-us/games/marvels-spider-man-remastered/)
+- [Marvel's Spider-Man: Miles Morales](https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/)
+- [Sackboy: A Big Adventure](https://www.playstation.com/en-us/games/sackboy-a-big-adventure/)
 
 ## Steam
 
