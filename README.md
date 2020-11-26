@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
   </a>
     <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-3-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-25-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
@@ -512,9 +512,31 @@
 
 ## PlayStation®5
 
+- [ASTRO's PLAYROOM](https://www.playstation.com/en-us/games/astros-playroom/)
+- [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight/)
+- [Battlefield™ 1 Revolution](https://www.playstation.com/en-us/search/?q=Battlefield%201&smcid=web%3Apsn%3Aprimary%20nav%3Asearch%3ABattlefield%201)
+- [Bloodborne](https://www.playstation.com/en-us/games/bloodborne/)
+- [Bugsnax](https://www.playstation.com/en-us/games/bugsnax/)
+- [Call of Duty®: Black Ops III - Zombies Chronicles Edition](https://www.playstation.com/en-us/games/call-of-duty-black-ops-iii/)
+- [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
+- [Day Gone](https://www.playstation.com/en-us/games/days-gone/)
+- [Detroit: Become Human](https://www.playstation.com/en-us/games/detroit-become-human/)
+- [Fallout 4](https://www.playstation.com/en-us/games/fallout-4/)
+- [FINAL FANTASY XV ROYAL EDITION](https://store.playstation.com/en-us/product/UP0082-CUSA01633_00-FFXVROYALEDITION)
+- [God of War](https://store.playstation.com/en-us/product/UP9000-CUSA07408_00-00000000GODOFWAR)
+- [inFAMOUS Second Son](https://www.playstation.com/en-us/games/infamous-second-son/)
 - [Marvel's Spider-Man Remastered](https://www.playstation.com/en-us/games/marvels-spider-man-remastered/)
 - [Marvel's Spider-Man: Miles Morales](https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/)
+- [MONSTER HUNTER: WORLD™](https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-0000000000000000)
+- [Mortal Kombat X](https://www.playstation.com/en-us/games/mortal-kombat-x/)
+- [Persona 5](https://www.playstation.com/en-us/games/persona-5/)
+- [Ratchet & Clank™](https://www.playstation.com/en-us/games/ratchet-and-clank/)
+- [RESIDENT EVIL 7 biohazard](https://www.playstation.com/en-us/games/resident-evil-7-biohazard/)
 - [Sackboy: A Big Adventure](https://www.playstation.com/en-us/games/sackboy-a-big-adventure/)
+- [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian/)
+- [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered/)
+- [Uncharted 4: A Thief’s End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
+- [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
 
 ## Steam
 
