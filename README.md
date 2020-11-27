@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
   </a>
     <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-25-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-27-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
@@ -505,7 +505,7 @@
 - [Uncharted 4: A Thief's End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end-ps4/)
 - [Uncharted: The Nathan Drake Collection](https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection-ps4/)
 - [Vampyr](https://www.playstation.com/en-us/games/vampyr-ps4/)
-- [Watch_Dogs](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
+- [Watch Dogs™](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
 - [What Remains of Edith Finch](https://www.playstation.com/en-us/games/what-remains-of-edith-finch-ps4/)
 - [WipEout Omega Collection](https://www.playstation.com/en-us/games/wipeout-omega-collection-ps4/)
 - [Wolfenstein: Cyberpilot](https://www.playstation.com/en-us/games/wolfenstein-cyberpilot-ps4/)
@@ -517,6 +517,7 @@
 - [Battlefield™ 1 Revolution](https://www.playstation.com/en-us/search/?q=Battlefield%201&smcid=web%3Apsn%3Aprimary%20nav%3Asearch%3ABattlefield%201)
 - [Bloodborne](https://www.playstation.com/en-us/games/bloodborne/)
 - [Bugsnax](https://www.playstation.com/en-us/games/bugsnax/)
+- [Call of Duty®: Black Ops Cold War](https://www.playstation.com/en-us/games/call-of-duty-black-ops-cold-war/)]
 - [Call of Duty®: Black Ops III - Zombies Chronicles Edition](https://www.playstation.com/en-us/games/call-of-duty-black-ops-iii/)
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
 - [Day Gone](https://www.playstation.com/en-us/games/days-gone/)
@@ -537,6 +538,7 @@
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered/)
 - [Uncharted 4: A Thief’s End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
 - [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
+- [Watch Dogs®: Legion](https://www.playstation.com/en-us/games/watch-dogs-legion/)
 
 ## Steam
 
