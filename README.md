@@ -25,7 +25,7 @@
   <a href="#playstation4">
     <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
   </a>
-    <a href="#playstation5">
+  <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-27-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
@@ -518,7 +518,7 @@
 - [Battlefield™ 1 Revolution](https://www.playstation.com/en-us/search/?q=Battlefield%201&smcid=web%3Apsn%3Aprimary%20nav%3Asearch%3ABattlefield%201)
 - [Bloodborne](https://www.playstation.com/en-us/games/bloodborne/)
 - [Bugsnax](https://www.playstation.com/en-us/games/bugsnax/)
-- [Call of Duty®: Black Ops Cold War](https://www.playstation.com/en-us/games/call-of-duty-black-ops-cold-war/)]
+- [Call of Duty®: Black Ops Cold War](https://www.playstation.com/en-us/games/call-of-duty-black-ops-cold-war/)
 - [Call of Duty®: Black Ops III - Zombies Chronicles Edition](https://www.playstation.com/en-us/games/call-of-duty-black-ops-iii/)
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
 - [Day Gone](https://www.playstation.com/en-us/games/days-gone/)
