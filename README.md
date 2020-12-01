@@ -25,8 +25,8 @@
   <a href="#playstation4">
     <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
   </a>
-  <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-27-ddd?logo=playstation&labelColor=000000"/>
+    <a href="#playstation5">
+    <img src="https://img.shields.io/badge/PlayStation_5-29-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
@@ -522,7 +522,9 @@
 - [Call of Duty®: Black Ops III - Zombies Chronicles Edition](https://www.playstation.com/en-us/games/call-of-duty-black-ops-iii/)
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
 - [Day Gone](https://www.playstation.com/en-us/games/days-gone/)
+- [Demon's Souls](https://www.playstation.com/en-us/games/demons-souls/)
 - [Detroit: Become Human](https://www.playstation.com/en-us/games/detroit-become-human/)
+- [Devil May Cry 5 Special Edition](https://www.playstation.com/en-us/games/devil-may-cry-5-special-edition/)
 - [Fallout 4](https://www.playstation.com/en-us/games/fallout-4/)
 - [FINAL FANTASY XV ROYAL EDITION](https://store.playstation.com/en-us/product/UP0082-CUSA01633_00-FFXVROYALEDITION)
 - [God of War](https://store.playstation.com/en-us/product/UP9000-CUSA07408_00-00000000GODOFWAR)
