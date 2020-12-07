@@ -25,8 +25,8 @@
   <a href="#playstation4">
     <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
   </a>
-    <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-29-ddd?logo=playstation&labelColor=000000"/>
+  <a href="#playstation5">
+    <img src="https://img.shields.io/badge/PlayStation_5-32-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
@@ -530,6 +530,7 @@
 - [FINAL FANTASY XV ROYAL EDITION](https://store.playstation.com/en-us/product/UP0082-CUSA01633_00-FFXVROYALEDITION)
 - [God of War](https://store.playstation.com/en-us/product/UP9000-CUSA07408_00-00000000GODOFWAR)
 - [inFAMOUS Second Son](https://www.playstation.com/en-us/games/infamous-second-son/)
+- [Just Cause 4](https://www.playstation.com/en-us/games/just-cause-4/)
 - [Marvel's Spider-Man Remastered](https://www.playstation.com/en-us/games/marvels-spider-man-remastered/)
 - [Marvel's Spider-Man: Miles Morales](https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/)
 - [MONSTER HUNTER: WORLD™](https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-0000000000000000)
@@ -537,12 +538,14 @@
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5/)
 - [Ratchet & Clank™](https://www.playstation.com/en-us/games/ratchet-and-clank/)
 - [RESIDENT EVIL 7 biohazard](https://www.playstation.com/en-us/games/resident-evil-7-biohazard/)
+- [Rocket Arena](https://www.playstation.com/en-us/games/rocket-arena/)
 - [Sackboy: A Big Adventure](https://www.playstation.com/en-us/games/sackboy-a-big-adventure/)
 - [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian/)
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered/)
 - [Uncharted 4: A Thief’s End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
 - [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
 - [Watch Dogs®: Legion](https://www.playstation.com/en-us/games/watch-dogs-legion/)
+- [Worms Rumble](https://www.playstation.com/en-us/games/worms-rumble/)
 
 ## Steam
 
