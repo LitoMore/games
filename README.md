@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-78-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-80-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -208,6 +208,7 @@
 - [Overcooked](https://www.epicgames.com/store/en-US/product/overcooked)
 - [Pathway](https://www.epicgames.com/store/en-US/product/pathway)
 - [Pikuniku](https://www.epicgames.com/store/en-US/product/pikuniku)
+- [Pillars of Eternity - Definitive Edition](https://www.epicgames.com/store/en-US/product/pillars-of-eternity)
 - [Railway Empire](https://www.epicgames.com/store/en-US/product/railway-empire)
 - [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/product/remnant-from-the-ashes)
 - [RollerCoaster Tycoon® 3: Complete Edition](https://www.epicgames.com/store/en-US/product/rollercoaster-tycoon-3-complete-edition)
@@ -232,6 +233,7 @@
 - [The World Next Door](https://www.epicgames.com/store/en-US/product/the-world-next-door)
 - [Ticket to Ride](https://www.epicgames.com/store/en-US/product/ticket-to-ride)
 - [Torchlight II](https://www.epicgames.com/store/en-US/product/torchlight-2)
+- [Tyranny - Gold Edition](https://www.epicgames.com/store/en-US/product/tyranny)
 - [Watch Dogs 2](https://www.epicgames.com/store/en-US/product/watch-dogs-2)
 - [Where The Water Tastes Like Wine](https://www.epicgames.com/store/en-US/product/where-the-water-tastes-like-wine)
 - [Wilmot's Warehouse](https://www.epicgames.com/store/en-US/product/wilmots-warehouse)
