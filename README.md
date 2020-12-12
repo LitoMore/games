@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-103-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-104-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-32-ddd?logo=playstation&labelColor=000000"/>
@@ -432,6 +432,7 @@
 - [Control](https://www.playstation.com/en-us/games/control-ps4/)
 - [Crash Bandicoot™ 4: It’s About Time](https://store.playstation.com/en-us/product/UP0002-CUSA19035_00-CB4STANDARD00001)
 - [Cyber Danganronpa VR: The Class Trial](https://store.playstation.com/en-hk/product/JP0365-CUSA04582_00-ASIA000000000000)
+- [Cyberpunk 2077](https://www.playstation.com/en-us/games/cyberpunk-2077/)
 - [Danganronpa 1•2 Reload](https://www.playstation.com/en-us/games/danganronpa-1-2-reload-ps4/)
 - [Danganronpa V3: Killing Harmony](https://www.playstation.com/en-us/games/danganronpa-v3-killing-harmony-ps4/)
 - [Danganronpa™ Another Episode: Ultra Despair Girls](https://www.playstation.com/en-us/games/danganronpa-another-episode-ultra-despair-girls-psvita/)
