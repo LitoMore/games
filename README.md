@@ -16,6 +16,9 @@
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
+  <a href="#nintendo-game-watch">
+    <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white">
+  </a>
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-145-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
@@ -257,6 +260,10 @@
 - [MapleStory: The Girl's Fate](https://namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EC%9A%B4%EB%AA%85%EC%9D%98%20%EC%86%8C%EB%85%80)
 - [The Legend of Zelda: A Link Between Worlds](https://www.nintendo.com/games/detail/the-legend-of-zelda-a-link-between-worlds-3ds/)
 - [The Legend of Zelda: The Minish Cap](https://www.nintendolife.com/reviews/3ds-eshop/legend_of_zelda_the_minish_cap_gba)
+
+## Nintendo Game & Watch
+
+> To be written
 
 ## Nintendo Switch™
 
