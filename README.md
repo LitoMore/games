@@ -16,7 +16,7 @@
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
-  <a href="#nintendo-game-watch">
+  <a href="#nintendo-game--watch">
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white">
   </a>
   <a href="#nintendo-switch">
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Windows-2-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-live">
-    <img src="https://img.shields.io/badge/Xbox_Live-2-ddd?logo=xbox&labelColor=107c10"/>
+    <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
     <img src="https://img.shields.io/badge/Xbox_Series_X-3-ddd?logo=xbox&labelColor=333333"/>
@@ -263,7 +263,10 @@
 
 ## Nintendo Game & Watch
 
-> To be written
+- [Game & Watch: Ball](https://gameandwatch.nintendo.com)
+- [Game & Watch: Time](https://gameandwatch.nintendo.com)
+- [Super Mario Bros.](https://gameandwatch.nintendo.com)
+- [Super Mario Bros.: The Lost Levels](https://gameandwatch.nintendo.com)
 
 ## Nintendo Switch™
 
@@ -749,11 +752,14 @@
 ## Xbox Live
 
 - [Adera](https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p)
+- [Candy Crush Saga](https://www.microsoft.com/en-us/p/candy-crush-saga/9nblggh18846)
 - [Tentacles: Enter the Mind](https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n)
 
 ## Xbox Series X
 
-> To be written
+- [Saints Row: Gat out of Hell](https://www.microsoft.com/en-us/p/saints-row-gat-out-of-hell/bqd7ntqp0cd9)
+- [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
+- [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
 
 ## Related
 
