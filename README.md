@@ -37,8 +37,11 @@
   <a href="#windows">
     <img src="https://img.shields.io/badge/Windows-2-ddd?logo=windows&labelColor=0078d6"/>
   </a>
-  <a href="#xbox">
-    <img src="https://img.shields.io/badge/Xbox-2-ddd?logo=xbox&labelColor=107c10"/>
+  <a href="#xbox-live">
+    <img src="https://img.shields.io/badge/Xbox_Live-2-ddd?logo=xbox&labelColor=107c10"/>
+  </a>
+  <a href="#xbox-series-x">
+    <img src="https://img.shields.io/badge/Xbox_Series_X-3-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -736,10 +739,14 @@
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Tale of Wuxia](https://wulin.fhyx.com/)
 
-## Xbox
+## Xbox Live
 
 - [Adera](https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p)
 - [Tentacles: Enter the Mind](https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n)
+
+## Xbox Series X
+
+> To be written
 
 ## Related
 
