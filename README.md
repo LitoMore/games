@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-80-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-81-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -226,6 +226,7 @@
 - [Shadowrun Dragonfall – Director's Cut](https://www.epicgames.com/store/en-US/product/shadowrun-dragonfall)
 - [Sherlock Holmes: Crimes and Punishments](https://www.epicgames.com/store/en-US/product/sherlock-holmes-crimes-and-punishments)
 - [Sid Meier's Civilization® VI](https://www.epicgames.com/store/en-US/product/sid-meiers-civilization-vi)
+- [Sludge Life](https://www.epicgames.com/store/en-US/product/sludge-life)
 - [Steep](https://www.epicgames.com/store/en-US/product/steep)
 - [Stick It To The Man](https://www.epicgames.com/store/en-US/product/stick-it-to-the-man)
 - [Stranger Things 3: The Game](https://www.epicgames.com/store/en-US/product/stranger-things-3-the-game)
