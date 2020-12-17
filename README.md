@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-104-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-32-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-33-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
@@ -547,6 +547,7 @@
 - [Fallout 4](https://www.playstation.com/en-us/games/fallout-4/)
 - [FINAL FANTASY XV ROYAL EDITION](https://store.playstation.com/en-us/product/UP0082-CUSA01633_00-FFXVROYALEDITION)
 - [God of War](https://store.playstation.com/en-us/product/UP9000-CUSA07408_00-00000000GODOFWAR)
+- [Immortals Fenyx Rising™](https://www.playstation.com/en-us/games/immortals-fenyx-rising/)
 - [inFAMOUS Second Son](https://www.playstation.com/en-us/games/infamous-second-son/)
 - [Just Cause 4](https://www.playstation.com/en-us/games/just-cause-4/)
 - [Marvel's Spider-Man Remastered](https://www.playstation.com/en-us/games/marvels-spider-man-remastered/)
