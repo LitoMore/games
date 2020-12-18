@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-81-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-82-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -179,6 +179,7 @@
 - [Carcassonne](https://www.epicgames.com/store/en-US/product/carcassonne)
 - [Cave Story+](https://www.epicgames.com/store/en-US/product/cave-story-plus)
 - [Celeste](https://www.epicgames.com/store/en-US/product/celeste)
+- [Cities: Skylines](https://www.epicgames.com/store/en-US/product/cities-skylines)
 - [Close To The Sun](https://www.epicgames.com/store/en-US/product/close-to-the-sun)
 - [Costume Quest 2](https://www.epicgames.com/store/en-US/product/costume-quest-2)
 - [Crashlands](https://www.epicgames.com/store/en-US/product/crashlands)
