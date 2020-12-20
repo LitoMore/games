@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-84-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-85-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -186,6 +186,7 @@
 - [Darksiders II Deathinitive Edition](https://www.epicgames.com/store/en-US/product/darksiders2)
 - [Darksiders Warmastered Edition](https://www.epicgames.com/store/en-US/product/darksiders)
 - [Death Coming](https://www.epicgames.com/store/en-US/product/death-coming)
+- [Defense Grid: The Awakening](https://www.epicgames.com/store/en-US/product/defense-grid)
 - [Drawful 2](https://www.epicgames.com/store/en-US/product/drawful-2)
 - [Dungeons 3](https://www.epicgames.com/store/en-US/product/dungeons-3)
 - [Elite Dangerous](https://www.epicgames.com/store/en-US/product/elite-dangerous)
