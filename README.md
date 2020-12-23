@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-86-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-87-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -211,6 +211,7 @@
 - [Kingdom Come: Deliverance](https://www.epicgames.com/store/en-US/product/kingdom-come-deliverance)
 - [Kingdom New Lands](https://www.epicgames.com/store/en-US/product/kingdom-new-lands)
 - [Layers of Fear 2](https://www.epicgames.com/store/en-US/product/layers-of-fear-2)
+- [Metro: 2033 Redux](https://www.epicgames.com/store/en-US/product/metro-2033-redux)
 - [MudRunner](https://www.epicgames.com/store/en-US/product/mudrunner)
 - [Next Up Hero](https://www.epicgames.com/store/en-US/product/next-up-hero)
 - [Oddworld: New 'n' Tasty](https://www.epicgames.com/store/en-US/product/oddworld-new-n-tasty)
