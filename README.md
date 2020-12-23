@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-87-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-88-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -246,6 +246,7 @@
 - [The World Next Door](https://www.epicgames.com/store/en-US/product/the-world-next-door)
 - [Ticket to Ride](https://www.epicgames.com/store/en-US/product/ticket-to-ride)
 - [Torchlight II](https://www.epicgames.com/store/en-US/product/torchlight-2)
+- [Tropico 5](https://www.epicgames.com/store/en-US/product/tropico-5)
 - [Tyranny - Gold Edition](https://www.epicgames.com/store/en-US/product/tyranny)
 - [Watch Dogs 2](https://www.epicgames.com/store/en-US/product/watch-dogs-2)
 - [Where The Water Tastes Like Wine](https://www.epicgames.com/store/en-US/product/where-the-water-tastes-like-wine)
