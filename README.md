@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-105-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-33-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-34-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
@@ -544,6 +544,7 @@
 
 ## PlayStation®5
 
+- [Assassin's Creed® Valhalla](https://www.playstation.com/en-us/games/assassins-creed-valhalla/)
 - [ASTRO's PLAYROOM](https://www.playstation.com/en-us/games/astros-playroom/)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight/)
 - [Battlefield™ 1 Revolution](https://www.playstation.com/en-us/search/?q=Battlefield%201&smcid=web%3Apsn%3Aprimary%20nav%3Asearch%3ABattlefield%201)
