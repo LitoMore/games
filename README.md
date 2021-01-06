@@ -26,10 +26,10 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-105-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-107-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-34-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-35-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
@@ -486,6 +486,7 @@
 - [God of War](https://www.playstation.com/en-us/games/god-of-war-ps4/)
 - [God of War® III Remastered](https://www.playstation.com/en-us/games/god-of-war-iii-remastered-ps4/)
 - [Gran Turismo Sport](https://www.playstation.com/en-us/explore/playstation-vr/bundles/playstation-vr-gran-turismo-sport-bundle/)
+- [GreedFall](https://store.playstation.com/en-us/product/UP4133-CUSA14211_00-GREEDFALL0000000)
 - [Guilty Gear Xrd REV 2](https://www.playstation.com/en-us/games/guilty-gear-xrd-rev-2-ps4/)
 - [Hollow Knight: Voidheart Edition](https://www.playstation.com/en-us/games/hollow-knight-voidheart-edition-ps4/)
 - [Horizon Zero Dawn: Complete Edition](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/)
@@ -521,6 +522,7 @@
 - [Sakura Wars™](https://www.playstation.com/en-us/games/sakura-wars-ps4/)
 - [Sekiro™: Shadows Die Twice](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/)
 - [Shadow of the Colossus](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
+- [Shadow of the Tomb Raider Definitive Edition](https://store.playstation.com/en-us/product/UP0082-CUSA10938_00-DEFINITIVE00SIEA)
 - [SONIC FORCES](https://www.playstation.com/en-us/games/sonic-forces-ps4/)
 - [STAR WARS Jedi: Fallen Order™](https://www.playstation.com/en-us/games/star-wars-jedi-fallen-order-ps4/)
 - [Star Wars™ Battlefront™ II](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
@@ -566,6 +568,7 @@
 - [Immortals Fenyx Rising™](https://www.playstation.com/en-us/games/immortals-fenyx-rising/)
 - [inFAMOUS Second Son](https://www.playstation.com/en-us/games/infamous-second-son/)
 - [Just Cause 4](https://www.playstation.com/en-us/games/just-cause-4/)
+- [Maneater PS5](https://store.playstation.com/en-us/product/UP0115-PPSA01861_00-MANEATER00000001)
 - [Marvel's Spider-Man Remastered](https://www.playstation.com/en-us/games/marvels-spider-man-remastered/)
 - [Marvel's Spider-Man: Miles Morales](https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/)
 - [MONSTER HUNTER: WORLD™](https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-0000000000000000)
