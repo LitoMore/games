@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-95-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-96-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -184,6 +184,7 @@
 - [Close To The Sun](https://www.epicgames.com/store/en-US/product/close-to-the-sun)
 - [Costume Quest 2](https://www.epicgames.com/store/en-US/product/costume-quest-2)
 - [Crashlands](https://www.epicgames.com/store/en-US/product/crashlands)
+- [Crying Suns](https://www.epicgames.com/store/en-US/product/crying-suns)
 - [Darkest Dungeon®](https://www.epicgames.com/store/en-US/product/darkest-dungeon)
 - [Darksiders II Deathinitive Edition](https://www.epicgames.com/store/en-US/product/darksiders2)
 - [Darksiders Warmastered Edition](https://www.epicgames.com/store/en-US/product/darksiders)
