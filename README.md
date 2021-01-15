@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-96-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-97-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -239,6 +239,7 @@
 - [Sid Meier's Civilization® VI](https://www.epicgames.com/store/en-US/product/sid-meiers-civilization-vi)
 - [Sludge Life](https://www.epicgames.com/store/en-US/product/sludge-life)
 - [Solitairica](https://www.epicgames.com/store/en-US/product/solitairica)
+- [STAR WARS™ Battlefront™ II: Celebration Edition](https://www.epicgames.com/store/en-US/product/star-wars-battlefront-2)
 - [Steep](https://www.epicgames.com/store/en-US/product/steep)
 - [Stick It To The Man](https://www.epicgames.com/store/en-US/product/stick-it-to-the-man)
 - [Stranded Deep](https://www.epicgames.com/store/en-US/product/stranded-deep)
