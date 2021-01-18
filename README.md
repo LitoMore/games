@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white">
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-145-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-146-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -314,6 +314,7 @@
 - [Child of Light® Ultimate Edition](https://www.nintendo.com/games/detail/child-of-light-ultimate-edition-switch/)
 - [Clubhouse Games™: 51 Worldwide Classics](https://www.nintendo.com/games/detail/clubhouse-games-51-worldwide-classics-switch/)
 - [Collection of Mana](https://www.nintendo.com/games/detail/collection-of-mana-switch/)
+- [Contra Anniversary Collection](https://www.nintendo.com/games/detail/contra-anniversary-collection-switch/)
 - [Crypt of the NecroDancer: Nintendo Switch Edition](https://www.nintendo.com/games/detail/crypt-of-the-necrodancer-nintendo-switch-edition-switch/)
 - [Cuphead](https://www.nintendo.com/games/detail/cuphead-switch/)
 - [Cytus α](https://www.nintendo.com/games/detail/cytus-a-switch/)
