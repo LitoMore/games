@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-107-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-109-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-35-ddd?logo=playstation&labelColor=000000"/>
@@ -543,6 +543,8 @@
 - [Tom Clancy’s The Division® 2](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/)
 - [Uncharted 4: A Thief's End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end-ps4/)
 - [Uncharted: The Nathan Drake Collection](https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection-ps4/)
+- [Unravel](https://www.playstation.com/en-us/games/unravel/)
+- [Unravel Two](https://www.playstation.com/en-us/games/unravel-two/)
 - [Vampyr](https://www.playstation.com/en-us/games/vampyr-ps4/)
 - [Watch Dogs™](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
 - [What Remains of Edith Finch](https://www.playstation.com/en-us/games/what-remains-of-edith-finch-ps4/)
