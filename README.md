@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-109-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-110-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-35-ddd?logo=playstation&labelColor=000000"/>
@@ -551,6 +551,7 @@
 - [What Remains of Edith Finch](https://www.playstation.com/en-us/games/what-remains-of-edith-finch-ps4/)
 - [WipEout Omega Collection](https://www.playstation.com/en-us/games/wipeout-omega-collection-ps4/)
 - [Wolfenstein: Cyberpilot](https://www.playstation.com/en-us/games/wolfenstein-cyberpilot-ps4/)
+- [Xuan-Yuan Sword VII](https://store.playstation.com/en-hk/product/HP3256-CUSA23482_00-XUANYUANSWORD007)
 
 ## PlayStation®5
 
