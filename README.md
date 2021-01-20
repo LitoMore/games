@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-110-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-111-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-35-ddd?logo=playstation&labelColor=000000"/>
@@ -447,6 +447,7 @@
 - [Aegis Defenders](https://www.playstation.com/en-us/games/aegis-defenders-ps4/)
 - [AeternoBlade II](https://www.playstation.com/en-us/games/aeternoblade-ii-ps4/)
 - [Assassin’s Creed® Origins](https://www.playstation.com/en-us/games/assassins-creed-origins-ps4/)
+- [ASTRO BOT Rescue Mission](https://www.playstation.com/en-us/games/astro-bot-rescue-mission/)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight-ps4/)
 - [Beat Saber](https://www.playstation.com/en-us/games/beat-saber-ps4/)
 - [Bloodborne](https://www.playstation.com/en-us/games/bloodborne-ps4/)
