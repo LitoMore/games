@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-5-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-6-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -786,6 +786,7 @@
 ## Xbox Series X
 
 - [Bleed 2](https://www.microsoft.com/en-us/p/Bleed-2/BVDG19SHG495)
+- [Dead Rising](https://www.microsoft.com/zh-cn/p/dead-rising/bzv7w98b3xn4)
 - [Little Nightmares](https://www.microsoft.com/en-us/p/Little-Nightmares/BWD88K55MK5W)
 - [Saints Row: Gat out of Hell](https://www.microsoft.com/en-us/p/saints-row-gat-out-of-hell/bqd7ntqp0cd9)
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
