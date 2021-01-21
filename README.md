@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-97-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-98-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -199,6 +199,7 @@
 - [Football Manager 2020](https://www.epicgames.com/store/en-US/product/football-manager-2020)
 - [For The King](https://www.epicgames.com/store/en-US/product/for-the-king)
 - [Fortnite](https://www.epicgames.com/store/en-US/product/fortnite)
+- [Galactic Civilizations III](https://www.epicgames.com/store/en-US/product/galactic-civilizations-iii)
 - [Ghostbusters: The Video Game Remastered](https://www.epicgames.com/store/en-US/product/ghostbusters-the-video-game-remastered)
 - [God's Trigger](https://www.epicgames.com/store/en-US/product/gods-trigger)
 - [Gone Home](https://www.epicgames.com/store/en-US/product/gone-home)
