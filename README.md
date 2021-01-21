@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white">
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-146-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-147-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -326,6 +326,7 @@
 - [Dr Kawashima’s Brain Training for Nintendo Switch](https://www.nintendo.co.uk/Games/Nintendo-Switch/Dr-Kawashima-s-Brain-Training-for-Nintendo-Switch-1656777.html)
 - [Dragon's Dogma: Dark Arisen](https://www.nintendo.com/games/detail/dragons-dogma-dark-arisen-switch/)
 - [ESCAPE TRICK: 35 Fateful Enigmas](https://www.nintendo.com/games/detail/escape-trick-35-fateful-enigmas-switch/)
+- [Evoland Legendary Edition](https://www.nintendo.com/games/detail/evoland-legendary-edition-switch/)
 - [FIFA 18](https://www.nintendolife.com/reviews/nintendo-switch/fifa_18)
 - [FINAL FANTASY X/X-2 HD Remaster](https://www.nintendo.com/games/detail/final-fantasy-xx-2-hd-remaster-switch/)
 - [FLASHBACK™](https://www.nintendo.com/games/detail/flashback-switch/)
