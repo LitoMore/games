@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-99-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-98-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -20,19 +20,19 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white">
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-147-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-148-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-111-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-112-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-35-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-171-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-172-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>

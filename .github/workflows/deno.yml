@@ -1,0 +1,18 @@
+name: Deno
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        deno: ["v1.x", "nightly"]
+    name: Deno ${{ matrix.deno }}
+    steps:
+      - uses: actions/checkout@v2
+      - name: Setup Deno
+        uses: denolib/setup-deno@v2
+        with:
+          deno-version: ${{ matrix.deno }}
+      - run: |
+          deno --version
+          deno run --allow-read --allow-write ci.ts
