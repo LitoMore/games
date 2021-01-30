@@ -52,6 +52,12 @@
   List of video games I already own
 </p>
 
+<p align="center">
+  <a href="https://github.com/LitoMore/games/actions">
+    <img src="https://github.com/LitoMore/games/workflows/Games%20Count/badge.svg"/>
+  </a>
+</p>
+
 ## App Store
 
 - [A Dark Dragon](https://apps.apple.com/au/app/a-dark-dragon/id1029839730)
