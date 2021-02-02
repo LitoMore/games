@@ -26,10 +26,10 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-112-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-114-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-36-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-38-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-172-ddd?logo=steam&labelColor=171a21"/>
@@ -462,6 +462,7 @@
 - [BioShock: The Collection](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
 - [BioShock® Infinite](https://www.playstation.com/en-us/games/bioshock-infinite-ps3/)
 - [Bloodborne](https://www.playstation.com/en-us/games/bloodborne-ps4/)
+- [Bloodstained: Ritual of the Night](https://store.playstation.com/en-hk/product/UP4040-CUSA07953_00-ASIA000000000002)
 - [Borderlands 3](https://www.playstation.com/en-us/games/borderlands-3-ps4/)
 - [Bravo Team](https://www.playstation.com/en-us/games/bravo-team-ps4/)
 - [Call of Duty®: Black Ops 4](https://www.playstation.com/en-us/games/call-of-duty-black-ops-iii-ps4/)
@@ -471,6 +472,7 @@
 - [Call of Duty®: WWII](https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/)
 - [Chronicles of Teddy: Harmony of Exidus](https://www.playstation.com/en-us/games/chronicles-of-teddy-harmony-of-exidus-ps4/)
 - [Cities: Skylines - PlayStation®4 Edition](https://www.playstation.com/en-us/games/cities-skylines-ps4/)
+- [Concrete Genie](https://store.playstation.com/en-hk/product/HP9000-CUSA11851_00-CONCRETEGENIE000)
 - [Control](https://www.playstation.com/en-us/games/control-ps4/)
 - [Crash Bandicoot™ 4: It’s About Time](https://store.playstation.com/en-us/product/UP0002-CUSA19035_00-CB4STANDARD00001)
 - [Cyber Danganronpa VR: The Class Trial](https://store.playstation.com/en-hk/product/JP0365-CUSA04582_00-ASIA000000000000)
@@ -573,9 +575,11 @@
 - [Bugsnax](https://www.playstation.com/en-us/games/bugsnax/)
 - [Call of Duty®: Black Ops Cold War](https://www.playstation.com/en-us/games/call-of-duty-black-ops-cold-war/)
 - [Call of Duty®: Black Ops III - Zombies Chronicles Edition](https://www.playstation.com/en-us/games/call-of-duty-black-ops-iii/)
+- [Control: Ultimate Edition](https://store.playstation.com/en-hk/product/UP4040-PPSA01949_00-3990089525246341)
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
 - [Day Gone](https://www.playstation.com/en-us/games/days-gone/)
 - [Demon's Souls](https://www.playstation.com/en-us/games/demons-souls/)
+- [Destruction AllStars](https://store.playstation.com/en-hk/product/HP9000-PPSA02714_00-DALLSTARSPLUS001)
 - [Detroit: Become Human](https://www.playstation.com/en-us/games/detroit-become-human/)
 - [Devil May Cry 5 Special Edition](https://www.playstation.com/en-us/games/devil-may-cry-5-special-edition/)
 - [Fallout 4](https://www.playstation.com/en-us/games/fallout-4/)
