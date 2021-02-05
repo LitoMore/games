@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-99-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-100-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white">
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-148-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-147-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -237,6 +237,7 @@
 - [Pillars of Eternity - Definitive Edition](https://www.epicgames.com/store/en-US/product/pillars-of-eternity)
 - [Railway Empire](https://www.epicgames.com/store/en-US/product/railway-empire)
 - [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/product/remnant-from-the-ashes)
+- [Rising Storm 2: Vietnam](https://www.epicgames.com/store/en-US/product/rising-storm-2-vietnam)
 - [RollerCoaster Tycoon® 3: Complete Edition](https://www.epicgames.com/store/en-US/product/rollercoaster-tycoon-3-complete-edition)
 - [Saints Row®: The Third™ Remastered](https://www.epicgames.com/store/en-US/product/saints-row-the-third-remastered)
 - [SAMURAI SHODOWN NEOGEO COLLECTION](https://www.epicgames.com/store/en-US/product/samurai-shodown-neogeo-collection)
@@ -404,7 +405,6 @@
 - [Pokémon™: Let’s Go, Pikachu!](https://www.nintendo.com/games/detail/pokemon-lets-go-pikachu-switch/)
 - [Resident Evil Revelations Collection](https://www.nintendo.com/games/detail/resident-evil-revelations-collection-switch/)
 - [Ring Fit Adventure](https://www.nintendo.com/games/detail/ring-fit-adventure-switch/)
-- [Rising Storm 2: Vietnam](https://www.epicgames.com/store/en-US/product/rising-storm-2-vietnam)
 - [Robonauts](https://www.nintendo.com/games/detail/robonauts-switch/)
 - [SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE](https://www.nintendo.com/games/detail/saints-row-the-third-the-full-package-switch/)
 - [Sakuna: Of Rice and Ruin](https://www.nintendo.com/games/detail/sakuna-of-rice-and-ruin-switch/)
