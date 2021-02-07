@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-game--watch">
-    <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white">
+    <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-147-ddd?logo=nintendo-switch&labelColor=e60012"/>

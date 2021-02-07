@@ -15,4 +15,5 @@ jobs:
           deno-version: ${{ matrix.deno }}
       - run: |
           deno --version
-          deno run --allow-read --allow-write ci.ts
+          deno run ci.ts
+          deno run build.ts
