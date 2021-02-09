@@ -2557,6 +2557,10 @@ export default {
           "website": "https://steamcommunity.com/app/346010",
         },
         {
+          "name": "Bloody Spell",
+          "website": "https://steamcommunity.com/app/992300/",
+        },
+        {
           "name": "Borderlands 2",
           "website": "https://steamcommunity.com/app/49520",
         },

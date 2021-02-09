@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-38-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-172-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-173-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -625,6 +625,7 @@
 - [Batman™: Arkham Knight](https://steamcommunity.com/app/208650)
 - [Batman™: Arkham Origins](https://steamcommunity.com/app/209000)
 - [Besiege](https://steamcommunity.com/app/346010)
+- [Bloody Spell](https://steamcommunity.com/app/992300/)
 - [Borderlands 2](https://steamcommunity.com/app/49520)
 - [Braid](https://steamcommunity.com/app/26800)
 - [Breach & Clear](https://steamcommunity.com/app/266130)
