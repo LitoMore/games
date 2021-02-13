@@ -5,6 +5,10 @@ export default {
       "anchor": "#app-store",
       "badge":
         "https://img.shields.io/badge/App_Store-{{count}}-ddd?logo=app-store&labelColor=0d96f6&logoColor=white",
+      "hostnames": [
+        "apps.apple.com",
+        "www.moastray.game",
+      ],
       "gameList": [
         {
           "name": "A Dark Dragon",
@@ -457,6 +461,14 @@ export default {
       "anchor": "#battlenet",
       "badge":
         "https://img.shields.io/badge/Battle.net-{{count}}-ddd?logo=battle.net&labelColor=002650&logoColor=white",
+      "hostnames": [
+        "us.shop.battle.net",
+        "us.diablo3.com",
+        "heroesofthestorm.com",
+        "playoverwatch.com",
+        "starcraft2.com",
+        "worldofwarcraft.com",
+      ],
       "gameList": [
         {
           "name": "Call of Duty®: Modern Warfare®",
@@ -489,6 +501,9 @@ export default {
       "anchor": "#epic-games",
       "badge":
         "https://img.shields.io/badge/Epic_Games-{{count}}-ddd?logo=epic-games&labelColor=313131",
+      "hostnames": [
+        "www.epicgames.com",
+      ],
       "gameList": [
         {
           "name": "20XX",
@@ -973,6 +988,9 @@ export default {
       "anchor": "#gogcom",
       "badge":
         "https://img.shields.io/badge/GOG.com-{{count}}-ddd?logo=gog.com&labelColor=86328a",
+      "hostnames": [
+        "www.gog.com",
+      ],
       "gameList": [
         {
           "name": "ArcaniA",
@@ -1014,6 +1032,11 @@ export default {
       "anchor": "#nintendo-3ds",
       "badge":
         "https://img.shields.io/badge/Nintendo_3DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d22128",
+      "hostnames": [
+        "namu.wiki",
+        "www.nintendo.com",
+        "www.nintendolife.com",
+      ],
       "gameList": [
         {
           "name": "MapleStory: The Girl's Fate",
@@ -1037,6 +1060,9 @@ export default {
       "anchor": "#nintendo-game--watch",
       "badge":
         "https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-{{count}}-ddd?logo=nintendo&labelColor=c81419&logoColor=white",
+      "hostnames": [
+        "gameandwatch.nintendo.com",
+      ],
       "gameList": [
         {
           "name": "Game & Watch: Ball",
@@ -1061,6 +1087,15 @@ export default {
       "anchor": "#nintendo-switch",
       "badge":
         "https://img.shields.io/badge/Nintendo_Switch-{{count}}-ddd?logo=nintendo-switch&labelColor=e60012",
+      "hostnames": [
+        "www.nintendo.com",
+        "store-jp.nintendo.com",
+        "labo.nintendo.com",
+        "www.nintendo.co.uk",
+        "www.nintendolife.com",
+        "ec.nintendo.com",
+        "store.nintendo.com.hk",
+      ],
       "gameList": [
         {
           "name": "1-2-Switch",
@@ -1770,6 +1805,9 @@ export default {
       "anchor": "#origin",
       "badge":
         "https://img.shields.io/badge/Origin-{{count}}-ddd?logo=origin&labelColor=f56c2D&logoColor=white",
+      "hostnames": [
+        "www.origin.com",
+      ],
       "gameList": [
         {
           "name": "SimCity™",
@@ -1782,6 +1820,11 @@ export default {
       "anchor": "#playstation4",
       "badge":
         "https://img.shields.io/badge/PlayStation_4-114-ddd?logo=playstation&labelColor=003791",
+      "hostnames": [
+        "www.playstation.com",
+        "store.playstation.com",
+        "www.thelastofus.playstation.com/",
+      ],
       "gameList": [
         {
           "name": "A Plague Tale: Innocence",
@@ -2334,6 +2377,10 @@ export default {
       "anchor": "#playstation5",
       "badge":
         "https://img.shields.io/badge/PlayStation_5-{{count}}-ddd?logo=playstation&labelColor=000000",
+      "hostnames": [
+        "www.playstation.com",
+        "store.playstation.com",
+      ],
       "gameList": [
         {
           "name": "Assassin's Creed® Valhalla",
@@ -2519,6 +2566,10 @@ export default {
       "anchor": "#steam",
       "badge":
         "https://img.shields.io/badge/Steam-{{count}}-ddd?logo=steam&labelColor=171a21",
+      "hostnames": [
+        "steamcommunity.com",
+        "steampowered.com",
+      ],
       "gameList": [
         {
           "name": "A Story About My Uncle",
@@ -3219,6 +3270,9 @@ export default {
       "anchor": "#uplay",
       "badge":
         "https://img.shields.io/badge/Uplay-{{count}}-ddd?logo=ubisoft&labelColor=0070ff",
+      "hostnames": [
+        "store.ubi.com",
+      ],
       "gameList": [
         {
           "name": "Heroes of Might and Magic® 2: Gold",
@@ -3237,6 +3291,10 @@ export default {
       "anchor": "#windows",
       "badge":
         "https://img.shields.io/badge/Windows-{{count}}-ddd?logo=windows&labelColor=0078d6",
+      "hostnames": [
+        "www.minecraft.net",
+        "wulin.fhyx.com",
+      ],
       "gameList": [
         {
           "name": "Minecraft",
@@ -3253,6 +3311,9 @@ export default {
       "anchor": "#xbox-live",
       "badge":
         "https://img.shields.io/badge/Xbox_Live-{{count}}-ddd?logo=xbox&labelColor=107c10",
+      "hostnames": [
+        "www.microsoft.com",
+      ],
       "gameList": [
         {
           "name": "Adera",
@@ -3275,6 +3336,10 @@ export default {
       "anchor": "#xbox-series-x",
       "badge":
         "https://img.shields.io/badge/Xbox_Series_X-{{count}}-ddd?logo=xbox&labelColor=333333",
+      "hostnames": [
+        "www.microsoft.com",
+        "www.xbox.com",
+      ],
       "gameList": [
         {
           "name": "Bleed 2",

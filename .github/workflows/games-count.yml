@@ -15,5 +15,5 @@ jobs:
           deno-version: ${{ matrix.deno }}
       - run: |
           deno --version
-          deno run --unstable ci.ts
+          deno run --unstable check.ts
           deno run build.ts

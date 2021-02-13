@@ -1,5 +1,23 @@
 import games from "./games.ts";
 
+const checkWebsite = () => {
+  const invalidGames: { device: string; name: string; website: string }[] = [];
+  games.devices.forEach((device) => {
+    device.gameList.forEach((game) => {
+      const valid = device.hostnames.find((hostname) =>
+        game.website.includes(hostname)
+      );
+      if (!valid) invalidGames.push({ device: device.name, ...game });
+    });
+  });
+
+  if (invalidGames.length > 0) {
+    console.log("Invalid games:");
+    console.log(invalidGames);
+    Deno.exit(1);
+  }
+};
+
 const checkOrder = async (withFix: boolean) => {
   games.devices.map((device) => {
     device.gameList.sort((a, b) => {
@@ -37,4 +55,5 @@ const checkOrder = async (withFix: boolean) => {
 };
 
 const withFix = Deno.args.includes("--fix");
+checkWebsite();
 await checkOrder(withFix);
