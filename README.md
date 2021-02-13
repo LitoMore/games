@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-100-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-101-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -212,6 +212,7 @@
 - [Gone Home](https://www.epicgames.com/store/en-US/product/gone-home)
 - [GoNNER](https://www.epicgames.com/store/en-US/product/gonner)
 - [Grand Theft Auto V](https://www.epicgames.com/store/en-US/product/grand-theft-auto-v)
+- [Halcyon 6 Starbase Commander](https://www.epicgames.com/store/en-US/product/halcyon-6)
 - [HITMAN](https://www.epicgames.com/store/en-US/product/hitman)
 - [Hob](https://www.epicgames.com/store/en-US/product/hob)
 - [Hue](https://www.epicgames.com/store/en-US/product/hue)

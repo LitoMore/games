@@ -675,6 +675,10 @@ export default {
             "https://www.epicgames.com/store/en-US/product/grand-theft-auto-v",
         },
         {
+          "name": "Halcyon 6 Starbase Commander",
+          "website": "https://www.epicgames.com/store/en-US/product/halcyon-6",
+        },
+        {
           "name": "HITMAN",
           "website": "https://www.epicgames.com/store/en-US/product/hitman",
         },
