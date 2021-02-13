@@ -304,7 +304,10 @@ export default {
           "name": "Minecraft",
           "website": "https://apps.apple.com/us/app/minecraft/id479516143",
         },
-        { "name": "MO:Astray", "website": "https://www.moastray.game/en" },
+        {
+          "name": "MO:Astray",
+          "website": "https://www.moastray.game/en",
+        },
         {
           "name": "Mobile Legends: Bang Bang",
           "website":
@@ -459,13 +462,22 @@ export default {
           "name": "Call of Duty®: Modern Warfare®",
           "website": "https://us.shop.battle.net/en-us/family/call-of-duty-mw",
         },
-        { "name": "Diablo® III", "website": "https://us.diablo3.com/" },
+        {
+          "name": "Diablo® III",
+          "website": "https://us.diablo3.com/",
+        },
         {
           "name": "Heroes of the Storm™",
           "website": "https://heroesofthestorm.com/en-us/",
         },
-        { "name": "Overwatch®", "website": "https://playoverwatch.com/en-us/" },
-        { "name": "StarCraft® II", "website": "https://starcraft2.com/en-us/" },
+        {
+          "name": "Overwatch®",
+          "website": "https://playoverwatch.com/en-us/",
+        },
+        {
+          "name": "StarCraft® II",
+          "website": "https://starcraft2.com/en-us/",
+        },
         {
           "name": "World of Warcraft®",
           "website": "https://worldofwarcraft.com/en-us/",
@@ -962,18 +974,30 @@ export default {
       "badge":
         "https://img.shields.io/badge/GOG.com-{{count}}-ddd?logo=gog.com&labelColor=86328a",
       "gameList": [
-        { "name": "ArcaniA", "website": "https://www.gog.com/game/arcania" },
+        {
+          "name": "ArcaniA",
+          "website": "https://www.gog.com/game/arcania",
+        },
         {
           "name": "ArcaniA: Fall of Setarrif",
           "website": "https://www.gog.com/game/arcania_fall_of_setarrif",
         },
-        { "name": "Butcher", "website": "https://www.gog.com/game/butcher" },
-        { "name": "Gothic", "website": "https://www.gog.com/game/gothic" },
+        {
+          "name": "Butcher",
+          "website": "https://www.gog.com/game/butcher",
+        },
+        {
+          "name": "Gothic",
+          "website": "https://www.gog.com/game/gothic",
+        },
         {
           "name": "Gothic 2 Gold Edition",
           "website": "https://www.gog.com/game/gothic_2_gold_edition",
         },
-        { "name": "Gothic 3", "website": "https://www.gog.com/game/gothic_3" },
+        {
+          "name": "Gothic 3",
+          "website": "https://www.gog.com/game/gothic_3",
+        },
         {
           "name": "Gothic 3: Forsaken Gods Enhanced Edition",
           "website": "https://www.gog.com/game/gothic_3_forsaken_gods",
@@ -2568,7 +2592,10 @@ export default {
           "name": "Borderlands 2",
           "website": "https://steamcommunity.com/app/49520",
         },
-        { "name": "Braid", "website": "https://steamcommunity.com/app/26800" },
+        {
+          "name": "Braid",
+          "website": "https://steamcommunity.com/app/26800",
+        },
         {
           "name": "Breach & Clear",
           "website": "https://steamcommunity.com/app/266130",
@@ -2721,7 +2748,10 @@ export default {
           "name": "F-22 Lightning 3",
           "website": "https://steamcommunity.com/app/32730",
         },
-        { "name": "FEZ", "website": "https://steamcommunity.com/app/224760" },
+        {
+          "name": "FEZ",
+          "website": "https://steamcommunity.com/app/224760",
+        },
         {
           "name": "Forward to the Sky",
           "website": "https://steamcommunity.com/app/333250",
@@ -2754,7 +2784,10 @@ export default {
           "name": "Guts and Glory",
           "website": "https://steamcommunity.com/app/537340",
         },
-        { "name": "Half-Life", "website": "https://steamcommunity.com/app/70" },
+        {
+          "name": "Half-Life",
+          "website": "https://steamcommunity.com/app/70",
+        },
         {
           "name": "Half-Life 2",
           "website": "https://steamcommunity.com/app/220",
@@ -2819,7 +2852,10 @@ export default {
           "name": "Human Fall Flat",
           "website": "https://steamcommunity.com/app/477160",
         },
-        { "name": "ICEY", "website": "https://steamcommunity.com/app/553640" },
+        {
+          "name": "ICEY",
+          "website": "https://steamcommunity.com/app/553640",
+        },
         {
           "name": "Indie Game: The Movie",
           "website": "https://steamcommunity.com/app/207080",
@@ -2860,7 +2896,10 @@ export default {
           "name": "LEGO® Batman™ 3: Beyond Gotham",
           "website": "https://steamcommunity.com/app/313690",
         },
-        { "name": "LIMBO", "website": "https://steamcommunity.com/app/48000" },
+        {
+          "name": "LIMBO",
+          "website": "https://steamcommunity.com/app/48000",
+        },
         {
           "name": "Linea, the Game",
           "website": "https://steamcommunity.com/app/428900",
@@ -2869,8 +2908,14 @@ export default {
           "name": "Lines Infinite",
           "website": "https://steampowered.com/app/733050",
         },
-        { "name": "Lines X", "website": "https://steampowered.com/app/724740" },
-        { "name": "LYNE", "website": "https://steamcommunity.com/app/266010" },
+        {
+          "name": "Lines X",
+          "website": "https://steampowered.com/app/724740",
+        },
+        {
+          "name": "LYNE",
+          "website": "https://steamcommunity.com/app/266010",
+        },
         {
           "name": "Mad Max",
           "website": "https://steamcommunity.com/app/234140",
@@ -2919,8 +2964,14 @@ export default {
           "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
           "website": "https://steamcommunity.com/app/578080",
         },
-        { "name": "Portal", "website": "https://steamcommunity.com/app/400" },
-        { "name": "Portal 2", "website": "https://steamcommunity.com/app/620" },
+        {
+          "name": "Portal",
+          "website": "https://steamcommunity.com/app/400",
+        },
+        {
+          "name": "Portal 2",
+          "website": "https://steamcommunity.com/app/620",
+        },
         {
           "name": "POSTAL 2",
           "website": "https://steamcommunity.com/app/223470",
@@ -2929,8 +2980,14 @@ export default {
           "name": "POSTAL 2: Paradise Lost",
           "website": "https://steamcommunity.com/app/360960",
         },
-        { "name": "qop", "website": "https://steamcommunity.com/app/654900" },
-        { "name": "Ricochet", "website": "https://steamcommunity.com/app/60" },
+        {
+          "name": "qop",
+          "website": "https://steamcommunity.com/app/654900",
+        },
+        {
+          "name": "Ricochet",
+          "website": "https://steamcommunity.com/app/60",
+        },
         {
           "name": "Rise of Nations: Extended Edition",
           "website": "https://steamcommunity.com/app/287450",
@@ -3047,7 +3104,10 @@ export default {
           "name": "There Is No Game: Wrong Dimension",
           "website": "https://steamcommunity.com/app/1240210",
         },
-        { "name": "Thief", "website": "https://steamcommunity.com/app/239160" },
+        {
+          "name": "Thief",
+          "website": "https://steamcommunity.com/app/239160",
+        },
         {
           "name": "Thief - Opportunist",
           "website": "https://steamcommunity.com/app/265191",
@@ -3064,7 +3124,10 @@ export default {
           "name": "Torchlight II",
           "website": "https://steamcommunity.com/app/200710",
         },
-        { "name": "Trine", "website": "https://steamcommunity.com/app/35700" },
+        {
+          "name": "Trine",
+          "website": "https://steamcommunity.com/app/35700",
+        },
         {
           "name": "Trine 2",
           "website": "https://steamcommunity.com/app/35720",
@@ -3097,7 +3160,10 @@ export default {
           "name": "Wolcen: Lords of Mayhem",
           "website": "https://steamcommunity.com/app/424370",
         },
-        { "name": "Zup!", "website": "https://steamcommunity.com/app/533300" },
+        {
+          "name": "Zup!",
+          "website": "https://steamcommunity.com/app/533300",
+        },
         {
           "name": "Zup! 2",
           "website": "https://steamcommunity.com/app/562220",
@@ -3172,8 +3238,14 @@ export default {
       "badge":
         "https://img.shields.io/badge/Windows-{{count}}-ddd?logo=windows&labelColor=0078d6",
       "gameList": [
-        { "name": "Minecraft", "website": "https://www.minecraft.net/en-us" },
-        { "name": "Tale of Wuxia", "website": "https://wulin.fhyx.com/" },
+        {
+          "name": "Minecraft",
+          "website": "https://www.minecraft.net/en-us",
+        },
+        {
+          "name": "Tale of Wuxia",
+          "website": "https://wulin.fhyx.com/",
+        },
       ],
     },
     {
