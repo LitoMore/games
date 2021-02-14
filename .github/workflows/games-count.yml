@@ -15,5 +15,4 @@ jobs:
           deno-version: ${{ matrix.deno }}
       - run: |
           deno --version
-          make check
-          make build
+          make
