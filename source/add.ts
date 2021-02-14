@@ -1,10 +1,13 @@
-import games from "./games.ts";
+import { Device } from "./types.ts";
+
+const gamesJson = await Deno.readTextFile("./games.json");
+const games = JSON.parse(gamesJson);
 
 const [anchor, name, website] = Deno.args;
 console.log(anchor, name, website);
 if (!(anchor && name && website)) Deno.exit(1);
 
-games.devices.forEach((device) => {
+games.devices.forEach((device: Device) => {
   if (device.anchor.includes(anchor)) {
     device.gameList.push({
       name,
@@ -20,11 +23,5 @@ games.devices.forEach((device) => {
   }
 });
 
-const tsFile = `export default ${JSON.stringify(games, null, 2)}`;
-await Deno.writeTextFile("./games.ts", tsFile);
-const cmd = Deno.run({
-  cmd: ["deno", "fmt", "games.ts"],
-  stdout: "piped",
-});
-await cmd.output();
-cmd.close();
+const tsFile = JSON.stringify(games, null, 2);
+await Deno.writeTextFile("./games.json", tsFile + "\n");

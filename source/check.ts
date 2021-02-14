@@ -1,9 +1,12 @@
-import games from "./games.ts";
+import { Device, Game } from "./types.ts";
+
+const gamesJson = await Deno.readTextFile("./games.json");
+const games = JSON.parse(gamesJson);
 
 const checkWebsite = () => {
   const invalidGames: { device: string; name: string; website: string }[] = [];
-  games.devices.forEach((device) => {
-    device.gameList.forEach((game) => {
+  games.devices.forEach((device: Device) => {
+    device.gameList.forEach((game: Game) => {
       const valid = device.hostnames.find((hostname) =>
         game.website.includes(hostname)
       );
@@ -19,8 +22,8 @@ const checkWebsite = () => {
 };
 
 const checkOrder = async (withFix: boolean) => {
-  games.devices.forEach((device) => {
-    device.gameList.sort((a, b) => {
+  games.devices.forEach((device: Device) => {
+    device.gameList.sort((a: Game, b: Game) => {
       const aName = a.name.toLowerCase();
       const bName = b.name.toLowerCase();
 
@@ -39,14 +42,8 @@ const checkOrder = async (withFix: boolean) => {
   });
 
   if (withFix) {
-    const tsFile = `export default ${JSON.stringify(games, null, 2)};`;
-    await Deno.writeTextFile("./games.ts", tsFile);
-    const cmd = Deno.run({
-      cmd: ["deno", "fmt", "games.ts"],
-      stdout: "piped",
-    });
-    await cmd.output();
-    cmd.close();
+    const tsFile = JSON.stringify(games, null, 2);
+    await Deno.writeTextFile("./games.json", tsFile + "\n");
   }
 };
 

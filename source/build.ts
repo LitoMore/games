@@ -1,4 +1,7 @@
-import games from "./games.ts";
+import { Device, Game } from "./types.ts";
+
+const gamesJson = await Deno.readTextFile("./games.json");
+const games = JSON.parse(gamesJson);
 
 const titleSection = `<h1 align="center">GAMES</h1>
 `;
@@ -6,7 +9,7 @@ const titleSection = `<h1 align="center">GAMES</h1>
 const badgesSection = `
 <p align="center">
 ${
-  games.devices.map((device) =>
+  games.devices.map((device: Device) =>
     `  <a href="${device.anchor}">
     <img src="${
       device.badge.replace("{{count}}", String(device.gameList.length))
@@ -31,7 +34,7 @@ const ciSection = `
 
 `;
 
-const gamesSection = games.devices.map((device) =>
+const gamesSection = games.devices.map((device: Device) =>
   `## ${device.name}\n\n${
     device.gameList.sort((a, b) => {
       const aName = a.name.toLowerCase();
@@ -49,9 +52,10 @@ const gamesSection = games.devices.map((device) =>
 const relatedSection = `## Related
 
 - [Transformers](https://github.com/LitoMore/transformers) - My Transformers toys
-- [LEGO® Bricks](https://github.com/LitoMore/lego-bricks) - My LEGO® Bricks`;
+- [LEGO® Bricks](https://github.com/LitoMore/lego-bricks) - My LEGO® Bricks
+`;
 
 const markdownContnet = titleSection + badgesSection + descptionSection +
   ciSection + gamesSection + relatedSection;
 
-console.log(markdownContnet);
+await Deno.writeTextFile("../README.md", markdownContnet);
