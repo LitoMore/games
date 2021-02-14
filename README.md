@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-147-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-148-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -419,6 +419,7 @@
 - [Super Mario Odyssey™](https://www.nintendo.com/games/detail/super-mario-odyssey-switch/)
 - [Super Mario Party™](https://www.nintendo.com/games/detail/super-mario-party-switch/)
 - [Super Mario™ 3D All-Stars](https://www.nintendo.com/games/detail/super-mario-3d-all-stars-switch/)
+- [Super Mario™ 3D World + Bowser’s Fury](https://www.nintendo.com/games/detail/super-mario-3d-world-plus-bowsers-fury-switch/)
 - [Super Nintendo Entertainment System™ - Nintendo Switch Online](https://www.nintendo.com/games/detail/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Super Smash Bros.™ Ultimate](https://www.nintendo.com/games/detail/super-smash-bros-ultimate-switch/)
 - [Swap This!](https://www.nintendo.com/games/detail/swap-this-switch/)

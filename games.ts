@@ -1675,6 +1675,11 @@ export default {
             "https://www.nintendo.com/games/detail/super-mario-3d-all-stars-switch/",
         },
         {
+          "name": "Super Mario™ 3D World + Bowser’s Fury",
+          "website":
+            "https://www.nintendo.com/games/detail/super-mario-3d-world-plus-bowsers-fury-switch/",
+        },
+        {
           "name":
             "Super Nintendo Entertainment System™ - Nintendo Switch Online",
           "website":
