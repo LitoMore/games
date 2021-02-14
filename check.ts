@@ -19,7 +19,7 @@ const checkWebsite = () => {
 };
 
 const checkOrder = async (withFix: boolean) => {
-  games.devices.map((device) => {
+  games.devices.forEach((device) => {
     device.gameList.sort((a, b) => {
       const aName = a.name.toLowerCase();
       const bName = b.name.toLowerCase();
