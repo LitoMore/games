@@ -40,10 +40,6 @@ const checkOrder = async (withFix: boolean) => {
 
   if (withFix) {
     const tsFile = `export default ${JSON.stringify(games, null, 2)};`;
-    const writePermission = { name: "write", path: "./" } as const;
-    const runPermission = { name: "run", path: "./" } as const;
-    await Deno.permissions.request(writePermission);
-    await Deno.permissions.request(runPermission);
     await Deno.writeTextFile("./games.ts", tsFile);
     const cmd = Deno.run({
       cmd: ["deno", "fmt", "games.ts"],
