@@ -1,9 +1,7 @@
 import games from "./games.ts";
 
-const [command] = Deno.args;
-if (!command) Deno.exit(1);
-
-const [anchor, name, website] = command.split("\n");
+const [anchor, name, website] = Deno.args;
+console.log(anchor, name, website);
 if (!(anchor && name && website)) Deno.exit(1);
 
 games.devices.forEach((device) => {
