@@ -1577,7 +1577,7 @@
     {
       "name": "PlayStation®4",
       "anchor": "#playstation4",
-      "badge": "https://img.shields.io/badge/PlayStation_4-114-ddd?logo=playstation&labelColor=003791",
+      "badge": "https://img.shields.io/badge/PlayStation_4-{{count}}-ddd?logo=playstation&labelColor=003791",
       "hostnames": [
         "www.playstation.com",
         "store.playstation.com",
@@ -1775,6 +1775,10 @@
         {
           "name": "Goat Simulator",
           "website": "https://www.playstation.com/en-us/games/goat-simulator-ps4/"
+        },
+        {
+          "name": "GOD EATER® 3",
+          "website": "https://store.playstation.com/en-us/product/UP0700-CUSA13281_00-GODEATER30000000"
         },
         {
           "name": "God of War",

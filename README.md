@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-114-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-115-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-38-ddd?logo=playstation&labelColor=000000"/>
@@ -502,6 +502,7 @@
 - [Firewall Zero Hour](https://www.playstation.com/en-us/games/firewall-zero-hour-ps4/)
 - [Ghost of Tsushima](https://www.playstation.com/en-us/games/ghost-of-tsushima-ps4/)
 - [Goat Simulator](https://www.playstation.com/en-us/games/goat-simulator-ps4/)
+- [GOD EATER® 3](https://store.playstation.com/en-us/product/UP0700-CUSA13281_00-GODEATER30000000)
 - [God of War](https://www.playstation.com/en-us/games/god-of-war-ps4/)
 - [God of War® III Remastered](https://www.playstation.com/en-us/games/god-of-war-iii-remastered-ps4/)
 - [Gran Turismo Sport](https://www.playstation.com/en-us/explore/playstation-vr/bundles/playstation-vr-gran-turismo-sport-bundle/)
