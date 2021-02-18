@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-101-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-103-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -173,6 +173,7 @@
 
 - [20XX](https://www.epicgames.com/store/en-US/product/20xx)
 - [3 out of 10, EP 1: "Welcome To Shovelworks"](https://www.epicgames.com/store/en-US/product/3-out-of-10-ep-1)
+- [Absolute Drift](https://www.epicgames.com/store/en-US/product/absolute-drift)
 - [ABZU](https://www.epicgames.com/store/en-US/product/abzu)
 - [AER Memories of Old](https://www.epicgames.com/store/en-US/product/aer-memories-of-old)
 - [Alien: Isolation](https://www.epicgames.com/store/en-US/product/alien-isolation)
@@ -237,6 +238,7 @@
 - [Pathway](https://www.epicgames.com/store/en-US/product/pathway)
 - [Pikuniku](https://www.epicgames.com/store/en-US/product/pikuniku)
 - [Pillars of Eternity - Definitive Edition](https://www.epicgames.com/store/en-US/product/pillars-of-eternity)
+- [Rage 2](https://www.epicgames.com/store/en-US/product/rage-2)
 - [Railway Empire](https://www.epicgames.com/store/en-US/product/railway-empire)
 - [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/product/remnant-from-the-ashes)
 - [Rising Storm 2: Vietnam](https://www.epicgames.com/store/en-US/product/rising-storm-2-vietnam)
