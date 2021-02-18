@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-98-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-99-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-149-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-150-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -132,6 +132,7 @@
 - [Monument Valley 2](https://apps.apple.com/us/app/monument-valley-2/id1187265767)
 - [Pascal's Wager](https://apps.apple.com/us/app/pascals-wager/id1476649036)
 - [PI: Board Game - Companion App](https://apps.apple.com/us/app/pi-board-game-companion-app/id1124500826)
+- [Plants vs. Zombies™ 2](https://apps.apple.com/us/app/plants-vs-zombies-2/id597986893)
 - [Pokémon GO](https://apps.apple.com/us/app/pok%C3%A9mon-go/id1094591345)
 - [Prune](https://apps.apple.com/us/app/prune/id972319818)
 - [Reigns](https://apps.apple.com/us/app/reigns/id1114127463)
@@ -317,6 +318,7 @@
 - [Boundy Bob](https://www.nintendo.com/games/detail/bouncy-bob-switch/)
 - [Burnstar](https://www.nintendo.com/games/detail/burnstar-switch/)
 - [Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda](https://www.nintendo.com/games/detail/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-switch/)
+- [Capcom Arcade Stadium](https://www.nintendo.com/games/detail/capcom-arcade-stadium-switch/)
 - [Capcom Belt Action Collection](https://store-jp.nintendo.com/list/software/70010000008904.html)
 - [Captain Toad™: Treasure Tracker](https://www.nintendo.com/games/detail/captain-toad-treasure-tracker-switch/)
 - [Carnival Games®](https://www.nintendo.com/games/detail/carnival-games-switch/)
