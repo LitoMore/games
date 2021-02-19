@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-150-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-151-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -334,6 +334,7 @@
 - [Cuphead](https://www.nintendo.com/games/detail/cuphead-switch/)
 - [Cytus α](https://www.nintendo.com/games/detail/cytus-a-switch/)
 - [DARK SOULS™: REMASTERED](https://www.nintendo.com/games/detail/dark-souls-remastered-switch/)
+- [Dead Cells](https://www.nintendo.com/games/detail/dead-cells-switch/)
 - [DEEMO](https://www.nintendo.com/games/detail/deemo-switch/)
 - [Diablo III: Eternal Collection](https://www.nintendo.com/games/detail/diablo-iii-eternal-collection-switch/)
 - [DORAEMON STORY OF SEASONS](https://www.nintendo.com/games/detail/doraemon-story-of-seasons-switch/)
