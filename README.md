@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-38-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-173-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-174-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -773,6 +773,7 @@
 - [Trine 2](https://steamcommunity.com/app/35720)
 - [Trine 3: The Artifacts of Power](https://steamcommunity.com/app/319910)
 - [Unheard](https://steamcommunity.com/app/942970)
+- [Valheim](https://steamcommunity.com/app/892970)
 - [Wallpaper Engine](https://steamcommunity.com/app/431960)
 - [WayOut](https://steamcommunity.com/app/551110)
 - [WayOut 2: Hex](https://steampowered.com/app/585950)
