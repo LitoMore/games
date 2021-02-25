@@ -1,6 +1,140 @@
 {
   "devices": [
     {
+      "name": "Amazon Games",
+      "anchor": "#amazon-games",
+      "badge": "https://img.shields.io/badges/Amazon_Games-{{count}}-ddd?logo=amazon&labelColor=ff9900&logoColor=white",
+      "hostnames": [
+        "images-na.ssl-images-amazon.com"
+      ],
+      "gameList": [
+        {
+          "name": "Adventures of Chris",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg"
+        },
+        {
+          "name": "Art of Fighting 2",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg"
+        },
+        {
+          "name": "Baseball Stars 2",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg"
+        },
+        {
+          "name": "Blazing Star",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41bWigpfrxL.jpg"
+        },
+        {
+          "name": "Fatal Fury Special",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51n1J7RP2rL.jpg"
+        },
+        {
+          "name": "Garou: Mark of the Wolves",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg"
+        },
+        {
+          "name": "Ironclad",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41dbe4EmBxL.jpg"
+        },
+        {
+          "name": "King of the Monsters",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg"
+        },
+        {
+          "name": "Little Big Workshop",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41-1IghdbML.jpg"
+        },
+        {
+          "name": "Metal Slug 2",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg"
+        },
+        {
+          "name": "Metal Slug 3",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg"
+        },
+        {
+          "name": "Monster Prom: Hotseat Edition",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51nRAK5QHeL.jpg"
+        },
+        {
+          "name": "Pulstar",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg"
+        },
+        {
+          "name": "Samurai Shodown II",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg"
+        },
+        {
+          "name": "Samurai Shodown V Special",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41BTivtNKNL.jpg"
+        },
+        {
+          "name": "Sengoku 3",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51OqxYzuPUL.jpg"
+        },
+        {
+          "name": "Shock Troopers",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51Cnw8dv7AL.jpg"
+        },
+        {
+          "name": "Shock Troopers 2nd Squad",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51RCuh-K5tL.jpg"
+        },
+        {
+          "name": "SNK 40th Anniversary Collection",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51TN5AZ4PBL.jpg"
+        },
+        {
+          "name": "Spinch",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg"
+        },
+        {
+          "name": "Stealth Bastard Deluxe",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg"
+        },
+        {
+          "name": "Strata",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41Y5n+c728L.jpg"
+        },
+        {
+          "name": "Swimsanity! - Couch Party Edition",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51m6tg4jpcL.jpg"
+        },
+        {
+          "name": "Table Manners",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/518y8hZMjiL.jpg"
+        },
+        {
+          "name": "The Academy: First Riddle",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg"
+        },
+        {
+          "name": "The King of Fighters '98 Ultimate Match Final Edition",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41qpZ-kv70L.jpg"
+        },
+        {
+          "name": "The King of Fighters 2000",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41Wjf4l03CL.jpg"
+        },
+        {
+          "name": "The King of Fighters 2002",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41fcwhx7W2L.jpg"
+        },
+        {
+          "name": "The King of Fighters 2002 Unlimited Match",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/419qf06lJJL.jpg"
+        },
+        {
+          "name": "The King of Fighters 97 Global Match",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41WC6yyAMmL.jpg"
+        },
+        {
+          "name": "The Last Blade 2",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51mIp68C2yL.jpg"
+        }
+      ]
+    },
+    {
       "name": "App Store",
       "anchor": "#app-store",
       "badge": "https://img.shields.io/badge/App_Store-{{count}}-ddd?logo=app-store&labelColor=0d96f6&logoColor=white",

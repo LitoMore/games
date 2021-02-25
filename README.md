@@ -1,6 +1,9 @@
 <h1 align="center">GAMES</h1>
 
 <p align="center">
+  <a href="#amazon-games">
+    <img src="https://img.shields.io/badge/Amazon_Games-31-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+  </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-99-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
@@ -57,6 +60,40 @@
     <img src="https://github.com/LitoMore/games/workflows/Games%20Count/badge.svg"/>
   </a>
 </p>
+
+## Amazon Games
+
+- [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
+- [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
+- [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
+- [Blazing Star](https://images-na.ssl-images-amazon.com/images/I/41bWigpfrxL.jpg)
+- [Fatal Fury Special](https://images-na.ssl-images-amazon.com/images/I/51n1J7RP2rL.jpg)
+- [Garou: Mark of the Wolves](https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg)
+- [Ironclad](https://images-na.ssl-images-amazon.com/images/I/41dbe4EmBxL.jpg)
+- [King of the Monsters](https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg)
+- [Little Big Workshop](https://images-na.ssl-images-amazon.com/images/I/41-1IghdbML.jpg)
+- [Metal Slug 2](https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg)
+- [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
+- [Monster Prom: Hotseat Edition](https://images-na.ssl-images-amazon.com/images/I/51nRAK5QHeL.jpg)
+- [Pulstar](https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg)
+- [Samurai Shodown II](https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg)
+- [Samurai Shodown V Special](https://images-na.ssl-images-amazon.com/images/I/41BTivtNKNL.jpg)
+- [Sengoku 3](https://images-na.ssl-images-amazon.com/images/I/51OqxYzuPUL.jpg)
+- [Shock Troopers](https://images-na.ssl-images-amazon.com/images/I/51Cnw8dv7AL.jpg)
+- [Shock Troopers 2nd Squad](https://images-na.ssl-images-amazon.com/images/I/51RCuh-K5tL.jpg)
+- [SNK 40th Anniversary Collection](https://images-na.ssl-images-amazon.com/images/I/51TN5AZ4PBL.jpg)
+- [Spinch](https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg)
+- [Stealth Bastard Deluxe](https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg)
+- [Strata](https://images-na.ssl-images-amazon.com/images/I/41Y5n+c728L.jpg)
+- [Swimsanity! - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51m6tg4jpcL.jpg)
+- [Table Manners](https://images-na.ssl-images-amazon.com/images/I/518y8hZMjiL.jpg)
+- [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
+- [The King of Fighters '98 Ultimate Match Final Edition](https://images-na.ssl-images-amazon.com/images/I/41qpZ-kv70L.jpg)
+- [The King of Fighters 2000](https://images-na.ssl-images-amazon.com/images/I/41Wjf4l03CL.jpg)
+- [The King of Fighters 2002](https://images-na.ssl-images-amazon.com/images/I/41fcwhx7W2L.jpg)
+- [The King of Fighters 2002 Unlimited Match](https://images-na.ssl-images-amazon.com/images/I/419qf06lJJL.jpg)
+- [The King of Fighters 97 Global Match](https://images-na.ssl-images-amazon.com/images/I/41WC6yyAMmL.jpg)
+- [The Last Blade 2](https://images-na.ssl-images-amazon.com/images/I/51mIp68C2yL.jpg)
 
 ## App Store
 
