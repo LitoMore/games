@@ -3,7 +3,7 @@
     {
       "name": "Amazon Games",
       "anchor": "#amazon-games",
-      "badge": "https://img.shields.io/badges/Amazon_Games-{{count}}-ddd?logo=amazon&labelColor=ff9900&logoColor=white",
+      "badge": "https://img.shields.io/badge/Amazon_Games-{{count}}-ddd?logo=amazon&labelColor=ff9900&logoColor=white",
       "hostnames": [
         "images-na.ssl-images-amazon.com"
       ],
@@ -939,6 +939,10 @@
         {
           "name": "Sundered: Eldritch Edition",
           "website": "https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition"
+        },
+        {
+          "name": "Sunless Sea",
+          "website": "https://www.epicgames.com/store/en-US/p/sunless-sea"
         },
         {
           "name": "Superbrothers: Sword & Sworcery EP",

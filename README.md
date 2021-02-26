@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-103-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-104-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
@@ -296,6 +296,7 @@
 - [Stranded Deep](https://www.epicgames.com/store/en-US/product/stranded-deep)
 - [Stranger Things 3: The Game](https://www.epicgames.com/store/en-US/product/stranger-things-3-the-game)
 - [Sundered: Eldritch Edition](https://www.epicgames.com/store/en-US/product/sundered-eldritch-edition)
+- [Sunless Sea](https://www.epicgames.com/store/en-US/p/sunless-sea)
 - [Superbrothers: Sword & Sworcery EP](https://www.epicgames.com/store/en-US/product/superbrothers-sword-and-sworcery-ep)
 - [Tacoma](https://www.epicgames.com/store/en-US/product/tacoma)
 - [The Alto Collection](https://www.epicgames.com/store/en-US/product/the-alto-collection)
