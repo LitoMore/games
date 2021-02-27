@@ -28,8 +28,14 @@ const descptionSection = `
 const ciSection = `
 <p align="center">
   <a href="https://github.com/LitoMore/games/actions">
-    <img src="https://github.com/LitoMore/games/workflows/Games%20Count/badge.svg"/>
+    <img src="https://github.com/LitoMore/games/workflows/Deno/badge.svg"/>
   </a>
+  <img src="https://img.shields.io/badge/Games_Total-${
+  games.platforms.map((p: Platform) => p.gameList.length).reduce((
+    a: number,
+    b: number,
+  ) => a + b)
+}-ddd?logo=github-sponsors&labelColor=eee"/>
 </p>
 
 `;

@@ -1,4 +1,4 @@
-name: Games Count
+name: Deno
 on: [push]
 jobs:
   build:

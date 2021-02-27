@@ -60,8 +60,9 @@
 
 <p align="center">
   <a href="https://github.com/LitoMore/games/actions">
-    <img src="https://github.com/LitoMore/games/workflows/Games%20Count/badge.svg"/>
+    <img src="https://github.com/LitoMore/games/workflows/Deno/badge.svg"/>
   </a>
+  <img src="https://img.shields.io/badge/Games_Total-760-ddd?logo=github-sponsors&labelColor=eee"/>
 </p>
 
 ## Amazon Games
