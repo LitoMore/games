@@ -30,12 +30,14 @@ const ciSection = `
   <a href="https://github.com/LitoMore/games/actions">
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
-  <img src="https://img.shields.io/badge/Games_Total-${
+  <a href="https://github.com/LitoMore/games/fork">
+    <img src="https://img.shields.io/badge/Games_Total-${
   games.platforms.map((p: Platform) => p.gameList.length).reduce((
     a: number,
     b: number,
   ) => a + b)
 }-ddd?style=social&logo=github-sponsors"/>
+  </a>
 </p>
 
 `;
