@@ -1,5 +1,5 @@
 {
-  "devices": [
+  "platforms": [
     {
       "name": "Amazon Games",
       "anchor": "#amazon-games",
@@ -542,6 +542,52 @@
         {
           "name": "VOEZ",
           "website": "https://apps.apple.com/us/app/voez/id1007929736"
+        }
+      ]
+    },
+    {
+      "name": "Apple Arcade",
+      "anchor": "#apple-arcade",
+      "badge": "https://img.shields.io/badge/Apple_Arcade-{{count}}-ddd?logo=apple&labelColor=fd574e&logoColor=white",
+      "hostnames": [
+        "apps.apple.com"
+      ],
+      "gameList": [
+        {
+          "name": "Crossy Road Castle",
+          "website": "https://apps.apple.com/us/app/crossy-road-castle/id1489275350"
+        },
+        {
+          "name": "INMOST",
+          "website": "https://apps.apple.com/us/app/inmost/id1465235605"
+        },
+        {
+          "name": "Oceanhorn 2",
+          "website": "https://apps.apple.com/us/app/oceanhorn-2/id1141837408"
+        },
+        {
+          "name": "Oceanhorn: Chronos Dungeon",
+          "website": "https://apps.apple.com/us/app/oceanhorn-chronos-dungeon/id1496599163"
+        },
+        {
+          "name": "Patterned",
+          "website": "https://apps.apple.com/us/app/patterned/id1451427346"
+        },
+        {
+          "name": "Possessions.",
+          "website": "https://apps.apple.com/us/app/possessions/id1470984371"
+        },
+        {
+          "name": "Sayonara Wild Hearts",
+          "website": "https://apps.apple.com/us/app/sayonara-wild-hearts/id1461823255"
+        },
+        {
+          "name": "Shantae and the Seven Sirens",
+          "website": "https://apps.apple.com/us/app/shantae-and-the-seven-sirens/id1466096947"
+        },
+        {
+          "name": "Spek.",
+          "website": "https://apps.apple.com/us/app/spek/id1465321502"
         }
       ]
     },

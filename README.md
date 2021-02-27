@@ -7,6 +7,9 @@
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-99-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
+  <a href="#apple-arcade">
+    <img src="https://img.shields.io/badge/Apple_Arcade-9-ddd?logo=apple&labelColor=fd574e&logoColor=white"/>
+  </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
@@ -197,6 +200,18 @@
 - [Time Surfer](https://apps.apple.com/us/app/time-surfer/id549361775)
 - [Travel Frog](https://apps.apple.com/us/app/%E6%97%85%E3%81%8B%E3%81%88%E3%82%8B/id1255032913)
 - [VOEZ](https://apps.apple.com/us/app/voez/id1007929736)
+
+## Apple Arcade
+
+- [Crossy Road Castle](https://apps.apple.com/us/app/crossy-road-castle/id1489275350)
+- [INMOST](https://apps.apple.com/us/app/inmost/id1465235605)
+- [Oceanhorn 2](https://apps.apple.com/us/app/oceanhorn-2/id1141837408)
+- [Oceanhorn: Chronos Dungeon](https://apps.apple.com/us/app/oceanhorn-chronos-dungeon/id1496599163)
+- [Patterned](https://apps.apple.com/us/app/patterned/id1451427346)
+- [Possessions.](https://apps.apple.com/us/app/possessions/id1470984371)
+- [Sayonara Wild Hearts](https://apps.apple.com/us/app/sayonara-wild-hearts/id1461823255)
+- [Shantae and the Seven Sirens](https://apps.apple.com/us/app/shantae-and-the-seven-sirens/id1466096947)
+- [Spek.](https://apps.apple.com/us/app/spek/id1465321502)
 
 ## Battle.net
 
