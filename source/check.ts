@@ -1,16 +1,17 @@
-import { Device, Game } from "./types.ts";
+import { Game, Platform } from "./types.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson);
 
 const checkWebsite = () => {
-  const invalidGames: { device: string; name: string; website: string }[] = [];
-  games.devices.forEach((device: Device) => {
-    device.gameList.forEach((game: Game) => {
-      const valid = device.hostnames.find((hostname) =>
+  const invalidGames: { platform: string; name: string; website: string }[] =
+    [];
+  games.platforms.forEach((platform: Platform) => {
+    platform.gameList.forEach((game: Game) => {
+      const valid = platform.hostnames.find((hostname) =>
         game.website.includes(hostname)
       );
-      if (!valid) invalidGames.push({ device: device.name, ...game });
+      if (!valid) invalidGames.push({ platform: platform.name, ...game });
     });
   });
 
@@ -22,8 +23,8 @@ const checkWebsite = () => {
 };
 
 const checkOrder = async (withFix: boolean) => {
-  games.devices.forEach((device: Device) => {
-    device.gameList.sort((a: Game, b: Game) => {
+  games.platforms.forEach((platform: Platform) => {
+    platform.gameList.sort((a: Game, b: Game) => {
       const aName = a.name.toLowerCase();
       const bName = b.name.toLowerCase();
 

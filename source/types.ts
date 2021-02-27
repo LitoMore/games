@@ -3,7 +3,7 @@ export type Game = {
   website: string;
 };
 
-export type Device = {
+export type Platform = {
   name: string;
   anchor: string;
   badge: string;

@@ -1,4 +1,4 @@
-import { Device, Game } from "./types.ts";
+import { Game, Platform } from "./types.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson);
@@ -9,10 +9,10 @@ const titleSection = `<h1 align="center">GAMES</h1>
 const badgesSection = `
 <p align="center">
 ${
-  games.devices.map((device: Device) =>
-    `  <a href="${device.anchor}">
+  games.platforms.map((platform: Platform) =>
+    `  <a href="${platform.anchor}">
     <img src="${
-      device.badge.replace("{{count}}", String(device.gameList.length))
+      platform.badge.replace("{{count}}", String(platform.gameList.length))
     }"/>
   </a>\n`
   ).join("")
@@ -34,9 +34,9 @@ const ciSection = `
 
 `;
 
-const gamesSection = games.devices.map((device: Device) =>
-  `## ${device.name}\n\n${
-    device.gameList.sort((a, b) => {
+const gamesSection = games.platforms.map((platform: Platform) =>
+  `## ${platform.name}\n\n${
+    platform.gameList.sort((a, b) => {
       const aName = a.name.toLowerCase();
       const bName = b.name.toLowerCase();
       if (aName < bName) return -1;

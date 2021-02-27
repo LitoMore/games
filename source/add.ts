@@ -1,4 +1,4 @@
-import { Device } from "./types.ts";
+import { Platform } from "./types.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson);
@@ -6,13 +6,13 @@ const games = JSON.parse(gamesJson);
 const [anchor, name, website] = Deno.args;
 if (!(anchor && name && website)) Deno.exit(1);
 
-games.devices.forEach((device: Device) => {
-  if (device.anchor.includes(anchor)) {
-    device.gameList.push({
+games.platforms.forEach((platform: Platform) => {
+  if (platform.anchor.includes(anchor)) {
+    platform.gameList.push({
       name,
       website,
     });
-    device.gameList.sort((a, b) => {
+    platform.gameList.sort((a, b) => {
       const aName = a.name.toLowerCase();
       const bName = b.name.toLowerCase();
       if (aName < bName) return -1;
