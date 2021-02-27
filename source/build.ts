@@ -35,7 +35,7 @@ const ciSection = `
     a: number,
     b: number,
   ) => a + b)
-}-ddd?logo=github-sponsors&labelColor=eee"/>
+}-ddd?style=social&logo=github-sponsors"/>
 </p>
 
 `;
