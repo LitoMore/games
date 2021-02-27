@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://github.com/LitoMore/games/actions">
-    <img src="https://github.com/LitoMore/games/workflows/Deno/badge.svg"/>
+    <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <img src="https://img.shields.io/badge/Games_Total-760-ddd?style=social&logo=github-sponsors"/>
 </p>
