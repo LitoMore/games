@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-152-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-153-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-761-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-762-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -468,6 +468,7 @@
 - [Pokémon™: Let’s Go, Eevee!](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch/)
 - [Pokémon™: Let’s Go, Pikachu!](https://www.nintendo.com/games/detail/pokemon-lets-go-pikachu-switch/)
 - [Resident Evil Revelations Collection](https://www.nintendo.com/games/detail/resident-evil-revelations-collection-switch/)
+- [Return of the Obra Dinn](https://www.nintendo.com/games/detail/return-of-the-obra-dinn-switch/)
 - [Ring Fit Adventure](https://www.nintendo.com/games/detail/ring-fit-adventure-switch/)
 - [Robonauts](https://www.nintendo.com/games/detail/robonauts-switch/)
 - [SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE](https://www.nintendo.com/games/detail/saints-row-the-third-the-full-package-switch/)
