@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-115-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-116-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-38-ddd?logo=playstation&labelColor=000000"/>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-762-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-763-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -607,6 +607,7 @@
 - [Sekiro™: Shadows Die Twice](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/)
 - [Shadow of the Colossus](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
 - [Shadow of the Tomb Raider Definitive Edition](https://store.playstation.com/en-us/product/UP0082-CUSA10938_00-DEFINITIVE00SIEA)
+- [Shio](https://store.playstation.com/en-us/product/UP4223-CUSA09511_00-COCONUTGAMESSHIO)
 - [SONIC FORCES](https://www.playstation.com/en-us/games/sonic-forces-ps4/)
 - [STAR WARS Jedi: Fallen Order™](https://www.playstation.com/en-us/games/star-wars-jedi-fallen-order-ps4/)
 - [Star Wars™ Battlefront™ II](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
