@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-151-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-152-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-760-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-761-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -375,6 +375,7 @@
 - [Blossom Tales: The Sleeping King](https://www.nintendo.com/games/detail/blossom-tales-the-sleeping-king-switch/)
 - [Borderlands Legendary Collection](https://www.nintendo.com/games/detail/borderlands-legendary-collection-switch/)
 - [Boundy Bob](https://www.nintendo.com/games/detail/bouncy-bob-switch/)
+- [Bravely Default™ II](https://www.nintendo.com/games/detail/bravely-default-ii-switch/)
 - [Burnstar](https://www.nintendo.com/games/detail/burnstar-switch/)
 - [Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda](https://www.nintendo.com/games/detail/cadence-of-hyrule-crypt-of-the-necrodancer-featuring-the-legend-of-zelda-switch/)
 - [Capcom Arcade Stadium](https://www.nintendo.com/games/detail/capcom-arcade-stadium-switch/)
