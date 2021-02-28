@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-32-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-99-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-100-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-9-ddd?logo=apple&labelColor=fd574e&logoColor=white"/>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-763-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-764-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -136,6 +136,7 @@
 - [Danganronpa 2: Goodbye Despair](https://apps.apple.com/us/app/danganronpa-2-goodbye-despair/id1526121506)
 - [Danganronpa: Trigger Happy Hav](https://apps.apple.com/us/app/danganronpa-trigger-happy-hav/id1502232038)
 - [DEEMO](https://apps.apple.com/us/app/deemo/id700637744)
+- [DEEMO -Reborn-](https://apps.apple.com/us/app/deemo-reborn/id1492021770)
 - [Doodle Creatures™](https://apps.apple.com/us/app/doodle-creatures/id839721556)
 - [Doodle Devil™](https://apps.apple.com/us/app/doodle-devil/id418925394)
 - [Doodle Farm™](https://apps.apple.com/us/app/doodle-farm/id427804316)
