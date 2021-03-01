@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-32-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-100-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-101-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-10-ddd?logo=apple&labelColor=fd574e&logoColor=white"/>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-765-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-766-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -155,6 +155,7 @@
 - [GWENT: The Witcher Card Game](https://apps.apple.com/us/app/gwent-the-witcher-card-game/id1466943149)
 - [Happy Room](https://apps.apple.com/us/app/happy-room/id1195527450)
 - [Hatchi - A retro virtual pet](https://apps.apple.com/au/app/hatchi-a-retro-virtual-pet/id489479624)
+- [Heads Up!](https://apps.apple.com/us/app/heads-up/id623592465)
 - [Implosion - Never Lose Hope](https://apps.apple.com/us/app/implosion-never-lose-hope/id870322730)
 - [Ingress Prime](https://apps.apple.com/us/app/ingress-prime/id576505181)
 - [Ira Ira Boy](https://apps.apple.com/ky/app/ira-ira-boy/id1048482048)
