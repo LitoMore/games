@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-100-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-9-ddd?logo=apple&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-10-ddd?logo=apple&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-764-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-765-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -216,6 +216,7 @@
 - [Sayonara Wild Hearts](https://apps.apple.com/us/app/sayonara-wild-hearts/id1461823255)
 - [Shantae and the Seven Sirens](https://apps.apple.com/us/app/shantae-and-the-seven-sirens/id1466096947)
 - [Spek.](https://apps.apple.com/us/app/spek/id1465321502)
+- [Tangle Tower](https://apps.apple.com/us/app/tangle-tower/id1466301290)
 
 ## Battle.net
 
