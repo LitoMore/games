@@ -8,6 +8,13 @@ if (!(anchor && name && website)) Deno.exit(1);
 
 games.platforms.forEach((platform: Platform) => {
   if (platform.anchor.includes(anchor)) {
+    if (
+      platform.gameList.find((g) => g.name === name || g.website === website)
+    ) {
+      console.log("Duplicate game");
+      Deno.exit(1);
+    }
+
     platform.gameList.push({
       name,
       website,
@@ -19,6 +26,9 @@ games.platforms.forEach((platform: Platform) => {
       if (aName > bName) return 1;
       return 0;
     });
+  } else {
+    console.log("Anchor does not exist.");
+    Deno.exit(1);
   }
 });
 
