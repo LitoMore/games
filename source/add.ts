@@ -26,9 +26,6 @@ games.platforms.forEach((platform: Platform) => {
       if (aName > bName) return 1;
       return 0;
     });
-  } else {
-    console.log("Anchor does not exist.");
-    Deno.exit(1);
   }
 });
 
