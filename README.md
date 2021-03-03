@@ -19,6 +19,9 @@
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-8-ddd?logo=gog.com&labelColor=86328a"/>
   </a>
+  <a href="#google-play">
+    <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
+  </a>
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
@@ -63,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-770-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-777-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -345,6 +348,16 @@
 - [Gothic 3](https://www.gog.com/game/gothic_3)
 - [Gothic 3: Forsaken Gods Enhanced Edition](https://www.gog.com/game/gothic_3_forsaken_gods)
 - [Heroes of Might and Magic® 2: Gold](https://www.gog.com/game/heroes_of_might_and_magic_2_gold_edition)
+
+## Google Play
+
+- [Crusaders Quest](https://play.google.com/store/apps/details?id=com.nhnent.SKQUEST)
+- [Cytus](https://play.google.com/store/apps/details?id=com.rayark.Cytus.full)
+- [Fruit Ninja®](https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree)
+- [Mandora](https://play.google.com/store/apps/details?id=com.rayark.uproot)
+- [Pokémon GO](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo)
+- [Subway Surfers](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf)
+- [Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2)
 
 ## Nintendo 3DS™
 

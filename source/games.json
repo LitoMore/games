@@ -1111,6 +1111,44 @@
       ]
     },
     {
+      "name": "Google Play",
+      "anchor": "#google-play",
+      "badge": "https://img.shields.io/badge/Google_Play-{{count}}-ddd?logo=google-play&labelColor=414141",
+      "hostnames": [
+        "play.google.com"
+      ],
+      "gameList": [
+        {
+          "name": "Crusaders Quest",
+          "website": "https://play.google.com/store/apps/details?id=com.nhnent.SKQUEST"
+        },
+        {
+          "name": "Cytus",
+          "website": "https://play.google.com/store/apps/details?id=com.rayark.Cytus.full"
+        },
+        {
+          "name": "Fruit Ninja®",
+          "website": "https://play.google.com/store/apps/details?id=com.halfbrick.fruitninjafree"
+        },
+        {
+          "name": "Mandora",
+          "website": "https://play.google.com/store/apps/details?id=com.rayark.uproot"
+        },
+        {
+          "name": "Pokémon GO",
+          "website": "https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo"
+        },
+        {
+          "name": "Subway Surfers",
+          "website": "https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf"
+        },
+        {
+          "name": "Temple Run 2",
+          "website": "https://play.google.com/store/apps/details?id=com.imangi.templerun2"
+        }
+      ]
+    },
+    {
       "name": "Nintendo 3DS™",
       "anchor": "#nintendo-3ds",
       "badge": "https://img.shields.io/badge/Nintendo_3DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d22128",
