@@ -1,4 +1,5 @@
 .DEFAULT_GOAL := default
+.SILENT: add add-platform check fix build
 
 add:
 	cd source && deno run --allow-read --allow-write add.ts '$(anchor)' '$(name)' '$(website)'

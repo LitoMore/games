@@ -67,3 +67,4 @@ const markdownContnet = titleSection + badgesSection + descptionSection +
   ciSection + gamesSection + relatedSection;
 
 await Deno.writeTextFile("../README.md", markdownContnet);
+console.log("Compiled successfully.");

@@ -24,3 +24,4 @@ games.platforms.sort((a, b) => {
 
 const jsonFile = JSON.stringify(games, null, 2);
 await Deno.writeTextFile("./games.json", jsonFile + "\n");
+console.log(`${name} added.`);

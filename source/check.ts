@@ -43,11 +43,12 @@ const checkOrder = async (withFix: boolean) => {
   });
 
   if (withFix) {
-    const tsFile = JSON.stringify(games, null, 2);
-    await Deno.writeTextFile("./games.json", tsFile + "\n");
+    const jsonFile = JSON.stringify(games, null, 2);
+    await Deno.writeTextFile("./games.json", jsonFile + "\n");
   }
 };
 
 const withFix = Deno.args.includes("--fix");
 checkWebsite();
 await checkOrder(withFix);
+console.log("Validation passed.");
