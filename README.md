@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-39-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-174-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-175-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-784-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-785-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -750,6 +750,7 @@
 - [Delta Force: Xtreme](https://steamcommunity.com/app/32660)
 - [Delta Force: Xtreme 2](https://steamcommunity.com/app/32610)
 - [Destiny 2](https://steamcommunity.com/app/1085660)
+- [Dice Tower Defense](https://store.steampowered.com/app/700660/Dice_Tower_Defense/)
 - [DiRT 4](https://steamcommunity.com/app/421020)
 - [DiRT Rally](https://steamcommunity.com/app/310560)
 - [Doki Doki Literature Club](https://steamcommunity.com/app/698780)
