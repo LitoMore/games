@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-101-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-10-ddd?logo=apple&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-10-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>

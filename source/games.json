@@ -576,7 +576,7 @@
     {
       "name": "Apple Arcade",
       "anchor": "#apple-arcade",
-      "badge": "https://img.shields.io/badge/Apple_Arcade-{{count}}-ddd?logo=apple&labelColor=fd574e&logoColor=white",
+      "badge": "https://img.shields.io/badge/Apple_Arcade-{{count}}-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white",
       "hostnames": [
         "apps.apple.com"
       ],
