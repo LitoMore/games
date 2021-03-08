@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Apple_Arcade-10-ddd?logo=apple&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
-    <img src="https://img.shields.io/badge/Battle.net-6-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
     <img src="https://img.shields.io/badge/Epic_Games-105-ddd?logo=epic-games&labelColor=313131"/>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-787-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-788-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -234,6 +234,7 @@
 - [Heroes of the Storm™](https://heroesofthestorm.com/en-us/)
 - [Overwatch®](https://playoverwatch.com/en-us/)
 - [StarCraft® II](https://starcraft2.com/en-us/)
+- [StarCraft®: Remastered](https://starcraft.com)
 - [World of Warcraft®](https://worldofwarcraft.com/en-us/)
 
 ## Epic Games
