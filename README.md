@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-39-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-176-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-177-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-786-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-787-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -838,6 +838,7 @@
 - [Super Meat Boy](https://steamcommunity.com/app/40800)
 - [Tachyon: The Fringe](https://steamcommunity.com/app/32760)
 - [Team Fortress Classic](https://steamcommunity.com/app/20)
+- [Teardown](https://store.steampowered.com/app/1167630/Teardown/)
 - [Teddy Floppy Ear - Kayaking](https://steamcommunity.com/app/340310)
 - [Teddy Floppy Ear - Mountain Adventure](https://steamcommunity.com/app/340300)
 - [Teddy Floppy Ear - The Race](https://steamcommunity.com/app/371420)
