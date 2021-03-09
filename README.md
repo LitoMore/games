@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-39-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-183-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-191-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-794-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-802-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -816,6 +816,12 @@
 - [Noita](https://store.steampowered.com/app/881100)
 - [Nonogram - The Greatest Painter](https://steampowered.com/app/742490)
 - [Oceanhorn: Monster of Uncharted Seas](https://steamcommunity.com/app/339200)
+- [Oik](https://steamcommunity.com/app/588970)
+- [Oik 2](https://steamcommunity.com/app/611980)
+- [Oik 3](https://steamcommunity.com/app/655100)
+- [Oik 4](https://steamcommunity.com/app/781810)
+- [Oik 5](https://steamcommunity.com/app/992050)
+- [Oik Reloaded](https://steamcommunity.com/app/1044220)
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
 - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://steamcommunity.com/app/578080)
 - [Portal](https://steamcommunity.com/app/400)
@@ -833,6 +839,8 @@
 - [RPG Maker MV](https://steamcommunity.com/app/363890)
 - [Saints Row: The Third](https://steamcommunity.com/app/55230)
 - [Shadow of the Tomb Raider](https://steamcommunity.com/app/750920)
+- [Shoot, push, portals](https://steamcommunity.com/app/1197990)
+- [Shoot. Push. Repeat.](https://steamcommunity.com/app/1328810)
 - [Sleeping Dogs: Definitive Edition](https://steamcommunity.com/app/307690)
 - [Sorry, James](https://steampowered.com/app/659190)
 - [Stardew Valley](https://steamcommunity.com/app/413150)

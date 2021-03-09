@@ -6,7 +6,7 @@ const withFix = Deno.args.includes("--fix");
 
 const unifySteamWebsite = (website: string): string => {
   const websitePattern =
-    /^https:\/\/store.steampowered.com\/app\/(?<id>\d+)\/.+$/;
+    /^https:\/\/store.steampowered.com\/app\/(?<id>\d+)\/.*$/;
 
   if (websitePattern.test(website)) {
     return website.replace(
