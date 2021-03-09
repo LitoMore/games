@@ -3006,6 +3006,18 @@
           "website": "https://steamcommunity.com/app/654900"
         },
         {
+          "name": "qop 2",
+          "website": "https://store.steampowered.com/app/757330/qop_2/"
+        },
+        {
+          "name": "qop 3",
+          "website": "https://store.steampowered.com/app/864300/qop_3/"
+        },
+        {
+          "name": "qop 4",
+          "website": "https://store.steampowered.com/app/966630/qop_4/"
+        },
+        {
           "name": "Ricochet",
           "website": "https://steamcommunity.com/app/60"
         },
@@ -3222,6 +3234,14 @@
           "website": "https://steamcommunity.com/app/799070"
         },
         {
+          "name": "Zup! 9",
+          "website": "https://store.steampowered.com/app/1098340/Zup_9/"
+        },
+        {
+          "name": "Zup! F",
+          "website": "https://store.steampowered.com/app/601220/Zup_F/"
+        },
+        {
           "name": "Zup! S",
           "website": "https://steamcommunity.com/app/617670"
         },
@@ -3232,6 +3252,10 @@
         {
           "name": "Zup! XS",
           "website": "https://steamcommunity.com/app/673800"
+        },
+        {
+          "name": "Zup! Z",
+          "website": "https://store.steampowered.com/app/1218900/Zup_Z/"
         },
         {
           "name": "Zup! Zero",

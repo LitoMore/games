@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-39-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-177-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-183-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-788-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-794-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -823,6 +823,9 @@
 - [POSTAL 2](https://steamcommunity.com/app/223470)
 - [POSTAL 2: Paradise Lost](https://steamcommunity.com/app/360960)
 - [qop](https://steamcommunity.com/app/654900)
+- [qop 2](https://store.steampowered.com/app/757330/qop_2/)
+- [qop 3](https://store.steampowered.com/app/864300/qop_3/)
+- [qop 4](https://store.steampowered.com/app/966630/qop_4/)
 - [Ricochet](https://steamcommunity.com/app/60)
 - [Rise of Nations: Extended Edition](https://steamcommunity.com/app/287450)
 - [Rise of the Tomb Raider](https://steamcommunity.com/app/391220)
@@ -877,9 +880,12 @@
 - [Zup! 6](https://steamcommunity.com/app/566160)
 - [Zup! 7](https://steamcommunity.com/app/658560)
 - [Zup! 8](https://steamcommunity.com/app/799070)
+- [Zup! 9](https://store.steampowered.com/app/1098340/Zup_9/)
+- [Zup! F](https://store.steampowered.com/app/601220/Zup_F/)
 - [Zup! S](https://steamcommunity.com/app/617670)
 - [Zup! X](https://steamcommunity.com/app/508900)
 - [Zup! XS](https://steamcommunity.com/app/673800)
+- [Zup! Z](https://store.steampowered.com/app/1218900/Zup_Z/)
 - [Zup! Zero](https://steamcommunity.com/app/610360)
 - [Zup! Zero 2](https://steamcommunity.com/app/658550)
 
