@@ -2,6 +2,21 @@ import { Game, Platform } from "./types.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson);
+const withFix = Deno.args.includes("--fix");
+
+const unifySteamWebsite = (website: string): string => {
+  const websitePattern =
+    /^https:\/\/store.steampowered.com\/app\/(?<id>\d+)\/.+$/;
+
+  if (websitePattern.test(website)) {
+    return website.replace(
+      websitePattern,
+      "https://steamcommunity.com/app/$1",
+    );
+  }
+
+  return website;
+};
 
 const checkWebsite = () => {
   const invalidGames: { platform: string; name: string; website: string }[] =
@@ -11,7 +26,14 @@ const checkWebsite = () => {
       const valid = platform.hostnames.find((hostname) =>
         game.website.includes(hostname)
       );
-      if (!valid) invalidGames.push({ platform: platform.name, ...game });
+
+      if (!valid) {
+        invalidGames.push({ platform: platform.name, ...game });
+      }
+
+      if (withFix && platform.anchor === "#steam") {
+        game.website = unifySteamWebsite(game.website);
+      }
     });
   });
 
@@ -22,7 +44,7 @@ const checkWebsite = () => {
   }
 };
 
-const checkOrder = async (withFix: boolean) => {
+const checkOrder = () => {
   games.platforms.forEach((platform: Platform) => {
     platform.gameList.sort((a: Game, b: Game) => {
       const aName = a.name.toLowerCase();
@@ -41,14 +63,14 @@ const checkOrder = async (withFix: boolean) => {
       return 0;
     });
   });
-
-  if (withFix) {
-    const jsonFile = JSON.stringify(games, null, 2);
-    await Deno.writeTextFile("./games.json", jsonFile + "\n");
-  }
 };
 
-const withFix = Deno.args.includes("--fix");
 checkWebsite();
-await checkOrder(withFix);
+checkOrder();
+
+if (withFix) {
+  const jsonFile = JSON.stringify(games, null, 2);
+  await Deno.writeTextFile("./games.json", jsonFile + "\n");
+}
+
 console.log("Validation passed.");
