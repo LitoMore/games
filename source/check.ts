@@ -1,36 +1,9 @@
 import { Game, Platform } from "./types.ts";
+import { websiteChecks } from "./utils.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson);
 const withFix = Deno.args.includes("--fix");
-
-const unifyEpicGamesWebsite = (website: string): string => {
-  const websitePattern =
-    /^https:\/\/www\.epicgames\.com\/store\/(?<languageCode>[a-z]{2}-[A-Z]{2})\/product\/(?<name>.+$)/;
-
-  if (websitePattern.test(website)) {
-    return website.replace(
-      websitePattern,
-      "https://www.epicgames.com/store/en-US/p/$2",
-    );
-  }
-
-  return website;
-};
-
-const unifySteamWebsite = (website: string): string => {
-  const websitePattern =
-    /^https:\/\/store\.steampowered\.com\/app\/(?<id>\d+)\/.*$/;
-
-  if (websitePattern.test(website)) {
-    return website.replace(
-      websitePattern,
-      "https://steamcommunity.com/app/$1",
-    );
-  }
-
-  return website;
-};
 
 const checkWebsite = () => {
   const invalidGames: { platform: string; name: string; website: string }[] =
@@ -46,16 +19,7 @@ const checkWebsite = () => {
       }
 
       if (withFix) {
-        switch (platform.anchor) {
-          case "#epic-games":
-            game.website = unifyEpicGamesWebsite(game.website);
-            break;
-          case "#steam":
-            game.website = unifySteamWebsite(game.website);
-            break;
-          default:
-            break;
-        }
+        game.website = websiteChecks(platform.anchor, game.website);
       }
     });
   });
