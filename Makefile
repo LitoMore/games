@@ -1,5 +1,8 @@
 .DEFAULT_GOAL := default
-.SILENT: add add-platform check fix build
+.SILENT: lint add add-platform check fix build
+
+lint:
+	deno lint --unstable
 
 add:
 	cd source && deno run --allow-read --allow-write add.ts '$(anchor)' '$(name)' '$(website)'
@@ -16,4 +19,4 @@ fix:
 build:
 	cd source && deno run --allow-read --allow-write build.ts
 
-default: check build
+default: lint check build
