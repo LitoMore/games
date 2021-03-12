@@ -1,5 +1,5 @@
 import { Platform } from "./types.ts";
-import { unifyEpicGamesWebsite, unifySteamWebsite } from "./utils.ts";
+import { websiteChecks } from "./utils.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson);
@@ -9,14 +9,7 @@ if (!(anchor && name && website)) Deno.exit(1);
 
 games.platforms.forEach((platform: Platform) => {
   if (platform.anchor.includes(anchor)) {
-    switch (platform.anchor) {
-      case "#epic-games":
-        website = unifyEpicGamesWebsite(website);
-      case "#steam":
-        website = unifySteamWebsite(website);
-      default:
-        break;
-    }
+    website = websiteChecks(platform.anchor, website);
 
     if (
       platform.gameList.find((g) => g.name === name || g.website === website)
