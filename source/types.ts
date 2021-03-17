@@ -10,3 +10,9 @@ export type Platform = {
   hostnames: string[];
   gameList: Game[];
 };
+
+export type Related = {
+  name: string;
+  website: string;
+  description: string;
+}[];

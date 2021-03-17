@@ -1,5 +1,5 @@
 .DEFAULT_GOAL := default
-.SILENT: lint add add-platform check fix build
+.SILENT: lint add add-platform check fix build reset
 
 lint:
 	deno lint --unstable
@@ -18,5 +18,8 @@ fix:
 
 build:
 	cd source && deno run --allow-read --allow-write build.ts
+
+reset:
+	cd source && deno run --allow-read --allow-write reset.ts
 
 default: lint check build

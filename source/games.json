@@ -3441,5 +3441,17 @@
         }
       ]
     }
+  ],
+  "related": [
+    {
+      "name": "Transformers",
+      "website": "https://github.com/LitoMore/transformers",
+      "description": "My Transformers toys"
+    },
+    {
+      "name": "My LEGO® Bricks",
+      "website": "https://github.com/LitoMore/lego-bricks",
+      "description": "My Transformers toys"
+    }
   ]
 }

@@ -1,5 +1,12 @@
 # Maintenance
 
+## Use as template
+
+```shell
+$ make reset
+$ make build
+```
+
 ## Commands
 
 ### Add new game
