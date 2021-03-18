@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-119-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-120-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-39-ddd?logo=playstation&labelColor=000000"/>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-811-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-812-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -628,6 +628,7 @@
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5-ps4/)
 - [Persona 5 Scramble: The Phantom Strikers](https://www.playstation.com/en-hk/games/persona-5-scramble-the-phantom-strikers-ps4/)
 - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://www.playstation.com/en-us/games/playerunknowns-battlegrounds-ps4/)
+- [Ratchet & Clank™](https://store.playstation.com/en-us/product/UP9000-CUSA01047_00-RATCHETPS4000000)
 - [Red Dead Redemption 2](https://www.playstation.com/en-us/games/red-dead-redemption-2-ps4/)
 - [Redout: Lightspeed Edition](https://www.playstation.com/en-us/games/redout-lightspeed-edition-ps4/)
 - [Remnant: From the Ashes](https://store.playstation.com/en-us/product/UP1980-CUSA10507_00-REMNANT000000001)
