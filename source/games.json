@@ -3355,9 +3355,18 @@
       "badge": "https://img.shields.io/badge/Windows-{{count}}-ddd?logo=windows&labelColor=0078d6",
       "hostnames": [
         "www.minecraft.net",
-        "wulin.fhyx.com"
+        "wulin.fhyx.com",
+        "redcandlegames.com"
       ],
       "gameList": [
+        {
+          "name": "Detention",
+          "website": "https://redcandlegames.com/detention"
+        },
+        {
+          "name": "Devotion",
+          "website": "https://redcandlegames.com/devotion"
+        },
         {
           "name": "Minecraft",
           "website": "https://www.minecraft.net/en-us"

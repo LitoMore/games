@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
   </a>
   <a href="#windows">
-    <img src="https://img.shields.io/badge/Windows-2-ddd?logo=windows&labelColor=0078d6"/>
+    <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-live">
     <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-812-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-814-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -912,6 +912,8 @@
 
 ## Windows
 
+- [Detention](https://redcandlegames.com/detention)
+- [Devotion](https://redcandlegames.com/devotion)
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Tale of Wuxia](https://wulin.fhyx.com/)
 
