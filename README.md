@@ -40,6 +40,9 @@
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-39-ddd?logo=playstation&labelColor=000000"/>
   </a>
+  <a href="#stadia">
+    <img src="https://img.shields.io/badge/Stadia-26-ddd?logo=stadia&labelColor=cd2640"/>
+  </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-192-ddd?logo=steam&labelColor=171a21"/>
   </a>
@@ -66,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-816-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-842-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -711,6 +714,35 @@
 - [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
 - [Watch Dogs®: Legion](https://www.playstation.com/en-us/games/watch-dogs-legion/)
 - [Worms Rumble](https://www.playstation.com/en-us/games/worms-rumble/)
+
+## Stadia
+
+- [Ary and the Secret of Seasons](https://stadia.google.com/store/details/016636d5f49f4862be3ff8cbcf6c7adercp1/sku/be70e67b1fd64dc2bb4f002e65239731p)
+- [AVICII Invector](https://stadia.google.com/store/details/2c8b9ab112e5460db922dc7353381256rcp1/sku/afb2b66ddd744605a3d01acbeaf3ba01p)
+- [Crayta: Premium Edition](https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/e50890bb854e4666ad06742e1e1789aap)
+- [Cthulhu Saves Christmas](https://stadia.google.com/store/details/769a088b9ef04c04b341911a1ef8b8ecrcp1/sku/5748ef643485495ba71d15041c44f0d4p)
+- [El Hijo - A Wild West Tale](https://stadia.google.com/store/details/d46f9c2d858d41d6ae4cc12d186657f0rcp1/sku/4761cd53808a462ca823a9e403baea99)
+- [Enter The Gungeon](https://stadia.google.com/store/details/8f0addba5d3d4c05b07d7b59481e0171rcp1/sku/de13900e4bc8442b9f1ddead7baaec6dp)
+- [EVERSPACE™](https://stadia.google.com/store/details/44752f1774ca4508a2c45e57121d7e8frcp1/sku/dfda545ac2e94885a13b1434d370d4b0)
+- [F1® 2020](https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/60da786be741463fbbeb63ed5130bc11)
+- [Figment](https://stadia.google.com/store/details/7183914d07034cb1bbb8a511779bc1efrcp1/sku/dfc0719b3a5b48ab8213033dc72bfdfcp)
+- [Gunsport](https://stadia.google.com/store/details/16330bd770134d85b5bef3cc6b1407ffrcp1/sku/896565e45f974774a117876f949630df)
+- [HITMAN - The Complete First Season](https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/cc1997b89ae44886a1197a59b42b2613)
+- [Hotline Miami](https://stadia.google.com/store/details/5f54e869de4441f8998e80d2c54fa74brcp1/sku/be1bff38daf046f78cde2b36228de554)
+- [Human: Fall Flat Stadia Edition](https://stadia.google.com/store/details/16d98de80a3340ffa4129953ae4e3206rcp1/sku/6ec089b591ee47fab2fed726e466700ap)
+- [Journey to the Savage Planet](https://stadia.google.com/store/details/22c6d03e67474644a139de4f04a08c11rcp1/sku/a287b8393c204384a8b940dc79d142fd)
+- [Lara Croft and the Guardian of Light](https://stadia.google.com/store/details/29b3d5d6788f444c8cd59aa0a49d1bd1rcp1/sku/b4f4f4de3d1e4eef9417a9c896513f0ap)
+- [Little Nightmares II](https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp)
+- [Orcs Must Die! 3](https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a)
+- [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5)
+- [PixelJunk Raiders](https://stadia.google.com/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p)
+- [PlayerUnknown's Battlegrounds – Breakthrough Edition](https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/e0d32e6d5b0442f9bea2f8deb5d03570p)
+- [Reigns](https://stadia.google.com/store/details/2677ffb357f946e29b4e86a9f18ea55frcp1/sku/0b415b02e06f452f8be948daf77787c1p)
+- [République](https://stadia.google.com/store/details/65864a95f9e74129845bda0467486413rcp1/sku/2a4af85a84974cdba4d61df620305335)
+- [SteamWorld Dig 2](https://stadia.google.com/store/details/b832835182124d4d83cb76a74a76a33frcp1/sku/90f5bd9270024986b26ee8221c1fa2e4)
+- [SteamWorld Heist](https://stadia.google.com/store/details/819cdf4b7ff94947941106571ccf41e5rcp1/sku/f47a1e1e9f0b43078e0a80c57068b085)
+- [SteamWorld Quest: Hand of Gilgamech](https://stadia.google.com/store/details/b845605f8eb447008f3f0d2295265ffdrcp1/sku/a1afa4eca7b24713a9bcf3421dd85a13)
+- [Submerged: Hidden Depths](https://stadia.google.com/store/details/3c39a33bbc064308941f9276c38c30e7rcp1/sku/07b0ea07f5554f70a2675fe696b4c9ebp)
 
 ## Steam
 
