@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-38-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-101-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-102-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-10-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-815-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-816-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -197,6 +197,7 @@
 - [Samsara Room](https://apps.apple.com/us/app/samsara-room/id1504447910)
 - [Sdorica](https://apps.apple.com/us/app/sdorica/id1079395220)
 - [Shadowmatic](https://apps.apple.com/us/app/shadowmatic/id775888026)
+- [Sky: Children of the Light](https://apps.apple.com/us/app/sky-children-of-the-light/id1462117269)
 - [Sound Rebound](https://apps.apple.com/us/app/sound-rebound/id1156775187)
 - [Splitter Critters](https://apps.apple.com/us/app/splitter-critters/id1107320261)
 - [Steam Mobile](https://apps.apple.com/us/app/steam-mobile/id495369748)
