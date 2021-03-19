@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-106-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-107-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-10-ddd?logo=gog.com&labelColor=86328a"/>
@@ -66,7 +66,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-814-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-815-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -334,6 +334,7 @@
 - [Tacoma](https://www.epicgames.com/store/en-US/p/tacoma)
 - [The Alto Collection](https://www.epicgames.com/store/en-US/p/the-alto-collection)
 - [The Escapists](https://www.epicgames.com/store/en-US/p/the-escapists)
+- [The Fall](https://www.epicgames.com/store/en-US/p/the-fall)
 - [The Long Dark](https://www.epicgames.com/store/en-US/p/the-long-dark)
 - [The Textorcist: The Story of Ray Bibbia](https://www.epicgames.com/store/en-US/p/the-textorcist)
 - [The Wolf Among Us](https://www.epicgames.com/store/en-US/p/the-wolf-among-us)
