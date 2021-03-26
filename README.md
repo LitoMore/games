@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-120-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-128-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-39-ddd?logo=playstation&labelColor=000000"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-845-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-853-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -556,6 +556,7 @@
 ## PlayStation®4
 
 - [A Plague Tale: Innocence](https://www.playstation.com/en-us/games/aplague-tale-innocence-ps4/)
+- [ABZÛ](https://www.playstation.com/en-us/games/abzu/)
 - [Ace Combat 7: Skies Unknown](https://www.playstation.com/en-us/games/ace-combat-7-skies-unknown-ps4/)
 - [Action Henk](https://www.playstation.com/en-us/games/action-henk-ps4/)
 - [Aegis Defenders](https://www.playstation.com/en-us/games/aegis-defenders-ps4/)
@@ -594,6 +595,7 @@
 - [DiRT Rally 2.0](https://www.playstation.com/en-us/games/dirt-rally-20-ps4/)
 - [DOOM® VFR](https://www.playstation.com/en-us/games/doom-vfr-ps4/)
 - [DYNASTY WARRIORS 8: Xtreme Legends Complete Edition](https://www.playstation.com/en-us/games/dynasty-warriors-8-xtreme-legends-complete-edition-ps4/)
+- [Enter the Gungeon](https://store.playstation.com/en-us/product/UP3643-CUSA01608_00-0000000000000000)
 - [Erica](https://www.playstation.com/en-us/games/erica-ps4/)
 - [Fall Guys: Ultimate Knockout](https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout-ps4/)
 - [Farming Simulator 19](https://www.playstation.com/en-us/games/farming-simulator-19-ps4/)
@@ -624,6 +626,7 @@
 - [MLB® The Show™ 19](https://www.playstation.com/en-us/games/mlb-the-show-19-ps4/)
 - [Monster Energy Supercross - The Official Videogame](https://www.playstation.com/en-us/games/monster-energy-supercross-the-official-videogame-ps4/)
 - [Monster Hunter World: Iceborne](https://www.playstation.com/en-us/games/monster-hunter-world-ps4/iceborne/)
+- [Moss™](https://store.playstation.com/en-us/product/UP1983-CUSA09290_00-MOSSGAME00000000)
 - [NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 Road to Boruto](https://www.playstation.com/en-us/games/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-ps4/)
 - [NBA 2K20](https://www.playstation.com/en-us/games/nba-2k20-ps4/)
 - [Need for Speed™ Payback](https://www.playstation.com/en-us/games/need-for-speed-payback-ps4/)
@@ -631,6 +634,7 @@
 - [NieR: Automata](https://www.playstation.com/en-us/games/nier-automata-ps4/)
 - [Nioh 2](https://www.playstation.com/en-us/games/nioh-2-ps4/)
 - [Outlast 2](https://www.playstation.com/en-us/games/outlast-2-ps4/)
+- [Paper Beast](https://store.playstation.com/en-us/product/UP3405-CUSA15346_00-PAPERBEAST047011)
 - [Patapon™ 2 Remastered](https://www.playstation.com/en-us/games/patapon-2-remastered-ps4/)
 - [Patapon™ Remastered](https://www.playstation.com/en-us/games/patapon-remastered-ps4/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5-ps4/)
@@ -643,6 +647,7 @@
 - [Resident Evil 4](https://www.playstation.com/en-us/games/resident-evil-4-ps4/)
 - [Resident Evil 5](https://www.playstation.com/en-us/games/resident-evil-5-ps4/)
 - [Resident Evil 6](https://www.playstation.com/en-us/games/resident-evil-6-ps4/)
+- [Rez Infinite](https://store.playstation.com/en-us/product/UP0751-CUSA05868_00-REZINFINITE00000)
 - [Rise of the Tomb Raider: 20 Year Celebration](https://www.playstation.com/en-us/games/rise-of-the-tomb-raider-20-year-celebration-ps4/)
 - [Sakura Wars™](https://www.playstation.com/en-us/games/sakura-wars-ps4/)
 - [Sekiro™: Shadows Die Twice](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/)
@@ -653,6 +658,7 @@
 - [STAR WARS Jedi: Fallen Order™](https://www.playstation.com/en-us/games/star-wars-jedi-fallen-order-ps4/)
 - [Star Wars™ Battlefront™ II](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
 - [STREET FIGHTER® V](https://www.playstation.com/en-us/games/street-fighter-v-ps4/)
+- [Subnautica](https://store.playstation.com/en-us/product/UP5245-CUSA13529_00-SUBNAUTICA000000)
 - [The Elder Scrolls V: Skyrim VR](https://www.playstation.com/en-us/games/the-elder-scrolls-v-skyrim-vr-ps4/)
 - [The Last of Us Part II](https://www.thelastofus.playstation.com/)
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
@@ -662,6 +668,8 @@
 - [The Sims 4](https://www.playstation.com/en-us/games/the-sims-4-ps4/)
 - [The Surge](https://www.playstation.com/en-us/games/the-surge-ps4/)
 - [The Witcher 3: Wild Hunt – Complete Edition](https://store.playstation.com/en-us/product/UP4497-CUSA05725_00-00000000000GOTY5)
+- [The Witness](https://store.playstation.com/en-us/product/UP2124-CUSA00498_00-THEWITNESSPS4PS4)
+- [Thumper](https://store.playstation.com/en-us/product/UP1613-CUSA03559_00-THUMPERPS4FULL00)
 - [Tilt Brush](https://www.playstation.com/en-us/games/tilt-brush-ps4/)
 - [Titanfall 2](https://www.playstation.com/en-us/games/titanfall-2-ps4/)
 - [Tom Clancy’s The Division® 2](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/)
