@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-39-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-40-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-102-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-844-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-845-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -108,6 +108,7 @@
 - [Table Manners](https://images-na.ssl-images-amazon.com/images/I/518y8hZMjiL.jpg)
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
+- [The Dark Crystal: Age of Resistance Tactics](https://images-na.ssl-images-amazon.com/images/I/41iLzPBFjDL.jpg)
 - [The King of Fighters '98 Ultimate Match Final Edition](https://images-na.ssl-images-amazon.com/images/I/41qpZ-kv70L.jpg)
 - [The King of Fighters 2000](https://images-na.ssl-images-amazon.com/images/I/41Wjf4l03CL.jpg)
 - [The King of Fighters 2002](https://images-na.ssl-images-amazon.com/images/I/41fcwhx7W2L.jpg)
