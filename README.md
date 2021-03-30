@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-155-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-156-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-853-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-854-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -469,6 +469,7 @@
 - [Luigi’s Mansion™ 3](https://www.nintendo.com/games/detail/luigis-mansion-3-switch/)
 - [Mana Spark](https://www.nintendo.com/games/detail/mana-spark-switch/)
 - [Mario & Sonic at the Olympic Games Tokyo 2020](https://www.nintendo.com/games/detail/mario-and-sonic-at-the-olympic-games-tokyo-2020-switch/)
+- [Mario + Rabbids Kingdom Battle Gold Edition](https://www.nintendo.com/games/detail/mario-plus-rabbids-kingdom-battle-gold-edition-switch/)
 - [Mario Kart Live: Home Circuit™](https://www.nintendo.com/games/detail/mario-kart-live-home-circuit-switch/)
 - [Mario Kart™ 8 Deluxe](https://www.nintendo.com/games/detail/mario-kart-8-deluxe-switch/)
 - [Mario Tennis™ Aces](https://www.nintendo.com/games/detail/mario-tennis-aces-switch/)
