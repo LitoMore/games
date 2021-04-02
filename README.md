@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-108-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-109-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-10-ddd?logo=gog.com&labelColor=86328a"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-855-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-856-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -340,6 +340,7 @@
 - [Superbrothers: Sword & Sworcery EP](https://www.epicgames.com/store/en-US/p/superbrothers-sword-and-sworcery-ep)
 - [Surviving Mars](https://www.epicgames.com/store/en-US/p/surviving-mars)
 - [Tacoma](https://www.epicgames.com/store/en-US/p/tacoma)
+- [Tales of the Neon Sea](https://www.epicgames.com/store/en-US/p/tales-of-the-neon-sea)
 - [The Alto Collection](https://www.epicgames.com/store/en-US/p/the-alto-collection)
 - [The Escapists](https://www.epicgames.com/store/en-US/p/the-escapists)
 - [The Fall](https://www.epicgames.com/store/en-US/p/the-fall)
