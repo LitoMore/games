@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-12-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-13-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-856-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-857-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -984,6 +984,7 @@
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
 - [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
 - [Vicious Attack Llama Apocalypse](https://www.microsoft.com/en-us/p/Vicious-Attack-Llama-Apocalypse/9N253PVJ49WT)
+- [Vikings - Wolves of Midgard](https://www.microsoft.com/en-us/p/Vikings---Wolves-of-Midgard/C32XK5TG6RNM)
 - [Warface: Breakout](https://www.microsoft.com/en-us/p/warface-breakout/9ngvwz3mgt0b)
 
 ## Related
