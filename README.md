@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-40-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-45-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-104-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -69,15 +69,17 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-859-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-864-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
 ## Amazon Games
 
+- [Aces of Luftwaffe - Squadron](https://images-na.ssl-images-amazon.com/images/I/516gqDmaJML.jpg)
 - [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
 - [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
 - [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
+- [Before I Forge](https://images-na.ssl-images-amazon.com/images/I/314xBFn+hsL.jpg)
 - [Blasphemous](https://images-na.ssl-images-amazon.com/images/I/41nl6XNb9UL.jpg)
 - [Blazing Star](https://images-na.ssl-images-amazon.com/images/I/41bWigpfrxL.jpg)
 - [Bomber Crew Deluxe](https://images-na.ssl-images-amazon.com/images/I/51bKrVtSuHL.jpg)
@@ -91,6 +93,8 @@
 - [Metal Slug 2](https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg)
 - [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
 - [Monster Prom: Hotseat Edition](https://images-na.ssl-images-amazon.com/images/I/51nRAK5QHeL.jpg)
+- [Move or Die - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51nCq1urIkL.jpg)
+- [Move Out](https://images-na.ssl-images-amazon.com/images/I/41+IRxmoXIL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
 - [Pulstar](https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg)
 - [Samurai Shodown II](https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg)
@@ -109,6 +113,7 @@
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
 - [The Dark Crystal: Age of Resistance Tactics](https://images-na.ssl-images-amazon.com/images/I/41iLzPBFjDL.jpg)
+- [The Escapists](https://images-na.ssl-images-amazon.com/images/I/41Kb8VDshJL.jpg)
 - [The King of Fighters '98 Ultimate Match Final Edition](https://images-na.ssl-images-amazon.com/images/I/41qpZ-kv70L.jpg)
 - [The King of Fighters 2000](https://images-na.ssl-images-amazon.com/images/I/41Wjf4l03CL.jpg)
 - [The King of Fighters 2002](https://images-na.ssl-images-amazon.com/images/I/41fcwhx7W2L.jpg)

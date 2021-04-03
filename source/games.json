@@ -9,6 +9,10 @@
       ],
       "gameList": [
         {
+          "name": "Aces of Luftwaffe - Squadron",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/516gqDmaJML.jpg"
+        },
+        {
           "name": "Adventures of Chris",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg"
         },
@@ -19,6 +23,10 @@
         {
           "name": "Baseball Stars 2",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg"
+        },
+        {
+          "name": "Before I Forge",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/314xBFn+hsL.jpg"
         },
         {
           "name": "Blasphemous",
@@ -71,6 +79,14 @@
         {
           "name": "Monster Prom: Hotseat Edition",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51nRAK5QHeL.jpg"
+        },
+        {
+          "name": "Move or Die - Couch Party Edition",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51nCq1urIkL.jpg"
+        },
+        {
+          "name": "Move Out",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41+IRxmoXIL.jpg"
         },
         {
           "name": "Optica",
@@ -143,6 +159,10 @@
         {
           "name": "The Dark Crystal: Age of Resistance Tactics",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41iLzPBFjDL.jpg"
+        },
+        {
+          "name": "The Escapists",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41Kb8VDshJL.jpg"
         },
         {
           "name": "The King of Fighters '98 Ultimate Match Final Edition",
