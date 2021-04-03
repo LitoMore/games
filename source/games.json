@@ -2693,6 +2693,10 @@
           "website": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/cc1997b89ae44886a1197a59b42b2613"
         },
         {
+          "name": "HITMAN - World of Assassination",
+          "website": "https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/17d98b899531490ba355016919ffe6ff"
+        },
+        {
           "name": "Hotline Miami",
           "website": "https://stadia.google.com/store/details/5f54e869de4441f8998e80d2c54fa74brcp1/sku/be1bff38daf046f78cde2b36228de554"
         },
@@ -2721,6 +2725,10 @@
           "website": "https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5"
         },
         {
+          "name": "PIKUNIKU",
+          "website": "https://stadia.google.com/store/details/c02a86f966b044569ee03f80fbc86035rcp1/sku/f1bbad79434f496bae9865248c6c136ap"
+        },
+        {
           "name": "PixelJunk Raiders",
           "website": "https://stadia.google.com/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p"
         },
@@ -2733,8 +2741,16 @@
           "website": "https://stadia.google.com/store/details/2677ffb357f946e29b4e86a9f18ea55frcp1/sku/0b415b02e06f452f8be948daf77787c1p"
         },
         {
+          "name": "Resident Evil 7 biohazard Gold Edition",
+          "website": "https://stadia.google.com/store/details/8c452d1e69554c36a28b64ee8344037drcp1/sku/29857d666ee24e56a7c52ce2f8f561b4p"
+        },
+        {
           "name": "République",
           "website": "https://stadia.google.com/store/details/65864a95f9e74129845bda0467486413rcp1/sku/2a4af85a84974cdba4d61df620305335"
+        },
+        {
+          "name": "SpongeBobSquarePants:Battle for Bikini BottomRehydrated",
+          "website": "https://stadia.google.com/store/details/53bd183291e340dda697167108d3dc6brcp1/sku/a25302b5cbc44d03b1440d2adaa0dd5ap"
         },
         {
           "name": "SteamWorld Dig 2",
@@ -2751,6 +2767,14 @@
         {
           "name": "Submerged: Hidden Depths",
           "website": "https://stadia.google.com/store/details/3c39a33bbc064308941f9276c38c30e7rcp1/sku/07b0ea07f5554f70a2675fe696b4c9ebp"
+        },
+        {
+          "name": "SUPERHOT: MIND CONTROL DELETE",
+          "website": "https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6"
+        },
+        {
+          "name": "Ys VIII: Lacrimosa of DANA",
+          "website": "https://stadia.google.com/store/details/7ced0b517b144dd98529ceffab963791rcp1/sku/b51c2723938547a99ebfb2e3b2ae320dp"
         }
       ]
     },
