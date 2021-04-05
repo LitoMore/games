@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-45-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-104-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-105-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-10-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-870-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-871-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -222,6 +222,7 @@
 - [The Room Pocket](https://apps.apple.com/us/app/the-room-pocket/id573156739)
 - [The Room Three](https://apps.apple.com/us/app/the-room-three/id918054748)
 - [The Room Two](https://apps.apple.com/us/app/the-room-two/id667362389)
+- [The Room Two+](https://apps.apple.com/us/app/the-room-two/id1554087004)
 - [The Room: Old Sins](https://apps.apple.com/us/app/the-room-old-sins/id1286676015)
 - [The Trail](https://apps.apple.com/us/app/the-trail/id1147002179)
 - [Time Surfer](https://apps.apple.com/us/app/time-surfer/id549361775)
