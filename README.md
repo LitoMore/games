@@ -68,7 +68,7 @@
   <a href="https://github.com/LitoMore/games/actions">
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
-  <a href="https://github.com/LitoMore/games/fork">
+  <a href="https://github.com/LitoMore/games/blame/main/README.md">
     <img src="https://img.shields.io/badge/Games_Total-875-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
