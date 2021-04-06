@@ -2472,8 +2472,16 @@
           "website": "https://www.playstation.com/en-us/games/wolfenstein-cyberpilot-ps4/"
         },
         {
+          "name": "X-Morph: Defense",
+          "website": "https://store.playstation.com/en-us/product/UP4380-CUSA07598_00-XMORPHDIGITALDLX"
+        },
+        {
           "name": "Xuan-Yuan Sword VII",
           "website": "https://store.playstation.com/en-hk/product/HP3256-CUSA23482_00-XUANYUANSWORD007"
+        },
+        {
+          "name": "Zombie Army 4: Dead War",
+          "website": "https://www.playstation.com/en-us/games/zombie-army-4-dead-war/"
         }
       ]
     },
@@ -2527,7 +2535,7 @@
           "website": "https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY"
         },
         {
-          "name": "Day Gone",
+          "name": "Days Gone",
           "website": "https://www.playstation.com/en-us/games/days-gone/"
         },
         {
@@ -2593,6 +2601,10 @@
         {
           "name": "Mortal Kombat X",
           "website": "https://www.playstation.com/en-us/games/mortal-kombat-x/"
+        },
+        {
+          "name": "Oddworld: Soulstorm",
+          "website": "https://www.playstation.com/en-us/games/oddworld-soulstorm/"
         },
         {
           "name": "Persona 5",
