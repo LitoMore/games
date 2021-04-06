@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Stadia-32-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-192-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-193-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/fork">
-    <img src="https://img.shields.io/badge/Games_Total-874-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-875-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -876,6 +876,7 @@
 - [Linea, the Game](https://steamcommunity.com/app/428900)
 - [Lines Infinite](https://steampowered.com/app/733050)
 - [Lines X](https://steampowered.com/app/724740)
+- [Loop Hero](https://steamcommunity.com/app/1282730)
 - [LYNE](https://steamcommunity.com/app/266010)
 - [Mad Max](https://steamcommunity.com/app/234140)
 - [Marvel Heroes Omega](https://steamcommunity.com/app/226320)
