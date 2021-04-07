@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-158-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-159-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-877-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-878-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -405,6 +405,7 @@
 - [1-2-Switch](https://www.nintendo.com/games/detail/1-2-switch-switch/)
 - [30-in-1 Game Collection](https://www.nintendo.com/games/detail/30-in-1-game-collection-switch/)
 - [AER Memories of Old](https://www.nintendo.com/games/detail/aer-memories-of-old-switch/)
+- [Among Us](https://www.nintendo.com/games/detail/among-us-switch/)
 - [Animal Crossing™: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
 - [Arena of Valor](https://www.nintendo.com/games/detail/arena-of-valor-switch/)
 - [Asphalt 9: Legends](https://www.nintendo.com/games/detail/asphalt-9-legends-switch/)
