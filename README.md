@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-156-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-157-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-875-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-876-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -487,6 +487,7 @@
 - [MO:Astray](https://www.nintendo.com/games/detail/moastray-switch/)
 - [MODEL Debut #nicola](https://store.nintendo.com.hk/70010000028466)
 - [Monster Hunter Generations Ultimate™](https://www.nintendo.com/games/detail/monster-hunter-generations-ultimate-switch/)
+- [MONSTER HUNTER RISE](https://www.nintendo.com/games/detail/monster-hunter-rise-switch/)
 - [Moving Out](https://www.nintendo.com/games/detail/moving-out-switch/)
 - [NARUTO SHIPPUDEN: Ultimate Ninja Storm Trilogy](https://www.nintendo.com/games/detail/naruto-shippuden-ultimate-ninja-storm-trilogy-switch/)
 - [NBA 2K19](https://www.nintendo.com/games/detail/nba-2k19-switch/)
