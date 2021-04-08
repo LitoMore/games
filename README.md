@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-109-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-110-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-10-ddd?logo=gog.com&labelColor=86328a"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-878-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-879-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -263,6 +263,7 @@
 - [Amnesia: A Machine for Pigs](https://www.epicgames.com/store/en-US/p/amnesia-a-machine-for-pigs)
 - [Amnesia: The Dark Descent](https://www.epicgames.com/store/en-US/p/amnesia-the-dark-descent)
 - [ARK: Survival Evolved](https://www.epicgames.com/store/en-US/p/ark)
+- [Auto Chess](https://www.epicgames.com/store/en-US/p/auto-chess)
 - [Aztez](https://www.epicgames.com/store/en-US/p/aztez)
 - [Barony](https://www.epicgames.com/store/en-US/p/barony)
 - [Blair Witch](https://www.epicgames.com/store/en-US/p/blair-witch)
