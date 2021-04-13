@@ -600,10 +600,6 @@
           "website": "https://apps.apple.com/us/app/the-room-two/id667362389"
         },
         {
-          "name": "The Room Two+",
-          "website": "https://apps.apple.com/us/app/the-room-two/id1554087004"
-        },
-        {
           "name": "The Room: Old Sins",
           "website": "https://apps.apple.com/us/app/the-room-old-sins/id1286676015"
         },
@@ -672,6 +668,10 @@
         {
           "name": "Tangle Tower",
           "website": "https://apps.apple.com/us/app/tangle-tower/id1466301290"
+        },
+        {
+          "name": "The Room Two+",
+          "website": "https://apps.apple.com/us/app/the-room-two/id1554087004"
         }
       ]
     },

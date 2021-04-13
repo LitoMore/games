@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/Amazon_Games-46-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-105-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-104-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-10-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-11-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -223,7 +223,6 @@
 - [The Room Pocket](https://apps.apple.com/us/app/the-room-pocket/id573156739)
 - [The Room Three](https://apps.apple.com/us/app/the-room-three/id918054748)
 - [The Room Two](https://apps.apple.com/us/app/the-room-two/id667362389)
-- [The Room Two+](https://apps.apple.com/us/app/the-room-two/id1554087004)
 - [The Room: Old Sins](https://apps.apple.com/us/app/the-room-old-sins/id1286676015)
 - [The Trail](https://apps.apple.com/us/app/the-trail/id1147002179)
 - [Time Surfer](https://apps.apple.com/us/app/time-surfer/id549361775)
@@ -242,6 +241,7 @@
 - [Shantae and the Seven Sirens](https://apps.apple.com/us/app/shantae-and-the-seven-sirens/id1466096947)
 - [Spek.](https://apps.apple.com/us/app/spek/id1465321502)
 - [Tangle Tower](https://apps.apple.com/us/app/tangle-tower/id1466301290)
+- [The Room Two+](https://apps.apple.com/us/app/the-room-two/id1554087004)
 
 ## Battle.net
 
