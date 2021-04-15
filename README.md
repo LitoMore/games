@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-160-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-161-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -69,7 +69,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-884-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-885-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -450,6 +450,7 @@
 - [Dragon's Dogma: Dark Arisen](https://www.nintendo.com/games/detail/dragons-dogma-dark-arisen-switch/)
 - [ESCAPE TRICK: 35 Fateful Enigmas](https://www.nintendo.com/games/detail/escape-trick-35-fateful-enigmas-switch/)
 - [Evoland Legendary Edition](https://www.nintendo.com/games/detail/evoland-legendary-edition-switch/)
+- [FEZ](https://www.nintendo.com/games/detail/fez-switch/)
 - [FIFA 18](https://www.nintendolife.com/reviews/nintendo-switch/fifa_18)
 - [FINAL FANTASY X/X-2 HD Remaster](https://www.nintendo.com/games/detail/final-fantasy-xx-2-hd-remaster-switch/)
 - [FiNC HOME FiT](https://store-jp.nintendo.com/list/software/70010000026360.html)
