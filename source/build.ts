@@ -30,7 +30,7 @@ ${
 `
   : "";
 
-const descptionSection = `
+const descriptionSection = `
 <p align="center">
   List of video games I already own
 </p>
@@ -78,8 +78,8 @@ const relatedSection = games.related.length > 0
 `
   : "";
 
-const markdownContnet = titleSection + badgesSection + descptionSection +
+const markdownContent = titleSection + badgesSection + descriptionSection +
   ciSection + gamesSection + relatedSection;
 
-await Deno.writeTextFile("../README.md", markdownContnet);
+await Deno.writeTextFile("../README.md", markdownContent);
 console.log("Compiled successfully.");
