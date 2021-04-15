@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#nintendo-3ds">
-    <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
+    <img src="https://img.shields.io/badge/Nintendo_3DS-5-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="nintendo-ds">
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-890-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-892-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -396,6 +396,8 @@
 ## Nintendo 3DS™
 
 - [MapleStory: The Girl's Fate](https://namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EC%9A%B4%EB%AA%85%EC%9D%98%20%EC%86%8C%EB%85%80)
+- [Mario & Luigi: Dream Team](https://www.nintendo.com/games/detail/mario-and-luigi-dream-team-3ds/)
+- [Mario Kart 7](https://www.nintendo.com/games/detail/mario-kart-7-3ds/)
 - [The Legend of Zelda: A Link Between Worlds](https://www.nintendo.com/games/detail/the-legend-of-zelda-a-link-between-worlds-3ds/)
 - [The Legend of Zelda: The Minish Cap](https://www.nintendolife.com/reviews/3ds-eshop/legend_of_zelda_the_minish_cap_gba)
 
