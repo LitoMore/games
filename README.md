@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-46-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-104-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-108-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-11-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-892-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-896-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -129,6 +129,7 @@
 
 - [A Dark Dragon](https://apps.apple.com/au/id1029839730)
 - [AB Classic](https://apps.apple.com/zw/id343200656)
+- [Adera](https://apps.apple.com/us/app/adera/id1319325202)
 - [Among Us!](https://apps.apple.com/us/id1351168404)
 - [Angry Birds 2](https://apps.apple.com/us/id880047117)
 - [Animal Crossing: Pocket Camp](https://apps.apple.com/us/id1179915619)
@@ -165,6 +166,7 @@
 - [Doodle Farm™](https://apps.apple.com/us/id427804316)
 - [Doodle God™](https://apps.apple.com/us/id376374689)
 - [Doodle Kingdom™](https://apps.apple.com/us/id760319105)
+- [Dots and Boxes - Classic Games](https://apps.apple.com/us/app/dots-and-boxes-classic-games/id625311640)
 - [Dr. Mario World](https://apps.apple.com/us/id1440129313)
 - [Dr.Stanley's House 1](https://apps.apple.com/us/id444896567)
 - [Dr.Stanley's House 2](https://apps.apple.com/us/id432047970)
@@ -179,6 +181,7 @@
 - [Happy Room](https://apps.apple.com/us/id1195527450)
 - [Hatchi - A retro virtual pet](https://apps.apple.com/au/id489479624)
 - [Heads Up!](https://apps.apple.com/us/id623592465)
+- [Honor of Kings](https://apps.apple.com/cn/app/王者荣耀/id989673964)
 - [Implosion - Never Lose Hope](https://apps.apple.com/us/id870322730)
 - [Ingress Prime](https://apps.apple.com/us/id576505181)
 - [Ira Ira Boy](https://apps.apple.com/ky/id1048482048)
@@ -205,6 +208,7 @@
 - [Plants vs. Zombies™ 2](https://apps.apple.com/us/id597986893)
 - [Pokémon GO](https://apps.apple.com/us/id1094591345)
 - [Prune](https://apps.apple.com/us/id972319818)
+- [PUBG Mobile](https://apps.apple.com/cn/id1321803705)
 - [Reigns](https://apps.apple.com/us/id1114127463)
 - [Reigns: Her Majesty](https://apps.apple.com/us/id1171040772)
 - [Roblox](https://apps.apple.com/us/id431946152)
