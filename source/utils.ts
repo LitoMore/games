@@ -1,3 +1,14 @@
+const unifyAppStoreWebsite = (website: string): string => {
+  const websitePattern =
+    /^https?:\/\/apps\.apple\.com\/(?<languageCode>[a-z]{2})\/app\/(?<name>.+)\/(?<id>id\d+)$/;
+
+  if (websitePattern.test(website)) {
+    return website.replace(websitePattern, "https://apps.apple.com/$1/$3");
+  }
+
+  return website;
+};
+
 const unifyEpicGamesWebsite = (website: string): string => {
   const websitePattern =
     /^https:\/\/www\.epicgames\.com\/store\/(?<languageCode>[a-z]{2}-[A-Z]{2})\/product\/(?<name>.+$)/;
@@ -28,6 +39,8 @@ const unifySteamWebsite = (website: string): string => {
 
 export const websiteChecks = (anchor: string, website: string): string => {
   switch (anchor) {
+    case "#app-store":
+      return unifyAppStoreWebsite(website);
     case "#epic-games":
       return unifyEpicGamesWebsite(website);
     case "#steam":
