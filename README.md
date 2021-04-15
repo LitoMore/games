@@ -25,6 +25,9 @@
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-3-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
+  <a href="nintendo-ds">
+    <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
+  </a>
   <a href="#nintendo-game--watch">
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
@@ -69,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-886-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-890-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -395,6 +398,13 @@
 - [MapleStory: The Girl's Fate](https://namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EC%9A%B4%EB%AA%85%EC%9D%98%20%EC%86%8C%EB%85%80)
 - [The Legend of Zelda: A Link Between Worlds](https://www.nintendo.com/games/detail/the-legend-of-zelda-a-link-between-worlds-3ds/)
 - [The Legend of Zelda: The Minish Cap](https://www.nintendolife.com/reviews/3ds-eshop/legend_of_zelda_the_minish_cap_gba)
+
+## Nintendo DS™
+
+- [Animal Crossing: Wild World](https://www.nintendo.com/games/detail/animal-crossing-wild-world-wii-u/)
+- [MapleStory DS](https://nintendo.fandom.com/wiki/MapleStory_DS)
+- [The Legend of Zelda: Phantom Hourglass](https://www.nintendo.com/games/detail/the-legend-of-zelda-phantom-hourglass-wii-u/)
+- [The Legend of Zelda: Spirit Tracks](https://www.nintendo.com/games/detail/the-legend-of-zelda-spirit-tracks-wii-u/)
 
 ## Nintendo Game & Watch
 

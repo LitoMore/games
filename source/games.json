@@ -1286,6 +1286,33 @@
       ]
     },
     {
+      "name": "Nintendo DS™",
+      "anchor": "nintendo-ds",
+      "badge": "https://img.shields.io/badge/Nintendo_DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d22128",
+      "hostnames": [
+        "nintendo.fandom.com",
+        "www.nintendo.com"
+      ],
+      "gameList": [
+        {
+          "name": "Animal Crossing: Wild World",
+          "website": "https://www.nintendo.com/games/detail/animal-crossing-wild-world-wii-u/"
+        },
+        {
+          "name": "MapleStory DS",
+          "website": "https://nintendo.fandom.com/wiki/MapleStory_DS"
+        },
+        {
+          "name": "The Legend of Zelda: Phantom Hourglass",
+          "website": "https://www.nintendo.com/games/detail/the-legend-of-zelda-phantom-hourglass-wii-u/"
+        },
+        {
+          "name": "The Legend of Zelda: Spirit Tracks",
+          "website": "https://www.nintendo.com/games/detail/the-legend-of-zelda-spirit-tracks-wii-u/"
+        }
+      ]
+    },
+    {
       "name": "Nintendo Game & Watch",
       "anchor": "#nintendo-game--watch",
       "badge": "https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-{{count}}-ddd?logo=nintendo&labelColor=c81419&logoColor=white",
