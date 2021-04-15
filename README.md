@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-111-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-114-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-10-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-896-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-899-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -293,6 +293,7 @@
 - [Darksiders Warmastered Edition](https://www.epicgames.com/store/en-US/p/darksiders)
 - [Death Coming](https://www.epicgames.com/store/en-US/p/death-coming)
 - [Defense Grid: The Awakening](https://www.epicgames.com/store/en-US/p/defense-grid)
+- [Deponia: The Complete Journey](https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey)
 - [Drawful 2](https://www.epicgames.com/store/en-US/p/drawful-2)
 - [Dungeons 3](https://www.epicgames.com/store/en-US/p/dungeons-3)
 - [Elite Dangerous](https://www.epicgames.com/store/en-US/p/elite-dangerous)
@@ -317,6 +318,7 @@
 - [Into The Breach](https://www.epicgames.com/store/en-US/p/into-the-breach)
 - [Jotun: Valhalla Edition](https://www.epicgames.com/store/en-US/p/jotun)
 - [Jurassic World Evolution](https://www.epicgames.com/store/en-US/p/jurassic-world-evolution)
+- [Ken Follett's The Pillars of the Earth](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
 - [Kingdom Come: Deliverance](https://www.epicgames.com/store/en-US/p/kingdom-come-deliverance)
 - [Kingdom New Lands](https://www.epicgames.com/store/en-US/p/kingdom-new-lands)
 - [Layers of Fear 2](https://www.epicgames.com/store/en-US/p/layers-of-fear-2)
@@ -361,6 +363,7 @@
 - [The Alto Collection](https://www.epicgames.com/store/en-US/p/the-alto-collection)
 - [The Escapists](https://www.epicgames.com/store/en-US/p/the-escapists)
 - [The Fall](https://www.epicgames.com/store/en-US/p/the-fall)
+- [The First Tree](https://www.epicgames.com/store/en-US/p/the-first-tree)
 - [The Long Dark](https://www.epicgames.com/store/en-US/p/the-long-dark)
 - [The Textorcist: The Story of Ray Bibbia](https://www.epicgames.com/store/en-US/p/the-textorcist)
 - [The Wolf Among Us](https://www.epicgames.com/store/en-US/p/the-wolf-among-us)
