@@ -3,7 +3,7 @@ const unifyAppStoreWebsite = (website: string): string => {
     /^https?:\/\/apps\.apple\.com\/(?<languageCode>[a-z]{2})\/app\/(?<name>.+)\/(?<id>id\d+)$/;
 
   if (websitePattern.test(website)) {
-    return website.replace(websitePattern, "https://apps.apple.com/$1/$3");
+    return website.replace(websitePattern, "https://apps.apple.com/$1/app/$3");
   }
 
   return website;
