@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-46-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-108-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-109-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-11-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-899-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-900-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -153,6 +153,7 @@
 - [Cube Escape: The Lake](https://apps.apple.com/us/app/id983081008)
 - [Cube Escape: The Mill](https://apps.apple.com/us/app/id1022292932)
 - [Cube Escape: Theatre](https://apps.apple.com/au/app/id1092261317)
+- [Cut the Rope](https://apps.apple.com/us/app/id1024506959)
 - [Cut the Rope: Magic GOLD](https://apps.apple.com/us/app/id1044677336)
 - [Cytoid](https://apps.apple.com/us/app/id1266582726)
 - [Cytus](https://apps.apple.com/us/app/id485246824)
