@@ -40,6 +40,7 @@ const unifySteamWebsite = (website: string): string => {
 export const websiteChecks = (anchor: string, website: string): string => {
   switch (anchor) {
     case "#app-store":
+    case "#apple-arcade":
       return unifyAppStoreWebsite(website);
     case "#epic-games":
       return unifyEpicGamesWebsite(website);

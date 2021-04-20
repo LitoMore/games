@@ -240,19 +240,19 @@
 
 ## Apple Arcade
 
-- [Blek+](https://apps.apple.com/us/app/blek/id1551231841)
-- [Crossy Road Castle](https://apps.apple.com/us/app/crossy-road-castle/id1489275350)
-- [Cut the Rope Remastered](https://apps.apple.com/us/app/cut-the-rope-remastered/id1524615151)
-- [INMOST](https://apps.apple.com/us/app/inmost/id1465235605)
-- [Oceanhorn 2](https://apps.apple.com/us/app/oceanhorn-2/id1141837408)
-- [Oceanhorn: Chronos Dungeon](https://apps.apple.com/us/app/oceanhorn-chronos-dungeon/id1496599163)
-- [Patterned](https://apps.apple.com/us/app/patterned/id1451427346)
-- [Possessions.](https://apps.apple.com/us/app/possessions/id1470984371)
-- [Sayonara Wild Hearts](https://apps.apple.com/us/app/sayonara-wild-hearts/id1461823255)
-- [Shantae and the Seven Sirens](https://apps.apple.com/us/app/shantae-and-the-seven-sirens/id1466096947)
-- [Spek.](https://apps.apple.com/us/app/spek/id1465321502)
-- [Tangle Tower](https://apps.apple.com/us/app/tangle-tower/id1466301290)
-- [The Room Two+](https://apps.apple.com/us/app/the-room-two/id1554087004)
+- [Blek+](https://apps.apple.com/us/app/id1551231841)
+- [Crossy Road Castle](https://apps.apple.com/us/app/id1489275350)
+- [Cut the Rope Remastered](https://apps.apple.com/us/app/id1524615151)
+- [INMOST](https://apps.apple.com/us/app/id1465235605)
+- [Oceanhorn 2](https://apps.apple.com/us/app/id1141837408)
+- [Oceanhorn: Chronos Dungeon](https://apps.apple.com/us/app/id1496599163)
+- [Patterned](https://apps.apple.com/us/app/id1451427346)
+- [Possessions.](https://apps.apple.com/us/app/id1470984371)
+- [Sayonara Wild Hearts](https://apps.apple.com/us/app/id1461823255)
+- [Shantae and the Seven Sirens](https://apps.apple.com/us/app/id1466096947)
+- [Spek.](https://apps.apple.com/us/app/id1465321502)
+- [Tangle Tower](https://apps.apple.com/us/app/id1466301290)
+- [The Room Two+](https://apps.apple.com/us/app/id1554087004)
 
 ## Battle.net
 
