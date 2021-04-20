@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-109-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-12-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-13-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-906-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-907-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -240,6 +240,7 @@
 
 ## Apple Arcade
 
+- [Blek+](https://apps.apple.com/us/app/blek/id1551231841)
 - [Crossy Road Castle](https://apps.apple.com/us/app/crossy-road-castle/id1489275350)
 - [Cut the Rope Remastered](https://apps.apple.com/us/app/cut-the-rope-remastered/id1524615151)
 - [INMOST](https://apps.apple.com/us/app/inmost/id1465235605)
