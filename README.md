@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-114-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-115-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-10-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-907-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-908-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -314,6 +314,7 @@
 - [GoNNER](https://www.epicgames.com/store/en-US/p/gonner)
 - [Grand Theft Auto V](https://www.epicgames.com/store/en-US/p/grand-theft-auto-v)
 - [Halcyon 6 Starbase Commander](https://www.epicgames.com/store/en-US/p/halcyon-6)
+- [Hand of Fate 2](https://www.epicgames.com/store/en-US/p/hand-of-fate-2)
 - [HITMAN](https://www.epicgames.com/store/en-US/p/hitman)
 - [Hob](https://www.epicgames.com/store/en-US/p/hob)
 - [Hue](https://www.epicgames.com/store/en-US/p/hue)
