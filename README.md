@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-48-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-109-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-110-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-13-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-910-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-911-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -140,6 +140,7 @@
 - [Battleheart](https://apps.apple.com/us/app/id394057299)
 - [Bean's Quest](https://apps.apple.com/tt/app/id449069244)
 - [Beat Stomper](https://apps.apple.com/us/app/id1041808803)
+- [Candy Crush Jelly Saga](https://apps.apple.com/us/app/id1047246341)
 - [Candy Crush Saga](https://apps.apple.com/us/app/id553834731)
 - [Candy Crush Soda Saga](https://apps.apple.com/us/app/id850417475)
 - [Cats are Cute](https://apps.apple.com/us/app/id1395888987)
