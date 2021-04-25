@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Epic_Games-115-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
-    <img src="https://img.shields.io/badge/GOG.com-10-ddd?logo=gog.com&labelColor=86328a"/>
+    <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog.com&labelColor=86328a"/>
   </a>
   <a href="#google-play">
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-911-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-915-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -396,6 +396,10 @@
 - [Gothic 3: Forsaken Gods Enhanced Edition](https://www.gog.com/game/gothic_3_forsaken_gods)
 - [Heroes of Might and Magic® 2: Gold](https://www.gog.com/game/heroes_of_might_and_magic_2_gold_edition)
 - [Loop Hero](https://www.gog.com/game/loop_hero)
+- [METAL SLUG](https://www.gog.com/game/metal_slug)
+- [METAL SLUG 2](https://www.gog.com/game/metal_slug_2)
+- [METAL SLUG 3](https://www.gog.com/game/metal_slug_3)
+- [METAL SLUG X](https://www.gog.com/game/metal_slug_x)
 
 ## Google Play
 
