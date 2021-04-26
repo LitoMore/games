@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-48-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-110-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-111-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-13-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-915-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-916-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -146,6 +146,7 @@
 - [Cats are Cute](https://apps.apple.com/us/app/id1395888987)
 - [Cover Fire: Gun Shooting games](https://apps.apple.com/us/app/id1148931033)
 - [Crusaders Quest](https://apps.apple.com/us/app/id901858272)
+- [Cube Escape Collection](https://apps.apple.com/us/app/id1555267021)
 - [Cube Escape: Arles](https://apps.apple.com/us/app/id997113457)
 - [Cube Escape: Birthday](https://apps.apple.com/us/app/id1080643308)
 - [Cube Escape: Case 23](https://apps.apple.com/us/app/id1020664488)
