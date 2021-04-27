@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Apple_Arcade-13-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
-    <img src="https://img.shields.io/badge/Battle.net-7-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
     <img src="https://img.shields.io/badge/Epic_Games-115-ddd?logo=epic-games&labelColor=313131"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-916-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-917-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -261,6 +261,7 @@
 
 - [Call of Duty®: Modern Warfare®](https://us.shop.battle.net/en-us/family/call-of-duty-mw)
 - [Diablo® III](https://us.diablo3.com/)
+- [Hearthstone®](https://playhearthstone.com)
 - [Heroes of the Storm™](https://heroesofthestorm.com/en-us/)
 - [Overwatch®](https://playoverwatch.com/en-us/)
 - [StarCraft® II](https://starcraft2.com/en-us/)

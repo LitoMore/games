@@ -730,7 +730,8 @@
         "playoverwatch.com",
         "starcraft2.com",
         "worldofwarcraft.com",
-        "starcraft.com"
+        "starcraft.com",
+        "playhearthstone.com"
       ],
       "gameList": [
         {
@@ -740,6 +741,10 @@
         {
           "name": "Diablo® III",
           "website": "https://us.diablo3.com/"
+        },
+        {
+          "name": "Hearthstone®",
+          "website": "https://playhearthstone.com"
         },
         {
           "name": "Heroes of the Storm™",
