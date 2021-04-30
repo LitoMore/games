@@ -6,13 +6,15 @@ const games = JSON.parse(gamesJson) as { platforms: Platform[] };
 const [anchor, name, badge, hostnames] = Deno.args;
 if (!(anchor && name && badge && hostnames)) Deno.exit(1);
 
-games.platforms.push({
+const platform = {
   name,
   anchor,
   badge,
   hostnames: hostnames.split(" "),
   gameList: [],
-});
+};
+
+games.platforms.push(platform);
 
 games.platforms.sort((a, b) => {
   const aName = a.name.toLowerCase();
@@ -25,3 +27,4 @@ games.platforms.sort((a, b) => {
 const jsonFile = JSON.stringify(games, null, 2);
 await Deno.writeTextFile("./games.json", jsonFile + "\n");
 console.log(`${name} added.`);
+console.log(platform);

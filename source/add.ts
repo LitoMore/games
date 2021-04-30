@@ -25,10 +25,12 @@ if (
   Deno.exit(1);
 }
 
-foundPlatform.gameList.push({
+const game = {
   name,
   website,
-});
+};
+
+foundPlatform.gameList.push(game);
 
 foundPlatform.gameList.sort((a, b) => {
   const aName = a.name.toLowerCase();
@@ -40,4 +42,5 @@ foundPlatform.gameList.sort((a, b) => {
 
 const jsonFile = JSON.stringify(games, null, 2);
 await Deno.writeTextFile("./games.json", jsonFile + "\n");
-console.log(`${name} added.`);
+console.log(`${name} added to ${foundPlatform.name}`);
+console.log(game);
