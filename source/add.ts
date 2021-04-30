@@ -7,30 +7,35 @@ const games = JSON.parse(gamesJson);
 let [anchor, name, website] = Deno.args;
 if (!(anchor && name && website)) Deno.exit(1);
 
-games.platforms.forEach((platform: Platform) => {
-  if (platform.anchor.includes(anchor)) {
-    website = websiteChecks(platform.anchor, website);
+const foundPlatform: Platform = games.platforms.find((platform: Platform) =>
+  platform.anchor.includes(anchor)
+);
 
-    if (
-      platform.gameList.find((g) => g.name === name || g.website === website)
-    ) {
-      console.log("Duplicate game");
-      Deno.exit(1);
-    }
+if (!foundPlatform) {
+  console.log("Invalid anchor");
+  Deno.exit(1);
+}
 
-    platform.gameList.push({
-      name,
-      website,
-    });
+website = websiteChecks(foundPlatform.anchor, website);
 
-    platform.gameList.sort((a, b) => {
-      const aName = a.name.toLowerCase();
-      const bName = b.name.toLowerCase();
-      if (aName < bName) return -1;
-      if (aName > bName) return 1;
-      return 0;
-    });
-  }
+if (
+  foundPlatform.gameList.find((g) => g.name === name || g.website === website)
+) {
+  console.log("Duplicate game");
+  Deno.exit(1);
+}
+
+foundPlatform.gameList.push({
+  name,
+  website,
+});
+
+foundPlatform.gameList.sort((a, b) => {
+  const aName = a.name.toLowerCase();
+  const bName = b.name.toLowerCase();
+  if (aName < bName) return -1;
+  if (aName > bName) return 1;
+  return 0;
 });
 
 const jsonFile = JSON.stringify(games, null, 2);
