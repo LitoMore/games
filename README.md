@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-132-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-41-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-42-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-32-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-922-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-923-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -786,6 +786,7 @@
 - [Uncharted 4: A Thief’s End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
 - [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
 - [Watch Dogs®: Legion](https://www.playstation.com/en-us/games/watch-dogs-legion/)
+- [Werewolf: The Apocalypse – Earthblood](https://store.playstation.com/en-ie/product/EP4008-PPSA02113_00-WTASIEE000000000)
 - [Worms Rumble](https://www.playstation.com/en-us/games/worms-rumble/)
 
 ## Stadia
