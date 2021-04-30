@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-112-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-13-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-14-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-919-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-920-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -248,6 +248,7 @@
 - [Crossy Road Castle](https://apps.apple.com/us/app/id1489275350)
 - [Cut the Rope Remastered](https://apps.apple.com/us/app/id1524615151)
 - [INMOST](https://apps.apple.com/us/app/id1465235605)
+- [Monument Valley+](https://apps.apple.com/us/app/id1551940922)
 - [Oceanhorn 2](https://apps.apple.com/us/app/id1141837408)
 - [Oceanhorn: Chronos Dungeon](https://apps.apple.com/us/app/id1496599163)
 - [Patterned](https://apps.apple.com/us/app/id1451427346)
