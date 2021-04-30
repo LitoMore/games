@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-115-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-116-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-918-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-919-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -323,6 +323,7 @@
 - [HITMAN](https://www.epicgames.com/store/en-US/p/hitman)
 - [Hob](https://www.epicgames.com/store/en-US/p/hob)
 - [Hue](https://www.epicgames.com/store/en-US/p/hue)
+- [Idle Champions of the Forgotten Realms](https://www.epicgames.com/store/en-US/p/idle-champions-of-the-forgotten-realms)
 - [InnerSpace](https://www.epicgames.com/store/en-US/p/innerspace)
 - [Inside](https://www.epicgames.com/store/en-US/p/inside)
 - [Into The Breach](https://www.epicgames.com/store/en-US/p/into-the-breach)
