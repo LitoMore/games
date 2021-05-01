@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-132-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-133-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-42-ddd?logo=playstation&labelColor=000000"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-928-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-929-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -743,6 +743,7 @@
 - [X-Morph: Defense](https://store.playstation.com/en-us/product/UP4380-CUSA07598_00-XMORPHDIGITALDLX)
 - [Xuan-Yuan Sword VII](https://store.playstation.com/en-hk/product/HP3256-CUSA23482_00-XUANYUANSWORD007)
 - [Yonder: The Cloud Catcher Chronicles](https://store.playstation.com/en-hk/product/HP5035-CUSA10978_00-YONDERCCCKR00000)
+- [Zanki Zero: Last Beginning](https://store.playstation.com/en-us/product/UP4774-CUSA13221_00-ZANKIZEROPS40000)
 - [Zombie Army 4: Dead War](https://www.playstation.com/en-us/games/zombie-army-4-dead-war/)
 
 ## PlayStation®5
