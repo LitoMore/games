@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-42-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-32-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-34-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-195-ddd?logo=steam&labelColor=171a21"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-925-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-927-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -801,6 +801,7 @@
 - [EVERSPACE™](https://stadia.google.com/store/details/44752f1774ca4508a2c45e57121d7e8frcp1/sku/dfda545ac2e94885a13b1434d370d4b0)
 - [F1® 2020](https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/60da786be741463fbbeb63ed5130bc11)
 - [Figment](https://stadia.google.com/store/details/7183914d07034cb1bbb8a511779bc1efrcp1/sku/dfc0719b3a5b48ab8213033dc72bfdfcp)
+- [FLOOR KIDS](https://stadia.google.com/store/details/e184f2da322a41c9a31b3ef2c473f95arcp1/sku/c78b6a8ef7734bbf8de9c068eeadd049p)
 - [Gunsport](https://stadia.google.com/store/details/16330bd770134d85b5bef3cc6b1407ffrcp1/sku/896565e45f974774a117876f949630df)
 - [HITMAN - The Complete First Season](https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/cc1997b89ae44886a1197a59b42b2613)
 - [HITMAN - World of Assassination](https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/17d98b899531490ba355016919ffe6ff)
@@ -823,6 +824,7 @@
 - [SteamWorld Quest: Hand of Gilgamech](https://stadia.google.com/store/details/b845605f8eb447008f3f0d2295265ffdrcp1/sku/a1afa4eca7b24713a9bcf3421dd85a13)
 - [Submerged: Hidden Depths](https://stadia.google.com/store/details/3c39a33bbc064308941f9276c38c30e7rcp1/sku/07b0ea07f5554f70a2675fe696b4c9ebp)
 - [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6)
+- [Trine 4: The Nightmare Prince](https://stadia.google.com/store/details/30fd580936bb43b782ec2dbdac8b2f45rcp1/sku/8f39647dac4f452ea0abb9aec508295fp)
 - [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/store/details/7ced0b517b144dd98529ceffab963791rcp1/sku/b51c2723938547a99ebfb2e3b2ae320dp)
 
 ## Steam
