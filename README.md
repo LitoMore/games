@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-16-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-17-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-924-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-925-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1043,6 +1043,7 @@
 
 ## Xbox Series X
 
+- [Armello](https://www.microsoft.com/en-us/p/armello/bt990qwd1dlf)
 - [Bleed 2](https://www.microsoft.com/en-us/p/Bleed-2/BVDG19SHG495)
 - [Dandara: Trials of Fear Edition](https://www.microsoft.com/en-us/p/Dandara-Trials-of-Fear-Edition/BQQD1KHRWWL8)
 - [Dead Rising](https://www.microsoft.com/zh-cn/p/dead-rising/bzv7w98b3xn4)
