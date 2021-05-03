@@ -1396,7 +1396,7 @@
     },
     {
       "name": "Nintendo DS™",
-      "anchor": "nintendo-ds",
+      "anchor": "#nintendo-ds",
       "badge": "https://img.shields.io/badge/Nintendo_DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d22128",
       "hostnames": [
         "nintendo.fandom.com",
