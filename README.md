@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-49-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-112-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-113-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-14-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-930-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-931-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -239,6 +239,7 @@
 - [The Room Two](https://apps.apple.com/us/app/id667362389)
 - [The Room: Old Sins](https://apps.apple.com/us/app/id1286676015)
 - [The Trail](https://apps.apple.com/us/app/id1147002179)
+- [There Is No Game: Jam Edition](https://apps.apple.com/us/app/id1539030915)
 - [Time Surfer](https://apps.apple.com/us/app/id549361775)
 - [Travel Frog](https://apps.apple.com/us/app/id1255032913)
 - [VOEZ](https://apps.apple.com/us/app/id1007929736)
