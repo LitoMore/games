@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-164-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-165-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-931-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-932-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -536,6 +536,7 @@
 - [NARUTO SHIPPUDEN: Ultimate Ninja Storm Trilogy](https://www.nintendo.com/games/detail/naruto-shippuden-ultimate-ninja-storm-trilogy-switch/)
 - [NBA 2K19](https://www.nintendo.com/games/detail/nba-2k19-switch/)
 - [Neonwall](https://www.nintendo.com/games/detail/neonwall-switch/)
+- [New Pokémon Snap™](https://www.nintendo.com/games/detail/new-pokemon-snap-switch/)
 - [New Super Mario Bros.™ U Deluxe](https://www.nintendo.com/games/detail/new-super-mario-bros-u-deluxe-switch/)
 - [Nine Parchments](https://www.nintendo.com/games/detail/nine-parchments-switch/)
 - [Nintendo Entertainment System™ - Nintendo Switch Online](https://www.nintendo.com/games/detail/nintendo-entertainment-system-nintendo-switch-online-switch/)
