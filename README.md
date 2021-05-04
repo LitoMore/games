@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-49-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-54-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-113-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -72,17 +72,19 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-932-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-937-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
 ## Amazon Games
 
+- [A Blind Legend](https://images-na.ssl-images-amazon.com/images/I/41sJPY42QXS.jpg)
 - [Aces of Luftwaffe - Squadron](https://images-na.ssl-images-amazon.com/images/I/516gqDmaJML.jpg)
 - [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
 - [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
 - [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
 - [Before I Forge](https://images-na.ssl-images-amazon.com/images/I/314xBFn+hsL.jpg)
+- [Beholder](https://images-na.ssl-images-amazon.com/images/I/41sxMfZTa+S.jpg)
 - [Blasphemous](https://images-na.ssl-images-amazon.com/images/I/41nl6XNb9UL.jpg)
 - [Blazing Star](https://images-na.ssl-images-amazon.com/images/I/41bWigpfrxL.jpg)
 - [Bomber Crew Deluxe](https://images-na.ssl-images-amazon.com/images/I/51bKrVtSuHL.jpg)
@@ -93,6 +95,7 @@
 - [Fatal Fury Special](https://images-na.ssl-images-amazon.com/images/I/51n1J7RP2rL.jpg)
 - [Figment](https://images-na.ssl-images-amazon.com/images/I/41Kj+hdi3lL.jpg)
 - [Garou: Mark of the Wolves](https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg)
+- [Healer's Quest](https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg)
 - [Iris and the Giant](https://images-na.ssl-images-amazon.com/images/I/41OFIiY-UCL.jpg)
 - [Ironclad](https://images-na.ssl-images-amazon.com/images/I/41dbe4EmBxL.jpg)
 - [King of the Monsters](https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg)
@@ -119,6 +122,7 @@
 - [Table Manners](https://images-na.ssl-images-amazon.com/images/I/518y8hZMjiL.jpg)
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
+- [The Blind Prophet](https://images-na.ssl-images-amazon.com/images/I/41cznbpARHS.jpg)
 - [The Dark Crystal: Age of Resistance Tactics](https://images-na.ssl-images-amazon.com/images/I/41iLzPBFjDL.jpg)
 - [The Escapists](https://images-na.ssl-images-amazon.com/images/I/41Kb8VDshJL.jpg)
 - [The King of Fighters '98 Ultimate Match Final Edition](https://images-na.ssl-images-amazon.com/images/I/41qpZ-kv70L.jpg)
@@ -127,6 +131,7 @@
 - [The King of Fighters 2002 Unlimited Match](https://images-na.ssl-images-amazon.com/images/I/419qf06lJJL.jpg)
 - [The King of Fighters 97 Global Match](https://images-na.ssl-images-amazon.com/images/I/41WC6yyAMmL.jpg)
 - [The Last Blade 2](https://images-na.ssl-images-amazon.com/images/I/51mIp68C2yL.jpg)
+- [Yoku's Island Express](https://images-na.ssl-images-amazon.com/images/I/41XjHktTocS.jpg)
 
 ## App Store
 

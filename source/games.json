@@ -9,6 +9,10 @@
       ],
       "gameList": [
         {
+          "name": "A Blind Legend",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41sJPY42QXS.jpg"
+        },
+        {
           "name": "Aces of Luftwaffe - Squadron",
           "website": "https://images-na.ssl-images-amazon.com/images/I/516gqDmaJML.jpg"
         },
@@ -27,6 +31,10 @@
         {
           "name": "Before I Forge",
           "website": "https://images-na.ssl-images-amazon.com/images/I/314xBFn+hsL.jpg"
+        },
+        {
+          "name": "Beholder",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41sxMfZTa+S.jpg"
         },
         {
           "name": "Blasphemous",
@@ -67,6 +75,10 @@
         {
           "name": "Garou: Mark of the Wolves",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg"
+        },
+        {
+          "name": "Healer's Quest",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg"
         },
         {
           "name": "Iris and the Giant",
@@ -173,6 +185,10 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg"
         },
         {
+          "name": "The Blind Prophet",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41cznbpARHS.jpg"
+        },
+        {
           "name": "The Dark Crystal: Age of Resistance Tactics",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41iLzPBFjDL.jpg"
         },
@@ -203,6 +219,10 @@
         {
           "name": "The Last Blade 2",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51mIp68C2yL.jpg"
+        },
+        {
+          "name": "Yoku's Island Express",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41XjHktTocS.jpg"
         }
       ]
     },
