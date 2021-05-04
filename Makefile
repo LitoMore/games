@@ -5,10 +5,10 @@ lint:
 	deno lint --unstable
 
 add:
-	cd source && deno run --allow-read --allow-write add.ts '$(anchor)' '$(name)' '$(website)'
+	cd source && deno run --allow-read --allow-write add.ts "$(anchor)" "$(name)" "$(website)"
 
 add-platform:
-	cd source && deno run --allow-read --allow-write add-platform.ts '$(anchor)' '$(name)' '$(badge)' '$(hostnames)'
+	cd source && deno run --allow-read --allow-write add-platform.ts "$(anchor)" "$(name)" "$(badge)" "$(hostnames)"
 
 check:
 	cd source && deno run --allow-read check.ts
