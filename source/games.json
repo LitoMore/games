@@ -2204,6 +2204,10 @@
           "website": "https://www.playstation.com/en-us/games/batman-arkham-knight-ps4/"
         },
         {
+          "name": "Battlefield™ V",
+          "website": "https://www.playstation.com/en-us/games/battlefield-v/"
+        },
+        {
           "name": "Beat Saber",
           "website": "https://www.playstation.com/en-us/games/beat-saber-ps4/"
         },
@@ -2584,6 +2588,10 @@
           "website": "https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/"
         },
         {
+          "name": "Stranded Deep",
+          "website": "https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA"
+        },
+        {
           "name": "STREET FIGHTER® V",
           "website": "https://www.playstation.com/en-us/games/street-fighter-v-ps4/"
         },
@@ -2881,6 +2889,10 @@
         {
           "name": "Worms Rumble",
           "website": "https://www.playstation.com/en-us/games/worms-rumble/"
+        },
+        {
+          "name": "Wreckfest",
+          "website": "https://www.playstation.com/en-us/games/wreckfest/"
         }
       ]
     },

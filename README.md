@@ -38,10 +38,10 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-134-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-136-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-42-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-43-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-35-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-938-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-941-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -628,6 +628,7 @@
 - [Assassin’s Creed® Origins](https://www.playstation.com/en-us/games/assassins-creed-origins-ps4/)
 - [ASTRO BOT Rescue Mission](https://www.playstation.com/en-us/games/astro-bot-rescue-mission/)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight-ps4/)
+- [Battlefield™ V](https://www.playstation.com/en-us/games/battlefield-v/)
 - [Beat Saber](https://www.playstation.com/en-us/games/beat-saber-ps4/)
 - [BioShock: The Collection](https://www.playstation.com/en-us/games/bioshock-the-collection-ps4/)
 - [BioShock® Infinite](https://www.playstation.com/en-us/games/bioshock-infinite-ps3/)
@@ -723,6 +724,7 @@
 - [SONIC FORCES](https://www.playstation.com/en-us/games/sonic-forces-ps4/)
 - [STAR WARS Jedi: Fallen Order™](https://www.playstation.com/en-us/games/star-wars-jedi-fallen-order-ps4/)
 - [Star Wars™ Battlefront™ II](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
+- [Stranded Deep](https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA)
 - [STREET FIGHTER® V](https://www.playstation.com/en-us/games/street-fighter-v-ps4/)
 - [Subnautica](https://store.playstation.com/en-us/product/UP5245-CUSA13529_00-SUBNAUTICA000000)
 - [The Elder Scrolls V: Skyrim VR](https://www.playstation.com/en-us/games/the-elder-scrolls-v-skyrim-vr-ps4/)
@@ -798,6 +800,7 @@
 - [Watch Dogs®: Legion](https://www.playstation.com/en-us/games/watch-dogs-legion/)
 - [Werewolf: The Apocalypse – Earthblood](https://store.playstation.com/en-ie/product/EP4008-PPSA02113_00-WTASIEE000000000)
 - [Worms Rumble](https://www.playstation.com/en-us/games/worms-rumble/)
+- [Wreckfest](https://www.playstation.com/en-us/games/wreckfest/)
 
 ## Stadia
 
