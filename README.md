@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Stadia-35-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-196-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-197-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-941-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-942-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1014,6 +1014,7 @@
 - [Trine 2](https://steamcommunity.com/app/35720)
 - [Trine 3: The Artifacts of Power](https://steamcommunity.com/app/319910)
 - [Unheard](https://steamcommunity.com/app/942970)
+- [Universe Sandbox](https://steamcommunity.com/app/230290)
 - [Valheim](https://steamcommunity.com/app/892970)
 - [Wallpaper Engine](https://steamcommunity.com/app/431960)
 - [Warhammer: Vermintide 2](https://steamcommunity.com/app/552500)
