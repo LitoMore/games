@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-165-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-166-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-947-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-948-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -600,6 +600,7 @@
 - [Torchlight II](https://www.nintendo.com/games/detail/torchlight-ii-switch/)
 - [Trials of Mana](https://www.nintendo.com/games/detail/trials-of-mana-switch/)
 - [Trine 4: The Nightmare Prince](https://www.nintendo.com/games/detail/trine-4-the-nightmare-prince-switch/)
+- [Turnip Boy Commits Tax Evasion](https://www.nintendo.com/games/detail/turnip-boy-commits-tax-evasion-switch/)
 - [Undertale](https://www.nintendo.com/games/detail/undertale-switch/)
 - [UNO®](https://www.nintendo.com/games/detail/uno-switch/)
 - [Unruly Heroes](https://www.nintendo.com/games/detail/unruly-heroes-switch/)
