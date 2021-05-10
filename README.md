@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-166-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-167-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-948-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-949-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -515,6 +515,7 @@
 - [Hyrule Warriors: Age of Calamity](https://www.nintendo.com/games/detail/hyrule-warriors-age-of-calamity-switch/)
 - [InkyPen](https://www.nintendo.com/games/detail/inkypen-switch/)
 - [Into the Beach](https://www.nintendo.com/games/detail/into-the-breach-switch/)
+- [Journey of the Broken Circle](https://www.nintendo.com/games/detail/journey-of-the-broken-circle-switch/)
 - [Jump Rope Challenge](https://www.nintendo.com/games/detail/jump-rope-challenge-switch/)
 - [Jumping Joe & Friends](https://www.nintendo.com/games/detail/jumping-joe-and-friends-switch/)
 - [Just Dance® 2020](https://www.nintendo.com/games/detail/just-dance-2020-switch/)
