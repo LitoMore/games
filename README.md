@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Stadia-36-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-197-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-201-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-949-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-953-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -993,6 +993,10 @@
 - [Sudoku Killer](https://steampowered.com/app/861270)
 - [Sudoku Universe](https://steampowered.com/app/733070)
 - [Super Meat Boy](https://steamcommunity.com/app/40800)
+- [Sword and Fairy](https://steamcommunity.com/app/1546570)
+- [Sword and Fairy 2](https://steamcommunity.com/app/1538460)
+- [Sword and Fairy 3](https://steamcommunity.com/app/1536070)
+- [Sword and Fairy 3 Ex](https://steamcommunity.com/app/1536080)
 - [Tachyon: The Fringe](https://steamcommunity.com/app/32760)
 - [Tale of Immortal](https://steamcommunity.com/app/1468810)
 - [Team Fortress Classic](https://steamcommunity.com/app/20)
