@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-167-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-168-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-956-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-957-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -493,6 +493,7 @@
 - [DORAEMON STORY OF SEASONS](https://www.nintendo.com/games/detail/doraemon-story-of-seasons-switch/)
 - [Dount Country](https://www.nintendo.com/games/detail/donut-county-switch/)
 - [Dr Kawashima’s Brain Training for Nintendo Switch](https://www.nintendo.co.uk/Games/Nintendo-Switch/Dr-Kawashima-s-Brain-Training-for-Nintendo-Switch-1656777.html)
+- [DRAGON BALL FIGHTERZ](https://www.nintendo.com/games/detail/dragon-ball-fighterz-switch/)
 - [Dragon's Dogma: Dark Arisen](https://www.nintendo.com/games/detail/dragons-dogma-dark-arisen-switch/)
 - [ESCAPE TRICK: 35 Fateful Enigmas](https://www.nintendo.com/games/detail/escape-trick-35-fateful-enigmas-switch/)
 - [Evoland Legendary Edition](https://www.nintendo.com/games/detail/evoland-legendary-edition-switch/)
