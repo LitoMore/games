@@ -11,13 +11,13 @@
     <img src="https://img.shields.io/badge/Apple_Arcade-14-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
-    <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle-dot-net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
     <img src="https://img.shields.io/badge/Epic_Games-118-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
-    <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog.com&labelColor=86328a"/>
+    <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog-dot-com&labelColor=86328a"/>
   </a>
   <a href="#google-play">
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>

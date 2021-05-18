@@ -766,7 +766,7 @@
     {
       "name": "Battle.net",
       "anchor": "#battlenet",
-      "badge": "https://img.shields.io/badge/Battle.net-{{count}}-ddd?logo=battle.net&labelColor=002650&logoColor=white",
+      "badge": "https://img.shields.io/badge/Battle.net-{{count}}-ddd?logo=battle-dot-net&labelColor=002650&logoColor=white",
       "hostnames": [
         "us.shop.battle.net",
         "us.diablo3.com",
@@ -1297,7 +1297,7 @@
     {
       "name": "GOG.com",
       "anchor": "#gogcom",
-      "badge": "https://img.shields.io/badge/GOG.com-{{count}}-ddd?logo=gog.com&labelColor=86328a",
+      "badge": "https://img.shields.io/badge/GOG.com-{{count}}-ddd?logo=gog-dot-com&labelColor=86328a",
       "hostnames": [
         "www.gog.com"
       ],
