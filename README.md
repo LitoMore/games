@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-18-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-20-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-958-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-960-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1079,6 +1079,7 @@
 - [Bleed 2](https://www.microsoft.com/en-us/p/Bleed-2/BVDG19SHG495)
 - [Dandara: Trials of Fear Edition](https://www.microsoft.com/en-us/p/Dandara-Trials-of-Fear-Edition/BQQD1KHRWWL8)
 - [Dead Rising](https://www.microsoft.com/zh-cn/p/dead-rising/bzv7w98b3xn4)
+- [Dungeons 3](https://www.microsoft.com/en-us/p/dungeons-3/bpb96brz1v3c)
 - [FIA European Truck Racing Championship](https://www.microsoft.com/en-hk/p/fia-european-truck-racing-championship/brjp066tz2q7)
 - [Forza Horizon 4 Ultimate Edition](https://www.microsoft.com/en-us/p/forza-horizon-4-ultimate-edition/9p513p4mwc71)
 - [Gears 5](https://www.xbox.com/en-US/games/gears-5)
@@ -1090,6 +1091,7 @@
 - [Saints Row: Gat out of Hell](https://www.microsoft.com/en-us/p/saints-row-gat-out-of-hell/bqd7ntqp0cd9)
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
 - [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
+- [Tropico 4](https://www.microsoft.com/en-us/p/tropico-4/bqcrwnb8zqbs)
 - [Vicious Attack Llama Apocalypse](https://www.microsoft.com/en-us/p/Vicious-Attack-Llama-Apocalypse/9N253PVJ49WT)
 - [Vikings - Wolves of Midgard](https://www.microsoft.com/en-us/p/Vikings---Wolves-of-Midgard/C32XK5TG6RNM)
 - [Warface: Breakout](https://www.microsoft.com/en-us/p/warface-breakout/9ngvwz3mgt0b)
