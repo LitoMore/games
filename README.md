@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Stadia-36-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-201-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-213-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-963-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-975-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -948,6 +948,9 @@
 - [Joint Operations: Combined Arms Gold](https://steamcommunity.com/app/32770)
 - [Just Cause 4](https://steamcommunity.com/app/517630)
 - [Just Cause™ 4: Digital Deluxe Content](https://steamcommunity.com/app/868422)
+- [Lara Croft and the Guardian of Light](https://steamcommunity.com/app/35130)
+- [Lara Croft and the Temple of Osiris](https://steamcommunity.com/app/289690)
+- [Lara Croft GO](https://steamcommunity.com/app/540840)
 - [League Of Guessing](https://steamcommunity.com/app/524900)
 - [Left 4 Dead](https://steamcommunity.com/app/500)
 - [Left 4 Dead 2](https://steamcommunity.com/app/550)
@@ -1027,6 +1030,15 @@
 - [Thief - Opportunist](https://steamcommunity.com/app/265191)
 - [To Hell with Hell](https://steamcommunity.com/app/860660)
 - [Tomb Raider](https://steamcommunity.com/app/203160)
+- [Tomb Raider (VI): THe Angel of Darkness](https://steamcommunity.com/app/225020)
+- [Tomb Raider I](https://steamcommunity.com/app/224960)
+- [Tomb Raider II](https://steamcommunity.com/app/225300)
+- [Tomb Raider III: Adventures of Lara Croft](https://steamcommunity.com/app/225320)
+- [Tomb Raider: Anniversary](https://steamcommunity.com/app/8000)
+- [Tomb Raider: Chronicles](https://steamcommunity.com/app/225000)
+- [Tomb Raider: Legend](https://steamcommunity.com/app/7000)
+- [Tomb Raider: The Last Revelation](https://steamcommunity.com/app/224980)
+- [Tomb Raider: Underworld](https://steamcommunity.com/app/8140)
 - [Torchlight II](https://steamcommunity.com/app/200710)
 - [Trine](https://steamcommunity.com/app/35700)
 - [Trine 2](https://steamcommunity.com/app/35720)
