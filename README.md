@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-168-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-169-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-962-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-963-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -568,6 +568,7 @@
 - [Phoenix Wright: Ace Attorney Trilogy](https://www.nintendo.com/games/detail/phoenix-wright-ace-attorney-trilogy-switch/)
 - [Pikmin™ 3 Deluxe](https://www.nintendo.com/games/detail/pikmin-3-deluxe-switch/)
 - [Plague Road](https://www.nintendo.com/games/detail/plague-road-switch/)
+- [Pokémon Café Mix](https://www.nintendo.com/games/detail/pokemon-cafe-mix-switch/)
 - [Pokémon™ Quest](https://www.nintendo.com/games/detail/pokemon-quest-switch/)
 - [Pokémon™ Shield](https://www.nintendo.com/games/detail/pokemon-shield-switch/)
 - [Pokémon™ Sword](https://www.nintendo.com/games/detail/pokemon-sword-switch/)
