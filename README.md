@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-170-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-171-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-977-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-978-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -612,6 +612,7 @@
 - [Turnip Boy Commits Tax Evasion](https://www.nintendo.com/games/detail/turnip-boy-commits-tax-evasion-switch/)
 - [Undertale](https://www.nintendo.com/games/detail/undertale-switch/)
 - [UNO®](https://www.nintendo.com/games/detail/uno-switch/)
+- [Unravel Two](https://www.nintendo.com/games/detail/unravel-two-switch/)
 - [Unruly Heroes](https://www.nintendo.com/games/detail/unruly-heroes-switch/)
 - [Untitled Goose Game](https://www.nintendo.com/games/detail/untitled-goose-game-switch/)
 - [Venture Kid](https://www.nintendo.com/games/detail/venture-kid-switch/)
