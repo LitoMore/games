@@ -865,6 +865,10 @@
           "website": "https://www.epicgames.com/store/en-US/p/amnesia-the-dark-descent"
         },
         {
+          "name": "Among Us",
+          "website": "https://www.epicgames.com/store/en-US/p/among-us"
+        },
+        {
           "name": "ARK: Survival Evolved",
           "website": "https://www.epicgames.com/store/en-US/p/ark"
         },
