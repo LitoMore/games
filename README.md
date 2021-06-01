@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-20-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-22-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-985-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-987-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1110,11 +1110,13 @@
 - [Gears 5](https://www.xbox.com/en-US/games/gears-5)
 - [Hard Corps: Uprising](https://www.microsoft.com/en-us/p/hard-corps-uprising/c30z07t9q9ct)
 - [Little Nightmares](https://www.microsoft.com/en-us/p/Little-Nightmares/BWD88K55MK5W)
+- [NEOGEO BATTLE COLISEUM](https://www.microsoft.com/en-us/p/neogeo-battle-coliseum/c17x452nq0sx)
 - [Port Royale 3](https://www.microsoft.com/en-us/p/port-royale-3/bqmptj2mvcqj)
 - [Resident Evil](https://www.xbox.com/en-US/games/resident-evil)
 - [ROBLOX](https://www.microsoft.com/en-us/p/ROBLOX/BQ1TN1T79V9K)
 - [Saints Row: Gat out of Hell](https://www.microsoft.com/en-us/p/saints-row-gat-out-of-hell/bqd7ntqp0cd9)
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
+- [The King's Bird](https://www.microsoft.com/en-us/p/the-kings-bird/9nz5057nl64c)
 - [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
 - [Tropico 4](https://www.microsoft.com/en-us/p/tropico-4/bqcrwnb8zqbs)
 - [Vicious Attack Llama Apocalypse](https://www.microsoft.com/en-us/p/Vicious-Attack-Llama-Apocalypse/9N253PVJ49WT)
