@@ -3005,6 +3005,14 @@
           "website": "https://stadia.google.com/store/details/2c8b9ab112e5460db922dc7353381256rcp1/sku/afb2b66ddd744605a3d01acbeaf3ba01p"
         },
         {
+          "name": "Blue Fire",
+          "website": "https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p"
+        },
+        {
+          "name": "Chronos: Before the Ashes",
+          "website": "https://stadia.google.com/store/details/3f94b62fa50c4202be10472947478f8frcp1/sku/c3fcca2c75614bf6b634bedc2f766003p"
+        },
+        {
           "name": "Crayta: Premium Edition",
           "website": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/e50890bb854e4666ad06742e1e1789aap"
         },
@@ -3073,6 +3081,10 @@
           "website": "https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp"
         },
         {
+          "name": "MotoGP™20",
+          "website": "https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5"
+        },
+        {
           "name": "Orcs Must Die! 3",
           "website": "https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a"
         },
@@ -3131,6 +3143,10 @@
         {
           "name": "SUPERHOT: MIND CONTROL DELETE",
           "website": "https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6"
+        },
+        {
+          "name": "The Legend of Heroes: Trails of Cold Steel III",
+          "website": "https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp"
         },
         {
           "name": "Trine 4: The Nightmare Prince",

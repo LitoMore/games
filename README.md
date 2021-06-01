@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-46-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-36-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-40-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-213-ddd?logo=steam&labelColor=171a21"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-987-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-991-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -829,6 +829,8 @@
 
 - [Ary and the Secret of Seasons](https://stadia.google.com/store/details/016636d5f49f4862be3ff8cbcf6c7adercp1/sku/be70e67b1fd64dc2bb4f002e65239731p)
 - [AVICII Invector](https://stadia.google.com/store/details/2c8b9ab112e5460db922dc7353381256rcp1/sku/afb2b66ddd744605a3d01acbeaf3ba01p)
+- [Blue Fire](https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p)
+- [Chronos: Before the Ashes](https://stadia.google.com/store/details/3f94b62fa50c4202be10472947478f8frcp1/sku/c3fcca2c75614bf6b634bedc2f766003p)
 - [Crayta: Premium Edition](https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/e50890bb854e4666ad06742e1e1789aap)
 - [Cthulhu Saves Christmas](https://stadia.google.com/store/details/769a088b9ef04c04b341911a1ef8b8ecrcp1/sku/5748ef643485495ba71d15041c44f0d4p)
 - [El Hijo - A Wild West Tale](https://stadia.google.com/store/details/d46f9c2d858d41d6ae4cc12d186657f0rcp1/sku/4761cd53808a462ca823a9e403baea99)
@@ -846,6 +848,7 @@
 - [Journey to the Savage Planet](https://stadia.google.com/store/details/22c6d03e67474644a139de4f04a08c11rcp1/sku/a287b8393c204384a8b940dc79d142fd)
 - [Lara Croft and the Guardian of Light](https://stadia.google.com/store/details/29b3d5d6788f444c8cd59aa0a49d1bd1rcp1/sku/b4f4f4de3d1e4eef9417a9c896513f0ap)
 - [Little Nightmares II](https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp)
+- [MotoGP™20](https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5)
 - [Orcs Must Die! 3](https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a)
 - [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5)
 - [PIKUNIKU](https://stadia.google.com/store/details/c02a86f966b044569ee03f80fbc86035rcp1/sku/f1bbad79434f496bae9865248c6c136ap)
@@ -861,6 +864,7 @@
 - [SteamWorld Quest: Hand of Gilgamech](https://stadia.google.com/store/details/b845605f8eb447008f3f0d2295265ffdrcp1/sku/a1afa4eca7b24713a9bcf3421dd85a13)
 - [Submerged: Hidden Depths](https://stadia.google.com/store/details/3c39a33bbc064308941f9276c38c30e7rcp1/sku/07b0ea07f5554f70a2675fe696b4c9ebp)
 - [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6)
+- [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp)
 - [Trine 4: The Nightmare Prince](https://stadia.google.com/store/details/30fd580936bb43b782ec2dbdac8b2f45rcp1/sku/8f39647dac4f452ea0abb9aec508295fp)
 - [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/store/details/7ced0b517b144dd98529ceffab963791rcp1/sku/b51c2723938547a99ebfb2e3b2ae320dp)
 
