@@ -38,10 +38,10 @@
     <img src="https://img.shields.io/badge/Origin-1-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-137-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-139-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-45-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-46-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-36-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-982-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-985-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -742,6 +742,7 @@
 - [SONIC FORCES](https://www.playstation.com/en-us/games/sonic-forces-ps4/)
 - [STAR WARS Jedi: Fallen Order™](https://www.playstation.com/en-us/games/star-wars-jedi-fallen-order-ps4/)
 - [Star Wars™ Battlefront™ II](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
+- [STAR WARS™: Squadrons](https://store.playstation.com/en-us/product/UP0006-CUSA15080_00-STARWARSQUADRONS)
 - [Stranded Deep](https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA)
 - [STREET FIGHTER® V](https://www.playstation.com/en-us/games/street-fighter-v-ps4/)
 - [Subnautica](https://store.playstation.com/en-us/product/UP5245-CUSA13529_00-SUBNAUTICA000000)
@@ -764,6 +765,7 @@
 - [Unravel](https://www.playstation.com/en-us/games/unravel/)
 - [Unravel Two](https://www.playstation.com/en-us/games/unravel-two/)
 - [Vampyr](https://www.playstation.com/en-us/games/vampyr-ps4/)
+- [Virtua Fighter 5 Ultimate Showdown](https://store.playstation.com/en-hk/product/HP0177-CUSA27067_00-9030766588190582)
 - [Watch Dogs™](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
 - [What Remains of Edith Finch](https://www.playstation.com/en-us/games/what-remains-of-edith-finch-ps4/)
 - [WipEout Omega Collection](https://www.playstation.com/en-us/games/wipeout-omega-collection-ps4/)
@@ -805,6 +807,7 @@
 - [MONSTER HUNTER: WORLD™](https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-0000000000000000)
 - [Mortal Kombat X](https://www.playstation.com/en-us/games/mortal-kombat-x/)
 - [Oddworld: Soulstorm](https://www.playstation.com/en-us/games/oddworld-soulstorm/)
+- [Operation: Tango](https://www.playstation.com/en-us/games/operation-tango/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5/)
 - [Ratchet & Clank™](https://www.playstation.com/en-us/games/ratchet-and-clank/)
 - [RESIDENT EVIL 7 biohazard](https://www.playstation.com/en-us/games/resident-evil-7-biohazard/)
