@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-58-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-115-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-116-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-14-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-991-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-992-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -201,6 +201,7 @@
 - [Honor of Kings](https://apps.apple.com/cn/app/id989673964)
 - [Implosion - Never Lose Hope](https://apps.apple.com/us/app/id870322730)
 - [Ingress Prime](https://apps.apple.com/us/app/id576505181)
+- [Inotia 4 PLUS](https://apps.apple.com/us/app/id494792913)
 - [Ira Ira Boy](https://apps.apple.com/ky/app/id1048482048)
 - [Jetpack Joyride](https://apps.apple.com/us/app/id457446957)
 - [Just Dance Controller](https://apps.apple.com/us/app/id913545185)
