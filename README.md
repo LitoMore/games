@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-58-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-64-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-116-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-993-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-999-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -83,8 +83,10 @@
 - [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
 - [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
 - [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
+- [Batman - The Telltale Series](https://images-na.ssl-images-amazon.com/images/I/41tSzcUvDnL.jpg)
 - [Before I Forge](https://images-na.ssl-images-amazon.com/images/I/314xBFn+hsL.jpg)
 - [Beholder](https://images-na.ssl-images-amazon.com/images/I/41sxMfZTa+S.jpg)
+- [BFF or Die](https://images-na.ssl-images-amazon.com/images/I/41e6drXiqqL.jpg)
 - [Blasphemous](https://images-na.ssl-images-amazon.com/images/I/41nl6XNb9UL.jpg)
 - [Blazing Star](https://images-na.ssl-images-amazon.com/images/I/41bWigpfrxL.jpg)
 - [Bomber Crew Deluxe](https://images-na.ssl-images-amazon.com/images/I/51bKrVtSuHL.jpg)
@@ -103,12 +105,15 @@
 - [Ironclad](https://images-na.ssl-images-amazon.com/images/I/41dbe4EmBxL.jpg)
 - [King of the Monsters](https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg)
 - [Little Big Workshop](https://images-na.ssl-images-amazon.com/images/I/41-1IghdbML.jpg)
+- [Lost in Harmony](https://images-na.ssl-images-amazon.com/images/I/51qCd1cXydL.jpg)
 - [Mana Spark](https://images-na.ssl-images-amazon.com/images/I/413nUCcC7GS.jpg)
 - [Metal Slug 2](https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg)
 - [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
 - [Monster Prom: Hotseat Edition](https://images-na.ssl-images-amazon.com/images/I/51nRAK5QHeL.jpg)
 - [Move or Die - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51nCq1urIkL.jpg)
 - [Move Out](https://images-na.ssl-images-amazon.com/images/I/41+IRxmoXIL.jpg)
+- [Mugsters](https://images-na.ssl-images-amazon.com/images/I/41HorvHYMGL.jpg)
+- [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
 - [Pulstar](https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg)
 - [Samurai Shodown II](https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg)
@@ -120,6 +125,7 @@
 - [SkyDrift](https://images-na.ssl-images-amazon.com/images/I/41rINvRQBFL.jpg)
 - [SNK 40th Anniversary Collection](https://images-na.ssl-images-amazon.com/images/I/51TN5AZ4PBL.jpg)
 - [Spinch](https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg)
+- [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
 - [Stealth Bastard Deluxe](https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg)
 - [Strata](https://images-na.ssl-images-amazon.com/images/I/41Y5n+c728L.jpg)
 - [Swimsanity! - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51m6tg4jpcL.jpg)
