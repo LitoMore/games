@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-64-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-116-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-117-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-14-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-999-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1000-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -216,6 +216,7 @@
 - [LEGO® Building Instructions](https://apps.apple.com/us/app/id1486159728)
 - [LEGO® POWERED UP](https://apps.apple.com/us/app/id1367846574)
 - [Let's create! Pottery HD](https://apps.apple.com/us/app/id380090605)
+- [Like A Dino!](https://apps.apple.com/us/app/id1527726706)
 - [Lunar Flowers](https://apps.apple.com/us/app/id1008637459)
 - [Machinarium](https://apps.apple.com/us/app/id459189186)
 - [Mandora](https://apps.apple.com/us/app/id541790591)
