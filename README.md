@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-173-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-174-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-2-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1002-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1003-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -588,6 +588,7 @@
 - [Pokémon™ Sword](https://www.nintendo.com/games/detail/pokemon-sword-switch/)
 - [Pokémon™: Let’s Go, Eevee!](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch/)
 - [Pokémon™: Let’s Go, Pikachu!](https://www.nintendo.com/games/detail/pokemon-lets-go-pikachu-switch/)
+- [Rayman® Legends Definitive Edition](https://www.nintendo.com/games/detail/rayman-legends-definitive-edition-switch/)
 - [Resident Evil Revelations Collection](https://www.nintendo.com/games/detail/resident-evil-revelations-collection-switch/)
 - [Resident Evil Triple Pack](https://www.nintendo.com/games/detail/resident-evil-triple-pack-switch/)
 - [Return of the Obra Dinn](https://www.nintendo.com/games/detail/return-of-the-obra-dinn-switch/)
