@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-140-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-47-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-48-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-40-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1007-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1008-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -794,6 +794,7 @@
 
 - [Assassin's Creed® Valhalla](https://www.playstation.com/en-us/games/assassins-creed-valhalla/)
 - [ASTRO's PLAYROOM](https://www.playstation.com/en-us/games/astros-playroom/)
+- [Atelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition](https://store.playstation.com/en-us/product/UP4108-PPSA02093_00-ATELIERYZA2UE000)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight/)
 - [Battlefield™ 1 Revolution](https://www.playstation.com/en-us/search/?q=Battlefield%201&smcid=web%3Apsn%3Aprimary%20nav%3Asearch%3ABattlefield%201)
 - [Bloodborne](https://www.playstation.com/en-us/games/bloodborne/)
