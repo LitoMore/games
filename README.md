@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Stadia-40-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-213-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-214-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1003-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1004-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1042,6 +1042,7 @@
 - [Teddy Floppy Ear - Mountain Adventure](https://steamcommunity.com/app/340300)
 - [Teddy Floppy Ear - The Race](https://steamcommunity.com/app/371420)
 - [Terraria](https://steamcommunity.com/app/105600)
+- [Textreme 2](https://steamcommunity.com/app/1516350)
 - [The Big Journey](https://steampowered.com/app/742480)
 - [The Elder Scrolls Online](https://steamcommunity.com/app/306130)
 - [The Swapper](https://store.steampowered.com/app/231160)
