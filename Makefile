@@ -2,7 +2,7 @@
 .SILENT: lint add add-platform check fix build reset
 
 lint:
-	deno lint --unstable
+	deno lint
 
 add:
 	cd source && deno run --allow-read --allow-write add.ts "$(anchor)" "$(name)" "$(website)"
