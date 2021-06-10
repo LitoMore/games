@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/Amazon_Games-64-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-117-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-118-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-14-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-15-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle-dot-net&labelColor=002650&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1009-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1011-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -197,6 +197,7 @@
 - [Duet Game](https://apps.apple.com/us/app/id634235735)
 - [Erica App PS4™](https://apps.apple.com/us/app/id1413201739)
 - [Florence](https://apps.apple.com/us/app/id1297430468)
+- [Fruit Ninja Classic+](https://apps.apple.com/us/app/id1552127102)
 - [Fun Run 3 - Multiplayer Games](https://apps.apple.com/us/app/id1118878857)
 - [Green the Planet](https://apps.apple.com/us/app/id1069236120)
 - [GWENT: The Witcher Card Game](https://apps.apple.com/us/app/id1466943149)
@@ -268,6 +269,7 @@
 - [Blek+](https://apps.apple.com/us/app/id1551231841)
 - [Crossy Road Castle](https://apps.apple.com/us/app/id1489275350)
 - [Cut the Rope Remastered](https://apps.apple.com/us/app/id1524615151)
+- [Fruit Ninja Classic+](https://apps.apple.com/us/app/id1552127102)
 - [INMOST](https://apps.apple.com/us/app/id1465235605)
 - [Monument Valley+](https://apps.apple.com/us/app/id1551940922)
 - [Oceanhorn 2](https://apps.apple.com/us/app/id1141837408)
