@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle-dot-net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-122-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-123-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog-dot-com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1010-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1011-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -316,6 +316,7 @@
 - [Celeste](https://www.epicgames.com/store/en-US/p/celeste)
 - [Cities: Skylines](https://www.epicgames.com/store/en-US/p/cities-skylines)
 - [Close To The Sun](https://www.epicgames.com/store/en-US/p/close-to-the-sun)
+- [Control](https://www.epicgames.com/store/en-US/p/control)
 - [Costume Quest 2](https://www.epicgames.com/store/en-US/p/costume-quest-2)
 - [Crashlands](https://www.epicgames.com/store/en-US/p/crashlands)
 - [Creature in the Well](https://www.epicgames.com/store/en-US/p/creature-in-the-well)
