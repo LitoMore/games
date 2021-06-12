@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Origin-2-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-140-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-141-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-48-ddd?logo=playstation&labelColor=000000"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1011-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1012-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -661,6 +661,7 @@
 - [Assassin’s Creed® Origins](https://www.playstation.com/en-us/games/assassins-creed-origins-ps4/)
 - [ASTRO BOT Rescue Mission](https://www.playstation.com/en-us/games/astro-bot-rescue-mission/)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight-ps4/)
+- [Batman™: Arkham VR](https://store.playstation.com/en-hk/product/UP1018-CUSA05335_00-ASIA000000000000)
 - [Battlefield™ V](https://www.playstation.com/en-us/games/battlefield-v/)
 - [Beat Saber](https://www.playstation.com/en-us/games/beat-saber-ps4/)
 - [Biomutant](https://www.playstation.com/en-us/games/biomutant/)
