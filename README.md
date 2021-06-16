@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-22-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-23-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1012-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1013-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1140,6 +1140,7 @@
 - [Resident Evil](https://www.xbox.com/en-US/games/resident-evil)
 - [ROBLOX](https://www.microsoft.com/en-us/p/ROBLOX/BQ1TN1T79V9K)
 - [Saints Row: Gat out of Hell](https://www.microsoft.com/en-us/p/saints-row-gat-out-of-hell/bqd7ntqp0cd9)
+- [Shadows: Awakening](https://www.microsoft.com/en-us/p/shadows-awakening/c1lmjj64fv3j)
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
 - [The King's Bird](https://www.microsoft.com/en-us/p/the-kings-bird/9nz5057nl64c)
 - [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
