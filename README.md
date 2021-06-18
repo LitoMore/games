@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-141-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-48-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-49-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-40-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1015-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1016-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -831,6 +831,7 @@
 - [Oddworld: Soulstorm](https://www.playstation.com/en-us/games/oddworld-soulstorm/)
 - [Operation: Tango](https://www.playstation.com/en-us/games/operation-tango/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5/)
+- [Ratchet & Clank: Rift Apart](https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/)
 - [Ratchet & Clank™](https://www.playstation.com/en-us/games/ratchet-and-clank/)
 - [RESIDENT EVIL 7 biohazard](https://www.playstation.com/en-us/games/resident-evil-7-biohazard/)
 - [Resident Evil Village](https://www.playstation.com/en-us/games/resident-evil-village/)
