@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-123-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-125-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1013-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1015-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -347,6 +347,7 @@
 - [Grand Theft Auto V](https://www.epicgames.com/store/en-US/p/grand-theft-auto-v)
 - [Halcyon 6 Starbase Commander](https://www.epicgames.com/store/en-US/p/halcyon-6)
 - [Hand of Fate 2](https://www.epicgames.com/store/en-US/p/hand-of-fate-2)
+- [Hell is other demons](https://www.epicgames.com/store/en-US/p/hell-is-other-demons)
 - [HITMAN](https://www.epicgames.com/store/en-US/p/hitman)
 - [Hob](https://www.epicgames.com/store/en-US/p/hob)
 - [Hue](https://www.epicgames.com/store/en-US/p/hue)
@@ -370,6 +371,7 @@
 - [Oddworld: New 'n' Tasty](https://www.epicgames.com/store/en-US/p/oddworld-new-n-tasty)
 - [Offworld Trading Company](https://www.epicgames.com/store/en-US/p/offworld-trading-company)
 - [Overcooked](https://www.epicgames.com/store/en-US/p/overcooked)
+- [Overcooked! 2](https://www.epicgames.com/store/en-US/p/overcooked-2)
 - [Pathway](https://www.epicgames.com/store/en-US/p/pathway)
 - [Pikuniku](https://www.epicgames.com/store/en-US/p/pikuniku)
 - [Pillars of Eternity - Definitive Edition](https://www.epicgames.com/store/en-US/p/pillars-of-eternity)
