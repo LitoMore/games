@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-117-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-16-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-17-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1017-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1018-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -279,6 +279,7 @@
 - [Sayonara Wild Hearts](https://apps.apple.com/us/app/id1461823255)
 - [Shantae and the Seven Sirens](https://apps.apple.com/us/app/id1466096947)
 - [Spek.](https://apps.apple.com/us/app/id1465321502)
+- [Taiko no Tatsujin Pop Tap Beat](https://apps.apple.com/us/app/id1463360242)
 - [Tangle Tower](https://apps.apple.com/us/app/id1466301290)
 - [The Room Two+](https://apps.apple.com/us/app/id1554087004)
 
