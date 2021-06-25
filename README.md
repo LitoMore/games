@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-125-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-127-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1018-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1020-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -352,6 +352,7 @@
 - [Hell is other demons](https://www.epicgames.com/store/en-US/p/hell-is-other-demons)
 - [HITMAN](https://www.epicgames.com/store/en-US/p/hitman)
 - [Hob](https://www.epicgames.com/store/en-US/p/hob)
+- [Horizon Chase Turbo](https://www.epicgames.com/store/en-US/p/horizon-chase-turbo)
 - [Hue](https://www.epicgames.com/store/en-US/p/hue)
 - [Idle Champions of the Forgotten Realms](https://www.epicgames.com/store/en-US/p/idle-champions-of-the-forgotten-realms)
 - [InnerSpace](https://www.epicgames.com/store/en-US/p/innerspace)
@@ -393,6 +394,7 @@
 - [Sid Meier's Civilization® VI](https://www.epicgames.com/store/en-US/p/sid-meiers-civilization-vi)
 - [Sludge Life](https://www.epicgames.com/store/en-US/p/sludge-life)
 - [Solitairica](https://www.epicgames.com/store/en-US/p/solitairica)
+- [Sonic Mania](https://www.epicgames.com/store/en-US/p/sonic-mania)
 - [STAR WARS™ Battlefront™ II: Celebration Edition](https://www.epicgames.com/store/en-US/p/star-wars-battlefront-2)
 - [Steep](https://www.epicgames.com/store/en-US/p/steep)
 - [Stick It To The Man](https://www.epicgames.com/store/en-US/p/stick-it-to-the-man)
