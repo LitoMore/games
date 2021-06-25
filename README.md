@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-23-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-24-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1020-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1021-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1139,6 +1139,7 @@
 - [Dungeons 3](https://www.microsoft.com/en-us/p/dungeons-3/bpb96brz1v3c)
 - [FIA European Truck Racing Championship](https://www.microsoft.com/en-hk/p/fia-european-truck-racing-championship/brjp066tz2q7)
 - [Forza Horizon 4 Ultimate Edition](https://www.microsoft.com/en-us/p/forza-horizon-4-ultimate-edition/9p513p4mwc71)
+- [Forza Motorsport 5](https://www.microsoft.com/en-us/p/forza-motorsport-5/bqlk685tm311)
 - [Gears 5](https://www.xbox.com/en-US/games/gears-5)
 - [Hard Corps: Uprising](https://www.microsoft.com/en-us/p/hard-corps-uprising/c30z07t9q9ct)
 - [Little Nightmares](https://www.microsoft.com/en-us/p/Little-Nightmares/BWD88K55MK5W)
