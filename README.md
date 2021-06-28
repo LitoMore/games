@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-175-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-177-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-2-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1021-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1023-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -531,6 +531,7 @@
 - [Fitness Boxing](https://www.nintendo.com/games/detail/fitness-boxing-switch/)
 - [FLASHBACK™](https://www.nintendo.com/games/detail/flashback-switch/)
 - [GALAK-Z: Variant S](https://www.nintendo.com/games/detail/galak-z-variant-s-switch/)
+- [Game Builder Garage™](https://www.nintendo.com/games/detail/game-builder-garage-switch/)
 - [Geki Yaba Runner Anniversary Edition](https://www.nintendo.com/games/detail/geki-yaba-runner-anniversary-edition-switch/)
 - [Globlin Sword](https://www.nintendo.com/games/detail/goblin-sword-switch/)
 - [Goonya Fighter](https://www.nintendo.com/games/detail/goonya-fighter-switch/)
@@ -585,6 +586,7 @@
 - [Ori and the Will of the Wisps](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/)
 - [Overcooked Special Edition](https://www.nintendo.com/games/detail/overcooked-special-edition-switch/)
 - [Overcooked! 2](https://www.nintendo.com/games/detail/overcooked-2-switch/)
+- [Overcooked! All You Can Eat](https://www.nintendo.com/games/detail/overcooked-all-you-can-eat-switch/)
 - [PAC-MAN 99](https://www.nintendo.com/games/detail/pac-man-99-switch/)
 - [Paladins](https://www.nintendo.com/games/detail/paladins-switch/)
 - [Paper Mario™: The Origami King](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/)
