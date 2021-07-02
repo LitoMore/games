@@ -3237,6 +3237,10 @@
           "website": "https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp"
         },
         {
+          "name": "Moonlighter",
+          "website": "https://stadia.google.com/store/details/703fbd4ee94441299adeaace6446f27arcp1/sku/a12ef65cefdd48d5856ed5c4cde6b977p"
+        },
+        {
           "name": "MotoGP™20",
           "website": "https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5"
         },
@@ -3293,12 +3297,24 @@
           "website": "https://stadia.google.com/store/details/b845605f8eb447008f3f0d2295265ffdrcp1/sku/a1afa4eca7b24713a9bcf3421dd85a13"
         },
         {
+          "name": "Street Power Football",
+          "website": "https://stadia.google.com/store/details/a997c2d05c1b4680b47e376367c187ecrcp1/sku/10d1a160b6904ccba713cafbfe431856p"
+        },
+        {
           "name": "Submerged: Hidden Depths",
           "website": "https://stadia.google.com/store/details/3c39a33bbc064308941f9276c38c30e7rcp1/sku/07b0ea07f5554f70a2675fe696b4c9ebp"
         },
         {
           "name": "SUPERHOT: MIND CONTROL DELETE",
           "website": "https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6"
+        },
+        {
+          "name": "Terraria",
+          "website": "https://stadia.google.com/store/details/774b82b8c1194dc2acc13a268c4ea7c7rcp1/sku/f308e50758b64693bd6314550bd249aep"
+        },
+        {
+          "name": "The Darkside Detective",
+          "website": "https://stadia.google.com/store/details/b465998ccc1c48aaa2fb74f331ebbdd7rcp1/sku/9d8c8bb162b6477ca2f2e5ee89f62b15p"
         },
         {
           "name": "The Legend of Heroes: Trails of Cold Steel III",
