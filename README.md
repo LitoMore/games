@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-130-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-131-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1046-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1047-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -381,6 +381,7 @@
 - [NBA 2K21](https://www.epicgames.com/store/en-US/p/nba-2k21)
 - [Next Up Hero](https://www.epicgames.com/store/en-US/p/next-up-hero)
 - [Night in the Woods](https://www.epicgames.com/store/en-US/p/night-in-the-woods)
+- [Obduction](https://www.epicgames.com/store/en-US/p/obduction)
 - [Oddworld: New 'n' Tasty](https://www.epicgames.com/store/en-US/p/oddworld-new-n-tasty)
 - [Offworld Trading Company](https://www.epicgames.com/store/en-US/p/offworld-trading-company)
 - [Overcooked](https://www.epicgames.com/store/en-US/p/overcooked)
