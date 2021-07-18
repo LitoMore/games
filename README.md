@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-live">
-    <img src="https://img.shields.io/badge/Xbox_Live-3-ddd?logo=xbox&labelColor=107c10"/>
+    <img src="https://img.shields.io/badge/Xbox_Live-4-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
     <img src="https://img.shields.io/badge/Xbox_Series_X-27-ddd?logo=xbox&labelColor=333333"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1050-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1051-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1154,6 +1154,7 @@
 
 - [Adera](https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p)
 - [Candy Crush Saga](https://www.microsoft.com/en-us/p/candy-crush-saga/9nblggh18846)
+- [ilomilo plus](https://www.microsoft.com/store/productId/9WZDNCRFHW7P)
 - [Tentacles: Enter the Mind](https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n)
 
 ## Xbox Series X
