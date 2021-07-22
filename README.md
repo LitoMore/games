@@ -22,6 +22,9 @@
   <a href="#google-play">
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
+  <a href="#microsoft-store">
+    <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=5e5e5e"/>
+  </a>
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-5-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
@@ -54,9 +57,6 @@
   </a>
   <a href="#windows">
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
-  </a>
-  <a href="#xbox-live">
-    <img src="https://img.shields.io/badge/Xbox_Live-4-ddd?logo=xbox&labelColor=107c10"/>
   </a>
   <a href="#xbox-series-x">
     <img src="https://img.shields.io/badge/Xbox_Series_X-27-ddd?logo=xbox&labelColor=333333"/>
@@ -462,6 +462,13 @@
 - [Pokémon GO](https://play.google.com/store/apps/details?id=com.nianticlabs.pokemongo)
 - [Subway Surfers](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf)
 - [Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2)
+
+## Microsoft Store
+
+- [Adera](https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p)
+- [Candy Crush Saga](https://www.microsoft.com/en-us/p/candy-crush-saga/9nblggh18846)
+- [ilomilo plus](https://www.microsoft.com/store/productId/9WZDNCRFHW7P)
+- [Tentacles: Enter the Mind](https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n)
 
 ## Nintendo 3DS™
 
@@ -1149,13 +1156,6 @@
 - [Devotion](https://redcandlegames.com/devotion)
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Tale of Wuxia](https://wulin.fhyx.com/)
-
-## Xbox Live
-
-- [Adera](https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p)
-- [Candy Crush Saga](https://www.microsoft.com/en-us/p/candy-crush-saga/9nblggh18846)
-- [ilomilo plus](https://www.microsoft.com/store/productId/9WZDNCRFHW7P)
-- [Tentacles: Enter the Mind](https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n)
 
 ## Xbox Series X
 

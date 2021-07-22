@@ -1543,6 +1543,32 @@
       ]
     },
     {
+      "name": "Microsoft Store",
+      "anchor": "#microsoft-store",
+      "badge": "https://img.shields.io/badge/Microsoft_Store-{{count}}-ddd?logo=microsoft&labelColor=5e5e5e",
+      "hostnames": [
+        "www.microsoft.com"
+      ],
+      "gameList": [
+        {
+          "name": "Adera",
+          "website": "https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p"
+        },
+        {
+          "name": "Candy Crush Saga",
+          "website": "https://www.microsoft.com/en-us/p/candy-crush-saga/9nblggh18846"
+        },
+        {
+          "name": "ilomilo plus",
+          "website": "https://www.microsoft.com/store/productId/9WZDNCRFHW7P"
+        },
+        {
+          "name": "Tentacles: Enter the Mind",
+          "website": "https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n"
+        }
+      ]
+    },
+    {
       "name": "Nintendo 3DS™",
       "anchor": "#nintendo-3ds",
       "badge": "https://img.shields.io/badge/Nintendo_3DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d22128",
@@ -4280,32 +4306,6 @@
         {
           "name": "Tale of Wuxia",
           "website": "https://wulin.fhyx.com/"
-        }
-      ]
-    },
-    {
-      "name": "Xbox Live",
-      "anchor": "#xbox-live",
-      "badge": "https://img.shields.io/badge/Xbox_Live-{{count}}-ddd?logo=xbox&labelColor=107c10",
-      "hostnames": [
-        "www.microsoft.com"
-      ],
-      "gameList": [
-        {
-          "name": "Adera",
-          "website": "https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p"
-        },
-        {
-          "name": "Candy Crush Saga",
-          "website": "https://www.microsoft.com/en-us/p/candy-crush-saga/9nblggh18846"
-        },
-        {
-          "name": "ilomilo plus",
-          "website": "https://www.microsoft.com/store/productId/9WZDNCRFHW7P"
-        },
-        {
-          "name": "Tentacles: Enter the Mind",
-          "website": "https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n"
         }
       ]
     },
