@@ -2402,7 +2402,11 @@
       ],
       "gameList": [
         {
-          "name": "Battlefield 4™",
+          "name": "Battlefield™ 1",
+          "website": "https://www.origin.com/hkg/en-us/store/battlefield/battlefield-1"
+        },
+        {
+          "name": "Battlefield™ 4",
           "website": "https://www.origin.com/hkg/en-us/store/battlefield/battlefield-4"
         },
         {
