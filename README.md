@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Stadia-44-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-215-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-217-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1053-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1055-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1053,6 +1053,7 @@
 - [Oik 4](https://steamcommunity.com/app/781810)
 - [Oik 5](https://steamcommunity.com/app/992050)
 - [Oik Reloaded](https://steamcommunity.com/app/1044220)
+- [OneShot](https://steamcommunity.com/app/420530)
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
 - [Pixel Art Coloring Book - Full Version](https://steamcommunity.com/app/1576340)
 - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://steamcommunity.com/app/578080)
@@ -1123,6 +1124,7 @@
 - [Unheard](https://steamcommunity.com/app/942970)
 - [Universe Sandbox](https://steamcommunity.com/app/230290)
 - [Valheim](https://steamcommunity.com/app/892970)
+- [Virgo Versus The Zodiac](https://steamcommunity.com/app/920320)
 - [Wallpaper Engine](https://steamcommunity.com/app/431960)
 - [Warhammer: Vermintide 2](https://steamcommunity.com/app/552500)
 - [WayOut](https://steamcommunity.com/app/551110)
