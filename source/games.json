@@ -786,6 +786,10 @@
       ],
       "gameList": [
         {
+          "name": "Angry Birds Reloaded",
+          "website": "https://apps.apple.com/us/app/id1539172625"
+        },
+        {
           "name": "Blek+",
           "website": "https://apps.apple.com/us/app/id1551231841"
         },
@@ -810,8 +814,20 @@
           "website": "https://apps.apple.com/us/app/id1465235605"
         },
         {
+          "name": "Jetpack Joyride+",
+          "website": "https://apps.apple.com/us/app/id1550866882"
+        },
+        {
+          "name": "Mini Motorways",
+          "website": "https://apps.apple.com/us/app/id1453901000"
+        },
+        {
           "name": "Monument Valley+",
           "website": "https://apps.apple.com/us/app/id1551940922"
+        },
+        {
+          "name": "Neko Atsume: Kitty Collector+",
+          "website": "https://apps.apple.com/us/app/id1569279695"
         },
         {
           "name": "Oceanhorn 2",
