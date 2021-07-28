@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-118-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-21-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-22-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1059-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1060-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -277,6 +277,7 @@
 - [Blek+](https://apps.apple.com/us/app/id1551231841)
 - [Crossy Road Castle](https://apps.apple.com/us/app/id1489275350)
 - [Cut the Rope Remastered](https://apps.apple.com/us/app/id1524615151)
+- [Doodle God Universe](https://apps.apple.com/us/app/id1539947531)
 - [Fruit Ninja Classic+](https://apps.apple.com/us/app/id1552127102)
 - [Game Dev Story+](https://apps.apple.com/us/app/id1557657042)
 - [INMOST](https://apps.apple.com/us/app/id1465235605)
