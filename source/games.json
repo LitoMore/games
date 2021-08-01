@@ -3283,6 +3283,10 @@
           "website": "https://stadia.google.com/store/details/8f0addba5d3d4c05b07d7b59481e0171rcp1/sku/de13900e4bc8442b9f1ddead7baaec6dp"
         },
         {
+          "name": "Epistory - Typing Chronicles",
+          "website": "https://stadia.google.com/store/details/cddb29b222924d11b2bf03a82fee477arcp1/sku/f22c0b322aac4f6dbb9c822780f956c7p"
+        },
+        {
           "name": "EVERSPACE™",
           "website": "https://stadia.google.com/store/details/44752f1774ca4508a2c45e57121d7e8frcp1/sku/dfda545ac2e94885a13b1434d370d4b0"
         },
@@ -3323,8 +3327,16 @@
           "website": "https://stadia.google.com/store/details/16d98de80a3340ffa4129953ae4e3206rcp1/sku/6ec089b591ee47fab2fed726e466700ap"
         },
         {
+          "name": "It Came From Space And Ate Our Brains",
+          "website": "https://stadia.google.com/store/details/004b82924b0441c5a2ba6488cca19b90rcp1/sku/cf6b0ff80be24b3591051fb31a0765c0p"
+        },
+        {
           "name": "Journey to the Savage Planet",
           "website": "https://stadia.google.com/store/details/22c6d03e67474644a139de4f04a08c11rcp1/sku/a287b8393c204384a8b940dc79d142fd"
+        },
+        {
+          "name": "Killer Queen Black",
+          "website": "https://stadia.google.com/store/details/3f30ebc3799945fea323f8a663c35501rcp1/sku/70065c4266c5464ca068d225cd341902p"
         },
         {
           "name": "Lara Croft and the Guardian of Light",
@@ -3421,6 +3433,10 @@
         {
           "name": "Trine 4: The Nightmare Prince",
           "website": "https://stadia.google.com/store/details/30fd580936bb43b782ec2dbdac8b2f45rcp1/sku/8f39647dac4f452ea0abb9aec508295fp"
+        },
+        {
+          "name": "Valkyria Chronicles 4 Complete Edition",
+          "website": "https://stadia.google.com/store/details/b00e2f20b91e43c8a0597b07fc80ca84rcp1/sku/bd0a6e3669c7410c8c3f86779cac1f44p"
         },
         {
           "name": "Ys VIII: Lacrimosa of DANA",

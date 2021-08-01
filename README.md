@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-52-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-44-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-48-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-217-ddd?logo=steam&labelColor=171a21"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1062-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1066-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -899,6 +899,7 @@
 - [Cthulhu Saves Christmas](https://stadia.google.com/store/details/769a088b9ef04c04b341911a1ef8b8ecrcp1/sku/5748ef643485495ba71d15041c44f0d4p)
 - [El Hijo - A Wild West Tale](https://stadia.google.com/store/details/d46f9c2d858d41d6ae4cc12d186657f0rcp1/sku/4761cd53808a462ca823a9e403baea99)
 - [Enter The Gungeon](https://stadia.google.com/store/details/8f0addba5d3d4c05b07d7b59481e0171rcp1/sku/de13900e4bc8442b9f1ddead7baaec6dp)
+- [Epistory - Typing Chronicles](https://stadia.google.com/store/details/cddb29b222924d11b2bf03a82fee477arcp1/sku/f22c0b322aac4f6dbb9c822780f956c7p)
 - [EVERSPACE™](https://stadia.google.com/store/details/44752f1774ca4508a2c45e57121d7e8frcp1/sku/dfda545ac2e94885a13b1434d370d4b0)
 - [F1® 2020](https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/60da786be741463fbbeb63ed5130bc11)
 - [Figment](https://stadia.google.com/store/details/7183914d07034cb1bbb8a511779bc1efrcp1/sku/dfc0719b3a5b48ab8213033dc72bfdfcp)
@@ -909,7 +910,9 @@
 - [Hotline Miami](https://stadia.google.com/store/details/5f54e869de4441f8998e80d2c54fa74brcp1/sku/be1bff38daf046f78cde2b36228de554)
 - [Hotline Miami 2:Wrong Number](https://stadia.google.com/store/details/68add0d67fe3491f94cb439664b1ffc7rcp1/sku/bc01f7206e4f4f83a468ce33eea0c404)
 - [Human: Fall Flat Stadia Edition](https://stadia.google.com/store/details/16d98de80a3340ffa4129953ae4e3206rcp1/sku/6ec089b591ee47fab2fed726e466700ap)
+- [It Came From Space And Ate Our Brains](https://stadia.google.com/store/details/004b82924b0441c5a2ba6488cca19b90rcp1/sku/cf6b0ff80be24b3591051fb31a0765c0p)
 - [Journey to the Savage Planet](https://stadia.google.com/store/details/22c6d03e67474644a139de4f04a08c11rcp1/sku/a287b8393c204384a8b940dc79d142fd)
+- [Killer Queen Black](https://stadia.google.com/store/details/3f30ebc3799945fea323f8a663c35501rcp1/sku/70065c4266c5464ca068d225cd341902p)
 - [Lara Croft and the Guardian of Light](https://stadia.google.com/store/details/29b3d5d6788f444c8cd59aa0a49d1bd1rcp1/sku/b4f4f4de3d1e4eef9417a9c896513f0ap)
 - [Little Nightmares II](https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp)
 - [Moonlighter](https://stadia.google.com/store/details/703fbd4ee94441299adeaace6446f27arcp1/sku/a12ef65cefdd48d5856ed5c4cde6b977p)
@@ -934,6 +937,7 @@
 - [The Darkside Detective](https://stadia.google.com/store/details/b465998ccc1c48aaa2fb74f331ebbdd7rcp1/sku/9d8c8bb162b6477ca2f2e5ee89f62b15p)
 - [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp)
 - [Trine 4: The Nightmare Prince](https://stadia.google.com/store/details/30fd580936bb43b782ec2dbdac8b2f45rcp1/sku/8f39647dac4f452ea0abb9aec508295fp)
+- [Valkyria Chronicles 4 Complete Edition](https://stadia.google.com/store/details/b00e2f20b91e43c8a0597b07fc80ca84rcp1/sku/bd0a6e3669c7410c8c3f86779cac1f44p)
 - [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/store/details/7ced0b517b144dd98529ceffab963791rcp1/sku/b51c2723938547a99ebfb2e3b2ae320dp)
 
 ## Steam
