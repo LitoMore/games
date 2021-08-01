@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-27-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-28-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1066-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1067-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1178,6 +1178,7 @@
 - [Bleed 2](https://www.microsoft.com/en-us/p/Bleed-2/BVDG19SHG495)
 - [Conker: Live and Reloaded](https://www.microsoft.com/en-us/p/conker-live-and-reloaded/bvfb8cbs75r6)
 - [Dandara: Trials of Fear Edition](https://www.microsoft.com/en-us/p/Dandara-Trials-of-Fear-Edition/BQQD1KHRWWL8)
+- [Darksiders III](https://www.microsoft.com/en-us/p/darksiders-iii/bsvzcmgzv52l)
 - [Dead Rising](https://www.microsoft.com/zh-cn/p/dead-rising/bzv7w98b3xn4)
 - [Dungeons 3](https://www.microsoft.com/en-us/p/dungeons-3/bpb96brz1v3c)
 - [FIA European Truck Racing Championship](https://www.microsoft.com/en-hk/p/fia-european-truck-racing-championship/brjp066tz2q7)
