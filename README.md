@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-52-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-48-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-49-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-217-ddd?logo=steam&labelColor=171a21"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1075-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1076-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -912,6 +912,7 @@
 - [F1® 2020](https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/60da786be741463fbbeb63ed5130bc11)
 - [Figment](https://stadia.google.com/store/details/7183914d07034cb1bbb8a511779bc1efrcp1/sku/dfc0719b3a5b48ab8213033dc72bfdfcp)
 - [FLOOR KIDS](https://stadia.google.com/store/details/e184f2da322a41c9a31b3ef2c473f95arcp1/sku/c78b6a8ef7734bbf8de9c068eeadd049p)
+- [GRIME](https://stadia.google.com/store/details/d7a58e7a34c843bc91106ef9be366b32rcp1/sku/c6649217ccef4f75923cc53872fd9e21p)
 - [Gunsport](https://stadia.google.com/store/details/16330bd770134d85b5bef3cc6b1407ffrcp1/sku/896565e45f974774a117876f949630df)
 - [HITMAN - The Complete First Season](https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/cc1997b89ae44886a1197a59b42b2613)
 - [HITMAN - World of Assassination](https://stadia.google.com/store/details/990ec302c2cd4ba7817cedcf633ab20frcp1/sku/17d98b899531490ba355016919ffe6ff)
