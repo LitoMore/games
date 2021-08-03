@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-145-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-53-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-54-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-49-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1080-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1081-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -898,6 +898,7 @@
 - [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
 - [Watch Dogs®: Legion](https://www.playstation.com/en-us/games/watch-dogs-legion/)
 - [Werewolf: The Apocalypse – Earthblood](https://store.playstation.com/en-ie/product/EP4008-PPSA02113_00-WTASIEE000000000)
+- [World of Warships: Legends](https://www.playstation.com/en-us/games/world-of-warships-legends/)
 - [Worms Rumble](https://www.playstation.com/en-us/games/worms-rumble/)
 - [Wreckfest](https://www.playstation.com/en-us/games/wreckfest/)
 
