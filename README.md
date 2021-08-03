@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Origin-4-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-142-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-144-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-53-ddd?logo=playstation&labelColor=000000"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1077-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1079-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -789,6 +789,7 @@
 - [Patapon™ Remastered](https://www.playstation.com/en-us/games/patapon-remastered-ps4/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5-ps4/)
 - [Persona 5 Scramble: The Phantom Strikers](https://www.playstation.com/en-hk/games/persona-5-scramble-the-phantom-strikers-ps4/)
+- [Plants vs. Zombies: Battle for Neighborville™](https://www.playstation.com/en-us/games/plants-vs-zombies-battle-for-neighborville/)
 - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://www.playstation.com/en-us/games/playerunknowns-battlegrounds-ps4/)
 - [Ratchet & Clank™](https://store.playstation.com/en-us/product/UP9000-CUSA01047_00-RATCHETPS4000000)
 - [Red Dead Redemption 2](https://www.playstation.com/en-us/games/red-dead-redemption-2-ps4/)
@@ -811,6 +812,7 @@
 - [Stranded Deep](https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA)
 - [STREET FIGHTER® V](https://www.playstation.com/en-us/games/street-fighter-v-ps4/)
 - [Subnautica](https://store.playstation.com/en-us/product/UP5245-CUSA13529_00-SUBNAUTICA000000)
+- [Tennis World Tour 2](https://www.playstation.com/en-us/games/tennis-world-tour-2/)
 - [The Elder Scrolls V: Skyrim VR](https://www.playstation.com/en-us/games/the-elder-scrolls-v-skyrim-vr-ps4/)
 - [The Last of Us Part II](https://www.thelastofus.playstation.com/)
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
