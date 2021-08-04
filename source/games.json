@@ -4479,6 +4479,10 @@
           "website": "https://www.xbox.com/en-US/games/gears-5"
         },
         {
+          "name": "Grand Theft Auto V",
+          "website": "https://www.xbox.com/en-US/games/gta-v"
+        },
+        {
           "name": "Hard Corps: Uprising",
           "website": "https://www.microsoft.com/en-us/p/hard-corps-uprising/c30z07t9q9ct"
         },
@@ -4529,6 +4533,10 @@
         {
           "name": "The Raven Remastered",
           "website": "https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2"
+        },
+        {
+          "name": "Tomb Raider: Definitive Edition",
+          "website": "https://www.microsoft.com/en-us/p/tomb-raider-definitive-edition/bqxts0sx4w0n"
         },
         {
           "name": "Tropico 4",
