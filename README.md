@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-30-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-31-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1083-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1084-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1205,6 +1205,7 @@
 - [NEOGEO BATTLE COLISEUM](https://www.microsoft.com/en-us/p/neogeo-battle-coliseum/c17x452nq0sx)
 - [PLANET ALPHA](https://www.microsoft.com/en-us/p/planet-alpha/bnvzj5zb3wh6)
 - [Port Royale 3](https://www.microsoft.com/en-us/p/port-royale-3/bqmptj2mvcqj)
+- [Powerstar Golf](https://www.microsoft.com/en-us/p/powerstar-golf/bnq94hh98ztp)
 - [Resident Evil](https://www.xbox.com/en-US/games/resident-evil)
 - [ROBLOX](https://www.microsoft.com/en-us/p/ROBLOX/BQ1TN1T79V9K)
 - [Rock of Ages 3: Make & Break](https://www.microsoft.com/en-us/p/rock-of-ages-3-make-break/9n9ksxhrnhw1)
