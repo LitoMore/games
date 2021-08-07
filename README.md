@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-134-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-136-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1084-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1086-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -319,6 +319,7 @@
 - [20XX](https://www.epicgames.com/store/en-US/p/20xx)
 - [3 out of 10, EP 1: "Welcome To Shovelworks"](https://www.epicgames.com/store/en-US/p/3-out-of-10-ep-1)
 - [3 out of 10: Season Two](https://www.epicgames.com/store/en-US/p/3-out-of-10-season-2)
+- [A Plague Tale: Innocence](https://www.epicgames.com/store/en-US/p/a-plague-tale-innocence)
 - [Absolute Drift](https://www.epicgames.com/store/en-US/p/absolute-drift)
 - [ABZU](https://www.epicgames.com/store/en-US/p/abzu)
 - [AER Memories of Old](https://www.epicgames.com/store/en-US/p/aer-memories-of-old)
@@ -388,6 +389,7 @@
 - [Layers of Fear 2](https://www.epicgames.com/store/en-US/p/layers-of-fear-2)
 - [Metro: 2033 Redux](https://www.epicgames.com/store/en-US/p/metro-2033-redux)
 - [Metro: Last Light Redux](https://www.epicgames.com/store/en-US/p/metro-last-light-redux)
+- [Minit](https://www.epicgames.com/store/en-US/p/minit)
 - [Mothergunship](https://www.epicgames.com/store/en-US/p/mothergunship)
 - [MudRunner](https://www.epicgames.com/store/en-US/p/mudrunner)
 - [My Time At Portia](https://www.epicgames.com/store/en-US/p/my-time-at-portia)
