@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-78-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-118-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-120-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-22-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1086-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1088-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -211,7 +211,9 @@
 - [Duet Game](https://apps.apple.com/us/app/id634235735)
 - [Erica App PS4™](https://apps.apple.com/us/app/id1413201739)
 - [Florence](https://apps.apple.com/us/app/id1297430468)
+- [Forza Street: Tap to Race](https://apps.apple.com/us/app/id1453783746)
 - [Fun Run 3 - Multiplayer Games](https://apps.apple.com/us/app/id1118878857)
+- [Gravity Defied Classic](https://apps.apple.com/us/app/id1121395217)
 - [Green the Planet](https://apps.apple.com/us/app/id1069236120)
 - [GWENT: The Witcher Card Game](https://apps.apple.com/us/app/id1466943149)
 - [Happy Room](https://apps.apple.com/us/app/id1195527450)
