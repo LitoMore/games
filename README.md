@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-54-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-49-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-50-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-217-ddd?logo=steam&labelColor=171a21"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1089-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1090-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -938,6 +938,7 @@
 - [MotoGP™20](https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5)
 - [Orcs Must Die! 3](https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a)
 - [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5)
+- [PAW Patrol Mighty Pups Save Adventure Bay](https://stadia.google.com/store/details/ccf9e5615864445ba6a85cbd3557665frcp1/sku/7fca0a0255f04ab5aea66889e4695997p)
 - [PIKUNIKU](https://stadia.google.com/store/details/c02a86f966b044569ee03f80fbc86035rcp1/sku/f1bbad79434f496bae9865248c6c136ap)
 - [PixelJunk Raiders](https://stadia.google.com/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p)
 - [PlayerUnknown's Battlegrounds – Breakthrough Edition](https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/e0d32e6d5b0442f9bea2f8deb5d03570p)
