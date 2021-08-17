@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Origin-4-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-145-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-147-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-54-ddd?logo=playstation&labelColor=000000"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1090-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1092-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -704,6 +704,7 @@
 
 ## PlayStation®4
 
+- [13 Sentinels: Aegis Rim](https://www.playstation.com/en-us/games/13-sentinels-aegis-rim/)
 - [A Plague Tale: Innocence](https://www.playstation.com/en-us/games/aplague-tale-innocence-ps4/)
 - [ABZÛ](https://www.playstation.com/en-us/games/abzu/)
 - [Ace Combat 7: Skies Unknown](https://www.playstation.com/en-us/games/ace-combat-7-skies-unknown-ps4/)
@@ -841,6 +842,7 @@
 - [Virtua Fighter 5 Ultimate Showdown](https://store.playstation.com/en-hk/product/HP0177-CUSA27067_00-9030766588190582)
 - [Watch Dogs™](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
 - [What Remains of Edith Finch](https://www.playstation.com/en-us/games/what-remains-of-edith-finch-ps4/)
+- [Wing of Darkness](https://store.playstation.com/en-us/product/UP5946-CUSA24369_00-00WINGOFDARKNESS/)
 - [WipEout Omega Collection](https://www.playstation.com/en-us/games/wipeout-omega-collection-ps4/)
 - [Wolfenstein: Cyberpilot](https://www.playstation.com/en-us/games/wolfenstein-cyberpilot-ps4/)
 - [WWE 2K Battlegrounds](https://www.playstation.com/en-us/games/wwe-2k-battlegrounds/)

@@ -2506,6 +2506,10 @@
       ],
       "gameList": [
         {
+          "name": "13 Sentinels: Aegis Rim",
+          "website": "https://www.playstation.com/en-us/games/13-sentinels-aegis-rim/"
+        },
+        {
           "name": "A Plague Tale: Innocence",
           "website": "https://www.playstation.com/en-us/games/aplague-tale-innocence-ps4/"
         },
@@ -3052,6 +3056,10 @@
         {
           "name": "What Remains of Edith Finch",
           "website": "https://www.playstation.com/en-us/games/what-remains-of-edith-finch-ps4/"
+        },
+        {
+          "name": "Wing of Darkness",
+          "website": "https://store.playstation.com/en-us/product/UP5946-CUSA24369_00-00WINGOFDARKNESS/"
         },
         {
           "name": "WipEout Omega Collection",
