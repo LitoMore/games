@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Origin-4-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-147-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-148-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-54-ddd?logo=playstation&labelColor=000000"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1095-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1096-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -771,6 +771,7 @@
 - [Hollow Knight: Voidheart Edition](https://www.playstation.com/en-us/games/hollow-knight-voidheart-edition-ps4/)
 - [Horizon Zero Dawn: Complete Edition](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/)
 - [Human Anatomy VR](https://store.playstation.com/en-us/product/UP5269-CUSA16456_00-VIRTUALMEDICINEX)
+- [Just Cause 3](https://store.playstation.com/en-us/product/UP0082-CUSA01493_00-JUSTCAUSE3NA0000/)
 - [KINGDOM HEARTS III](https://www.playstation.com/en-us/games/kingdom-hearts-iii-ps4/)
 - [Kingdoms of Amalur: Re-Reckoning](https://store.playstation.com/en-us/product/UP4389-CUSA17271_00-KOAFATEEDITIONUS)
 - [KNACK 2](https://www.playstation.com/en-hk/games/knack-2/)
