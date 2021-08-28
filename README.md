@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-181-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-186-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-4-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1098-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1103-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -572,11 +572,13 @@
 - [Fishing Star World Tour](https://www.nintendo.com/games/detail/fishing-star-world-tour-switch/)
 - [Fitness Boxing](https://www.nintendo.com/games/detail/fitness-boxing-switch/)
 - [FLASHBACK™](https://www.nintendo.com/games/detail/flashback-switch/)
+- [Florence](https://www.nintendo.com/games/detail/florence-switch/)
 - [GALAK-Z: Variant S](https://www.nintendo.com/games/detail/galak-z-variant-s-switch/)
 - [Game Builder Garage™](https://www.nintendo.com/games/detail/game-builder-garage-switch/)
 - [Geki Yaba Runner Anniversary Edition](https://www.nintendo.com/games/detail/geki-yaba-runner-anniversary-edition-switch/)
 - [Globlin Sword](https://www.nintendo.com/games/detail/goblin-sword-switch/)
 - [Goonya Fighter](https://www.nintendo.com/games/detail/goonya-fighter-switch/)
+- [Hatsune Miku Logic Paint S](https://www.nintendo.com/games/detail/hatsune-miku-logic-paint-s-switch/)
 - [Hatsune Miku: Project DIVA Mega Mix](https://www.nintendo.com/games/detail/hatsune-miku-project-diva-mega-mix-switch/)
 - [Hidden Folks](https://www.nintendo.com/games/detail/hidden-folks-switch/)
 - [Hollow](https://www.nintendo.com/games/detail/hollow-switch/)
@@ -636,6 +638,7 @@
 - [Paper Mario™: The Origami King](https://www.nintendo.com/games/detail/paper-mario-the-origami-king-switch/)
 - [Party Golf](https://www.nintendo.com/games/detail/party-golf-switch/)
 - [Phoenix Wright: Ace Attorney Trilogy](https://www.nintendo.com/games/detail/phoenix-wright-ace-attorney-trilogy-switch/)
+- [PICO PARK](https://www.nintendo.com/games/detail/pico-park-switch/)
 - [Pikmin™ 3 Deluxe](https://www.nintendo.com/games/detail/pikmin-3-deluxe-switch/)
 - [Plague Road](https://www.nintendo.com/games/detail/plague-road-switch/)
 - [Pokémon Café Mix](https://www.nintendo.com/games/detail/pokemon-cafe-mix-switch/)
@@ -650,6 +653,7 @@
 - [Resident Evil Revelations Collection](https://www.nintendo.com/games/detail/resident-evil-revelations-collection-switch/)
 - [Resident Evil Triple Pack](https://www.nintendo.com/games/detail/resident-evil-triple-pack-switch/)
 - [Return of the Obra Dinn](https://www.nintendo.com/games/detail/return-of-the-obra-dinn-switch/)
+- [RichMan 10](https://store-jp.nintendo.com/list/software/70010000035024.html)
 - [Ring Fit Adventure](https://www.nintendo.com/games/detail/ring-fit-adventure-switch/)
 - [Robonauts](https://www.nintendo.com/games/detail/robonauts-switch/)
 - [Rogue Heroes: Ruins of Tasos](https://www.nintendo.com/games/detail/rogue-heroes-ruins-of-tasos-switch/)
@@ -673,6 +677,7 @@
 - [Taiko no Tatsujin: Drum 'n' Fun!](https://www.nintendo.com/games/detail/taiko-no-tatsujin-drum-n-fun-switch/)
 - [Tetris® 99](https://www.nintendo.com/games/detail/tetris-99-switch/)
 - [The Elder Scrolls V: Skyrim](https://www.nintendo.com/games/detail/the-elder-scrolls-v-skyrim-switch/)
+- [The Gardens Between](https://www.nintendo.com/games/detail/the-gardens-between-switch/)
 - [The Legend of Zelda™: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/)
 - [The Legend of Zelda™: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - [The Legend of Zelda™: Skyward Sword HD](https://www.nintendo.com/games/detail/the-legend-of-zelda-skyward-sword-hd-switch/)
