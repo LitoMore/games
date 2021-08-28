@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-180-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-181-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-4-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1097-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1098-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -639,6 +639,7 @@
 - [Pikmin™ 3 Deluxe](https://www.nintendo.com/games/detail/pikmin-3-deluxe-switch/)
 - [Plague Road](https://www.nintendo.com/games/detail/plague-road-switch/)
 - [Pokémon Café Mix](https://www.nintendo.com/games/detail/pokemon-cafe-mix-switch/)
+- [Pokémon TV](https://www.nintendo.com/games/detail/pokemon-tv-switch/)
 - [Pokémon™ HOME](https://www.nintendo.com/games/detail/pokemon-home-switch/)
 - [Pokémon™ Quest](https://www.nintendo.com/games/detail/pokemon-quest-switch/)
 - [Pokémon™ Shield](https://www.nintendo.com/games/detail/pokemon-shield-switch/)
