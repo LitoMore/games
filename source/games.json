@@ -3371,6 +3371,10 @@
       ],
       "gameList": [
         {
+          "name": "ARK: Survival Evolved",
+          "website": "https://stadia.google.com/store/details/805de0d15b8b4beea63e282aa6f7e8fercp1/sku/83ebd12c0b184c7a8b870c73bc14a7d4p"
+        },
+        {
           "name": "Ary and the Secret of Seasons",
           "website": "https://stadia.google.com/store/details/016636d5f49f4862be3ff8cbcf6c7adercp1/sku/be70e67b1fd64dc2bb4f002e65239731p"
         },
@@ -3393,6 +3397,10 @@
         {
           "name": "Cthulhu Saves Christmas",
           "website": "https://stadia.google.com/store/details/769a088b9ef04c04b341911a1ef8b8ecrcp1/sku/5748ef643485495ba71d15041c44f0d4p"
+        },
+        {
+          "name": "Darksiders II Deathinitive Edition",
+          "website": "https://stadia.google.com/store/details/694bb88862a84a4d86ef09c447094763rcp1/sku/a47447ea040c4e1d9f27741674d3d4d8p"
         },
         {
           "name": "El Hijo - A Wild West Tale",
@@ -3465,6 +3473,14 @@
         {
           "name": "Lara Croft and the Guardian of Light",
           "website": "https://stadia.google.com/store/details/29b3d5d6788f444c8cd59aa0a49d1bd1rcp1/sku/b4f4f4de3d1e4eef9417a9c896513f0ap"
+        },
+        {
+          "name": "Legend of Keepers: Career of a Dungeon Manager",
+          "website": "https://stadia.google.com/store/details/ba593716983f436ea49ae09a531d65b5rcp1/sku/83e17749482942da85f0c20ea0d47ca5p"
+        },
+        {
+          "name": "Little Big Workshop",
+          "website": "https://stadia.google.com/store/details/e4e8f5e5bc744270a644c554ba3f2962rcp1/sku/c00cecabcbde4e95bdab69be6e80b40bp"
         },
         {
           "name": "Little Nightmares II",
@@ -3565,6 +3581,10 @@
         {
           "name": "Valkyria Chronicles 4 Complete Edition",
           "website": "https://stadia.google.com/store/details/b00e2f20b91e43c8a0597b07fc80ca84rcp1/sku/bd0a6e3669c7410c8c3f86779cac1f44p"
+        },
+        {
+          "name": "Wave Break",
+          "website": "https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2"
         },
         {
           "name": "Ys VIII: Lacrimosa of DANA",

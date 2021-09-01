@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-54-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-50-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-55-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-217-ddd?logo=steam&labelColor=171a21"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1103-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1108-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -921,12 +921,14 @@
 
 ## Stadia
 
+- [ARK: Survival Evolved](https://stadia.google.com/store/details/805de0d15b8b4beea63e282aa6f7e8fercp1/sku/83ebd12c0b184c7a8b870c73bc14a7d4p)
 - [Ary and the Secret of Seasons](https://stadia.google.com/store/details/016636d5f49f4862be3ff8cbcf6c7adercp1/sku/be70e67b1fd64dc2bb4f002e65239731p)
 - [AVICII Invector](https://stadia.google.com/store/details/2c8b9ab112e5460db922dc7353381256rcp1/sku/afb2b66ddd744605a3d01acbeaf3ba01p)
 - [Blue Fire](https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p)
 - [Chronos: Before the Ashes](https://stadia.google.com/store/details/3f94b62fa50c4202be10472947478f8frcp1/sku/c3fcca2c75614bf6b634bedc2f766003p)
 - [Crayta: Premium Edition](https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/e50890bb854e4666ad06742e1e1789aap)
 - [Cthulhu Saves Christmas](https://stadia.google.com/store/details/769a088b9ef04c04b341911a1ef8b8ecrcp1/sku/5748ef643485495ba71d15041c44f0d4p)
+- [Darksiders II Deathinitive Edition](https://stadia.google.com/store/details/694bb88862a84a4d86ef09c447094763rcp1/sku/a47447ea040c4e1d9f27741674d3d4d8p)
 - [El Hijo - A Wild West Tale](https://stadia.google.com/store/details/d46f9c2d858d41d6ae4cc12d186657f0rcp1/sku/4761cd53808a462ca823a9e403baea99)
 - [Enter The Gungeon](https://stadia.google.com/store/details/8f0addba5d3d4c05b07d7b59481e0171rcp1/sku/de13900e4bc8442b9f1ddead7baaec6dp)
 - [Epistory - Typing Chronicles](https://stadia.google.com/store/details/cddb29b222924d11b2bf03a82fee477arcp1/sku/f22c0b322aac4f6dbb9c822780f956c7p)
@@ -945,6 +947,8 @@
 - [Journey to the Savage Planet](https://stadia.google.com/store/details/22c6d03e67474644a139de4f04a08c11rcp1/sku/a287b8393c204384a8b940dc79d142fd)
 - [Killer Queen Black](https://stadia.google.com/store/details/3f30ebc3799945fea323f8a663c35501rcp1/sku/70065c4266c5464ca068d225cd341902p)
 - [Lara Croft and the Guardian of Light](https://stadia.google.com/store/details/29b3d5d6788f444c8cd59aa0a49d1bd1rcp1/sku/b4f4f4de3d1e4eef9417a9c896513f0ap)
+- [Legend of Keepers: Career of a Dungeon Manager](https://stadia.google.com/store/details/ba593716983f436ea49ae09a531d65b5rcp1/sku/83e17749482942da85f0c20ea0d47ca5p)
+- [Little Big Workshop](https://stadia.google.com/store/details/e4e8f5e5bc744270a644c554ba3f2962rcp1/sku/c00cecabcbde4e95bdab69be6e80b40bp)
 - [Little Nightmares II](https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp)
 - [Moonlighter](https://stadia.google.com/store/details/703fbd4ee94441299adeaace6446f27arcp1/sku/a12ef65cefdd48d5856ed5c4cde6b977p)
 - [MotoGP™20](https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5)
@@ -970,6 +974,7 @@
 - [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp)
 - [Trine 4: The Nightmare Prince](https://stadia.google.com/store/details/30fd580936bb43b782ec2dbdac8b2f45rcp1/sku/8f39647dac4f452ea0abb9aec508295fp)
 - [Valkyria Chronicles 4 Complete Edition](https://stadia.google.com/store/details/b00e2f20b91e43c8a0597b07fc80ca84rcp1/sku/bd0a6e3669c7410c8c3f86779cac1f44p)
+- [Wave Break](https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2)
 - [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/store/details/7ced0b517b144dd98529ceffab963791rcp1/sku/b51c2723938547a99ebfb2e3b2ae320dp)
 
 ## Steam
