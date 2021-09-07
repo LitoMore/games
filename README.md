@@ -41,10 +41,10 @@
     <img src="https://img.shields.io/badge/Origin-5-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-148-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-150-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-54-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-55-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-55-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1118-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1121-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -784,6 +784,7 @@
 - [Gran Turismo Sport](https://www.playstation.com/en-us/explore/playstation-vr/bundles/playstation-vr-gran-turismo-sport-bundle/)
 - [GreedFall](https://store.playstation.com/en-us/product/UP4133-CUSA14211_00-GREEDFALL0000000)
 - [Guilty Gear Xrd REV 2](https://www.playstation.com/en-us/games/guilty-gear-xrd-rev-2-ps4/)
+- [HITMAN™ 2](https://www.playstation.com/en-us/games/hitman-2/)
 - [Hollow Knight: Voidheart Edition](https://www.playstation.com/en-us/games/hollow-knight-voidheart-edition-ps4/)
 - [Horizon Zero Dawn: Complete Edition](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/)
 - [Human Anatomy VR](https://store.playstation.com/en-us/product/UP5269-CUSA16456_00-VIRTUALMEDICINEX)
@@ -816,6 +817,7 @@
 - [Persona 5 Scramble: The Phantom Strikers](https://www.playstation.com/en-hk/games/persona-5-scramble-the-phantom-strikers-ps4/)
 - [Plants vs. Zombies: Battle for Neighborville™](https://www.playstation.com/en-us/games/plants-vs-zombies-battle-for-neighborville/)
 - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://www.playstation.com/en-us/games/playerunknowns-battlegrounds-ps4/)
+- [Predator: Hunting Grounds](https://www.playstation.com/en-us/games/predator-hunting-grounds/)
 - [Ratchet & Clank™](https://store.playstation.com/en-us/product/UP9000-CUSA01047_00-RATCHETPS4000000)
 - [Red Dead Redemption 2](https://www.playstation.com/en-us/games/red-dead-redemption-2-ps4/)
 - [Redout: Lightspeed Edition](https://www.playstation.com/en-us/games/redout-lightspeed-edition-ps4/)
@@ -908,6 +910,7 @@
 - [Mortal Kombat X](https://www.playstation.com/en-us/games/mortal-kombat-x/)
 - [Oddworld: Soulstorm](https://www.playstation.com/en-us/games/oddworld-soulstorm/)
 - [Operation: Tango](https://www.playstation.com/en-us/games/operation-tango/)
+- [Overcooked! All You Can Eat](https://store.playstation.com/en-gb/product/EP4064-CUSA23463_00-OVERCOOKEDAYCE00/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5/)
 - [Ratchet & Clank: Rift Apart](https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/)
 - [Ratchet & Clank™](https://www.playstation.com/en-us/games/ratchet-and-clank/)
