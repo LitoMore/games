@@ -3265,6 +3265,10 @@
           "website": "https://www.playstation.com/en-us/games/devil-may-cry-5-special-edition/"
         },
         {
+          "name": "F.I.S.T: Forged in Shadow Torch",
+          "website": "https://www.playstation.com/en-us/games/fist-forged-in-shadow-torch/"
+        },
+        {
           "name": "Fallout 4",
           "website": "https://www.playstation.com/en-us/games/fallout-4/"
         },
@@ -3277,8 +3281,16 @@
           "website": "https://store.playstation.com/en-us/product/UP0082-CUSA01633_00-FFXVROYALEDITION"
         },
         {
+          "name": "Ghost of Tsushima Director's Cut",
+          "website": "https://www.playstation.com/en-us/games/ghost-of-tsushima/"
+        },
+        {
           "name": "God of War",
           "website": "https://store.playstation.com/en-us/product/UP9000-CUSA07408_00-00000000GODOFWAR"
+        },
+        {
+          "name": "Hades",
+          "website": "https://www.playstation.com/en-us/games/hades/"
         },
         {
           "name": "Hunter's Arena: Legends",
