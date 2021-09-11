@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-186-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-187-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-5-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1126-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1127-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -706,6 +706,7 @@
 - [Venture Kid](https://www.nintendo.com/games/detail/venture-kid-switch/)
 - [VOEZ](https://www.nintendo.com/games/detail/voez-switch/)
 - [Warframe](https://www.nintendo.com/games/detail/warframe-switch/)
+- [WarioWare™: Get It Together!](https://www.nintendo.com/games/detail/warioware-get-it-together-switch/)
 - [Wizard of Legend](https://www.nintendo.com/games/detail/wizard-of-legend-switch/)
 - [Worms W.M.D](https://www.nintendo.com/games/detail/worms-wmd-switch/)
 - [Xenoblade Chronicles™ 2](https://www.nintendo.com/games/detail/xenoblade-chronicles-2-switch/)
