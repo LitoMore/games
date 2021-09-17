@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-143-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-145-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1128-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1130-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -434,6 +434,7 @@
 - [Sludge Life](https://www.epicgames.com/store/en-US/p/sludge-life)
 - [Solitairica](https://www.epicgames.com/store/en-US/p/solitairica)
 - [Sonic Mania](https://www.epicgames.com/store/en-US/p/sonic-mania)
+- [Speed Brawl](https://www.epicgames.com/store/en-US/p/speed-brawl)
 - [STAR WARS™ Battlefront™ II: Celebration Edition](https://www.epicgames.com/store/en-US/p/star-wars-battlefront-2)
 - [Steep](https://www.epicgames.com/store/en-US/p/steep)
 - [Stick It To The Man](https://www.epicgames.com/store/en-US/p/stick-it-to-the-man)
@@ -445,6 +446,7 @@
 - [Surviving Mars](https://www.epicgames.com/store/en-US/p/surviving-mars)
 - [Tacoma](https://www.epicgames.com/store/en-US/p/tacoma)
 - [Tales of the Neon Sea](https://www.epicgames.com/store/en-US/p/tales-of-the-neon-sea)
+- [Tharsis](https://www.epicgames.com/store/en-US/p/tharsis)
 - [The Alto Collection](https://www.epicgames.com/store/en-US/p/the-alto-collection)
 - [The Escapists](https://www.epicgames.com/store/en-US/p/the-escapists)
 - [The Fall](https://www.epicgames.com/store/en-US/p/the-fall)
