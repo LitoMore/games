@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-150-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-59-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-60-ddd?logo=playstation&labelColor=000000"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-56-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1131-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1132-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -893,6 +893,7 @@
 - [Control: Ultimate Edition](https://store.playstation.com/en-hk/product/UP4040-PPSA01949_00-3990089525246341)
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
 - [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
+- [DEATHLOOP](https://www.playstation.com/en-us/games/deathloop/)
 - [Demon's Souls](https://www.playstation.com/en-us/games/demons-souls/)
 - [Destruction AllStars](https://store.playstation.com/en-hk/product/HP9000-PPSA02714_00-DALLSTARSPLUS001)
 - [Detroit: Become Human](https://www.playstation.com/en-us/games/detroit-become-human/)
