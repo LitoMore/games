@@ -2594,7 +2594,7 @@
       "hostnames": [
         "www.playstation.com",
         "store.playstation.com",
-        "www.thelastofus.playstation.com/"
+        "www.thelastofus.playstation.com"
       ],
       "gameList": [
         {
@@ -3202,7 +3202,7 @@
     {
       "name": "PlayStation®5",
       "anchor": "#playstation5",
-      "badge": "https://img.shields.io/badge/PlayStation_5-{{count}}-ddd?logo=playstation&labelColor=000000",
+      "badge": "https://img.shields.io/badge/PlayStation_5-{{count}}-ddd?logo=playstation&labelColor=white&logoColor=black",
       "hostnames": [
         "www.playstation.com",
         "store.playstation.com"

@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-150-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-60-ddd?logo=playstation&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-60-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-56-ddd?logo=stadia&labelColor=cd2640"/>
