@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-150-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-60-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-61-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-56-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1134-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1135-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -899,6 +899,7 @@
 - [Destruction AllStars](https://store.playstation.com/en-hk/product/HP9000-PPSA02714_00-DALLSTARSPLUS001)
 - [Detroit: Become Human](https://www.playstation.com/en-us/games/detroit-become-human/)
 - [Devil May Cry 5 Special Edition](https://www.playstation.com/en-us/games/devil-may-cry-5-special-edition/)
+- [Diablo II: Resurrected](https://www.playstation.com/en-us/games/diablo-ii-resurrected/)
 - [F.I.S.T: Forged in Shadow Torch](https://www.playstation.com/en-us/games/fist-forged-in-shadow-torch/)
 - [Fallout 4](https://www.playstation.com/en-us/games/fallout-4/)
 - [FINAL FANTASY VII REMAKE INTERGRADE](https://www.playstation.com/en-us/games/final-fantasy-vii-remake-intergrade/)
