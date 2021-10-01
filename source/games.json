@@ -4651,9 +4651,14 @@
       "badge": "https://img.shields.io/badge/Xbox_Series_X-{{count}}-ddd?logo=xbox&labelColor=333333",
       "hostnames": [
         "www.microsoft.com",
-        "www.xbox.com"
+        "www.xbox.com",
+        "marketplace.xbox.com"
       ],
       "gameList": [
+        {
+          "name": "Aaero",
+          "website": "https://www.microsoft.com/en-us/p/Aaero/BZR51XD70NKD"
+        },
         {
           "name": "Armello",
           "website": "https://www.microsoft.com/en-us/p/armello/bt990qwd1dlf"
@@ -4749,6 +4754,10 @@
         {
           "name": "Shadows: Awakening",
           "website": "https://www.microsoft.com/en-us/p/shadows-awakening/c1lmjj64fv3j"
+        },
+        {
+          "name": "STREET FIGHTER IV",
+          "website": "https://marketplace.xbox.com/en-US/Product/STREET-FIGHTER-IV/66acd000-77fe-1000-9115-d802434307e1"
         },
         {
           "name": "Swimsanity!",
