@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-8-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-145-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-146-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-14-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1140-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1141-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -366,6 +366,7 @@
 - [Dungeons 3](https://www.epicgames.com/store/en-US/p/dungeons-3)
 - [Elite Dangerous](https://www.epicgames.com/store/en-US/p/elite-dangerous)
 - [Enter The Gungeon](https://www.epicgames.com/store/en-US/p/enter-the-gungeon)
+- [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv)
 - [Farming Simulator 19](https://www.epicgames.com/store/en-US/p/farming-simulator-19)
 - [Faster Then Light](https://www.epicgames.com/store/en-US/p/faster-than-light)
 - [Football Manager 2020](https://www.epicgames.com/store/en-US/p/football-manager-2020)
