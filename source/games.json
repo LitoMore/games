@@ -3483,8 +3483,16 @@
           "website": "https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p"
         },
         {
+          "name": "Cake Bash",
+          "website": "https://stadia.google.com/store/details/19efd5fa36794d7b8bc87de68124e705rcp1/sku/a7f0a6098ae747788a6f75d0d1e1d8f2p"
+        },
+        {
           "name": "Chronos: Before the Ashes",
           "website": "https://stadia.google.com/store/details/3f94b62fa50c4202be10472947478f8frcp1/sku/c3fcca2c75614bf6b634bedc2f766003p"
+        },
+        {
+          "name": "Control Ultimate Edition",
+          "website": "https://stadia.google.com/store/details/2cdcb63bc3604360a157c4a4021eca35rcp1/sku/24eb3c7b5a9d44259c8d997bab233411p"
         },
         {
           "name": "Crayta: Premium Edition",
@@ -3497,6 +3505,10 @@
         {
           "name": "Darksiders II Deathinitive Edition",
           "website": "https://stadia.google.com/store/details/694bb88862a84a4d86ef09c447094763rcp1/sku/a47447ea040c4e1d9f27741674d3d4d8p"
+        },
+        {
+          "name": "DreamWorks Spirit Lucky's Big Adventure",
+          "website": "https://stadia.google.com/store/details/25567bfb599a46ecab0fc8b18682b3f8rcp1/sku/171479c2432146a59989b5f2660b62e6p"
         },
         {
           "name": "El Hijo - A Wild West Tale",
@@ -3533,6 +3545,10 @@
         {
           "name": "Gunsport",
           "website": "https://stadia.google.com/store/details/16330bd770134d85b5bef3cc6b1407ffrcp1/sku/896565e45f974774a117876f949630df"
+        },
+        {
+          "name": "Hello Engineer - Early Access",
+          "website": "https://stadia.google.com/store/details/e85d550899de407e996a8a2d9dfbc7efrcp1/sku/4db0c5af19c74032beb90d083dfb9431p"
         },
         {
           "name": "HITMAN - The Complete First Season",
@@ -3581,6 +3597,10 @@
         {
           "name": "Little Nightmares II",
           "website": "https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp"
+        },
+        {
+          "name": "Mafia III: Definitive Edition",
+          "website": "https://stadia.google.com/store/details/9092c5ed87224f3e8a277dac0479874frcp1/sku/5be0350274a142b1acbfa2a958d494f9"
         },
         {
           "name": "Moonlighter",
