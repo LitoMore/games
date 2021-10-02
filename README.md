@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-84-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-94-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-121-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1146-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1156-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -93,6 +93,7 @@
 - [BFF or Die](https://images-na.ssl-images-amazon.com/images/I/41e6drXiqqL.jpg)
 - [Blasphemous](https://images-na.ssl-images-amazon.com/images/I/41nl6XNb9UL.jpg)
 - [Blazing Star](https://images-na.ssl-images-amazon.com/images/I/41bWigpfrxL.jpg)
+- [Blue Fire](https://images-na.ssl-images-amazon.com/images/I/41XVdqyZv9L.jpg)
 - [Bomber Crew Deluxe](https://images-na.ssl-images-amazon.com/images/I/51bKrVtSuHL.jpg)
 - [Bombslinger](https://images-na.ssl-images-amazon.com/images/I/51BNGrQcHrS.jpg)
 - [Boomerang Fu](https://images-na.ssl-images-amazon.com/images/I/41TtBQGClUL.jpg)
@@ -128,10 +129,12 @@
 - [Pulstar](https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg)
 - [Puzzle Agent](https://images-na.ssl-images-amazon.com/images/I/417yiWhPz4L.jpg)
 - [RAD](https://images-na.ssl-images-amazon.com/images/I/617XkOfU4VL.jpg)
+- [Red Wings: Aces of the Sky](https://images-na.ssl-images-amazon.com/images/I/41gp31NRJIL.jpg)
 - [Sam and Max Hit the Road](https://images-na.ssl-images-amazon.com/images/I/51ceukl9cAL.jpg)
 - [Samurai Shodown II](https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg)
 - [Samurai Shodown V Special](https://images-na.ssl-images-amazon.com/images/I/41BTivtNKNL.jpg)
 - [Secret Files 2: Puritas Cordis](https://images-na.ssl-images-amazon.com/images/I/41iZ9lOZvZL.jpg)
+- [Secret Files 3](https://images-na.ssl-images-amazon.com/images/I/41P3uq+EcML.jpg)
 - [Secret Files: Tunguska](https://images-na.ssl-images-amazon.com/images/I/411b84JxTmS.jpg)
 - [Sengoku 3](https://images-na.ssl-images-amazon.com/images/I/51OqxYzuPUL.jpg)
 - [Shock Troopers](https://images-na.ssl-images-amazon.com/images/I/51Cnw8dv7AL.jpg)
@@ -139,6 +142,7 @@
 - [Sine Mora Ex](https://images-na.ssl-images-amazon.com/images/I/51D4U4R0PLL.jpg)
 - [SkyDrift](https://images-na.ssl-images-amazon.com/images/I/41rINvRQBFL.jpg)
 - [SNK 40th Anniversary Collection](https://images-na.ssl-images-amazon.com/images/I/51TN5AZ4PBL.jpg)
+- [Song of Horror Complete Edition](https://images-na.ssl-images-amazon.com/images/I/41jD3actQoL.jpg)
 - [Spinch](https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg)
 - [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
 - [Stealth Bastard Deluxe](https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg)
@@ -159,8 +163,14 @@
 - [The Last Blade 2](https://images-na.ssl-images-amazon.com/images/I/51mIp68C2yL.jpg)
 - [The Secret of Monkey Island: Special Edition](https://images-na.ssl-images-amazon.com/images/I/61kOEDVeufL.jpg)
 - [The Wanderer: Frankenstein's Creature](https://images-na.ssl-images-amazon.com/images/I/61BQKl6r4sL.jpg)
+- [Tiny Robots Recharged](https://images-na.ssl-images-amazon.com/images/I/513hyTSh9mL.jpg)
 - [Tools Up!](https://images-na.ssl-images-amazon.com/images/I/41C2-HXJKVL.jpg)
 - [Unmemory](https://images-na.ssl-images-amazon.com/images/I/41TS6+2xU-L.jpg)
+- [Wallace & Gromit: Fright of the Bumblebees](https://images-na.ssl-images-amazon.com/images/I/41EXGQJsdYL.jpg)
+- [Wallace & Gromit: Muzzled!](https://images-na.ssl-images-amazon.com/images/I/4103e2g3bjL.jpg)
+- [Wallace & Gromit: THe Bogey Man](https://images-na.ssl-images-amazon.com/images/I/41mFBIvFgRL.jpg)
+- [Wallace & Gromit: The Last Resort](https://images-na.ssl-images-amazon.com/images/I/41yBxUVj4tL.jpg)
+- [Whiskey & Zombies: Great Southern Zombie Escape](https://images-na.ssl-images-amazon.com/images/I/41ZENvW42-L.jpg)
 - [Yoku's Island Express](https://images-na.ssl-images-amazon.com/images/I/41XjHktTocS.jpg)
 
 ## App Store
