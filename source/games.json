@@ -1587,7 +1587,8 @@
       "anchor": "#gogcom",
       "badge": "https://img.shields.io/badge/GOG.com-{{count}}-ddd?logo=gog.com&labelColor=86328a",
       "hostnames": [
-        "www.gog.com"
+        "www.gog.com",
+        "ghostrunnergame.com"
       ],
       "gameList": [
         {
@@ -1605,6 +1606,10 @@
         {
           "name": "Diablo + Hellfire",
           "website": "https://www.gog.com/game/diablo"
+        },
+        {
+          "name": "Ghostrunner",
+          "website": "https://ghostrunnergame.com"
         },
         {
           "name": "Gothic",
