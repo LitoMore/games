@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-94-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-121-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-122-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-22-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1156-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1157-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -183,6 +183,7 @@
 - [Animal Crossing: Pocket Camp](https://apps.apple.com/us/app/id1179915619)
 - [Another Case Solved](https://apps.apple.com/in/app/id698716187)
 - [Arena of Valor](https://apps.apple.com/us/app/id1150318642)
+- [Arrow.io](https://apps.apple.com/us/app/id1183708679)
 - [Battleheart](https://apps.apple.com/us/app/id394057299)
 - [Bean's Quest](https://apps.apple.com/tt/app/id449069244)
 - [Beat Stomper](https://apps.apple.com/us/app/id1041808803)
