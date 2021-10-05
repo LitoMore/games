@@ -989,6 +989,7 @@
       "badge": "https://img.shields.io/badge/Battle.net-{{count}}-ddd?logo=battle.net&labelColor=002650&logoColor=white",
       "hostnames": [
         "us.shop.battle.net",
+        "diablo2.blizzard.com",
         "us.diablo3.com",
         "heroesofthestorm.com",
         "playoverwatch.com",
@@ -1001,6 +1002,10 @@
         {
           "name": "Call of Duty®: Modern Warfare®",
           "website": "https://us.shop.battle.net/en-us/family/call-of-duty-mw"
+        },
+        {
+          "name": "Diablo® II: Resurrected™",
+          "website": "https://diablo2.blizzard.com"
         },
         {
           "name": "Diablo® III",
