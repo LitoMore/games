@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-189-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-190-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-6-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1159-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1160-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -584,6 +584,7 @@
 - [Dead Cells](https://www.nintendo.com/games/detail/dead-cells-switch/)
 - [DEEMO](https://www.nintendo.com/games/detail/deemo-switch/)
 - [Diablo III: Eternal Collection](https://www.nintendo.com/games/detail/diablo-iii-eternal-collection-switch/)
+- [Diablo® II: Resurrected™](https://www.nintendo.com/games/detail/diablo-ii-resurrected-switch/)
 - [DORAEMON STORY OF SEASONS](https://www.nintendo.com/games/detail/doraemon-story-of-seasons-switch/)
 - [Dount Country](https://www.nintendo.com/games/detail/donut-county-switch/)
 - [Dr Kawashima’s Brain Training for Nintendo Switch](https://www.nintendo.co.uk/Games/Nintendo-Switch/Dr-Kawashima-s-Brain-Training-for-Nintendo-Switch-1656777.html)
