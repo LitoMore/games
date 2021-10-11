@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Stadia-61-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-217-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-218-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1160-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1161-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1227,6 +1227,7 @@
 - [WayOut 2: Hex](https://steampowered.com/app/585950)
 - [Windosill](https://steamcommunity.com/app/37600)
 - [Wolcen: Lords of Mayhem](https://steamcommunity.com/app/424370)
+- [Wonder Boy: Returns Remix](https://steamcommunity.com/app/1112240)
 - [YAIBA: NINJA GAIDEN Z](https://steamcommunity.com/app/252230)
 - [Zup!](https://steamcommunity.com/app/533300)
 - [Zup! 2](https://steamcommunity.com/app/562220)
