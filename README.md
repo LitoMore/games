@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-147-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-149-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-15-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1162-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1164-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -425,6 +425,7 @@
 - [Offworld Trading Company](https://www.epicgames.com/store/en-US/p/offworld-trading-company)
 - [Overcooked](https://www.epicgames.com/store/en-US/p/overcooked)
 - [Overcooked! 2](https://www.epicgames.com/store/en-US/p/overcooked-2)
+- [Paladins Epic Pack](https://www.epicgames.com/store/en-US/p/paladins--paladins-epic-pack)
 - [Pathway](https://www.epicgames.com/store/en-US/p/pathway)
 - [PC Building Simulator](https://www.epicgames.com/store/en-US/p/pc-building-simulator)
 - [Pikuniku](https://www.epicgames.com/store/en-US/p/pikuniku)
@@ -454,6 +455,7 @@
 - [Stick It To The Man](https://www.epicgames.com/store/en-US/p/stick-it-to-the-man)
 - [Stranded Deep](https://www.epicgames.com/store/en-US/p/stranded-deep)
 - [Stranger Things 3: The Game](https://www.epicgames.com/store/en-US/p/stranger-things-3-the-game)
+- [Stubbs the Zombie in Rebel Without a Pulse](https://www.epicgames.com/store/en-US/p/stubbs-the-zombie-in-rebel-without-a-pulse)
 - [Sundered: Eldritch Edition](https://www.epicgames.com/store/en-US/p/sundered-eldritch-edition)
 - [Sunless Sea](https://www.epicgames.com/store/en-US/p/sunless-sea)
 - [Superbrothers: Sword & Sworcery EP](https://www.epicgames.com/store/en-US/p/superbrothers-sword-and-sworcery-ep)
