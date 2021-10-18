@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-190-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-191-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-6-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1164-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1165-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -548,6 +548,7 @@
 
 - [1-2-Switch](https://www.nintendo.com/games/detail/1-2-switch-switch/)
 - [30-in-1 Game Collection](https://www.nintendo.com/games/detail/30-in-1-game-collection-switch/)
+- [AAA Clock](https://www.nintendo.com/games/detail/aaa-clock-switch/)
 - [AER Memories of Old](https://www.nintendo.com/games/detail/aer-memories-of-old-switch/)
 - [Among Us](https://www.nintendo.com/games/detail/among-us-switch/)
 - [Animal Crossing™: New Horizons](https://www.nintendo.com/games/detail/animal-crossing-new-horizons-switch/)
