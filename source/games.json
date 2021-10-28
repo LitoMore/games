@@ -1881,6 +1881,7 @@
       "badge": "https://img.shields.io/badge/Nintendo_Switch-{{count}}-ddd?logo=nintendo-switch&labelColor=e60012",
       "hostnames": [
         "www.nintendo.com",
+        "www.nintendo.co.jp",
         "store-jp.nintendo.com",
         "labo.nintendo.com",
         "www.nintendo.co.uk",
@@ -2088,6 +2089,10 @@
         {
           "name": "Evoland Legendary Edition",
           "website": "https://www.nintendo.com/games/detail/evoland-legendary-edition-switch/"
+        },
+        {
+          "name": "Family Computer - Nintendo Switch Online",
+          "website": "https://www.nintendo.co.jp/hardware/switch/onlineservice/fc/"
         },
         {
           "name": "FEZ",
@@ -2338,6 +2343,10 @@
           "website": "https://www.nintendo.com/games/detail/nine-parchments-switch/"
         },
         {
+          "name": "Nintendo 64™ – Nintendo Switch Online",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
           "name": "Nintendo Entertainment System™ - Nintendo Switch Online",
           "website": "https://www.nintendo.com/games/detail/nintendo-entertainment-system-nintendo-switch-online-switch/"
         },
@@ -2486,6 +2495,14 @@
           "website": "https://www.nintendo.com/games/detail/sakuna-of-rice-and-ruin-switch/"
         },
         {
+          "name": "SEGA Genesis™ – Nintendo Switch Online",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "SEGA Mega Drive - Nintendo Switch Online",
+          "website": "https://store-jp.nintendo.com/list/software/70010000046986.html"
+        },
+        {
           "name": "Sid Meier’s Civilization VI",
           "website": "https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch/"
         },
@@ -2504,6 +2521,10 @@
         {
           "name": "Super Bomberman R",
           "website": "https://www.nintendo.com/games/detail/super-bomberman-r-switch/"
+        },
+        {
+          "name": "Super Famicom - Nintendo Switch Online",
+          "website": "https://www.nintendo.co.jp/hardware/switch/onlineservice/fc/index.html"
         },
         {
           "name": "Super Kirby Clash™",

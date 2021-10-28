@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-194-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-199-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-6-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1172-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1177-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -599,6 +599,7 @@
 - [Eastward](https://www.nintendo.com/games/detail/eastward-switch/)
 - [ESCAPE TRICK: 35 Fateful Enigmas](https://www.nintendo.com/games/detail/escape-trick-35-fateful-enigmas-switch/)
 - [Evoland Legendary Edition](https://www.nintendo.com/games/detail/evoland-legendary-edition-switch/)
+- [Family Computer - Nintendo Switch Online](https://www.nintendo.co.jp/hardware/switch/onlineservice/fc/)
 - [FEZ](https://www.nintendo.com/games/detail/fez-switch/)
 - [FIFA 18](https://www.nintendolife.com/reviews/nintendo-switch/fifa_18)
 - [FINAL FANTASY X/X-2 HD Remaster](https://www.nintendo.com/games/detail/final-fantasy-xx-2-hd-remaster-switch/)
@@ -661,6 +662,7 @@
 - [New Pokémon Snap™](https://www.nintendo.com/games/detail/new-pokemon-snap-switch/)
 - [New Super Mario Bros.™ U Deluxe](https://www.nintendo.com/games/detail/new-super-mario-bros-u-deluxe-switch/)
 - [Nine Parchments](https://www.nintendo.com/games/detail/nine-parchments-switch/)
+- [Nintendo 64™ – Nintendo Switch Online](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [Nintendo Entertainment System™ - Nintendo Switch Online](https://www.nintendo.com/games/detail/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Nintendo Labo Toy-Con 04: VR Kit](https://labo.nintendo.com/kits/vr-kit/)
 - [NoReload Heroes](https://www.nintendo.com/games/detail/noreload-heroes-switch/)
@@ -698,11 +700,14 @@
 - [Rogue Heroes: Ruins of Tasos](https://www.nintendo.com/games/detail/rogue-heroes-ruins-of-tasos-switch/)
 - [SAINTS ROW®: THE THIRD™ - THE FULL PACKAGE](https://www.nintendo.com/games/detail/saints-row-the-third-the-full-package-switch/)
 - [Sakuna: Of Rice and Ruin](https://www.nintendo.com/games/detail/sakuna-of-rice-and-ruin-switch/)
+- [SEGA Genesis™ – Nintendo Switch Online](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
+- [SEGA Mega Drive - Nintendo Switch Online](https://store-jp.nintendo.com/list/software/70010000046986.html)
 - [Sid Meier’s Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch/)
 - [Snipperclips Plus - Cut it out, together!](https://www.nintendo.com/games/detail/snipperclips-plus-switch/)
 - [Splatoon™ 2](https://www.nintendo.com/games/detail/splatoon-2-switch/)
 - [Stardew Valley](https://www.nintendo.com/games/detail/stardew-valley-switch/)
 - [Super Bomberman R](https://www.nintendo.com/games/detail/super-bomberman-r-switch/)
+- [Super Famicom - Nintendo Switch Online](https://www.nintendo.co.jp/hardware/switch/onlineservice/fc/index.html)
 - [Super Kirby Clash™](https://www.nintendo.com/games/detail/super-kirby-clash-switch/)
 - [Super Mario Bros.™ 35](https://www.nintendo.com/games/detail/super-mario-bros-35-switch/)
 - [Super Mario Maker™ 2](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/)
