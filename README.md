@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-150-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-151-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-15-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1177-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1178-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -374,6 +374,7 @@
 - [Darkest Dungeon®](https://www.epicgames.com/store/en-US/p/darkest-dungeon)
 - [Darksiders II Deathinitive Edition](https://www.epicgames.com/store/en-US/p/darksiders2)
 - [Darksiders Warmastered Edition](https://www.epicgames.com/store/en-US/p/darksiders)
+- [DARQ: Complete Edition](https://www.epicgames.com/store/en-US/p/darq-complete-edition)
 - [Death Coming](https://www.epicgames.com/store/en-US/p/death-coming)
 - [Defense Grid: The Awakening](https://www.epicgames.com/store/en-US/p/defense-grid)
 - [Deponia: The Complete Journey](https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey)
