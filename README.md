@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-38-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-39-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1180-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1181-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1288,6 +1288,7 @@
 - [FIA European Truck Racing Championship](https://www.microsoft.com/en-hk/p/fia-european-truck-racing-championship/brjp066tz2q7)
 - [Forza Horizon 3](https://www.microsoft.com/en-us/p/Forza-Horizon-3/9NBLGGH1Z7TW)
 - [Forza Horizon 4 Ultimate Edition](https://www.microsoft.com/en-us/p/forza-horizon-4-ultimate-edition/9p513p4mwc71)
+- [Forza Horizon 5 Premium Edition](https://www.xbox.com/en-us/games/store/Forza-Horizon-5-Premium-Edition/9MTLKM2DJMZ2)
 - [Forza Motorsport 5](https://www.microsoft.com/en-us/p/forza-motorsport-5/bqlk685tm311)
 - [Gears 5](https://www.xbox.com/en-US/games/gears-5)
 - [Grand Theft Auto V](https://www.xbox.com/en-US/games/gta-v)
