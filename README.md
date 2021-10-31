@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-199-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-200-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-6-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1181-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1182-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -651,6 +651,7 @@
 - [Mario Kart™ 8 Deluxe](https://www.nintendo.com/games/detail/mario-kart-8-deluxe-switch/)
 - [Mario Tennis™ Aces](https://www.nintendo.com/games/detail/mario-tennis-aces-switch/)
 - [MEMBRANE](https://www.nintendo.com/games/detail/membrane-switch/)
+- [Metroid™ Dread](https://www.nintendo.com/games/detail/metroid-dread-switch/)
 - [Miitopia™](https://www.nintendo.com/games/detail/miitopia-switch/)
 - [Minecraft](https://www.nintendo.com/games/detail/minecraft-switch/)
 - [MO:Astray](https://www.nintendo.com/games/detail/moastray-switch/)
