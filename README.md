@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-94-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-100-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-126-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1188-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1194-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -85,6 +85,7 @@
 - [Another Lost Phone: Laura's Story](https://images-na.ssl-images-amazon.com/images/I/41D0oVq5z8S.jpg)
 - [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
 - [Automachef](https://images-na.ssl-images-amazon.com/images/I/61lCqx9OTyL.jpg)
+- [BAFL - Brakes Are For Losers](https://images-na.ssl-images-amazon.com/images/I/41tTXAZ8GlL.jpg)
 - [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
 - [Batman - The Enemy Within](https://images-na.ssl-images-amazon.com/images/I/61ZiWwlxBML.jpg)
 - [Batman - The Telltale Series](https://images-na.ssl-images-amazon.com/images/I/41tSzcUvDnL.jpg)
@@ -98,6 +99,7 @@
 - [Bombslinger](https://images-na.ssl-images-amazon.com/images/I/51BNGrQcHrS.jpg)
 - [Boomerang Fu](https://images-na.ssl-images-amazon.com/images/I/41TtBQGClUL.jpg)
 - [Candleman: The Complete Journey](https://images-na.ssl-images-amazon.com/images/I/41oTfRlUA2L.jpg)
+- [Demon Hunter 2: New Chapter](https://images-na.ssl-images-amazon.com/images/I/41DRdSEQBaL.jpg)
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
 - [Edgar - Bokbok in Boulzac](https://images-na.ssl-images-amazon.com/images/I/41fkq-o+saL.jpg)
 - [Escape Machine City: Airborne](https://images-na.ssl-images-amazon.com/images/I/41EKDorEBoL.jpg)
@@ -111,6 +113,7 @@
 - [Iris and the Giant](https://images-na.ssl-images-amazon.com/images/I/41OFIiY-UCL.jpg)
 - [Ironclad](https://images-na.ssl-images-amazon.com/images/I/41dbe4EmBxL.jpg)
 - [King of the Monsters](https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg)
+- [Liberated](https://images-na.ssl-images-amazon.com/images/I/41zyiCcz1hL.jpg)
 - [Little Big Workshop](https://images-na.ssl-images-amazon.com/images/I/41-1IghdbML.jpg)
 - [Lost Horizon 2](https://images-na.ssl-images-amazon.com/images/I/41ivssRyTpS.jpg)
 - [Lost in Harmony](https://images-na.ssl-images-amazon.com/images/I/51qCd1cXydL.jpg)
@@ -128,13 +131,16 @@
 - [Portal Dogs](https://images-na.ssl-images-amazon.com/images/I/61AAnHadacL.jpg)
 - [Pulstar](https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg)
 - [Puzzle Agent](https://images-na.ssl-images-amazon.com/images/I/417yiWhPz4L.jpg)
+- [Puzzle Agent 2](https://images-na.ssl-images-amazon.com/images/I/41gCrfJk1CL.jpg)
 - [RAD](https://images-na.ssl-images-amazon.com/images/I/617XkOfU4VL.jpg)
 - [Red Wings: Aces of the Sky](https://images-na.ssl-images-amazon.com/images/I/41gp31NRJIL.jpg)
+- [Rogue Heroes: Ruins of Tasos](https://images-na.ssl-images-amazon.com/images/I/51jks9rVXzL.jpg)
 - [Sam and Max Hit the Road](https://images-na.ssl-images-amazon.com/images/I/51ceukl9cAL.jpg)
 - [Samurai Shodown II](https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg)
 - [Samurai Shodown V Special](https://images-na.ssl-images-amazon.com/images/I/41BTivtNKNL.jpg)
 - [Secret Files 2: Puritas Cordis](https://images-na.ssl-images-amazon.com/images/I/41iZ9lOZvZL.jpg)
 - [Secret Files 3](https://images-na.ssl-images-amazon.com/images/I/41P3uq+EcML.jpg)
+- [Secret Files: Sam Peters](https://images-na.ssl-images-amazon.com/images/I/412kSoip3LL.jpg)
 - [Secret Files: Tunguska](https://images-na.ssl-images-amazon.com/images/I/411b84JxTmS.jpg)
 - [Sengoku 3](https://images-na.ssl-images-amazon.com/images/I/51OqxYzuPUL.jpg)
 - [Shock Troopers](https://images-na.ssl-images-amazon.com/images/I/51Cnw8dv7AL.jpg)
