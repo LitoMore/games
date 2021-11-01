@@ -3658,6 +3658,10 @@
           "website": "https://stadia.google.com/store/details/694bb88862a84a4d86ef09c447094763rcp1/sku/a47447ea040c4e1d9f27741674d3d4d8p"
         },
         {
+          "name": "DIRT 5",
+          "website": "https://stadia.google.com/store/details/ed81a01114044edcacfa52656b259d41rcp1/sku/f0c21370f7e2488f8898ae59220c2e24p"
+        },
+        {
           "name": "DreamWorks Spirit Lucky's Big Adventure",
           "website": "https://stadia.google.com/store/details/25567bfb599a46ecab0fc8b18682b3f8rcp1/sku/171479c2432146a59989b5f2660b62e6p"
         },
@@ -3722,12 +3726,20 @@
           "website": "https://stadia.google.com/store/details/16d98de80a3340ffa4129953ae4e3206rcp1/sku/6ec089b591ee47fab2fed726e466700ap"
         },
         {
+          "name": "Hundred Days - Winemaking Simulator",
+          "website": "https://stadia.google.com/store/details/0b14eb3560f94ed69375f6ca5b7491fercp1/sku/da04f57bb412431bb1152cac7bac248bp"
+        },
+        {
           "name": "It Came From Space And Ate Our Brains",
           "website": "https://stadia.google.com/store/details/004b82924b0441c5a2ba6488cca19b90rcp1/sku/cf6b0ff80be24b3591051fb31a0765c0p"
         },
         {
           "name": "Journey to the Savage Planet",
           "website": "https://stadia.google.com/store/details/22c6d03e67474644a139de4f04a08c11rcp1/sku/a287b8393c204384a8b940dc79d142fd"
+        },
+        {
+          "name": "Kemono Heroes",
+          "website": "https://stadia.google.com/store/details/81733d32e2db41f9a58b97aa80c0b2fcrcp1/sku/75f3878de6e64b6084650d3dabd25abap"
         },
         {
           "name": "Killer Queen Black",
@@ -3800,6 +3812,10 @@
         {
           "name": "République",
           "website": "https://stadia.google.com/store/details/65864a95f9e74129845bda0467486413rcp1/sku/2a4af85a84974cdba4d61df620305335"
+        },
+        {
+          "name": "Saints Row: Re-Elected",
+          "website": "https://stadia.google.com/store/details/5325f670b13d4c959123c437948d1834rcp1/sku/fafc0429262e4930b682a7e02365e8cep"
         },
         {
           "name": "SpongeBobSquarePants:Battle for Bikini BottomRehydrated",
