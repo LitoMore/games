@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Switch-201-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
-    <img src="https://img.shields.io/badge/Origin-6-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Origin-7-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
     <img src="https://img.shields.io/badge/PlayStation_4-154-ddd?logo=playstation&labelColor=003791"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1203-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1204-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -767,6 +767,7 @@
 - [Battlefield™ 1](https://www.origin.com/hkg/en-us/store/battlefield/battlefield-1)
 - [Battlefield™ 4](https://www.origin.com/hkg/en-us/store/battlefield/battlefield-4)
 - [Battlefield™ V](https://www.origin.com/usa/en-us/store/battlefield/battlefield-v)
+- [Dragon Age™: Inquisition](https://www.origin.com/usa/en-us/store/dragon-age/dragon-age-inquisition)
 - [Knockout City™](https://www.origin.com/usa/en-us/store/knockout-city/knockout-city)
 - [SimCity™](https://www.origin.com/usa/en-us/store/simcity/simcity)
 - [STAR WARS™: Squadrons](https://www.origin.com/usa/en-us/store/star-wars/star-wars-squadrons)
