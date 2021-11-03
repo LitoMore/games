@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Origin-6-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-150-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-154-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-64-ddd?logo=playstation&labelColor=white&logoColor=black"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1197-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1201-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -894,10 +894,13 @@
 - [The Last of Us Part II](https://www.thelastofus.playstation.com/)
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/)
 - [The Outer Worlds](https://www.playstation.com/en-us/games/the-outer-worlds-ps4/)
+- [The Persistence](https://www.playstation.com/en-us/games/the-persistence/)
 - [THE PLAYROOM VR](https://www.playstation.com/en-us/games/the-playroom-vr-ps4/)
 - [The Room VR: A Dark Matter](https://www.playstation.com/en-us/games/the-room-vr-a-dark-matter-ps4/)
+- [The Sexy Brutale](https://www.playstation.com/en-us/games/the-sexy-brutale/)
 - [The Sims 4](https://www.playstation.com/en-us/games/the-sims-4-ps4/)
 - [The Surge](https://www.playstation.com/en-us/games/the-surge-ps4/)
+- [The Walking Dead: Saints & Sinners - Standard Edition](https://www.playstation.com/en-us/games/the-walking-dead-saints-sinners/)
 - [The Witcher 3: Wild Hunt – Complete Edition](https://store.playstation.com/en-us/product/UP4497-CUSA05725_00-00000000000GOTY5)
 - [The Witness](https://store.playstation.com/en-us/product/UP2124-CUSA00498_00-THEWITNESSPS4PS4)
 - [Thumper](https://store.playstation.com/en-us/product/UP1613-CUSA03559_00-THUMPERPS4FULL00)
@@ -908,6 +911,7 @@
 - [Uncharted: The Nathan Drake Collection](https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection-ps4/)
 - [Unravel](https://www.playstation.com/en-us/games/unravel/)
 - [Unravel Two](https://www.playstation.com/en-us/games/unravel-two/)
+- [Until You Fall](https://www.playstation.com/en-us/games/until-you-fall/)
 - [Vampyr](https://www.playstation.com/en-us/games/vampyr-ps4/)
 - [Virtua Fighter 5 Ultimate Showdown](https://store.playstation.com/en-hk/product/HP0177-CUSA27067_00-9030766588190582)
 - [Watch Dogs™](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
