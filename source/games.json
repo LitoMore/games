@@ -1146,6 +1146,10 @@
           "website": "https://www.epicgames.com/store/en-US/p/automachef"
         },
         {
+          "name": "Aven Colony",
+          "website": "https://www.epicgames.com/store/en-US/p/aven-colony"
+        },
+        {
           "name": "Aztez",
           "website": "https://www.epicgames.com/store/en-US/p/aztez"
         },
@@ -1384,6 +1388,10 @@
         {
           "name": "Layers of Fear 2",
           "website": "https://www.epicgames.com/store/en-US/p/layers-of-fear-2"
+        },
+        {
+          "name": "Legends of Runeterra",
+          "website": "https://www.epicgames.com/store/en-US/p/legends-of-runeterra"
         },
         {
           "name": "Metro: 2033 Redux",
