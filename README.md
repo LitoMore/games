@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-100-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-126-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-128-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-22-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1207-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1209-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -220,6 +220,7 @@
 - [Danganronpa: Trigger Happy Hav](https://apps.apple.com/us/app/id1502232038)
 - [DEEMO](https://apps.apple.com/us/app/id700637744)
 - [DEEMO -Reborn-](https://apps.apple.com/us/app/id1492021770)
+- [DEEMO II](https://apps.apple.com/us/app/id1531981487)
 - [Doodle Creatures™](https://apps.apple.com/us/app/id839721556)
 - [Doodle Devil™](https://apps.apple.com/us/app/id418925394)
 - [Doodle Farm™](https://apps.apple.com/us/app/id427804316)
@@ -272,6 +273,7 @@
 - [Monument Valley](https://apps.apple.com/us/app/id728293409)
 - [Monument Valley 2](https://apps.apple.com/us/app/id1187265767)
 - [Pascal's Wager](https://apps.apple.com/us/app/id1476649036)
+- [Phigros](https://apps.apple.com/us/app/id1454809109)
 - [PI: Board Game - Companion App](https://apps.apple.com/us/app/id1124500826)
 - [Plants vs. Zombies™ 2](https://apps.apple.com/us/app/id597986893)
 - [Pokémon GO](https://apps.apple.com/us/app/id1094591345)
