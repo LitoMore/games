@@ -1955,7 +1955,8 @@
         "www.nintendo.co.uk",
         "www.nintendolife.com",
         "ec.nintendo.com",
-        "store.nintendo.com.hk"
+        "store.nintendo.com.hk",
+        "www.danganronpa.com"
       ],
       "gameList": [
         {
@@ -2107,8 +2108,24 @@
           "website": "https://www.nintendo.com/games/detail/cytus-a-switch/"
         },
         {
+          "name": "Danganronpa 2: Goodbye Despair Anniversary Edition",
+          "website": "https://www.nintendo.com/games/detail/danganronpa-2-goodbye-despair-anniversary-edition-switch/"
+        },
+        {
+          "name": "Danganronpa Decadence",
+          "website": "https://www.danganronpa.com/switch/en/"
+        },
+        {
           "name": "Danganronpa S: Ultimate Summer Camp",
           "website": "https://www.nintendo.com/games/detail/danganronpa-s-ultimate-summer-camp-switch/"
+        },
+        {
+          "name": "Danganronpa V3: Killing Harmony Anniversary Edition",
+          "website": "https://www.nintendo.com/games/detail/danganronpa-v3-killing-harmony-anniversary-edition-switch/"
+        },
+        {
+          "name": "Danganronpa: Trigger Happy Havoc Anniversary Edition",
+          "website": "https://www.nintendo.com/games/detail/danganronpa-trigger-happy-havoc-anniversary-edition-switch/"
         },
         {
           "name": "DARK SOULS™: REMASTERED",

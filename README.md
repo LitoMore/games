@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-202-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-206-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-7-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1212-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1216-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -603,7 +603,11 @@
 - [Crypt of the NecroDancer: Nintendo Switch Edition](https://www.nintendo.com/games/detail/crypt-of-the-necrodancer-nintendo-switch-edition-switch/)
 - [Cuphead](https://www.nintendo.com/games/detail/cuphead-switch/)
 - [Cytus α](https://www.nintendo.com/games/detail/cytus-a-switch/)
+- [Danganronpa 2: Goodbye Despair Anniversary Edition](https://www.nintendo.com/games/detail/danganronpa-2-goodbye-despair-anniversary-edition-switch/)
+- [Danganronpa Decadence](https://www.danganronpa.com/switch/en/)
 - [Danganronpa S: Ultimate Summer Camp](https://www.nintendo.com/games/detail/danganronpa-s-ultimate-summer-camp-switch/)
+- [Danganronpa V3: Killing Harmony Anniversary Edition](https://www.nintendo.com/games/detail/danganronpa-v3-killing-harmony-anniversary-edition-switch/)
+- [Danganronpa: Trigger Happy Havoc Anniversary Edition](https://www.nintendo.com/games/detail/danganronpa-trigger-happy-havoc-anniversary-edition-switch/)
 - [DARK SOULS™: REMASTERED](https://www.nintendo.com/games/detail/dark-souls-remastered-switch/)
 - [Dead Cells](https://www.nintendo.com/games/detail/dead-cells-switch/)
 - [DEEMO](https://www.nintendo.com/games/detail/deemo-switch/)
