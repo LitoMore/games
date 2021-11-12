@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-155-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-156-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-16-ddd?logo=gog.com&labelColor=86328a"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1211-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1212-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -453,6 +453,7 @@
 - [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/p/remnant-from-the-ashes)
 - [Rise of the Tomb Raider: 20 Year Celebration](https://www.epicgames.com/store/en-US/p/rise-of-the-tomb-raider)
 - [Rising Storm 2: Vietnam](https://www.epicgames.com/store/en-US/p/rising-storm-2-vietnam)
+- [Rogue Company](https://www.epicgames.com/store/en-US/p/rogue-company)
 - [RollerCoaster Tycoon® 3: Complete Edition](https://www.epicgames.com/store/en-US/p/rollercoaster-tycoon-3-complete-edition)
 - [Saints Row®: The Third™ Remastered](https://www.epicgames.com/store/en-US/p/saints-row-the-third-remastered)
 - [SAMURAI SHODOWN NEOGEO COLLECTION](https://www.epicgames.com/store/en-US/p/samurai-shodown-neogeo-collection)
