@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-154-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-64-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-65-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-65-ddd?logo=stadia&labelColor=cd2640"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1210-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1211-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -947,6 +947,7 @@
 - [Bugsnax](https://www.playstation.com/en-us/games/bugsnax/)
 - [Call of Duty®: Black Ops Cold War](https://www.playstation.com/en-us/games/call-of-duty-black-ops-cold-war/)
 - [Call of Duty®: Black Ops III - Zombies Chronicles Edition](https://www.playstation.com/en-us/games/call-of-duty-black-ops-iii/)
+- [Call of Duty®: Vanguard](https://www.playstation.com/en-us/games/call-of-duty-vanguard/)
 - [Control: Ultimate Edition](https://store.playstation.com/en-hk/product/UP4040-PPSA01949_00-3990089525246341)
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
 - [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
