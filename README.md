@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-65-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-65-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-66-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-218-ddd?logo=steam&labelColor=171a21"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1216-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1217-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1074,6 +1074,7 @@
 - [Trine 4: The Nightmare Prince](https://stadia.google.com/store/details/30fd580936bb43b782ec2dbdac8b2f45rcp1/sku/8f39647dac4f452ea0abb9aec508295fp)
 - [Valkyria Chronicles 4 Complete Edition](https://stadia.google.com/store/details/b00e2f20b91e43c8a0597b07fc80ca84rcp1/sku/bd0a6e3669c7410c8c3f86779cac1f44p)
 - [Wave Break](https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2)
+- [Wavetale](https://stadia.google.com/store/details/68297438f4ca40828f91b31db3ce746ercp1/sku/32da1095f7c642aeb90ed11e4e7fbae9p)
 - [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/store/details/7ced0b517b144dd98529ceffab963791rcp1/sku/b51c2723938547a99ebfb2e3b2ae320dp)
 
 ## Steam
