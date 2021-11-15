@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-206-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-207-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-7-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1217-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1218-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -638,6 +638,7 @@
 - [Goonya Fighter](https://www.nintendo.com/games/detail/goonya-fighter-switch/)
 - [Hatsune Miku Logic Paint S](https://www.nintendo.com/games/detail/hatsune-miku-logic-paint-s-switch/)
 - [Hatsune Miku: Project DIVA Mega Mix](https://www.nintendo.com/games/detail/hatsune-miku-project-diva-mega-mix-switch/)
+- [Hextech Mayhem: A League of Legends Story™](https://www.nintendo.com/games/detail/hextech-mayhem-a-league-of-legends-story-switch/)
 - [Hidden Folks](https://www.nintendo.com/games/detail/hidden-folks-switch/)
 - [Hollow](https://www.nintendo.com/games/detail/hollow-switch/)
 - [Hollow Knight](https://www.nintendo.com/games/detail/hollow-knight-switch/)
