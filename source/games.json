@@ -1720,9 +1720,9 @@
       ]
     },
     {
-      "name": "Game & Watch™: Super Mario Bros.",
+      "name": "Game & Watch™: Super Mario Bros.™",
       "anchor": "#game--watch-super-mario-bros",
-      "badge": "https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-{{count}}-ddd?logo=nintendo&labelColor=c81419&logoColor=white",
+      "badge": "https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-{{count}}-ddd?logo=nintendo&labelColor=e81a2f&logoColor=white",
       "hostnames": [
         "www.nintendo.com"
       ],

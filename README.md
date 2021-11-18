@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Epic_Games-156-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
-    <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=nintendo&labelColor=e81a2f&logoColor=white"/>
   </a>
   <a href="#game--watch-the-legend-of-zelda">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-6-ddd?logo=nintendo&labelColor=009644&logoColor=white"/>
@@ -509,7 +509,7 @@
 - [Yoku's Island Express](https://www.epicgames.com/store/en-US/p/yokus-island-express)
 - [Yooka-Laylee](https://www.epicgames.com/store/en-US/p/yooka-laylee)
 
-## Game & Watch™: Super Mario Bros.
+## Game & Watch™: Super Mario Bros.™
 
 - [Game & Watch™: Ball](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
 - [Game & Watch™: Time](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
