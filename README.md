@@ -16,6 +16,12 @@
   <a href="#epic-games">
     <img src="https://img.shields.io/badge/Epic_Games-156-ddd?logo=epic-games&labelColor=313131"/>
   </a>
+  <a href="#game--watch-super-mario-bros">
+    <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
+  </a>
+  <a href="#game--watch-the-legend-of-zelda">
+    <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-6-ddd?logo=nintendo&labelColor=009644&logoColor=white"/>
+  </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-16-ddd?logo=gog.com&labelColor=86328a"/>
   </a>
@@ -30,9 +36,6 @@
   </a>
   <a href="#nintendo-ds">
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
-  </a>
-  <a href="#nintendo-game--watch">
-    <img src="https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-4-ddd?logo=nintendo&labelColor=c81419&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-207-ddd?logo=nintendo-switch&labelColor=e60012"/>
@@ -72,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1218-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1224-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -506,6 +509,22 @@
 - [Yoku's Island Express](https://www.epicgames.com/store/en-US/p/yokus-island-express)
 - [Yooka-Laylee](https://www.epicgames.com/store/en-US/p/yooka-laylee)
 
+## Game & Watch™: Super Mario Bros.
+
+- [Game & Watch™: Ball](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
+- [Game & Watch™: Time](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
+- [Super Mario Bros.](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
+- [Super Mario Bros.: The Lost Levels](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
+
+## Game & Watch™: The Legend of Zelda™
+
+- [Game & Watch™: Time](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
+- [Game & Watch™: Timer](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
+- [Game & Watch™: Vermin](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
+- [The Legend of Zelda: Link’s Awakening](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
+- [The Legend of Zelda™](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
+- [Zelda II: The Adventure of Link™](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
+
 ## GOG.com
 
 - [ArcaniA](https://www.gog.com/game/arcania)
@@ -556,13 +575,6 @@
 - [MapleStory DS](https://nintendo.fandom.com/wiki/MapleStory_DS)
 - [The Legend of Zelda: Phantom Hourglass](https://www.nintendo.com/games/detail/the-legend-of-zelda-phantom-hourglass-wii-u/)
 - [The Legend of Zelda: Spirit Tracks](https://www.nintendo.com/games/detail/the-legend-of-zelda-spirit-tracks-wii-u/)
-
-## Nintendo Game & Watch
-
-- [Game & Watch: Ball](https://gameandwatch.nintendo.com)
-- [Game & Watch: Time](https://gameandwatch.nintendo.com)
-- [Super Mario Bros.](https://gameandwatch.nintendo.com)
-- [Super Mario Bros.: The Lost Levels](https://gameandwatch.nintendo.com)
 
 ## Nintendo Switch™
 

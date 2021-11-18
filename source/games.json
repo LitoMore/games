@@ -1720,6 +1720,66 @@
       ]
     },
     {
+      "name": "Game & Watch™: Super Mario Bros.",
+      "anchor": "#game--watch-super-mario-bros",
+      "badge": "https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-{{count}}-ddd?logo=nintendo&labelColor=c81419&logoColor=white",
+      "hostnames": [
+        "www.nintendo.com"
+      ],
+      "gameList": [
+        {
+          "name": "Game & Watch™: Ball",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/"
+        },
+        {
+          "name": "Game & Watch™: Time",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/"
+        },
+        {
+          "name": "Super Mario Bros.",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/"
+        },
+        {
+          "name": "Super Mario Bros.: The Lost Levels",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/"
+        }
+      ]
+    },
+    {
+      "name": "Game & Watch™: The Legend of Zelda™",
+      "anchor": "#game--watch-the-legend-of-zelda",
+      "badge": "https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-{{count}}-ddd?logo=nintendo&labelColor=009644&logoColor=white",
+      "hostnames": [
+        "www.nintendo.com"
+      ],
+      "gameList": [
+        {
+          "name": "Game & Watch™: Time",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/"
+        },
+        {
+          "name": "Game & Watch™: Timer",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/"
+        },
+        {
+          "name": "Game & Watch™: Vermin",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/"
+        },
+        {
+          "name": "The Legend of Zelda: Link’s Awakening",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/"
+        },
+        {
+          "name": "The Legend of Zelda™",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/"
+        },
+        {
+          "name": "Zelda II: The Adventure of Link™",
+          "website": "https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/"
+        }
+      ]
+    },
+    {
       "name": "GOG.com",
       "anchor": "#gogcom",
       "badge": "https://img.shields.io/badge/GOG.com-{{count}}-ddd?logo=gog.com&labelColor=86328a",
@@ -1914,32 +1974,6 @@
         {
           "name": "The Legend of Zelda: Spirit Tracks",
           "website": "https://www.nintendo.com/games/detail/the-legend-of-zelda-spirit-tracks-wii-u/"
-        }
-      ]
-    },
-    {
-      "name": "Nintendo Game & Watch",
-      "anchor": "#nintendo-game--watch",
-      "badge": "https://img.shields.io/badge/Nintendo_Game%20%26%20Watch-{{count}}-ddd?logo=nintendo&labelColor=c81419&logoColor=white",
-      "hostnames": [
-        "gameandwatch.nintendo.com"
-      ],
-      "gameList": [
-        {
-          "name": "Game & Watch: Ball",
-          "website": "https://gameandwatch.nintendo.com"
-        },
-        {
-          "name": "Game & Watch: Time",
-          "website": "https://gameandwatch.nintendo.com"
-        },
-        {
-          "name": "Super Mario Bros.",
-          "website": "https://gameandwatch.nintendo.com"
-        },
-        {
-          "name": "Super Mario Bros.: The Lost Levels",
-          "website": "https://gameandwatch.nintendo.com"
         }
       ]
     },
