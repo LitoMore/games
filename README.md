@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-156-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-159-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=nintendo&labelColor=e81a2f&logoColor=white"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1224-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1227-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -410,6 +410,7 @@
 - [Gone Home](https://www.epicgames.com/store/en-US/p/gone-home)
 - [GoNNER](https://www.epicgames.com/store/en-US/p/gonner)
 - [Grand Theft Auto V](https://www.epicgames.com/store/en-US/p/grand-theft-auto-v)
+- [Guild of Dungeonerring](https://www.epicgames.com/store/en-US/p/guild-of-dungeoneering-classic)
 - [Halcyon 6 Starbase Commander](https://www.epicgames.com/store/en-US/p/halcyon-6)
 - [Hand of Fate 2](https://www.epicgames.com/store/en-US/p/hand-of-fate-2)
 - [Hell is other demons](https://www.epicgames.com/store/en-US/p/hell-is-other-demons)
@@ -425,6 +426,7 @@
 - [Jotun: Valhalla Edition](https://www.epicgames.com/store/en-US/p/jotun)
 - [Jurassic World Evolution](https://www.epicgames.com/store/en-US/p/jurassic-world-evolution)
 - [Ken Follett's The Pillars of the Earth](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
+- [KID A MNESIA EXHIBITION](https://www.epicgames.com/store/en-US/p/kid-a-mnesia-exhibition)
 - [Kingdom Come: Deliverance](https://www.epicgames.com/store/en-US/p/kingdom-come-deliverance)
 - [Kingdom New Lands](https://www.epicgames.com/store/en-US/p/kingdom-new-lands)
 - [Layers of Fear 2](https://www.epicgames.com/store/en-US/p/layers-of-fear-2)
@@ -436,6 +438,7 @@
 - [MudRunner](https://www.epicgames.com/store/en-US/p/mudrunner)
 - [My Time At Portia](https://www.epicgames.com/store/en-US/p/my-time-at-portia)
 - [NBA 2K21](https://www.epicgames.com/store/en-US/p/nba-2k21)
+- [Never Alone (Kisima Ingitchuna)](https://www.epicgames.com/store/en-US/p/never-alone-kisima-ingitchuna)
 - [Next Up Hero](https://www.epicgames.com/store/en-US/p/next-up-hero)
 - [Night in the Woods](https://www.epicgames.com/store/en-US/p/night-in-the-woods)
 - [Nioh: The Complete Edition](https://www.epicgames.com/store/en-US/p/nioh-the-complete-edition)
