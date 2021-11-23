@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-208-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-210-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-7-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1229-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1231-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -724,9 +724,11 @@
 - [Plague Road](https://www.nintendo.com/games/detail/plague-road-switch/)
 - [Pokémon Café Mix](https://www.nintendo.com/games/detail/pokemon-cafe-mix-switch/)
 - [Pokémon TV](https://www.nintendo.com/games/detail/pokemon-tv-switch/)
+- [Pokémon™ Brilliant Diamond](https://www.nintendo.com/games/detail/pokemon-brilliant-diamond-switch/)
 - [Pokémon™ HOME](https://www.nintendo.com/games/detail/pokemon-home-switch/)
 - [Pokémon™ Quest](https://www.nintendo.com/games/detail/pokemon-quest-switch/)
 - [Pokémon™ Shield](https://www.nintendo.com/games/detail/pokemon-shield-switch/)
+- [Pokémon™ Shining Pearl](https://www.nintendo.com/games/detail/pokemon-shining-pearl-switch/)
 - [Pokémon™ Sword](https://www.nintendo.com/games/detail/pokemon-sword-switch/)
 - [Pokémon™: Let’s Go, Eevee!](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch/)
 - [Pokémon™: Let’s Go, Pikachu!](https://www.nintendo.com/games/detail/pokemon-lets-go-pikachu-switch/)
