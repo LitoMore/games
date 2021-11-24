@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Origin-7-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-154-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-155-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-65-ddd?logo=playstation&labelColor=white&logoColor=black"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1231-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1232-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -909,6 +909,7 @@
 - [Resident Evil 6](https://www.playstation.com/en-us/games/resident-evil-6-ps4/)
 - [Rez Infinite](https://store.playstation.com/en-us/product/UP0751-CUSA05868_00-REZINFINITE00000)
 - [Rise of the Tomb Raider: 20 Year Celebration](https://www.playstation.com/en-us/games/rise-of-the-tomb-raider-20-year-celebration-ps4/)
+- [Ruined King: A League of Legends Story™ - Deluxe Edition Bundle](https://www.playstation.com/en-us/games/ruined-king-a-league-of-legends-story/)
 - [Sakura Wars™](https://www.playstation.com/en-us/games/sakura-wars-ps4/)
 - [Sekiro™: Shadows Die Twice](https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/)
 - [Shadow of the Colossus](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
