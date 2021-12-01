@@ -3877,6 +3877,10 @@
           "website": "https://stadia.google.com/store/details/e184f2da322a41c9a31b3ef2c473f95arcp1/sku/c78b6a8ef7734bbf8de9c068eeadd049p"
         },
         {
+          "name": "FORECLOSED",
+          "website": "https://stadia.google.com/store/details/80869457fb214724a5058437e86007b6rcp1/sku/492248b1c5764e5580abaf4b57c25d14p"
+        },
+        {
           "name": "GRIME",
           "website": "https://stadia.google.com/store/details/d7a58e7a34c843bc91106ef9be366b32rcp1/sku/c6649217ccef4f75923cc53872fd9e21p"
         },
@@ -4041,8 +4045,16 @@
           "website": "https://stadia.google.com/store/details/b465998ccc1c48aaa2fb74f331ebbdd7rcp1/sku/9d8c8bb162b6477ca2f2e5ee89f62b15p"
         },
         {
+          "name": "The Falconeer: Warrior Edition",
+          "website": "https://stadia.google.com/store/details/b7be5151de924478ab54ef9afeee4826rcp1/sku/3656264eb2bf4dd8bac883c3106f2be2p"
+        },
+        {
           "name": "The Legend of Heroes: Trails of Cold Steel III",
           "website": "https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp"
+        },
+        {
+          "name": "TRANSFORMERS: BATTLEGROUNDS - Complete Edition",
+          "website": "https://stadia.google.com/store/details/6ae8f01d51f04274aaec6b7e1180d62arcp1/sku/14f3bf4f94254323be95864b934c8256p"
         },
         {
           "name": "Trine 4: The Nightmare Prince",
@@ -4059,6 +4071,10 @@
         {
           "name": "Wavetale",
           "website": "https://stadia.google.com/store/details/68297438f4ca40828f91b31db3ce746ercp1/sku/32da1095f7c642aeb90ed11e4e7fbae9p"
+        },
+        {
+          "name": "Wreckfest",
+          "website": "https://stadia.google.com/store/details/586beac11cb345289d46125b859396farcp1/sku/ce650e8fa4d84cdbbb6433953fde398cp"
         },
         {
           "name": "Ys VIII: Lacrimosa of DANA",
