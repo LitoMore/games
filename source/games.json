@@ -1861,6 +1861,10 @@
           "website": "https://www.gog.com/game/diablo"
         },
         {
+          "name": "Frostpunk",
+          "website": "https://www.gog.com/game/frostpunk"
+        },
+        {
           "name": "Ghostrunner",
           "website": "https://ghostrunnergame.com"
         },
@@ -1883,6 +1887,10 @@
         {
           "name": "Heroes of Might and Magic® 2: Gold",
           "website": "https://www.gog.com/game/heroes_of_might_and_magic_2_gold_edition"
+        },
+        {
+          "name": "Journey to the Savage Planet",
+          "website": "https://www.gog.com/game/journey_to_the_savage_planet"
         },
         {
           "name": "Loop Hero",

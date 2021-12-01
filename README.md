@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-100-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-109-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-128-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-6-ddd?logo=nintendo&labelColor=009644&logoColor=white"/>
   </a>
   <a href="#gogcom">
-    <img src="https://img.shields.io/badge/GOG.com-16-ddd?logo=gog.com&labelColor=86328a"/>
+    <img src="https://img.shields.io/badge/GOG.com-18-ddd?logo=gog.com&labelColor=86328a"/>
   </a>
   <a href="#google-play">
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1237-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1248-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -125,6 +125,7 @@
 - [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
 - [Metamorphosis](https://images-na.ssl-images-amazon.com/images/I/41SuIGzLwsS.jpg)
 - [Monster Prom: Hotseat Edition](https://images-na.ssl-images-amazon.com/images/I/51nRAK5QHeL.jpg)
+- [Morkredd](https://images-na.ssl-images-amazon.com/images/I/31iQ8urYE2L.jpg)
 - [Move or Die - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51nCq1urIkL.jpg)
 - [Move Out](https://images-na.ssl-images-amazon.com/images/I/41+IRxmoXIL.jpg)
 - [Mugsters](https://images-na.ssl-images-amazon.com/images/I/41HorvHYMGL.jpg)
@@ -152,12 +153,19 @@
 - [SkyDrift](https://images-na.ssl-images-amazon.com/images/I/41rINvRQBFL.jpg)
 - [SNK 40th Anniversary Collection](https://images-na.ssl-images-amazon.com/images/I/51TN5AZ4PBL.jpg)
 - [Song of Horror Complete Edition](https://images-na.ssl-images-amazon.com/images/I/41jD3actQoL.jpg)
+- [Spellcaster University](https://images-na.ssl-images-amazon.com/images/I/41PIVqSa7-L.jpg)
 - [Spinch](https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg)
 - [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
 - [Stealth Bastard Deluxe](https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg)
 - [Strata](https://images-na.ssl-images-amazon.com/images/I/41Y5n+c728L.jpg)
+- [Stubbs the Zombie in Rebel Without ap Pulse](https://images-na.ssl-images-amazon.com/images/I/41XpKqAuNnL.jpg)
 - [Swimsanity! - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51m6tg4jpcL.jpg)
 - [Table Manners](https://images-na.ssl-images-amazon.com/images/I/518y8hZMjiL.jpg)
+- [Tales of Monkey Island: Chapater 5](https://images-na.ssl-images-amazon.com/images/I/41eby475mYL.jpg)
+- [Tales of Monkey Island: Chapter 1](https://images-na.ssl-images-amazon.com/images/I/41pzTRtBA0L.jpg)
+- [Tales of Monkey Island: Chapter 2](https://images-na.ssl-images-amazon.com/images/I/41nOq3e10rL.jpg)
+- [Tales of Monkey Island: Chapter 3](https://images-na.ssl-images-amazon.com/images/I/41BWYDe9z+L.jpg)
+- [Tales of Monkey Island: Chapter 4](https://images-na.ssl-images-amazon.com/images/I/41hhIpGEo0L.jpg)
 - [Tales of the Neon Sea](https://images-na.ssl-images-amazon.com/images/I/61LxE2n7oYL.jpg)
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
@@ -181,6 +189,7 @@
 - [Wallace & Gromit: The Last Resort](https://images-na.ssl-images-amazon.com/images/I/41yBxUVj4tL.jpg)
 - [Whiskey & Zombies: Great Southern Zombie Escape](https://images-na.ssl-images-amazon.com/images/I/41ZENvW42-L.jpg)
 - [Yoku's Island Express](https://images-na.ssl-images-amazon.com/images/I/41XjHktTocS.jpg)
+- [Youtubers Life](https://images-na.ssl-images-amazon.com/images/I/41SwO+8GhyL.jpg)
 
 ## App Store
 
@@ -536,12 +545,14 @@
 - [Butcher](https://www.gog.com/game/butcher)
 - [Control Ultimate Edition](https://www.gog.com/game/control_ultimate_edition)
 - [Diablo + Hellfire](https://www.gog.com/game/diablo)
+- [Frostpunk](https://www.gog.com/game/frostpunk)
 - [Ghostrunner](https://ghostrunnergame.com)
 - [Gothic](https://www.gog.com/game/gothic)
 - [Gothic 2 Gold Edition](https://www.gog.com/game/gothic_2_gold_edition)
 - [Gothic 3](https://www.gog.com/game/gothic_3)
 - [Gothic 3: Forsaken Gods Enhanced Edition](https://www.gog.com/game/gothic_3_forsaken_gods)
 - [Heroes of Might and Magic® 2: Gold](https://www.gog.com/game/heroes_of_might_and_magic_2_gold_edition)
+- [Journey to the Savage Planet](https://www.gog.com/game/journey_to_the_savage_planet)
 - [Loop Hero](https://www.gog.com/game/loop_hero)
 - [METAL SLUG](https://www.gog.com/game/metal_slug)
 - [METAL SLUG 2](https://www.gog.com/game/metal_slug_2)
