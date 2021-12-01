@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-160-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-161-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=nintendo&labelColor=e81a2f&logoColor=white"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1248-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1249-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -409,6 +409,7 @@
 - [Farming Simulator 19](https://www.epicgames.com/store/en-US/p/farming-simulator-19)
 - [Faster Then Light](https://www.epicgames.com/store/en-US/p/faster-than-light)
 - [Football Manager 2020](https://www.epicgames.com/store/en-US/p/football-manager-2020)
+- [Football Manager 2021](https://www.epicgames.com/store/en-US/p/football-manager-2021)
 - [For The King](https://www.epicgames.com/store/en-US/p/for-the-king)
 - [Fortnite](https://www.epicgames.com/store/en-US/p/fortnite)
 - [Frostpunk](https://www.epicgames.com/store/en-US/p/frostpunk)
