@@ -329,10 +329,6 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/518y8hZMjiL.jpg"
         },
         {
-          "name": "Tales of Monkey Island: Chapater 5",
-          "website": "https://images-na.ssl-images-amazon.com/images/I/41eby475mYL.jpg"
-        },
-        {
           "name": "Tales of Monkey Island: Chapter 1",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41pzTRtBA0L.jpg"
         },
@@ -347,6 +343,10 @@
         {
           "name": "Tales of Monkey Island: Chapter 4",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41hhIpGEo0L.jpg"
+        },
+        {
+          "name": "Tales of Monkey Island: Chapter 5",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41eby475mYL.jpg"
         },
         {
           "name": "Tales of the Neon Sea",
