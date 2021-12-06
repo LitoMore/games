@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/Epic_Games-161-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
-    <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=nintendo&labelColor=e81a2f&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
   </a>
   <a href="#game--watch-the-legend-of-zelda">
-    <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-6-ddd?logo=nintendo&labelColor=009644&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-6-ddd?logo=gameandwatch&labelColor=009644&logoColor=white"/>
   </a>
   <a href="#gogcom">
     <img src="https://img.shields.io/badge/GOG.com-18-ddd?logo=gog.com&labelColor=86328a"/>
