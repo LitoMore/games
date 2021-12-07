@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Origin-8-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-155-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-158-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-66-ddd?logo=playstation&labelColor=white&logoColor=black"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1253-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1256-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -884,11 +884,13 @@
 - [Hollow Knight: Voidheart Edition](https://www.playstation.com/en-us/games/hollow-knight-voidheart-edition-ps4/)
 - [Horizon Zero Dawn: Complete Edition](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/)
 - [Human Anatomy VR](https://store.playstation.com/en-us/product/UP5269-CUSA16456_00-VIRTUALMEDICINEX)
+- [Judgment](https://www.playstation.com/en-us/games/judgment/)
 - [Just Cause 3](https://store.playstation.com/en-us/product/UP0082-CUSA01493_00-JUSTCAUSE3NA0000/)
 - [KINGDOM HEARTS III](https://www.playstation.com/en-us/games/kingdom-hearts-iii-ps4/)
 - [Kingdoms of Amalur: Re-Reckoning](https://store.playstation.com/en-us/product/UP4389-CUSA17271_00-KOAFATEEDITIONUS)
 - [KNACK 2](https://www.playstation.com/en-hk/games/knack-2/)
 - [Kunio-kun: The World Classics Collection](https://store.playstation.com/en-hk/product/JP0036-CUSA11418_00-ASIA000000000000)
+- [LEGO® DC Super-Villains](https://www.playstation.com/en-us/games/lego-dc-super-villains/)
 - [Marvel's Iron Man VR](https://www.playstation.com/en-us/games/marvels-iron-man-vr-ps4/)
 - [Marvel's Spider-Man](https://www.playstation.com/en-us/games/marvels-spider-man-ps4/)
 - [Metro Exodus](https://www.playstation.com/en-us/games/metro-exodus-ps4/)
@@ -897,6 +899,7 @@
 - [MLB® The Show™ 19](https://www.playstation.com/en-us/games/mlb-the-show-19-ps4/)
 - [Monster Energy Supercross - The Official Videogame](https://www.playstation.com/en-us/games/monster-energy-supercross-the-official-videogame-ps4/)
 - [Monster Hunter World: Iceborne](https://www.playstation.com/en-us/games/monster-hunter-world-ps4/iceborne/)
+- [Mortal Shell](https://www.playstation.com/en-us/games/mortal-shell/)
 - [Moss™](https://store.playstation.com/en-us/product/UP1983-CUSA09290_00-MOSSGAME00000000)
 - [NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 Road to Boruto](https://www.playstation.com/en-us/games/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-ps4/)
 - [NBA 2K20](https://www.playstation.com/en-us/games/nba-2k20-ps4/)
