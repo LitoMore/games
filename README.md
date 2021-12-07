@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-155-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-65-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-66-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-71-ddd?logo=stadia&labelColor=cd2640"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1252-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1253-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1004,6 +1004,7 @@
 - [First Class Trouble](https://www.playstation.com/en-us/games/first-class-trouble/)
 - [Ghost of Tsushima Director's Cut](https://www.playstation.com/en-us/games/ghost-of-tsushima/)
 - [God of War](https://store.playstation.com/en-us/product/UP9000-CUSA07408_00-00000000GODOFWAR)
+- [Godfall Challenger Edition](https://www.playstation.com/en-hk/games/godfall/)
 - [Hades](https://www.playstation.com/en-us/games/hades/)
 - [Hunter's Arena: Legends](https://www.playstation.com/en-us/games/hunters-arena-legends/)
 - [Immortals Fenyx Rising™](https://www.playstation.com/en-us/games/immortals-fenyx-rising/)
