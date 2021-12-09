@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-163-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-165-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1258-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1260-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -418,6 +418,7 @@
 - [Genshin Impact](https://www.epicgames.com/store/en-US/p/genshin-impact)
 - [Ghostbusters: The Video Game Remastered](https://www.epicgames.com/store/en-US/p/ghostbusters-the-video-game-remastered)
 - [God's Trigger](https://www.epicgames.com/store/en-US/p/gods-trigger)
+- [Godfall Challenger Edition](https://www.epicgames.com/store/en-US/p/godfall--challenger-edition)
 - [Gone Home](https://www.epicgames.com/store/en-US/p/gone-home)
 - [GoNNER](https://www.epicgames.com/store/en-US/p/gonner)
 - [Grand Theft Auto V](https://www.epicgames.com/store/en-US/p/grand-theft-auto-v)
@@ -464,6 +465,7 @@
 - [Pikuniku](https://www.epicgames.com/store/en-US/p/pikuniku)
 - [Pillars of Eternity - Definitive Edition](https://www.epicgames.com/store/en-US/p/pillars-of-eternity)
 - [Pine](https://www.epicgames.com/store/en-US/p/pine)
+- [Prison Architect](https://www.epicgames.com/store/en-US/p/prison-architect)
 - [Rage 2](https://www.epicgames.com/store/en-US/p/rage-2)
 - [Railway Empire](https://www.epicgames.com/store/en-US/p/railway-empire)
 - [Rebel Galaxy](https://www.epicgames.com/store/en-US/p/rebel-galaxy)
