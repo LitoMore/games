@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-6-ddd?logo=gameandwatch&labelColor=009644&logoColor=white"/>
   </a>
   <a href="#gogcom">
-    <img src="https://img.shields.io/badge/GOG.com-18-ddd?logo=gog.com&labelColor=86328a"/>
+    <img src="https://img.shields.io/badge/GOG.com-19-ddd?logo=gog.com&labelColor=86328a"/>
   </a>
   <a href="#google-play">
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1260-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1261-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -548,6 +548,7 @@
 - [ArcaniA](https://www.gog.com/game/arcania)
 - [ArcaniA: Fall of Setarrif](https://www.gog.com/game/arcania_fall_of_setarrif)
 - [Butcher](https://www.gog.com/game/butcher)
+- [Cave Story®'s Secret Santa](https://www.gog.com/game/cave_storys_secret_santa)
 - [Control Ultimate Edition](https://www.gog.com/game/control_ultimate_edition)
 - [Diablo + Hellfire](https://www.gog.com/game/diablo)
 - [Frostpunk](https://www.gog.com/game/frostpunk)
