@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-168-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-169-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1270-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1271-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -452,6 +452,7 @@
 - [MudRunner](https://www.epicgames.com/store/en-US/p/mudrunner)
 - [My Time At Portia](https://www.epicgames.com/store/en-US/p/my-time-at-portia)
 - [NBA 2K21](https://www.epicgames.com/store/en-US/p/nba-2k21)
+- [Neon Abyss ](https://www.epicgames.com/store/en-US/p/neon-abyss)
 - [Never Alone (Kisima Ingitchuna)](https://www.epicgames.com/store/en-US/p/never-alone-kisima-ingitchuna)
 - [Next Up Hero](https://www.epicgames.com/store/en-US/p/next-up-hero)
 - [Night in the Woods](https://www.epicgames.com/store/en-US/p/night-in-the-woods)
