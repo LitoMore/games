@@ -19,10 +19,13 @@ if (!foundPlatform) {
 website = websiteChecks(foundPlatform.anchor, website);
 
 if (
-  foundPlatform.gameList.find((g) =>
-    !foundPlatform.anchor.startsWith("game--watch") &&
-    (g.name === name || g.website === website)
-  )
+  foundPlatform.gameList.find((g) => {
+    const allowDuplication = foundPlatform.duplication === true ||
+      foundPlatform.duplication?.website?.includes(website);
+    const duplicated = g.name === name || g.website === website;
+
+    return !allowDuplication && duplicated;
+  })
 ) {
   console.log("Duplicate game");
   Deno.exit(1);

@@ -6,6 +6,7 @@ export type Game = {
 export type Platform = {
   name: string;
   anchor: string;
+  duplication?: true | { website?: string[] };
   badge: string;
   hostnames: string[];
   gameList: Game[];
