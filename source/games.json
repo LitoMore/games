@@ -1806,6 +1806,7 @@
     {
       "name": "Game & Watch™: Super Mario Bros.™",
       "anchor": "#game--watch-super-mario-bros",
+      "duplication": true,
       "badge": "https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-{{count}}-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white",
       "hostnames": [
         "www.nintendo.com"
@@ -1832,6 +1833,7 @@
     {
       "name": "Game & Watch™: The Legend of Zelda™",
       "anchor": "#game--watch-the-legend-of-zelda",
+      "duplication": true,
       "badge": "https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-{{count}}-ddd?logo=gameandwatch&labelColor=009644&logoColor=white",
       "hostnames": [
         "www.nintendo.com"
@@ -1866,6 +1868,11 @@
     {
       "name": "GOG.com",
       "anchor": "#gogcom",
+      "duplication": {
+        "website": [
+          "https://www.gog.com/game/jazz_jackrabbit_2_collection"
+        ]
+      },
       "badge": "https://img.shields.io/badge/GOG.com-{{count}}-ddd?logo=gog.com&labelColor=86328a",
       "hostnames": [
         "www.gog.com",
@@ -1925,6 +1932,18 @@
           "website": "https://www.gog.com/game/heroes_of_might_and_magic_2_gold_edition"
         },
         {
+          "name": "Jazz Jackrabbit 2 - The Christmas Chronicles",
+          "website": "https://www.gog.com/game/jazz_jackrabbit_2_collection"
+        },
+        {
+          "name": "Jazz Jackrabbit 2 - The Secret Files",
+          "website": "https://www.gog.com/game/jazz_jackrabbit_2_collection"
+        },
+        {
+          "name": "Jazz Jackrabbit Collection",
+          "website": "https://www.gog.com/game/jazz_jackrabbit_collection"
+        },
+        {
           "name": "Journey to the Savage Planet",
           "website": "https://www.gog.com/game/journey_to_the_savage_planet"
         },
@@ -1947,6 +1966,10 @@
         {
           "name": "METAL SLUG X",
           "website": "https://www.gog.com/game/metal_slug_x"
+        },
+        {
+          "name": "The Witcher Goodies Collection",
+          "website": "https://www.gog.com/game/the_witcher_goodies_collection"
         }
       ]
     },
