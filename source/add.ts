@@ -1,20 +1,35 @@
 import { bold, cyan, green } from "https://deno.land/std/fmt/colors.ts";
 import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
-import { Platform } from "./types.ts";
+import { GamesJson } from "./types.ts";
 import { websiteChecks } from "./utils.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
-const games = JSON.parse(gamesJson);
+const games = JSON.parse(gamesJson) as GamesJson;
 
 let [anchor, name, website] = Deno.args;
-if (!(anchor && name && website)) Deno.exit(1);
 
-const foundPlatform: Platform = games.platforms.find((platform: Platform) =>
+if (!(anchor && name && website)) {
+  console.error(
+    `${
+      [
+        anchor ? "" : "anchor",
+        name ? "" : "name",
+        website ? "" : "website",
+      ].filter(Boolean).map((x) => cyan(bold(x)))
+    } required.`,
+  );
+  Deno.exit(1);
+}
+
+const foundPlatform = games.platforms.find((platform) =>
   platform.anchor.includes(anchor)
 );
 
 if (!foundPlatform) {
-  console.log(logSymbols.error, "Invalid anchor");
+  console.error(
+    logSymbols.error,
+    `Anchor ${cyan(bold(anchor))} does not exist.`,
+  );
   Deno.exit(1);
 }
 
@@ -29,7 +44,7 @@ if (
     return !allowDuplication && duplicated;
   })
 ) {
-  console.log(logSymbols.error, "Duplicate game");
+  console.error(logSymbols.error, "Duplicate game.");
   Deno.exit(1);
 }
 
@@ -54,4 +69,4 @@ console.log(
   logSymbols.success,
   `${green(bold(name))} added to ${cyan(bold(foundPlatform.name))}.`,
 );
-console.log(game);
+console.table(game);

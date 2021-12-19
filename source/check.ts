@@ -26,8 +26,8 @@ const checkWebsite = () => {
   });
 
   if (invalidGames.length > 0) {
-    console.log(logSymbols.warning, "Invalid games:");
-    console.log(invalidGames);
+    console.error(logSymbols.error, "Invalid games:");
+    console.error(invalidGames);
     Deno.exit(1);
   }
 };
@@ -42,9 +42,9 @@ const checkOrder = () => {
         if (aName < bName) return -1;
         if (aName > bName) return 1;
       } else if (aName <= bName) {
-        console.log(logSymbols.success, "Check order failed.");
-        console.log("Expect after:", aName);
-        console.log("Expect before:", bName);
+        console.error(logSymbols.error, "Check order failed.");
+        console.error("Expect after:", aName);
+        console.error("Expect before:", bName);
         Deno.exit(1);
       }
 

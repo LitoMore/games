@@ -1,11 +1,8 @@
 import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
-import { Platform, Related } from "./types.ts";
+import { GamesJson } from "./types.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
-const games = JSON.parse(gamesJson) as {
-  platforms: Platform[];
-  related: Related;
-};
+const games = JSON.parse(gamesJson) as GamesJson;
 
 const titleSection = `<h1 align="center">GAMES</h1>
 `;

@@ -17,3 +17,8 @@ export type Related = {
   website: string;
   description: string;
 }[];
+
+export type GamesJson = {
+  platforms: Platform[];
+  related: Related[];
+};
