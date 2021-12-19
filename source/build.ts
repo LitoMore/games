@@ -1,3 +1,4 @@
+import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
 import { Platform, Related } from "./types.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
@@ -82,4 +83,4 @@ const markdownContent = titleSection + badgesSection + descriptionSection +
   ciSection + gamesSection + relatedSection;
 
 await Deno.writeTextFile("../README.md", markdownContent);
-console.log("Compiled successfully.");
+console.log(logSymbols.success, "Compiled successfully.");

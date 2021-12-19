@@ -1,3 +1,5 @@
+import { bold, cyan, green } from "https://deno.land/std/fmt/colors.ts";
+import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
 import { Platform } from "./types.ts";
 import { websiteChecks } from "./utils.ts";
 
@@ -12,7 +14,7 @@ const foundPlatform: Platform = games.platforms.find((platform: Platform) =>
 );
 
 if (!foundPlatform) {
-  console.log("Invalid anchor");
+  console.log(logSymbols.error, "Invalid anchor");
   Deno.exit(1);
 }
 
@@ -27,7 +29,7 @@ if (
     return !allowDuplication && duplicated;
   })
 ) {
-  console.log("Duplicate game");
+  console.log(logSymbols.error, "Duplicate game");
   Deno.exit(1);
 }
 
@@ -48,5 +50,8 @@ foundPlatform.gameList.sort((a, b) => {
 
 const jsonFile = JSON.stringify(games, null, 2);
 await Deno.writeTextFile("./games.json", jsonFile + "\n");
-console.log(`${name} added to ${foundPlatform.name}`);
+console.log(
+  logSymbols.success,
+  `${green(bold(name))} added to ${cyan(bold(foundPlatform.name))}.`,
+);
 console.log(game);

@@ -1,3 +1,4 @@
+import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
 import { Game, Platform } from "./types.ts";
 import { websiteChecks } from "./utils.ts";
 
@@ -25,7 +26,7 @@ const checkWebsite = () => {
   });
 
   if (invalidGames.length > 0) {
-    console.log("Invalid games:");
+    console.log(logSymbols.warning, "Invalid games:");
     console.log(invalidGames);
     Deno.exit(1);
   }
@@ -41,7 +42,7 @@ const checkOrder = () => {
         if (aName < bName) return -1;
         if (aName > bName) return 1;
       } else if (aName <= bName) {
-        console.log("Check order failed.");
+        console.log(logSymbols.success, "Check order failed.");
         console.log("Expect after:", aName);
         console.log("Expect before:", bName);
         Deno.exit(1);
@@ -60,4 +61,4 @@ if (withFix) {
   await Deno.writeTextFile("./games.json", jsonFile + "\n");
 }
 
-console.log("Validation passed.");
+console.log(logSymbols.success, "Validation passed.");
