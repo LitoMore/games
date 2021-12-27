@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Stadia-72-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-218-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-219-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1279-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1280-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1255,6 +1255,7 @@
 - [Metro: Last Light Redux](https://steamcommunity.com/app/287390)
 - [Middle-earth™: Shadow of Mordor™](https://steamcommunity.com/app/241930)
 - [MiG-29 Fulcrum](https://steamcommunity.com/app/32740)
+- [New World](https://steamcommunity.com/app/1063730)
 - [Noel The Mortal Fate S1-7](https://steamcommunity.com/app/850000)
 - [Noita](https://store.steampowered.com/app/881100)
 - [Nonogram - The Greatest Painter](https://steampowered.com/app/742490)
