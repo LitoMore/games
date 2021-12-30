@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-179-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-181-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1283-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1285-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -487,6 +487,7 @@
 - [Salt and Sanctuary](https://www.epicgames.com/store/en-US/p/salt-and-sanctuary)
 - [SAMURAI SHODOWN NEOGEO COLLECTION](https://www.epicgames.com/store/en-US/p/samurai-shodown-neogeo-collection)
 - [Second Extinction™](https://www.epicgames.com/store/en-US/p/second-extinction)
+- [Shadow of the Tomb Raider: Definitive Edition](https://www.epicgames.com/store/en-US/p/shadow-of-the-tomb-raider)
 - [Shadow Tactics: Blades of the Shogun](https://www.epicgames.com/store/en-US/p/shadow-tactics)
 - [Shadowrun Dragonfall – Director's Cut](https://www.epicgames.com/store/en-US/p/shadowrun-dragonfall)
 - [Shadowrun Hong Kong](https://www.epicgames.com/store/en-US/p/shadowrun-hong-kong)
@@ -526,6 +527,7 @@
 - [theHunter: Call of the Wild™](https://www.epicgames.com/store/en-US/p/thehunter-call-of-the-wild)
 - [Ticket to Ride](https://www.epicgames.com/store/en-US/p/ticket-to-ride)
 - [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](https://www.epicgames.com/store/en-US/p/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure)
+- [Tomb Raider GOTY](https://www.epicgames.com/store/en-US/p/tomb-raider)
 - [Torchlight II](https://www.epicgames.com/store/en-US/p/torchlight-2)
 - [Train Sim World® 2](https://www.epicgames.com/store/en-US/p/train-sim-world-2)
 - [Tropico 5](https://www.epicgames.com/store/en-US/p/tropico-5)
