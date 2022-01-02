@@ -3988,6 +3988,10 @@
           "website": "https://stadia.google.com/store/details/2c8b9ab112e5460db922dc7353381256rcp1/sku/afb2b66ddd744605a3d01acbeaf3ba01p"
         },
         {
+          "name": "Bloodstained: Ritual of the Night",
+          "website": "https://stadia.google.com/store/details/df3c9859e1d14300941f62a693d140e2rcp1/sku/10f078ceb83f47cb8657d965c28e1ac2p"
+        },
+        {
           "name": "Blue Fire",
           "website": "https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p"
         },
@@ -4016,12 +4020,20 @@
           "website": "https://stadia.google.com/store/details/694bb88862a84a4d86ef09c447094763rcp1/sku/a47447ea040c4e1d9f27741674d3d4d8p"
         },
         {
+          "name": "Darksiders III",
+          "website": "https://stadia.google.com/store/details/d05ef34140f34f5e91f7c2ea9e58b135rcp1/sku/06fd5affa44b4a1fad02cac1937c5492p"
+        },
+        {
           "name": "Destroy All Humans!",
           "website": "https://stadia.google.com/store/details/0fd3103549b54c7e89afd6eed83672cercp1/sku/fae281d43a044453a5ad2e1a1961625a"
         },
         {
           "name": "DIRT 5",
           "website": "https://stadia.google.com/store/details/ed81a01114044edcacfa52656b259d41rcp1/sku/f0c21370f7e2488f8898ae59220c2e24p"
+        },
+        {
+          "name": "DreamWorks Dragons: Dawn of New Riders",
+          "website": "https://stadia.google.com/store/details/e15d4480e6e44c64b8fe79b3bfc57c9ercp1/sku/da957550fe2c4ff5a71039739f68a450p"
         },
         {
           "name": "DreamWorks Spirit Lucky's Big Adventure",
@@ -4184,6 +4196,10 @@
           "website": "https://stadia.google.com/store/details/5325f670b13d4c959123c437948d1834rcp1/sku/fafc0429262e4930b682a7e02365e8cep"
         },
         {
+          "name": "Shantae: Risky's Revenge - Director's Cut",
+          "website": "https://stadia.google.com/store/details/4fe5de76fee2427591e4a61d046a20d0rcp1/sku/e8eeb695a5194e3e8e412f41d99db082p"
+        },
+        {
           "name": "SpongeBobSquarePants:Battle for Bikini BottomRehydrated",
           "website": "https://stadia.google.com/store/details/53bd183291e340dda697167108d3dc6brcp1/sku/a25302b5cbc44d03b1440d2adaa0dd5ap"
         },
@@ -4222,6 +4238,10 @@
         {
           "name": "The Darkside Detective",
           "website": "https://stadia.google.com/store/details/b465998ccc1c48aaa2fb74f331ebbdd7rcp1/sku/9d8c8bb162b6477ca2f2e5ee89f62b15p"
+        },
+        {
+          "name": "The Darkside Detective: A Fumble in the Dark",
+          "website": "https://stadia.google.com/store/details/4e9c4e089aa5410cbffb3c1869d68925rcp1/sku/31d2c4b062e34650aa2ca3037e030355p"
         },
         {
           "name": "The Falconeer: Warrior Edition",
