@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-44-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-45-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1290-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1291-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1409,6 +1409,7 @@
 - [Moving Out](https://www.xbox.com/en-us/games/store/Moving-Out/9NXPBSMHPLTV)
 - [Mulaka](https://www.microsoft.com/en-us/p/mulaka/bzjh12cj6n3r)
 - [NEOGEO BATTLE COLISEUM](https://www.microsoft.com/en-us/p/neogeo-battle-coliseum/c17x452nq0sx)
+- [NeuroVoider](https://www.xbox.com/en-us/games/store/neurovoider/btkwg4p1q2x5)
 - [Orcs Must Die!](https://www.xbox.com/en-US/games/store/orcs-must-die/bxx7gbsdf2kn)
 - [PLANET ALPHA](https://www.microsoft.com/en-us/p/planet-alpha/bnvzj5zb3wh6)
 - [Port Royale 3](https://www.microsoft.com/en-us/p/port-royale-3/bqmptj2mvcqj)
