@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-109-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-115-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-128-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1297-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1303-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -86,6 +86,7 @@
 
 - [A Blind Legend](https://images-na.ssl-images-amazon.com/images/I/41sJPY42QXS.jpg)
 - [A Normal Lost Phone](https://images-na.ssl-images-amazon.com/images/I/41qFAy59K7S.jpg)
+- [Abandon Ship](https://images-na.ssl-images-amazon.com/images/I/41Go92IhokL.jpg)
 - [Aces of Luftwaffe - Squadron](https://images-na.ssl-images-amazon.com/images/I/516gqDmaJML.jpg)
 - [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
 - [Another Lost Phone: Laura's Story](https://images-na.ssl-images-amazon.com/images/I/41D0oVq5z8S.jpg)
@@ -109,12 +110,14 @@
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
 - [Edgar - Bokbok in Boulzac](https://images-na.ssl-images-amazon.com/images/I/41fkq-o+saL.jpg)
 - [Escape Machine City: Airborne](https://images-na.ssl-images-amazon.com/images/I/41EKDorEBoL.jpg)
+- [Fahrenheit: Indigo Prophecy Remastered](https://images-na.ssl-images-amazon.com/images/I/41VPSnTYLXL.jpg)
 - [Faraway: Director's Cut](https://images-na.ssl-images-amazon.com/images/I/41tBJUB2HPS.jpg)
 - [Fatal Fury Special](https://images-na.ssl-images-amazon.com/images/I/51n1J7RP2rL.jpg)
 - [Figment](https://images-na.ssl-images-amazon.com/images/I/41Kj+hdi3lL.jpg)
 - [Frog Climbers](https://images-na.ssl-images-amazon.com/images/I/41nZGimGmBS.jpg)
 - [Garou: Mark of the Wolves](https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg)
 - [Healer's Quest](https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg)
+- [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
 - [Indiana Jones and the Fate of Atlantis](https://images-na.ssl-images-amazon.com/images/I/41P0j0+tDwS.jpg)
 - [Iris and the Giant](https://images-na.ssl-images-amazon.com/images/I/41OFIiY-UCL.jpg)
 - [Ironclad](https://images-na.ssl-images-amazon.com/images/I/41dbe4EmBxL.jpg)
@@ -134,6 +137,7 @@
 - [Mugsters](https://images-na.ssl-images-amazon.com/images/I/41HorvHYMGL.jpg)
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
+- [Paper Beast - Folded Edition](https://images-na.ssl-images-amazon.com/images/I/41tL36ULpEL.jpg)
 - [Plant Alpha](https://images-na.ssl-images-amazon.com/images/I/41NItUoNtCS.jpg)
 - [Portal Dogs](https://images-na.ssl-images-amazon.com/images/I/61AAnHadacL.jpg)
 - [Pulstar](https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg)
@@ -185,12 +189,14 @@
 - [The Wanderer: Frankenstein's Creature](https://images-na.ssl-images-amazon.com/images/I/61BQKl6r4sL.jpg)
 - [Tiny Robots Recharged](https://images-na.ssl-images-amazon.com/images/I/513hyTSh9mL.jpg)
 - [Tools Up!](https://images-na.ssl-images-amazon.com/images/I/41C2-HXJKVL.jpg)
+- [Two Point Hospital](https://images-na.ssl-images-amazon.com/images/I/41C1YeB5S8L.jpg)
 - [Unmemory](https://images-na.ssl-images-amazon.com/images/I/41TS6+2xU-L.jpg)
 - [Wallace & Gromit: Fright of the Bumblebees](https://images-na.ssl-images-amazon.com/images/I/41EXGQJsdYL.jpg)
 - [Wallace & Gromit: Muzzled!](https://images-na.ssl-images-amazon.com/images/I/4103e2g3bjL.jpg)
 - [Wallace & Gromit: THe Bogey Man](https://images-na.ssl-images-amazon.com/images/I/41mFBIvFgRL.jpg)
 - [Wallace & Gromit: The Last Resort](https://images-na.ssl-images-amazon.com/images/I/41yBxUVj4tL.jpg)
 - [Whiskey & Zombies: Great Southern Zombie Escape](https://images-na.ssl-images-amazon.com/images/I/41ZENvW42-L.jpg)
+- [WRC 7 FIA World Rally Championship](https://images-na.ssl-images-amazon.com/images/I/41cDuOOqj5L.jpg)
 - [Yoku's Island Express](https://images-na.ssl-images-amazon.com/images/I/41XjHktTocS.jpg)
 - [Youtubers Life](https://images-na.ssl-images-amazon.com/images/I/41SwO+8GhyL.jpg)
 
