@@ -58,6 +58,9 @@
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
   </a>
+  <a href="wegame">
+    <img src="https://img.shields.io/badge/WeGame-1-ddd?logo=wegame&labelColor=faab00&logoColor=white"/>
+  </a>
   <a href="#windows">
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
@@ -75,7 +78,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1292-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1293-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1378,6 +1381,10 @@
 
 - [Heroes of Might and Magic® 2: Gold](https://store.ubi.com/ie/game?pid=5902fbba88a7e3f0618b4567)
 - [Rayman® 2: The Great Escape](https://store.ubi.com/us/game/?lang=en_US&pid=56c4947e88a7e300458b465c)
+
+## WeGame
+
+- [League of Legends](https://www.wegame.com.cn/store/26/lol)
 
 ## Windows
 

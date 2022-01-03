@@ -5195,6 +5195,20 @@
       ]
     },
     {
+      "name": "WeGame",
+      "anchor": "wegame",
+      "badge": "https://img.shields.io/badge/WeGame-{{count}}-ddd?logo=wegame&labelColor=faab00&logoColor=white",
+      "hostnames": [
+        "www.wegame.com.cn"
+      ],
+      "gameList": [
+        {
+          "name": "League of Legends",
+          "website": "https://www.wegame.com.cn/store/26/lol"
+        }
+      ]
+    },
+    {
       "name": "Windows",
       "anchor": "#windows",
       "badge": "https://img.shields.io/badge/Windows-{{count}}-ddd?logo=windows&labelColor=0078d6",
