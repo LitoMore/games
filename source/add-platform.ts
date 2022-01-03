@@ -25,7 +25,7 @@ if (!(anchor && name && badge && hostnames)) {
 
 const platform = {
   name,
-  anchor,
+  anchor: `#${anchor}`,
   badge,
   hostnames: hostnames.split(" "),
   gameList: [],
