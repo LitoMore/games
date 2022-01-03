@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
   </a>
   <a href="wegame">
-    <img src="https://img.shields.io/badge/WeGame-1-ddd?logo=wegame&labelColor=faab00&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WeGame-2-ddd?logo=wegame&labelColor=faab00&logoColor=white"/>
   </a>
   <a href="#windows">
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1293-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1294-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1385,6 +1385,7 @@
 ## WeGame
 
 - [League of Legends](https://www.wegame.com.cn/store/26/lol)
+- [RIVE](https://www.wegame.com.cn/store/2000229/RIVE)
 
 ## Windows
 
