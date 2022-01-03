@@ -5196,7 +5196,7 @@
     },
     {
       "name": "WeGame",
-      "anchor": "wegame",
+      "anchor": "#wegame",
       "badge": "https://img.shields.io/badge/WeGame-{{count}}-ddd?logo=wegame&labelColor=faab00&logoColor=white",
       "hostnames": [
         "www.wegame.com.cn"
