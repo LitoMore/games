@@ -58,7 +58,7 @@
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
   </a>
-  <a href="wegame">
+  <a href="#wegame">
     <img src="https://img.shields.io/badge/WeGame-2-ddd?logo=wegame&labelColor=faab00&logoColor=white"/>
   </a>
   <a href="#windows">
