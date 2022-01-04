@@ -44,10 +44,10 @@
     <img src="https://img.shields.io/badge/Origin-9-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-159-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-160-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-66-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-68-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-77-ddd?logo=stadia&labelColor=cd2640"/>
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1304-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1307-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -953,6 +953,7 @@
 - [Patapon™ Remastered](https://www.playstation.com/en-us/games/patapon-remastered-ps4/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5-ps4/)
 - [Persona 5 Scramble: The Phantom Strikers](https://www.playstation.com/en-hk/games/persona-5-scramble-the-phantom-strikers-ps4/)
+- [Persona®5 Strikers](https://www.playstation.com/en-us/games/persona-5-strikers/)
 - [Plants vs. Zombies: Battle for Neighborville™](https://www.playstation.com/en-us/games/plants-vs-zombies-battle-for-neighborville/)
 - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://www.playstation.com/en-us/games/playerunknowns-battlegrounds-ps4/)
 - [Predator: Hunting Grounds](https://www.playstation.com/en-us/games/predator-hunting-grounds/)
@@ -1033,11 +1034,13 @@
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
 - [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
 - [DEATHLOOP](https://www.playstation.com/en-us/games/deathloop/)
+- [Deep Rock Galactic](https://store.playstation.com/en-us/product/UP4664-PPSA02967_00-DRGFULLGAMEPS5US)
 - [Demon's Souls](https://www.playstation.com/en-us/games/demons-souls/)
 - [Destruction AllStars](https://store.playstation.com/en-hk/product/HP9000-PPSA02714_00-DALLSTARSPLUS001)
 - [Detroit: Become Human](https://www.playstation.com/en-us/games/detroit-become-human/)
 - [Devil May Cry 5 Special Edition](https://www.playstation.com/en-us/games/devil-may-cry-5-special-edition/)
 - [Diablo II: Resurrected](https://www.playstation.com/en-us/games/diablo-ii-resurrected/)
+- [DiRT 5](https://www.playstation.com/en-us/games/dirt-5/)
 - [F.I.S.T: Forged in Shadow Torch](https://www.playstation.com/en-us/games/fist-forged-in-shadow-torch/)
 - [Fallout 4](https://www.playstation.com/en-us/games/fallout-4/)
 - [Far Cry 6](https://www.playstation.com/en-us/games/far-cry-6/)
