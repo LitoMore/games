@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-160-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-68-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-69-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-77-ddd?logo=stadia&labelColor=cd2640"/>
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1308-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1309-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1058,6 +1058,7 @@
 - [It Takes Two](https://www.playstation.com/en-us/games/it-takes-two/)
 - [Just Cause 4](https://www.playstation.com/en-us/games/just-cause-4/)
 - [Just Dance® 2021](https://store.playstation.com/en-us/product/UP0001-CUSA19596_00-JD2021PS4SIEA000)
+- [Kena: Bridge of Spirits](https://www.playstation.com/en-us/games/kena-bridge-of-spirits/)
 - [Knockout City™](https://www.playstation.com/en-us/games/knockout-city/)
 - [Maneater PS5](https://store.playstation.com/en-us/product/UP0115-PPSA01861_00-MANEATER00000001)
 - [Maquette](https://store.playstation.com/en-hk/product/HP2418-PPSA01834_00-MAQUETTESIEJASIA)
