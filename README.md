@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-45-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-48-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -78,7 +78,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1309-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1312-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1413,6 +1413,9 @@
 
 - [Aaero](https://www.microsoft.com/en-us/p/Aaero/BZR51XD70NKD)
 - [Armello](https://www.microsoft.com/en-us/p/armello/bt990qwd1dlf)
+- [Assassin's Creed® Odyssey](https://www.xbox.com/en-US/games/store/assassins-creed-odyssey/BW9TWC8L4JCS/0001)
+- [Assassin's Creed® Origins](https://www.xbox.com/en-US/games/store/assassins-creed-origins/BZGJRJC1FGF3/0001)
+- [Assassin's Creed® Valhalla](https://www.xbox.com/en-US/games/store/assassins-creed-valhalla/9P4NJFH17MRT/0010)
 - [Bleed 2](https://www.microsoft.com/en-us/p/Bleed-2/BVDG19SHG495)
 - [Conker: Live and Reloaded](https://www.microsoft.com/en-us/p/conker-live-and-reloaded/bvfb8cbs75r6)
 - [Dandara: Trials of Fear Edition](https://www.microsoft.com/en-us/p/Dandara-Trials-of-Fear-Edition/BQQD1KHRWWL8)
