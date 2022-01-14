@@ -40,6 +40,9 @@
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-210-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
+  <a href="#oculus">
+    <img src="https://img.shields.io/badge/Oculus-1-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
+  </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-9-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
@@ -53,7 +56,7 @@
     <img src="https://img.shields.io/badge/Stadia-77-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-219-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-220-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -78,7 +81,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1312-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1314-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -843,6 +846,10 @@
 - [Yoshi’s Crafted World™](https://www.nintendo.com/games/detail/yoshis-crafted-world-switch/)
 - [Zumba® Burn It Up!](https://www.nintendo.com/games/detail/zumba-burn-it-up-switch/)
 
+## Oculus
+
+- [The Room VR: A Dark Matter](https://www.oculus.com/experiences/quest/2124523024270629)
+
 ## Origin
 
 - [Battlefield™ 1](https://www.origin.com/hkg/en-us/store/battlefield/battlefield-1)
@@ -1303,6 +1310,7 @@
 - [Portal 2](https://steamcommunity.com/app/620)
 - [POSTAL 2](https://steamcommunity.com/app/223470)
 - [POSTAL 2: Paradise Lost](https://steamcommunity.com/app/360960)
+- [Prince of Qin](https://steamcommunity.com/app/970500)
 - [qop](https://steamcommunity.com/app/654900)
 - [qop 2](https://steamcommunity.com/app/757330)
 - [qop 3](https://steamcommunity.com/app/864300)
