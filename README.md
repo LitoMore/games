@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-48-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-50-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1315-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1317-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1421,6 +1421,7 @@
 ## Xbox Series X
 
 - [Aaero](https://www.microsoft.com/en-us/p/Aaero/BZR51XD70NKD)
+- [Aground](https://www.xbox.com/en-us/games/store/Aground/9NDPG3DNQH5J)
 - [Armello](https://www.microsoft.com/en-us/p/armello/bt990qwd1dlf)
 - [Assassin's Creed® Odyssey](https://www.xbox.com/en-US/games/store/assassins-creed-odyssey/BW9TWC8L4JCS/0001)
 - [Assassin's Creed® Origins](https://www.xbox.com/en-US/games/store/assassins-creed-origins/BZGJRJC1FGF3/0001)
@@ -1455,6 +1456,7 @@
 - [Rock of Ages 3: Make & Break](https://www.microsoft.com/en-us/p/rock-of-ages-3-make-break/9n9ksxhrnhw1)
 - [Saints Row: Gat out of Hell](https://www.microsoft.com/en-us/p/saints-row-gat-out-of-hell/bqd7ntqp0cd9)
 - [Shadows: Awakening](https://www.microsoft.com/en-us/p/shadows-awakening/c1lmjj64fv3j)
+- [Space Invaders: IG](https://www.xbox.com/en-us/games/store/space-invaders-ig/c5fn9wf5z4lh)
 - [STREET FIGHTER IV](https://marketplace.xbox.com/en-US/Product/STREET-FIGHTER-IV/66acd000-77fe-1000-9115-d802434307e1)
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
 - [The Escapists 2](https://www.xbox.com/en-us/games/store/the-escapists-2/bs8xgcll3vqz)
