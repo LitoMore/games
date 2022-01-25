@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/Stadia-77-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-221-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-225-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1319-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1323-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1247,6 +1247,9 @@
 - [Grand Theft Auto V](https://steamcommunity.com/app/271590)
 - [Grand Theft Auto: San Andreas](https://steamcommunity.com/app/12250)
 - [Grand Theft Auto: Vice City](https://steamcommunity.com/app/12110)
+- [Guacamelee! 2](https://steamcommunity.com/app/534550)
+- [Guacamelee! Gold Edition](https://steamcommunity.com/app/214770)
+- [Guacamelee! Super Turbo Championship Edition](https://steamcommunity.com/app/275390)
 - [Gujian3](https://steamcommunity.com/app/994280)
 - [Guts and Glory](https://steamcommunity.com/app/537340)
 - [Half-Life](https://steamcommunity.com/app/70)
@@ -1339,6 +1342,7 @@
 - [Sword and Fairy 3 Ex](https://steamcommunity.com/app/1536080)
 - [Tachyon: The Fringe](https://steamcommunity.com/app/32760)
 - [Tale of Immortal](https://steamcommunity.com/app/1468810)
+- [Tales From Space: Mutant Blobs Attack](https://steamcommunity.com/app/206370)
 - [Team Fortress Classic](https://steamcommunity.com/app/20)
 - [Teardown](https://steamcommunity.com/app/1167630)
 - [Teddy Floppy Ear - Kayaking](https://steamcommunity.com/app/340310)
