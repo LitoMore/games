@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-210-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-211-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#oculus">
     <img src="https://img.shields.io/badge/Oculus-1-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1323-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1324-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -687,6 +687,7 @@
 - [Dount Country](https://www.nintendo.com/games/detail/donut-county-switch/)
 - [Dr Kawashima’s Brain Training for Nintendo Switch](https://www.nintendo.co.uk/Games/Nintendo-Switch/Dr-Kawashima-s-Brain-Training-for-Nintendo-Switch-1656777.html)
 - [DRAGON BALL FIGHTERZ](https://www.nintendo.com/games/detail/dragon-ball-fighterz-switch/)
+- [DRAGON QUEST BUILDERS™ 2](https://www.nintendo.com/games/detail/dragon-quest-builders-2-switch/)
 - [Dragon's Dogma: Dark Arisen](https://www.nintendo.com/games/detail/dragons-dogma-dark-arisen-switch/)
 - [Eastward](https://www.nintendo.com/games/detail/eastward-switch/)
 - [ESCAPE TRICK: 35 Fateful Enigmas](https://www.nintendo.com/games/detail/escape-trick-35-fateful-enigmas-switch/)
