@@ -4118,6 +4118,10 @@
           "website": "https://stadia.google.com/store/details/2cdcb63bc3604360a157c4a4021eca35rcp1/sku/24eb3c7b5a9d44259c8d997bab233411p"
         },
         {
+          "name": "Cosmic Star Heroine",
+          "website": "https://stadia.google.com/store/details/88396e4e44c94d43b4259e6bedbd582crcp1/sku/8eec020af3914643b3ce2ff4332b9a4cp"
+        },
+        {
           "name": "Crayta: Premium Edition",
           "website": "https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/e50890bb854e4666ad06742e1e1789aap"
         },
@@ -4242,6 +4246,14 @@
           "website": "https://stadia.google.com/store/details/ba593716983f436ea49ae09a531d65b5rcp1/sku/83e17749482942da85f0c20ea0d47ca5p"
         },
         {
+          "name": "Life is Strange Remastered",
+          "website": "https://stadia.google.com/store/details/09011184da8446c1b6fafb8c010888bfrcp1/sku/317ac190bf5a4dc6bbb9490a1c073632p"
+        },
+        {
+          "name": "Life is Strange: Before the Storm Remastered",
+          "website": "https://stadia.google.com/store/details/e8eaa376059b43d5a3007c13589e8a1drcp1/sku/af2ae96f69964fee8ab4dbe2fb3f925dp"
+        },
+        {
           "name": "Little Big Workshop",
           "website": "https://stadia.google.com/store/details/e4e8f5e5bc744270a644c554ba3f2962rcp1/sku/c00cecabcbde4e95bdab69be6e80b40bp"
         },
@@ -4254,12 +4266,24 @@
           "website": "https://stadia.google.com/store/details/9092c5ed87224f3e8a277dac0479874frcp1/sku/5be0350274a142b1acbfa2a958d494f9"
         },
         {
+          "name": "Merek's Market",
+          "website": "https://stadia.google.com/store/details/1509dbd662b7403f9497661157b9ca6brcp1/sku/86ce32e71e954f9b8d9c17aad82d50ccp"
+        },
+        {
           "name": "Moonlighter",
           "website": "https://stadia.google.com/store/details/703fbd4ee94441299adeaace6446f27arcp1/sku/a12ef65cefdd48d5856ed5c4cde6b977p"
         },
         {
           "name": "MotoGP™20",
           "website": "https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5"
+        },
+        {
+          "name": "Nanotale - Typing Chronicles",
+          "website": "https://stadia.google.com/store/details/4108770e33414848ae849cb6ad14e685rcp1/sku/32f70a285ee34bdfba4261237f869ad9p"
+        },
+        {
+          "name": "One Hand Clapping",
+          "website": "https://stadia.google.com/store/details/76309b9f2f294b07b410e8b6aa879273rcp1/sku/55b718bf03544bd3a9f6a62946fe7436"
         },
         {
           "name": "Orcs Must Die! 3",
@@ -4276,6 +4300,10 @@
         {
           "name": "PGA TOUR 2K21",
           "website": "https://stadia.google.com/store/details/6a2ac2fc8e684c41b5c14981dcb454fdrcp1/sku/9c7fd0f16817482c9e0b311a8340cb0b"
+        },
+        {
+          "name": "PHOGS!",
+          "website": "https://stadia.google.com/store/details/05b9db9b9b5b489995568afd930a9db3rcp1/sku/6efd691ecc1c4c50a1a314bb085fb2d7p"
         },
         {
           "name": "PIKUNIKU",

@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-69-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-77-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-84-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-225-ddd?logo=steam&labelColor=171a21"/>
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1330-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1337-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1115,6 +1115,7 @@
 - [Cake Bash](https://stadia.google.com/store/details/19efd5fa36794d7b8bc87de68124e705rcp1/sku/a7f0a6098ae747788a6f75d0d1e1d8f2p)
 - [Chronos: Before the Ashes](https://stadia.google.com/store/details/3f94b62fa50c4202be10472947478f8frcp1/sku/c3fcca2c75614bf6b634bedc2f766003p)
 - [Control Ultimate Edition](https://stadia.google.com/store/details/2cdcb63bc3604360a157c4a4021eca35rcp1/sku/24eb3c7b5a9d44259c8d997bab233411p)
+- [Cosmic Star Heroine](https://stadia.google.com/store/details/88396e4e44c94d43b4259e6bedbd582crcp1/sku/8eec020af3914643b3ce2ff4332b9a4cp)
 - [Crayta: Premium Edition](https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/e50890bb854e4666ad06742e1e1789aap)
 - [Cthulhu Saves Christmas](https://stadia.google.com/store/details/769a088b9ef04c04b341911a1ef8b8ecrcp1/sku/5748ef643485495ba71d15041c44f0d4p)
 - [Darksiders II Deathinitive Edition](https://stadia.google.com/store/details/694bb88862a84a4d86ef09c447094763rcp1/sku/a47447ea040c4e1d9f27741674d3d4d8p)
@@ -1146,15 +1147,21 @@
 - [Killer Queen Black](https://stadia.google.com/store/details/3f30ebc3799945fea323f8a663c35501rcp1/sku/70065c4266c5464ca068d225cd341902p)
 - [Lara Croft and the Guardian of Light](https://stadia.google.com/store/details/29b3d5d6788f444c8cd59aa0a49d1bd1rcp1/sku/b4f4f4de3d1e4eef9417a9c896513f0ap)
 - [Legend of Keepers: Career of a Dungeon Manager](https://stadia.google.com/store/details/ba593716983f436ea49ae09a531d65b5rcp1/sku/83e17749482942da85f0c20ea0d47ca5p)
+- [Life is Strange Remastered](https://stadia.google.com/store/details/09011184da8446c1b6fafb8c010888bfrcp1/sku/317ac190bf5a4dc6bbb9490a1c073632p)
+- [Life is Strange: Before the Storm Remastered](https://stadia.google.com/store/details/e8eaa376059b43d5a3007c13589e8a1drcp1/sku/af2ae96f69964fee8ab4dbe2fb3f925dp)
 - [Little Big Workshop](https://stadia.google.com/store/details/e4e8f5e5bc744270a644c554ba3f2962rcp1/sku/c00cecabcbde4e95bdab69be6e80b40bp)
 - [Little Nightmares II](https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp)
 - [Mafia III: Definitive Edition](https://stadia.google.com/store/details/9092c5ed87224f3e8a277dac0479874frcp1/sku/5be0350274a142b1acbfa2a958d494f9)
+- [Merek's Market](https://stadia.google.com/store/details/1509dbd662b7403f9497661157b9ca6brcp1/sku/86ce32e71e954f9b8d9c17aad82d50ccp)
 - [Moonlighter](https://stadia.google.com/store/details/703fbd4ee94441299adeaace6446f27arcp1/sku/a12ef65cefdd48d5856ed5c4cde6b977p)
 - [MotoGP™20](https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5)
+- [Nanotale - Typing Chronicles](https://stadia.google.com/store/details/4108770e33414848ae849cb6ad14e685rcp1/sku/32f70a285ee34bdfba4261237f869ad9p)
+- [One Hand Clapping](https://stadia.google.com/store/details/76309b9f2f294b07b410e8b6aa879273rcp1/sku/55b718bf03544bd3a9f6a62946fe7436)
 - [Orcs Must Die! 3](https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a)
 - [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5)
 - [PAW Patrol Mighty Pups Save Adventure Bay](https://stadia.google.com/store/details/ccf9e5615864445ba6a85cbd3557665frcp1/sku/7fca0a0255f04ab5aea66889e4695997p)
 - [PGA TOUR 2K21](https://stadia.google.com/store/details/6a2ac2fc8e684c41b5c14981dcb454fdrcp1/sku/9c7fd0f16817482c9e0b311a8340cb0b)
+- [PHOGS!](https://stadia.google.com/store/details/05b9db9b9b5b489995568afd930a9db3rcp1/sku/6efd691ecc1c4c50a1a314bb085fb2d7p)
 - [PIKUNIKU](https://stadia.google.com/store/details/c02a86f966b044569ee03f80fbc86035rcp1/sku/f1bbad79434f496bae9865248c6c136ap)
 - [PixelJunk Raiders](https://stadia.google.com/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p)
 - [PlayerUnknown's Battlegrounds – Breakthrough Edition](https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/e0d32e6d5b0442f9bea2f8deb5d03570p)
