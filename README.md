@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-211-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-212-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#oculus">
     <img src="https://img.shields.io/badge/Oculus-1-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1337-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1338-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -788,6 +788,7 @@
 - [Pokémon TV](https://www.nintendo.com/games/detail/pokemon-tv-switch/)
 - [Pokémon™ Brilliant Diamond](https://www.nintendo.com/games/detail/pokemon-brilliant-diamond-switch/)
 - [Pokémon™ HOME](https://www.nintendo.com/games/detail/pokemon-home-switch/)
+- [Pokémon™ Legends: Arceus](https://www.nintendo.com/games/detail/pokemon-legends-arceus-switch/)
 - [Pokémon™ Quest](https://www.nintendo.com/games/detail/pokemon-quest-switch/)
 - [Pokémon™ Shield](https://www.nintendo.com/games/detail/pokemon-shield-switch/)
 - [Pokémon™ Shining Pearl](https://www.nintendo.com/games/detail/pokemon-shining-pearl-switch/)
