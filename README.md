@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-115-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-119-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-128-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -81,7 +81,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1325-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1329-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -94,6 +94,8 @@
 - [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
 - [Another Lost Phone: Laura's Story](https://images-na.ssl-images-amazon.com/images/I/41D0oVq5z8S.jpg)
 - [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
+- [As Far as the Eye](https://images-na.ssl-images-amazon.com/images/I/41XsOFu8tBL.jpg)
+- [Ashwalkers: A Survival Journey](https://images-na.ssl-images-amazon.com/images/I/410aD1u-IWL.jpg)
 - [Automachef](https://images-na.ssl-images-amazon.com/images/I/61lCqx9OTyL.jpg)
 - [BAFL - Brakes Are For Losers](https://images-na.ssl-images-amazon.com/images/I/41tTXAZ8GlL.jpg)
 - [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
@@ -111,6 +113,7 @@
 - [Candleman: The Complete Journey](https://images-na.ssl-images-amazon.com/images/I/41oTfRlUA2L.jpg)
 - [Demon Hunter 2: New Chapter](https://images-na.ssl-images-amazon.com/images/I/41DRdSEQBaL.jpg)
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
+- [Double Kick Heroes](https://images-na.ssl-images-amazon.com/images/I/51kJA4fOGJL.jpg)
 - [Edgar - Bokbok in Boulzac](https://images-na.ssl-images-amazon.com/images/I/41fkq-o+saL.jpg)
 - [Escape Machine City: Airborne](https://images-na.ssl-images-amazon.com/images/I/41EKDorEBoL.jpg)
 - [Fahrenheit: Indigo Prophecy Remastered](https://images-na.ssl-images-amazon.com/images/I/41VPSnTYLXL.jpg)
@@ -119,6 +122,7 @@
 - [Figment](https://images-na.ssl-images-amazon.com/images/I/41Kj+hdi3lL.jpg)
 - [Frog Climbers](https://images-na.ssl-images-amazon.com/images/I/41nZGimGmBS.jpg)
 - [Garou: Mark of the Wolves](https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg)
+- [Golazo! Soccer League](https://images-na.ssl-images-amazon.com/images/I/51DkCVKj2ML.jpg)
 - [Healer's Quest](https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg)
 - [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
 - [Indiana Jones and the Fate of Atlantis](https://images-na.ssl-images-amazon.com/images/I/41P0j0+tDwS.jpg)
