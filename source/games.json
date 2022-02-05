@@ -2158,6 +2158,20 @@
       ]
     },
     {
+      "name": "Netflix Games",
+      "anchor": "#netflix-games",
+      "badge": "https://img.shields.io/badge/Netflix_Games-{{count}}-ddd?logo=netflix&labelColor=e50914",
+      "hostnames": [
+        "apps.apple.com"
+      ],
+      "gameList": [
+        {
+          "name": "Hextech Mayhem Netflix Edition",
+          "website": "https://apps.apple.com/us/app/id1589160731"
+        }
+      ]
+    },
+    {
       "name": "Nintendo 3DS™",
       "anchor": "#nintendo-3ds",
       "badge": "https://img.shields.io/badge/Nintendo_3DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d22128",

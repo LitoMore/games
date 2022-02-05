@@ -41,6 +41,7 @@ export const websiteChecks = (anchor: string, website: string): string => {
   switch (anchor) {
     case "#app-store":
     case "#apple-arcade":
+    case "#netflix-games":
       return unifyAppStoreWebsite(website);
     case "#epic-games":
       return unifyEpicGamesWebsite(website);
