@@ -2134,7 +2134,7 @@
     {
       "name": "Microsoft Store",
       "anchor": "#microsoft-store",
-      "badge": "https://img.shields.io/badge/Microsoft_Store-{{count}}-ddd?logo=microsoft&labelColor=5e5e5e",
+      "badge": "https://img.shields.io/badge/Microsoft_Store-{{count}}-ddd?logo=microsoft&labelColor=0067c0",
       "hostnames": [
         "www.microsoft.com"
       ],

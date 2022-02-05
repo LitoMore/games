@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#microsoft-store">
-    <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=5e5e5e"/>
+    <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=0067c0"/>
   </a>
   <a href="#netflix-games">
     <img src="https://img.shields.io/badge/Netflix_Games-1-ddd?logo=netflix&labelColor=e50914"/>
