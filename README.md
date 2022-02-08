@@ -50,10 +50,10 @@
     <img src="https://img.shields.io/badge/Origin-9-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-160-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-163-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-69-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-70-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-84-ddd?logo=stadia&labelColor=cd2640"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1342-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1346-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -927,6 +927,7 @@
 - [Diablo® III: Reaper of Souls™ - Ultimate Evil Edition™](https://www.playstation.com/en-us/games/diablo-3-reaper-of-souls-ultimate-evil-edition-ps4/)
 - [DiRT Rally 2.0](https://www.playstation.com/en-us/games/dirt-rally-20-ps4/)
 - [DOOM® VFR](https://www.playstation.com/en-us/games/doom-vfr-ps4/)
+- [Dragon's Crown Pro](https://store.playstation.com/en-us/product/UP2611-CUSA10454_00-DRAGONSCROWNPRO1)
 - [DYNASTY WARRIORS 8: Xtreme Legends Complete Edition](https://www.playstation.com/en-us/games/dynasty-warriors-8-xtreme-legends-complete-edition-ps4/)
 - [Enter the Gungeon](https://store.playstation.com/en-us/product/UP3643-CUSA01608_00-0000000000000000)
 - [Erica](https://www.playstation.com/en-us/games/erica-ps4/)
@@ -1022,8 +1023,10 @@
 - [The Witness](https://store.playstation.com/en-us/product/UP2124-CUSA00498_00-THEWITNESSPS4PS4)
 - [Thumper](https://store.playstation.com/en-us/product/UP1613-CUSA03559_00-THUMPERPS4FULL00)
 - [Tilt Brush](https://www.playstation.com/en-us/games/tilt-brush-ps4/)
+- [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](https://store.playstation.com/en-us/product/UP1001-CUSA30035_00-000PAWPAWSIEAPS4)
 - [Titanfall 2](https://www.playstation.com/en-us/games/titanfall-2-ps4/)
 - [Tom Clancy’s The Division® 2](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/)
+- [UFC® 4](https://www.playstation.com/en-us/games/ea-sports-ufc-4/)
 - [Uncharted 4: A Thief's End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end-ps4/)
 - [Uncharted: The Nathan Drake Collection](https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection-ps4/)
 - [Unravel](https://www.playstation.com/en-us/games/unravel/)
@@ -1095,6 +1098,7 @@
 - [Operation: Tango](https://www.playstation.com/en-us/games/operation-tango/)
 - [Overcooked! All You Can Eat](https://store.playstation.com/en-gb/product/EP4064-CUSA23463_00-OVERCOOKEDAYCE00/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5/)
+- [Planet Coaster: Console Edition](https://www.playstation.com/en-us/games/planet-coaster-console-edition/)
 - [Ratchet & Clank: Rift Apart](https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/)
 - [Ratchet & Clank™](https://www.playstation.com/en-us/games/ratchet-and-clank/)
 - [RESIDENT EVIL 7 biohazard](https://www.playstation.com/en-us/games/resident-evil-7-biohazard/)

@@ -3355,6 +3355,10 @@
           "website": "https://www.playstation.com/en-us/games/doom-vfr-ps4/"
         },
         {
+          "name": "Dragon's Crown Pro",
+          "website": "https://store.playstation.com/en-us/product/UP2611-CUSA10454_00-DRAGONSCROWNPRO1"
+        },
+        {
           "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition",
           "website": "https://www.playstation.com/en-us/games/dynasty-warriors-8-xtreme-legends-complete-edition-ps4/"
         },
@@ -3735,12 +3739,20 @@
           "website": "https://www.playstation.com/en-us/games/tilt-brush-ps4/"
         },
         {
+          "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
+          "website": "https://store.playstation.com/en-us/product/UP1001-CUSA30035_00-000PAWPAWSIEAPS4"
+        },
+        {
           "name": "Titanfall 2",
           "website": "https://www.playstation.com/en-us/games/titanfall-2-ps4/"
         },
         {
           "name": "Tom Clancy’s The Division® 2",
           "website": "https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/"
+        },
+        {
+          "name": "UFC® 4",
+          "website": "https://www.playstation.com/en-us/games/ea-sports-ufc-4/"
         },
         {
           "name": "Uncharted 4: A Thief's End",
@@ -4024,6 +4036,10 @@
         {
           "name": "Persona 5",
           "website": "https://www.playstation.com/en-us/games/persona-5/"
+        },
+        {
+          "name": "Planet Coaster: Console Edition",
+          "website": "https://www.playstation.com/en-us/games/planet-coaster-console-edition/"
         },
         {
           "name": "Ratchet & Clank: Rift Apart",
