@@ -3105,8 +3105,16 @@
       ],
       "gameList": [
         {
+          "name": "Beat Saber",
+          "website": "https://www.oculus.com/experiences/quest/2448060205267927"
+        },
+        {
           "name": "Horizon Workrooms",
           "website": "https://www.oculus.com/experiences/quest/2514011888645651"
+        },
+        {
+          "name": "Kizuna AI - Touch the Beat!",
+          "website": "https://www.oculus.com/experiences/quest/3857024597703276"
         },
         {
           "name": "The Room VR: A Dark Matter",

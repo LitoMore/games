@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Switch-212-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#oculus">
-    <img src="https://img.shields.io/badge/Oculus-3-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oculus-5-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-9-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1348-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1350-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -864,7 +864,9 @@
 
 ## Oculus
 
+- [Beat Saber](https://www.oculus.com/experiences/quest/2448060205267927)
 - [Horizon Workrooms](https://www.oculus.com/experiences/quest/2514011888645651)
+- [Kizuna AI - Touch the Beat!](https://www.oculus.com/experiences/quest/3857024597703276)
 - [The Room VR: A Dark Matter](https://www.oculus.com/experiences/quest/2124523024270629)
 - [VRChat](https://www.oculus.com/experiences/quest/1856672347794301)
 
