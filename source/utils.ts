@@ -1,3 +1,27 @@
+import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
+import { Game, Platform } from "./types.ts";
+
+const normalizeName = (name: string) =>
+  name.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+export const nameCompare = (options?: { withFix?: boolean }) =>
+  (a: Platform | Game, b: Platform | Game) => {
+    const aName = normalizeName(a.name).toLowerCase();
+    const bName = normalizeName(b.name).toLowerCase();
+    const compareResult = aName.localeCompare(bName);
+
+    if (options?.withFix) {
+      return compareResult;
+    } else if (compareResult < 0) {
+      console.error(logSymbols.error, "Check order failed.");
+      console.error("Expect before:", b.name);
+      console.error("Expect after:", a.name);
+      Deno.exit(1);
+    }
+
+    return 0;
+  };
+
 const unifyAppStoreWebsite = (website: string): string => {
   const websitePattern =
     /^https?:\/\/apps\.apple\.com\/(?<languageCode>[a-z]{2})\/app\/(?<name>.+)\/(?<id>id\d+)$/;

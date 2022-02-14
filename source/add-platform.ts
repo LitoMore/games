@@ -1,6 +1,7 @@
 import { bold, cyan } from "https://deno.land/std/fmt/colors.ts";
 import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
 import { GamesJson } from "./types.ts";
+import { nameCompare } from "./utils.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson) as GamesJson;
@@ -33,13 +34,7 @@ const platform = {
 
 games.platforms.push(platform);
 
-games.platforms.sort((a, b) => {
-  const aName = a.name.toLowerCase();
-  const bName = b.name.toLowerCase();
-  if (aName < bName) return -1;
-  if (aName > bName) return 1;
-  return 0;
-});
+games.platforms.sort(nameCompare());
 
 const jsonFile = JSON.stringify(games, null, 2);
 await Deno.writeTextFile("./games.json", jsonFile + "\n");

@@ -1,5 +1,6 @@
 import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
 import { GamesJson } from "./types.ts";
+import { nameCompare } from "./utils.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson) as GamesJson;
@@ -54,13 +55,9 @@ const gamesSection = games.platforms.map((platform) =>
   platform.gameList.length > 0
     ? `
 ## ${platform.name}\n\n${
-      platform.gameList.sort((a, b) => {
-        const aName = a.name.toLowerCase();
-        const bName = b.name.toLowerCase();
-        if (aName < bName) return -1;
-        if (aName > bName) return 1;
-        return 0;
-      }).map((game) => `- [${game.name}](${game.website})\n`).join(
+      platform.gameList.sort(nameCompare()).map((game) =>
+        `- [${game.name}](${game.website})\n`
+      ).join(
         "",
       )
     }`

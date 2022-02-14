@@ -1262,12 +1262,12 @@
           "website": "https://www.epicgames.com/store/en-US/p/carcassonne"
         },
         {
-          "name": "Cave Story+",
-          "website": "https://www.epicgames.com/store/en-US/p/cave-story-plus"
-        },
-        {
           "name": "Cave Story®'s Secret Santa",
           "website": "https://www.epicgames.com/store/en-US/p/cave-storys-secret-santa-b6d437"
+        },
+        {
+          "name": "Cave Story+",
+          "website": "https://www.epicgames.com/store/en-US/p/cave-story-plus"
         },
         {
           "name": "Celeste",
@@ -4372,12 +4372,12 @@
           "website": "https://stadia.google.com/store/details/2677ffb357f946e29b4e86a9f18ea55frcp1/sku/0b415b02e06f452f8be948daf77787c1p"
         },
         {
-          "name": "Resident Evil 7 biohazard Gold Edition",
-          "website": "https://stadia.google.com/store/details/8c452d1e69554c36a28b64ee8344037drcp1/sku/29857d666ee24e56a7c52ce2f8f561b4p"
-        },
-        {
           "name": "République",
           "website": "https://stadia.google.com/store/details/65864a95f9e74129845bda0467486413rcp1/sku/2a4af85a84974cdba4d61df620305335"
+        },
+        {
+          "name": "Resident Evil 7 biohazard Gold Edition",
+          "website": "https://stadia.google.com/store/details/8c452d1e69554c36a28b64ee8344037drcp1/sku/29857d666ee24e56a7c52ce2f8f561b4p"
         },
         {
           "name": "Saints Row: Re-Elected",

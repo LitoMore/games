@@ -1,6 +1,6 @@
 import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
 import { Game, Platform } from "./types.ts";
-import { websiteChecks } from "./utils.ts";
+import { nameCompare, websiteChecks } from "./utils.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson);
@@ -34,22 +34,7 @@ const checkWebsite = () => {
 
 const checkOrder = () => {
   games.platforms.forEach((platform: Platform) => {
-    platform.gameList.sort((a: Game, b: Game) => {
-      const aName = a.name.toLowerCase();
-      const bName = b.name.toLowerCase();
-
-      if (withFix) {
-        if (aName < bName) return -1;
-        if (aName > bName) return 1;
-      } else if (aName <= bName) {
-        console.error(logSymbols.error, "Check order failed.");
-        console.error("Expect after:", aName);
-        console.error("Expect before:", bName);
-        Deno.exit(1);
-      }
-
-      return 0;
-    });
+    platform.gameList.sort(nameCompare({ withFix }));
   });
 };
 
