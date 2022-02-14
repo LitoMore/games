@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Stadia-84-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-227-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-228-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1350-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1351-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1341,6 +1341,7 @@
 - [Oik Reloaded](https://steamcommunity.com/app/1044220)
 - [OneShot](https://steamcommunity.com/app/420530)
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
+- [Papers, Please](https://steamcommunity.com/app/239030)
 - [Pixel Art Coloring Book - Full Version](https://steamcommunity.com/app/1576340)
 - [PLAYERUNKNOWN'S BATTLEGROUNDS](https://steamcommunity.com/app/578080)
 - [Portal](https://steamcommunity.com/app/400)
