@@ -34,7 +34,7 @@ const checkWebsite = () => {
 
 const checkOrder = () => {
   games.platforms.forEach((platform: Platform) => {
-    platform.gameList.sort(nameCompare({ withFix }));
+    platform.gameList.sort(nameCompare({ showErrors: !withFix }));
   });
 };
 

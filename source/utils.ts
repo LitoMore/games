@@ -4,13 +4,13 @@ import { Game, Platform } from "./types.ts";
 const normalizeName = (name: string) =>
   name.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
-export const nameCompare = (options?: { withFix?: boolean }) =>
+export const nameCompare = (options?: { showErrors?: boolean }) =>
   (a: Platform | Game, b: Platform | Game) => {
     const aName = normalizeName(a.name).toLowerCase();
     const bName = normalizeName(b.name).toLowerCase();
     const compareResult = aName.localeCompare(bName);
 
-    if (options?.withFix) {
+    if (!options?.showErrors) {
       return compareResult;
     } else if (compareResult < 0) {
       console.error(logSymbols.error, "Check order failed.");
