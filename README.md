@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-187-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-188-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1352-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1353-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -402,6 +402,7 @@
 - [Borderlands 2](https://www.epicgames.com/store/en-US/p/borderlands-2)
 - [Borderlands: The Pre-Sequel](https://www.epicgames.com/store/en-US/p/borderlands-the-pre-sequel)
 - [Bridge Constructor: The Walking Dead](https://www.epicgames.com/store/en-US/p/bridge-constructor-the-walking-dead)
+- [Brothers - A Tale of Two Sons](https://www.epicgames.com/store/en-US/p/brothers-a-tale-of-two-sons)
 - [Carcassonne](https://www.epicgames.com/store/en-US/p/carcassonne)
 - [Cave Story®'s Secret Santa](https://www.epicgames.com/store/en-US/p/cave-storys-secret-santa-b6d437)
 - [Cave Story+](https://www.epicgames.com/store/en-US/p/cave-story-plus)
