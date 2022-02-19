@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Stadia-84-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-234-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-235-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1359-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1360-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1275,6 +1275,7 @@
 - [F-16 Multirole Fighter](https://steamcommunity.com/app/32720)
 - [F-22 Lightning 3](https://steamcommunity.com/app/32730)
 - [Fate Seeker](https://steamcommunity.com/app/882790)
+- [Fate Seeker II](https://steamcommunity.com/app/1559390)
 - [FEZ](https://steamcommunity.com/app/224760)
 - [Forward to the Sky](https://steamcommunity.com/app/333250)
 - [Grand Theft Auto III](https://steamcommunity.com/app/12100)
