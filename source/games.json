@@ -4555,6 +4555,10 @@
           "website": "https://steamcommunity.com/app/346010"
         },
         {
+          "name": "Blackout Z: Slaughterhouse Edition",
+          "website": "https://steamcommunity.com/app/729660"
+        },
+        {
           "name": "Bloody Spell",
           "website": "https://steamcommunity.com/app/992300/"
         },
@@ -4651,6 +4655,10 @@
           "website": "https://steamcommunity.com/app/32620"
         },
         {
+          "name": "Delta Force — Black Hawk Down: Team Sabre",
+          "website": "https://steamcommunity.com/app/32680"
+        },
+        {
           "name": "Delta Force 2",
           "website": "https://steamcommunity.com/app/32630"
         },
@@ -4701,6 +4709,10 @@
         {
           "name": "Don't Starve Together",
           "website": "https://steamcommunity.com/app/322330"
+        },
+        {
+          "name": "Dota 2",
+          "website": "https://steamcommunity.com/app/570"
         },
         {
           "name": "Environmental Station Alpha",
@@ -4787,6 +4799,22 @@
           "website": "https://steamcommunity.com/app/220"
         },
         {
+          "name": "Half-Life 2: Deathmatch",
+          "website": "https://steamcommunity.com/app/320"
+        },
+        {
+          "name": "Half-Life 2: Episode One",
+          "website": "https://steamcommunity.com/app/380"
+        },
+        {
+          "name": "Half-Life 2: Episode Two",
+          "website": "https://steamcommunity.com/app/420"
+        },
+        {
+          "name": "Half-Life 2: Lost Coast",
+          "website": "https://steamcommunity.com/app/340"
+        },
+        {
           "name": "Half-Life Deathmatch: Source",
           "website": "https://steamcommunity.com/app/360"
         },
@@ -4867,12 +4895,8 @@
           "website": "https://steamcommunity.com/app/32770"
         },
         {
-          "name": "Just Cause 4",
+          "name": "Just Cause 4 Reloaded",
           "website": "https://steamcommunity.com/app/517630"
-        },
-        {
-          "name": "Just Cause™ 4: Digital Deluxe Content",
-          "website": "https://steamcommunity.com/app/868422"
         },
         {
           "name": "Lara Croft and the Guardian of Light",
@@ -5019,12 +5043,8 @@
           "website": "https://steamcommunity.com/app/239030"
         },
         {
-          "name": "Pixel Art Coloring Book - Full Version",
+          "name": "Pixel Art Coloring Book",
           "website": "https://steamcommunity.com/app/1576340"
-        },
-        {
-          "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
-          "website": "https://steamcommunity.com/app/578080"
         },
         {
           "name": "Portal",
@@ -5045,6 +5065,10 @@
         {
           "name": "Prince of Qin",
           "website": "https://steamcommunity.com/app/970500"
+        },
+        {
+          "name": "PUBG: BATTLEGROUNDS",
+          "website": "https://steamcommunity.com/app/578080"
         },
         {
           "name": "qop",
@@ -5191,6 +5215,10 @@
           "website": "https://steamcommunity.com/app/306130"
         },
         {
+          "name": "The Lab",
+          "website": "https://steamcommunity.com/app/450390"
+        },
+        {
           "name": "The Swapper",
           "website": "https://store.steampowered.com/app/231160"
         },
@@ -5225,10 +5253,6 @@
         {
           "name": "Thief",
           "website": "https://steamcommunity.com/app/239160"
-        },
-        {
-          "name": "Thief - Opportunist",
-          "website": "https://steamcommunity.com/app/265191"
         },
         {
           "name": "To Hell with Hell",

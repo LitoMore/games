@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Stadia-84-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-228-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-234-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-2-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1353-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1359-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1228,6 +1228,7 @@
 - [Batman™: Arkham Knight](https://steamcommunity.com/app/208650)
 - [Batman™: Arkham Origins](https://steamcommunity.com/app/209000)
 - [Besiege](https://steamcommunity.com/app/346010)
+- [Blackout Z: Slaughterhouse Edition](https://steamcommunity.com/app/729660)
 - [Bloody Spell](https://steamcommunity.com/app/992300/)
 - [Bloons TD 6](https://steamcommunity.com/app/960090)
 - [Borderlands 2](https://steamcommunity.com/app/49520)
@@ -1252,6 +1253,7 @@
 - [Day of Defeat: Source](https://steamcommunity.com/app/300)
 - [Deathmatch Classic](https://steamcommunity.com/app/40)
 - [Delta Force](https://steamcommunity.com/app/32620)
+- [Delta Force — Black Hawk Down: Team Sabre](https://steamcommunity.com/app/32680)
 - [Delta Force 2](https://steamcommunity.com/app/32630)
 - [Delta Force Land Warrior](https://steamcommunity.com/app/32640)
 - [Delta Force: Black Hawk Down](https://steamcommunity.com/app/32670)
@@ -1265,6 +1267,7 @@
 - [Doki Doki Literature Club](https://steamcommunity.com/app/698780)
 - [Don't Starve](https://steamcommunity.com/app/219740)
 - [Don't Starve Together](https://steamcommunity.com/app/322330)
+- [Dota 2](https://steamcommunity.com/app/570)
 - [Environmental Station Alpha](https://store.steampowered.com/app/350070)
 - [Evoland](https://steamcommunity.com/app/233470)
 - [Evoland 2](https://steamcommunity.com/app/359310)
@@ -1286,6 +1289,10 @@
 - [Guts and Glory](https://steamcommunity.com/app/537340)
 - [Half-Life](https://steamcommunity.com/app/70)
 - [Half-Life 2](https://steamcommunity.com/app/220)
+- [Half-Life 2: Deathmatch](https://steamcommunity.com/app/320)
+- [Half-Life 2: Episode One](https://steamcommunity.com/app/380)
+- [Half-Life 2: Episode Two](https://steamcommunity.com/app/420)
+- [Half-Life 2: Lost Coast](https://steamcommunity.com/app/340)
 - [Half-Life Deathmatch: Source](https://steamcommunity.com/app/360)
 - [Half-Life: Blue Shift](https://steamcommunity.com/app/130)
 - [Half-Life: Opposing Force](https://steamcommunity.com/app/50)
@@ -1306,8 +1313,7 @@
 - [INSIDE](https://steamcommunity.com/app/304430)
 - [Intralism](https://steamcommunity.com/app/513510)
 - [Joint Operations: Combined Arms Gold](https://steamcommunity.com/app/32770)
-- [Just Cause 4](https://steamcommunity.com/app/517630)
-- [Just Cause™ 4: Digital Deluxe Content](https://steamcommunity.com/app/868422)
+- [Just Cause 4 Reloaded](https://steamcommunity.com/app/517630)
 - [Lara Croft and the Guardian of Light](https://steamcommunity.com/app/35130)
 - [Lara Croft and the Temple of Osiris](https://steamcommunity.com/app/289690)
 - [Lara Croft GO](https://steamcommunity.com/app/540840)
@@ -1344,13 +1350,13 @@
 - [OneShot](https://steamcommunity.com/app/420530)
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
 - [Papers, Please](https://steamcommunity.com/app/239030)
-- [Pixel Art Coloring Book - Full Version](https://steamcommunity.com/app/1576340)
-- [PLAYERUNKNOWN'S BATTLEGROUNDS](https://steamcommunity.com/app/578080)
+- [Pixel Art Coloring Book](https://steamcommunity.com/app/1576340)
 - [Portal](https://steamcommunity.com/app/400)
 - [Portal 2](https://steamcommunity.com/app/620)
 - [POSTAL 2](https://steamcommunity.com/app/223470)
 - [POSTAL 2: Paradise Lost](https://steamcommunity.com/app/360960)
 - [Prince of Qin](https://steamcommunity.com/app/970500)
+- [PUBG: BATTLEGROUNDS](https://steamcommunity.com/app/578080)
 - [qop](https://steamcommunity.com/app/654900)
 - [qop 2](https://steamcommunity.com/app/757330)
 - [qop 3](https://steamcommunity.com/app/864300)
@@ -1387,6 +1393,7 @@
 - [Textreme 2](https://steamcommunity.com/app/1516350)
 - [The Big Journey](https://steampowered.com/app/742480)
 - [The Elder Scrolls Online](https://steamcommunity.com/app/306130)
+- [The Lab](https://steamcommunity.com/app/450390)
 - [The Swapper](https://store.steampowered.com/app/231160)
 - [The Witcher 2: Assassins of Kings Enhanced Edition](https://steamcommunity.com/app/20920)
 - [The Witcher 3: Wild Hunt](https://steamcommunity.com/app/292030)
@@ -1396,7 +1403,6 @@
 - [There Is No Game: Jam Edition 2015](https://steamcommunity.com/app/1241700)
 - [There Is No Game: Wrong Dimension](https://steamcommunity.com/app/1240210)
 - [Thief](https://steamcommunity.com/app/239160)
-- [Thief - Opportunist](https://steamcommunity.com/app/265191)
 - [To Hell with Hell](https://steamcommunity.com/app/860660)
 - [Tomb Raider](https://steamcommunity.com/app/203160)
 - [Tomb Raider (VI): THe Angel of Darkness](https://steamcommunity.com/app/225020)
