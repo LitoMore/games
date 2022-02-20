@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-52-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-53-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1360-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1361-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1468,6 +1468,7 @@
 ## Xbox Series X
 
 - [Aaero](https://www.microsoft.com/en-us/p/Aaero/BZR51XD70NKD)
+- [Aerial_Knight's Never Yield](https://www.xbox.com/en-us/games/store/aerial-knights-never-yield/9nvl4dz9hkfz)
 - [Aground](https://www.xbox.com/en-us/games/store/Aground/9NDPG3DNQH5J)
 - [Armello](https://www.microsoft.com/en-us/p/armello/bt990qwd1dlf)
 - [Assassin's Creed® Odyssey](https://www.xbox.com/en-US/games/store/assassins-creed-odyssey/BW9TWC8L4JCS/0001)
