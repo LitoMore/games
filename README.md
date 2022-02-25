@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-119-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-128-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-130-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-22-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1362-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1364-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -225,6 +225,7 @@
 - [Bean's Quest](https://apps.apple.com/tt/app/id449069244)
 - [Beat Stomper](https://apps.apple.com/us/app/id1041808803)
 - [Blek](https://apps.apple.com/us/app/id742625884)
+- [BOKU BOKU](https://apps.apple.com/us/app/id1168127772)
 - [Candy Crush Jelly Saga](https://apps.apple.com/us/app/id1047246341)
 - [Candy Crush Saga](https://apps.apple.com/us/app/id553834731)
 - [Candy Crush Soda Saga](https://apps.apple.com/us/app/id850417475)
@@ -337,6 +338,7 @@
 - [There Is No Game: Jam Edition](https://apps.apple.com/us/app/id1539030915)
 - [Time Surfer](https://apps.apple.com/us/app/id549361775)
 - [Travel Frog](https://apps.apple.com/us/app/id1255032913)
+- [UNCLE GO](https://apps.apple.com/hk/app/id1084653345)
 - [VOEZ](https://apps.apple.com/us/app/id1007929736)
 - [Whack Your Boss Cartoon Land](https://apps.apple.com/us/app/id1198806318)
 - [Whack Your Computer](https://apps.apple.com/us/app/id1184075782)
