@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-188-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-189-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1366-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1367-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -415,6 +415,7 @@
 - [Costume Quest 2](https://www.epicgames.com/store/en-US/p/costume-quest-2)
 - [Crashlands](https://www.epicgames.com/store/en-US/p/crashlands)
 - [Creature in the Well](https://www.epicgames.com/store/en-US/p/creature-in-the-well)
+- [Cris Tales](https://www.epicgames.com/store/en-US/p/cris-tales)
 - [Crying Suns](https://www.epicgames.com/store/en-US/p/crying-suns)
 - [DAEMON X MACHINA](https://www.epicgames.com/store/en-US/p/daemon-x-machina)
 - [Dandara: Trials of Fear Edition](https://www.epicgames.com/store/en-US/p/dandara)
