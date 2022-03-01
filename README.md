@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-72-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-84-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-89-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-236-ddd?logo=steam&labelColor=171a21"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1367-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1372-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1130,6 +1130,7 @@
 
 ## Stadia
 
+- [Adam Wolfe](https://stadia.google.com/store/details/5c7fb29c666241a48c90d7cc42a65b39rcp1/sku/1d6d5c15623b4196be5b521ed57bdf76p)
 - [ARK: Survival Evolved](https://stadia.google.com/store/details/805de0d15b8b4beea63e282aa6f7e8fercp1/sku/83ebd12c0b184c7a8b870c73bc14a7d4p)
 - [Ary and the Secret of Seasons](https://stadia.google.com/store/details/016636d5f49f4862be3ff8cbcf6c7adercp1/sku/be70e67b1fd64dc2bb4f002e65239731p)
 - [AVICII Invector](https://stadia.google.com/store/details/2c8b9ab112e5460db922dc7353381256rcp1/sku/afb2b66ddd744605a3d01acbeaf3ba01p)
@@ -1141,8 +1142,11 @@
 - [Cosmic Star Heroine](https://stadia.google.com/store/details/88396e4e44c94d43b4259e6bedbd582crcp1/sku/8eec020af3914643b3ce2ff4332b9a4cp)
 - [Crayta: Premium Edition](https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/e50890bb854e4666ad06742e1e1789aap)
 - [Cthulhu Saves Christmas](https://stadia.google.com/store/details/769a088b9ef04c04b341911a1ef8b8ecrcp1/sku/5748ef643485495ba71d15041c44f0d4p)
+- [Darksiders Genesis](https://stadia.google.com/store/details/f39390395ed5444d8e9b23460c8f9152rcp1/sku/6c8ae46efebc4bd1a7de725bc630ce65)
 - [Darksiders II Deathinitive Edition](https://stadia.google.com/store/details/694bb88862a84a4d86ef09c447094763rcp1/sku/a47447ea040c4e1d9f27741674d3d4d8p)
 - [Darksiders III](https://stadia.google.com/store/details/d05ef34140f34f5e91f7c2ea9e58b135rcp1/sku/06fd5affa44b4a1fad02cac1937c5492p)
+- [Darkwood](https://stadia.google.com/store/details/848cb37ae8f64d4cbeddc5f2e290806ercp1/sku/4814de45415b434686ce123c77a4ae39p)
+- [Dawn of the Monsters](https://stadia.google.com/store/details/b53ea3b447064495aae1ed257085111drcp1/sku/6b3f1cf65045443a93b2e84d8a3660f6p)
 - [Destroy All Humans!](https://stadia.google.com/store/details/0fd3103549b54c7e89afd6eed83672cercp1/sku/fae281d43a044453a5ad2e1a1961625a)
 - [DIRT 5](https://stadia.google.com/store/details/ed81a01114044edcacfa52656b259d41rcp1/sku/f0c21370f7e2488f8898ae59220c2e24p)
 - [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/store/details/e15d4480e6e44c64b8fe79b3bfc57c9ercp1/sku/da957550fe2c4ff5a71039739f68a450p)
@@ -1188,6 +1192,7 @@
 - [PIKUNIKU](https://stadia.google.com/store/details/c02a86f966b044569ee03f80fbc86035rcp1/sku/f1bbad79434f496bae9865248c6c136ap)
 - [PixelJunk Raiders](https://stadia.google.com/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p)
 - [PlayerUnknown's Battlegrounds – Breakthrough Edition](https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/e0d32e6d5b0442f9bea2f8deb5d03570p)
+- [Race With Ryan Road Trip Deluxe Edition](https://stadia.google.com/store/details/d21537bc9f434127ad0f52d555c74d2crcp1/sku/07ed97f1050045b299fb062562432dc8p)
 - [Reigns](https://stadia.google.com/store/details/2677ffb357f946e29b4e86a9f18ea55frcp1/sku/0b415b02e06f452f8be948daf77787c1p)
 - [République](https://stadia.google.com/store/details/65864a95f9e74129845bda0467486413rcp1/sku/2a4af85a84974cdba4d61df620305335)
 - [Resident Evil 7 biohazard Gold Edition](https://stadia.google.com/store/details/8c452d1e69554c36a28b64ee8344037drcp1/sku/29857d666ee24e56a7c52ce2f8f561b4p)
