@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-119-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-124-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-130-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1373-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1378-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -114,6 +114,7 @@
 - [Bombslinger](https://images-na.ssl-images-amazon.com/images/I/51BNGrQcHrS.jpg)
 - [Boomerang Fu](https://images-na.ssl-images-amazon.com/images/I/41TtBQGClUL.jpg)
 - [Candleman: The Complete Journey](https://images-na.ssl-images-amazon.com/images/I/41oTfRlUA2L.jpg)
+- [Crypto Against All Odds](https://images-na.ssl-images-amazon.com/images/I/41aUXYHLK-L.jpg)
 - [Demon Hunter 2: New Chapter](https://images-na.ssl-images-amazon.com/images/I/41DRdSEQBaL.jpg)
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
 - [Double Kick Heroes](https://images-na.ssl-images-amazon.com/images/I/51kJA4fOGJL.jpg)
@@ -134,6 +135,7 @@
 - [King of the Monsters](https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg)
 - [Liberated](https://images-na.ssl-images-amazon.com/images/I/41zyiCcz1hL.jpg)
 - [Little Big Workshop](https://images-na.ssl-images-amazon.com/images/I/41-1IghdbML.jpg)
+- [looK INside](https://images-na.ssl-images-amazon.com/images/I/418lWp3WsWL.jpg)
 - [Lost Horizon 2](https://images-na.ssl-images-amazon.com/images/I/41ivssRyTpS.jpg)
 - [Lost in Harmony](https://images-na.ssl-images-amazon.com/images/I/51qCd1cXydL.jpg)
 - [Mana Spark](https://images-na.ssl-images-amazon.com/images/I/413nUCcC7GS.jpg)
@@ -148,6 +150,7 @@
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
 - [Paper Beast - Folded Edition](https://images-na.ssl-images-amazon.com/images/I/41tL36ULpEL.jpg)
+- [Pesterquest](https://images-na.ssl-images-amazon.com/images/I/51hnvuspZzL.jpg)
 - [Plant Alpha](https://images-na.ssl-images-amazon.com/images/I/41NItUoNtCS.jpg)
 - [Portal Dogs](https://images-na.ssl-images-amazon.com/images/I/61AAnHadacL.jpg)
 - [Pulstar](https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg)
@@ -174,6 +177,7 @@
 - [Spinch](https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg)
 - [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
 - [Stealth Bastard Deluxe](https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg)
+- [SteamWorld Quest: Hand of Gilgamech](https://images-na.ssl-images-amazon.com/images/I/512UzdrrfJL.jpg)
 - [Strata](https://images-na.ssl-images-amazon.com/images/I/41Y5n+c728L.jpg)
 - [Stubbs the Zombie in Rebel Without ap Pulse](https://images-na.ssl-images-amazon.com/images/I/41XpKqAuNnL.jpg)
 - [Swimsanity! - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51m6tg4jpcL.jpg)
@@ -196,6 +200,7 @@
 - [The King of Fighters 97 Global Match](https://images-na.ssl-images-amazon.com/images/I/41WC6yyAMmL.jpg)
 - [The Last Blade 2](https://images-na.ssl-images-amazon.com/images/I/51mIp68C2yL.jpg)
 - [The Secret of Monkey Island: Special Edition](https://images-na.ssl-images-amazon.com/images/I/61kOEDVeufL.jpg)
+- [The Stillness of the Wind](https://images-na.ssl-images-amazon.com/images/I/41PvAU18+ML.jpg)
 - [The Wanderer: Frankenstein's Creature](https://images-na.ssl-images-amazon.com/images/I/61BQKl6r4sL.jpg)
 - [Tiny Robots Recharged](https://images-na.ssl-images-amazon.com/images/I/513hyTSh9mL.jpg)
 - [Tools Up!](https://images-na.ssl-images-amazon.com/images/I/41C2-HXJKVL.jpg)
