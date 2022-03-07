@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=0067c0"/>
   </a>
   <a href="#netflix-games">
-    <img src="https://img.shields.io/badge/Netflix_Games-1-ddd?logo=netflix&labelColor=e50914"/>
+    <img src="https://img.shields.io/badge/Netflix_Games-2-ddd?logo=netflix&labelColor=e50914"/>
   </a>
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-5-ddd?logo=nintendo-3ds&labelColor=d22128"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1383-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1384-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -643,6 +643,7 @@
 ## Netflix Games
 
 - [Hextech Mayhem Netflix Edition](https://apps.apple.com/us/app/id1589160731)
+- [Krispee Street](https://apps.apple.com/us/app/id1597202855)
 
 ## Nintendo 3DS™
 
