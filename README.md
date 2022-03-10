@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Origin-10-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-163-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-165-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-73-ddd?logo=playstation&labelColor=white&logoColor=black"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1385-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1387-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -921,6 +921,7 @@
 - [Bloodstained: Ritual of the Night](https://store.playstation.com/en-hk/product/UP4040-CUSA07953_00-ASIA000000000002)
 - [Borderlands 3](https://www.playstation.com/en-us/games/borderlands-3-ps4/)
 - [Bravo Team](https://www.playstation.com/en-us/games/bravo-team-ps4/)
+- [Brothers: A Take of Two Sons](https://www.playstation.com/en-us/games/brothers-a-tale-of-two-sons/)
 - [Call of Duty®: Black Ops 4](https://www.playstation.com/en-us/games/call-of-duty-black-ops-iii-ps4/)
 - [Call of Duty®: Modern Warfare®](https://www.playstation.com/en-us/games/call-of-duty-modern-warfare-ps4/)
 - [Call of Duty®: Modern Warfare® 2 Campaign Remastered](https://www.playstation.com/en-us/games/call-of-duty-modern-warfare-2-campaign-remastered-ps4/)
@@ -1026,6 +1027,7 @@
 - [Stranded Deep](https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA)
 - [STREET FIGHTER® V](https://www.playstation.com/en-us/games/street-fighter-v-ps4/)
 - [Subnautica](https://store.playstation.com/en-us/product/UP5245-CUSA13529_00-SUBNAUTICA000000)
+- [Team Sonic Racing](https://www.playstation.com/en-us/games/team-sonic-racing/)
 - [Tennis World Tour 2](https://www.playstation.com/en-us/games/tennis-world-tour-2/)
 - [The Elder Scrolls V: Skyrim VR](https://www.playstation.com/en-us/games/the-elder-scrolls-v-skyrim-vr-ps4/)
 - [The Last of Us Part II](https://www.thelastofus.playstation.com/)
