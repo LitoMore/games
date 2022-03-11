@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-165-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-73-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-74-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-89-ddd?logo=stadia&labelColor=cd2640"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1387-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1388-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1102,6 +1102,7 @@
 - [Ghostrunner](https://www.playstation.com/en-us/games/ghostrunner/)
 - [God of War](https://store.playstation.com/en-us/product/UP9000-CUSA07408_00-00000000GODOFWAR)
 - [Godfall Challenger Edition](https://www.playstation.com/en-hk/games/godfall/)
+- [Gran Turismo® 7](https://www.playstation.com/en-us/games/gran-turismo-7/)
 - [Hades](https://www.playstation.com/en-us/games/hades/)
 - [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)
 - [Hunter's Arena: Legends](https://www.playstation.com/en-us/games/hunters-arena-legends/)
