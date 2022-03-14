@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-165-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-74-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-75-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-89-ddd?logo=stadia&labelColor=cd2640"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1388-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1389-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1070,6 +1070,7 @@
 ## PlayStation®5
 
 - [A Plague Tale: Innocence](https://www.playstation.com/en-us/games/a-plague-tale-innocence/)
+- [ANNO: Mutationem](https://www.playstation.com/en-us/games/anno-mutationem/)
 - [Assassin's Creed® Valhalla](https://www.playstation.com/en-us/games/assassins-creed-valhalla/)
 - [ASTRO's PLAYROOM](https://www.playstation.com/en-us/games/astros-playroom/)
 - [Atelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition](https://store.playstation.com/en-us/product/UP4108-PPSA02093_00-ATELIERYZA2UE000)
