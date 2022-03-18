@@ -1194,7 +1194,8 @@
       "anchor": "#epic-games",
       "badge": "https://img.shields.io/badge/Epic_Games-{{count}}-ddd?logo=epic-games&labelColor=313131",
       "hostnames": [
-        "www.epicgames.com"
+        "www.epicgames.com",
+        "store.epicgames.com"
       ],
       "gameList": [
         {
@@ -1504,6 +1505,10 @@
         {
           "name": "Idle Champions of the Forgotten Realms",
           "website": "https://www.epicgames.com/store/en-US/p/idle-champions-of-the-forgotten-realms"
+        },
+        {
+          "name": "In Sound Mind",
+          "website": "https://store.epicgames.com/en-US/p/in-sound-mind"
         },
         {
           "name": "InnerSpace",
