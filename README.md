@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/Origin-10-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-165-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-166-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-75-ddd?logo=playstation&labelColor=white&logoColor=black"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1390-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1391-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -909,6 +909,7 @@
 - [Action Henk](https://www.playstation.com/en-us/games/action-henk-ps4/)
 - [Aegis Defenders](https://www.playstation.com/en-us/games/aegis-defenders-ps4/)
 - [AeternoBlade II](https://www.playstation.com/en-us/games/aeternoblade-ii-ps4/)
+- [ARK: Survival Evolved](https://www.playstation.com/en-hk/games/ark-survival-evolved/)
 - [Assassin’s Creed® Origins](https://www.playstation.com/en-us/games/assassins-creed-origins-ps4/)
 - [ASTRO BOT Rescue Mission](https://www.playstation.com/en-us/games/astro-bot-rescue-mission/)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight-ps4/)
