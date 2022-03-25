@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-192-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-193-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1391-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1392-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -433,6 +433,7 @@
 - [Dead by Daylight](https://www.epicgames.com/store/en-US/p/dead-by-daylight)
 - [Death Coming](https://www.epicgames.com/store/en-US/p/death-coming)
 - [Defense Grid: The Awakening](https://www.epicgames.com/store/en-US/p/defense-grid)
+- [DEMON'S TILT](https://store.epicgames.com/en-US/p/demons-tilt)
 - [Deponia: The Complete Journey](https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey)
 - [Drawful 2](https://www.epicgames.com/store/en-US/p/drawful-2)
 - [Dungeons 3](https://www.epicgames.com/store/en-US/p/dungeons-3)
