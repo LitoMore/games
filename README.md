@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-53-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-56-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1392-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1395-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1538,9 +1538,12 @@
 - [Saints Row: Gat out of Hell](https://www.microsoft.com/en-us/p/saints-row-gat-out-of-hell/bqd7ntqp0cd9)
 - [Shadows: Awakening](https://www.microsoft.com/en-us/p/shadows-awakening/c1lmjj64fv3j)
 - [Space Invaders: IG](https://www.xbox.com/en-us/games/store/space-invaders-ig/c5fn9wf5z4lh)
+- [SpongeBob: Truth-Sq.](https://www.xbox.com/en-hk/games/store/spongebob-truth-sq/9nkfjtr38n6z)
 - [STREET FIGHTER IV](https://marketplace.xbox.com/en-US/Product/STREET-FIGHTER-IV/66acd000-77fe-1000-9115-d802434307e1)
+- [Street Power Football](https://www.xbox.com/en-hk/games/store/street-power-football/9n95j9gp26m1)
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
 - [The Escapists 2](https://www.xbox.com/en-us/games/store/the-escapists-2/bs8xgcll3vqz)
+- [The Flame in the Flood](https://www.xbox.com/en-hk/games/store/the-flame-in-the-flood/bxkldp56hfgz)
 - [The King's Bird](https://www.microsoft.com/en-us/p/the-kings-bird/9nz5057nl64c)
 - [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
 - [Tomb Raider: Definitive Edition](https://www.microsoft.com/en-us/p/tomb-raider-definitive-edition/bqxts0sx4w0n)
