@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-75-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-89-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-92-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-236-ddd?logo=steam&labelColor=171a21"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1397-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1400-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1159,7 +1159,9 @@
 - [Bloodstained: Ritual of the Night](https://stadia.google.com/store/details/df3c9859e1d14300941f62a693d140e2rcp1/sku/10f078ceb83f47cb8657d965c28e1ac2p)
 - [Blue Fire](https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p)
 - [Cake Bash](https://stadia.google.com/store/details/19efd5fa36794d7b8bc87de68124e705rcp1/sku/a7f0a6098ae747788a6f75d0d1e1d8f2p)
+- [Chicken Police - Paint it RED!](https://stadia.google.com/store/details/7482e6a205f840d2a31ee967dfdc8f73rcp1/sku/5672f10bacd64938aa51568fe5d0b6a4p)
 - [Chronos: Before the Ashes](https://stadia.google.com/store/details/3f94b62fa50c4202be10472947478f8frcp1/sku/c3fcca2c75614bf6b634bedc2f766003p)
+- [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/store/details/f1b8df21b7854aa3a8f60b34be8513ffrcp1/sku/8156e852e38f41bc864509fc9254b583p)
 - [Control Ultimate Edition](https://stadia.google.com/store/details/2cdcb63bc3604360a157c4a4021eca35rcp1/sku/24eb3c7b5a9d44259c8d997bab233411p)
 - [Cosmic Star Heroine](https://stadia.google.com/store/details/88396e4e44c94d43b4259e6bedbd582crcp1/sku/8eec020af3914643b3ce2ff4332b9a4cp)
 - [Crayta: Premium Edition](https://stadia.google.com/store/details/05f66a46027747a08b930ea70374ac7frcp1/sku/e50890bb854e4666ad06742e1e1789aap)
@@ -1240,6 +1242,7 @@
 - [Wave Break](https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2)
 - [Wavetale](https://stadia.google.com/store/details/68297438f4ca40828f91b31db3ce746ercp1/sku/32da1095f7c642aeb90ed11e4e7fbae9p)
 - [Wreckfest](https://stadia.google.com/store/details/586beac11cb345289d46125b859396farcp1/sku/ce650e8fa4d84cdbbb6433953fde398cp)
+- [Ys IX: Monstrum Nox](https://stadia.google.com/store/details/b2c9b37fb3eb4089ad91f30b4e30ce92rcp1/sku/a5b7783b7e1b4c1684870124bd338eb1p)
 - [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/store/details/7ced0b517b144dd98529ceffab963791rcp1/sku/b51c2723938547a99ebfb2e3b2ae320dp)
 
 ## Steam
