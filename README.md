@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Oculus-8-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
   </a>
   <a href="#origin">
-    <img src="https://img.shields.io/badge/Origin-10-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Origin-11-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
     <img src="https://img.shields.io/badge/PlayStation_4-166-ddd?logo=playstation&labelColor=003791"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1401-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1402-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -900,6 +900,7 @@
 - [Knockout City™](https://www.origin.com/usa/en-us/store/knockout-city/knockout-city)
 - [Madden NFL 22](https://www.origin.com/hkg/en-us/store/madden/madden-22)
 - [Need for Speed™ Hot Pursuit Remastered](https://www.origin.com/hkg/en-us/store/need-for-speed/need-for-speed-hot-pursuit-remastered)
+- [Plants vs. Zombies: Battle for Neighborville™](https://www.origin.com/hkg/en-us/store/plants-vs-zombies/pvz-battle-for-neighborville)
 - [SimCity™](https://www.origin.com/usa/en-us/store/simcity/simcity)
 - [STAR WARS Jedi: Fallen Order™](https://www.origin.com/usa/en-us/store/star-wars/star-wars-jedi-fallen-order)
 - [STAR WARS™: Squadrons](https://www.origin.com/usa/en-us/store/star-wars/star-wars-squadrons)
