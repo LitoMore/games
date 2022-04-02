@@ -2320,6 +2320,261 @@
       ]
     },
     {
+      "name": "Nintendo Entertainment System™",
+      "anchor": "#nintendo-entertainment-system",
+      "duplication": true,
+      "badge": "https://img.shields.io/badge/NES-{{count}}-ddd?logo=nintendo&labelColor=e60113&logoColor=white",
+      "hostnames": [
+        "www.nintendo.com"
+      ],
+      "gameList": [
+        {
+          "name": "ADVENTURES OF LOLO",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Balloon Fight™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Baseball",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Blaster Master",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "City Connection",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Clu Clu Land™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Crystalis",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "DIG DUG Ⅱ™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Donkey Kong",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Donkey Kong 3",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Donkey Kong Jr.™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Double Dragon",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Double Dragon II: The Revenge",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Dr. Mario™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "EarthBound™ Beginnings",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Eliminator Boat Duel",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Excitebike™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Fire ’n Ice",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Ghosts'n Goblins™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Gradius",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Ice Climber™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Ice Hockey",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "JOURNEY TO SILIUS",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Kid Icarus",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Kirby's Adventure",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Kung-Fu Heroes",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "MAPPY-LAND",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Mario Bros.™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Metroid",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Mighty Bomb Jack",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "NES™ Open Tournament Golf",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Nightshade",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Ninja Gaiden",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Ninja JaJaMaru-kun",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Pro Wrestling",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Punch-Out!!™ Featuring Mr. Dream",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "River City Ransom",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Rygar",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "S.C.A.T.: Special Cybernetic Attack Team",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Shadow of the Ninja",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Soccer",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Solomon's Key",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Star Soldier",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "StarTropics™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Dodge Ball",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Mario Bros 2",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Mario Bros.",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Mario Bros. 3",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Mario Bros.: The Lost Levels",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Tecmo Bowl",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Tennis",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "The Immortal",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "The Legend of Zelda",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "TwinBee",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Vice: Project Doom",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Volleyball",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "VS. Excitebike™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Wario's Woods™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Wrecking Crew",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Yoshi™",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Zelda II: The Adventure of Link",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/"
+        }
+      ]
+    },
+    {
       "name": "Nintendo Switch™",
       "anchor": "#nintendo-switch",
       "badge": "https://img.shields.io/badge/Nintendo_Switch-{{count}}-ddd?logo=nintendo-switch&labelColor=e60012",

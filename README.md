@@ -40,6 +40,9 @@
   <a href="#nintendo-ds">
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
+  <a href="#nintendo-entertainment-system">
+    <img src="https://img.shields.io/badge/NES-61-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
+  </a>
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-213-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
@@ -84,7 +87,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1407-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1468-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -668,6 +671,70 @@
 - [MapleStory DS](https://nintendo.fandom.com/wiki/MapleStory_DS)
 - [The Legend of Zelda: Phantom Hourglass](https://www.nintendo.com/games/detail/the-legend-of-zelda-phantom-hourglass-wii-u/)
 - [The Legend of Zelda: Spirit Tracks](https://www.nintendo.com/games/detail/the-legend-of-zelda-spirit-tracks-wii-u/)
+
+## Nintendo Entertainment System™
+
+- [ADVENTURES OF LOLO](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Balloon Fight™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Baseball](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Blaster Master](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [City Connection](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Clu Clu Land™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Crystalis](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [DIG DUG Ⅱ™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Donkey Kong](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Donkey Kong 3](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Donkey Kong Jr.™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Double Dragon](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Double Dragon II: The Revenge](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Dr. Mario™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [EarthBound™ Beginnings](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Eliminator Boat Duel](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Excitebike™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Fire ’n Ice](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Ghosts'n Goblins™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Gradius](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Ice Climber™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Ice Hockey](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [JOURNEY TO SILIUS](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Kid Icarus](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Kirby's Adventure](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Kung-Fu Heroes](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [MAPPY-LAND](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Mario Bros.™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Metroid](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Mighty Bomb Jack](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [NES™ Open Tournament Golf](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Nightshade](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Ninja Gaiden](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Ninja JaJaMaru-kun](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Pro Wrestling](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Punch-Out!!™ Featuring Mr. Dream](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [River City Ransom](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Rygar](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [S.C.A.T.: Special Cybernetic Attack Team](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Shadow of the Ninja](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Soccer](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Solomon's Key](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Star Soldier](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [StarTropics™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Super Dodge Ball](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Super Mario Bros 2](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Super Mario Bros.](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Super Mario Bros. 3](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Super Mario Bros.: The Lost Levels](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Tecmo Bowl](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Tennis](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [The Immortal](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [The Legend of Zelda](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [TwinBee](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Vice: Project Doom](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Volleyball](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [VS. Excitebike™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Wario's Woods™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Wrecking Crew](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Yoshi™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Zelda II: The Adventure of Link](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 
 ## Nintendo Switch™
 
