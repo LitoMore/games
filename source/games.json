@@ -5861,6 +5861,225 @@
       ]
     },
     {
+      "name": "Super Nintendo Entertainment System™",
+      "anchor": "#super-nintendo-entertainment-system",
+      "duplication": true,
+      "badge": "https://img.shields.io/badge/SNES-{{count}}-ddd?logo=nintendo&labelColor=e60113&logoColor=white",
+      "hostnames": [
+        "www.nintendo.com"
+      ],
+      "gameList": [
+        {
+          "name": "Bombuzal",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "BRAWL BROTHERS",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Breath Of Fire",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Breath of Fire II",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Caveman Ninja (also known as Joe & Mac)",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Claymates",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Demon's Crest",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Donkey Kong Country",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Donkey Kong Country 2: Diddy’s Kong-Quest",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Donkey Kong Country 3: Dixie Kong’s Double Trouble!",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "DOOMSDAY WARRIOR",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "EarthBound™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Earthworm Jim™ 2",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "F-ZERO™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Jelly Boy",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Joe & Mac 2: Lost in the Tropics",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Kirby Super Star™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Kirby's Dream Course™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Kirby's Dream Land™ 3",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Magical Drop2",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Mario’s Super Picross",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Natsume Championship Wrestling",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Operation Logic Bomb",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Panel de Pon",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Pilotwings™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Pop'n TwinBee",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Prehistorik Man",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Psycho Dream",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Smash Tennis™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Spanky’s™Quest",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Star Fox™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Star Fox™ 2",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Stunt Race FX™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Baseball Simulator 1,000",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "SUPER E.D.F. EARTH DEFENSE FORCE",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Ghouls'n Ghosts™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Mario All-Stars",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Mario Kart™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Mario World™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Mario World™ 2: Yoshi's Island",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Metroid™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Punch-Out!!™",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Puyo Puyo 2",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Soccer",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Tennis",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Valis IV",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "The Ignition Factor",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "The Legend of Zelda™: A Link to the Past",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "The Peace Keepers",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "The Peacekeepers",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Tuff E Nuff",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Wild Guns",
+          "website": "https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/"
+        }
+      ]
+    },
+    {
       "name": "Uplay",
       "anchor": "#uplay",
       "badge": "https://img.shields.io/badge/Uplay-{{count}}-ddd?logo=ubisoft&labelColor=0070ff",
