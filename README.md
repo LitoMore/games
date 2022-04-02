@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-124-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-129-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-130-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -84,7 +84,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1402-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1407-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -125,8 +125,10 @@
 - [Fatal Fury Special](https://images-na.ssl-images-amazon.com/images/I/51n1J7RP2rL.jpg)
 - [Figment](https://images-na.ssl-images-amazon.com/images/I/41Kj+hdi3lL.jpg)
 - [Frog Climbers](https://images-na.ssl-images-amazon.com/images/I/41nZGimGmBS.jpg)
+- [Galaxy of Pen and Paper](https://images-na.ssl-images-amazon.com/images/I/41pQeEecfEL.jpg)
 - [Garou: Mark of the Wolves](https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg)
 - [Golazo! Soccer League](https://images-na.ssl-images-amazon.com/images/I/51DkCVKj2ML.jpg)
+- [Guild of Ascension](https://images-na.ssl-images-amazon.com/images/I/41AXRlYIHUL.jpg)
 - [Healer's Quest](https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg)
 - [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
 - [Indiana Jones and the Fate of Atlantis](https://images-na.ssl-images-amazon.com/images/I/41P0j0+tDwS.jpg)
@@ -142,11 +144,13 @@
 - [Metal Slug 2](https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg)
 - [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
 - [Metamorphosis](https://images-na.ssl-images-amazon.com/images/I/41SuIGzLwsS.jpg)
+- [Monkey Island 2 Special Edition: LeChuck's Revenge](https://images-na.ssl-images-amazon.com/images/I/51BkzvbjdxL.jpg)
 - [Monster Prom: Hotseat Edition](https://images-na.ssl-images-amazon.com/images/I/51nRAK5QHeL.jpg)
 - [Morkredd](https://images-na.ssl-images-amazon.com/images/I/31iQ8urYE2L.jpg)
 - [Move or Die - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51nCq1urIkL.jpg)
 - [Move Out](https://images-na.ssl-images-amazon.com/images/I/41+IRxmoXIL.jpg)
 - [Mugsters](https://images-na.ssl-images-amazon.com/images/I/41HorvHYMGL.jpg)
+- [Nanotale - Typing Chronicles](https://images-na.ssl-images-amazon.com/images/I/41nkwCHZKcL.jpg)
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
 - [Paper Beast - Folded Edition](https://images-na.ssl-images-amazon.com/images/I/41tL36ULpEL.jpg)
@@ -204,6 +208,7 @@
 - [The Wanderer: Frankenstein's Creature](https://images-na.ssl-images-amazon.com/images/I/61BQKl6r4sL.jpg)
 - [Tiny Robots Recharged](https://images-na.ssl-images-amazon.com/images/I/513hyTSh9mL.jpg)
 - [Tools Up!](https://images-na.ssl-images-amazon.com/images/I/41C2-HXJKVL.jpg)
+- [Turnip Boy Commits Tax Evasion](https://images-na.ssl-images-amazon.com/images/I/51lw4F-Jt0L.jpg)
 - [Two Point Hospital](https://images-na.ssl-images-amazon.com/images/I/41C1YeB5S8L.jpg)
 - [Unmemory](https://images-na.ssl-images-amazon.com/images/I/41TS6+2xU-L.jpg)
 - [Wallace & Gromit: Fright of the Bumblebees](https://images-na.ssl-images-amazon.com/images/I/41EXGQJsdYL.jpg)
