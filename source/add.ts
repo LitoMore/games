@@ -38,7 +38,7 @@ website = websiteChecks(foundPlatform.anchor, website);
 if (
   foundPlatform.gameList.find((g) => {
     const allowDuplication = foundPlatform.duplication === true ||
-      foundPlatform.duplication?.website?.includes(website);
+      foundPlatform.duplication?.website?.some?.((x) => x.includes(website));
     const duplicated = g.name === name || g.website === website;
 
     return !allowDuplication && duplicated;
