@@ -4591,6 +4591,105 @@
       ]
     },
     {
+      "name": "SEGA Genesis™",
+      "anchor": "#sega-genesis",
+      "duplication": true,
+      "badge": "https://img.shields.io/badge/SEGA_Genesis-{{count}}-ddd?logo=sega&labelColor=03297b&logoColor=white",
+      "hostnames": [
+        "www.nintendo.com"
+      ],
+      "gameList": [
+        {
+          "name": "Alien Soldier",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Altered Beast",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Castlevania: Bloodlines",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Contra: Hard Corps",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Dr. Robotnik's Mean Bean Machine",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Dynamite Headdy",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Ecco the Dolphin",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Golden Axe ",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Gunstar Heroes",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Light Crusader",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "M.U.S.H.A.",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Phantasy Star 4: The End of the Millennium ",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Ristar",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Shining Force ",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Shinobi 3",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Sonic the Hedgehog 2",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Streets of Rage 2",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Strider",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Fantasy Zone",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Sword of Vermillon",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Thunder Force 2",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "ToeJam & Earl",
+          "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        }
+      ]
+    },
+    {
       "name": "Stadia",
       "anchor": "#stadia",
       "badge": "https://img.shields.io/badge/Stadia-{{count}}-ddd?logo=stadia&labelColor=cd2640",
