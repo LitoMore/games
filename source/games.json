@@ -2293,6 +2293,69 @@
       ]
     },
     {
+      "name": "Nintendo 64™",
+      "anchor": "#nintendo-64",
+      "duplication": true,
+      "badge": "https://img.shields.io/badge/Nintendo_64-{{count}}-ddd?logo=nintendo&labelColor=e80012&logoColor=white",
+      "hostnames": [
+        "www.nintendo.com"
+      ],
+      "gameList": [
+        {
+          "name": "Banjo-Kazooie",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Dr. Mario 64",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "F-Zero X",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Mario Kart 64",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Mario Tennis",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Paper Mario",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Sin & Punishment ",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Star Fox 64",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Super Mario 64",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "The Legend of Zelda: Majora's Mask",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "The Legend of Zelda: Ocarina of Time",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "WIN BACK: COVERT OPERATIONS",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Yoshi’s Story",
+          "website": "https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/"
+        }
+      ]
+    },
+    {
       "name": "Nintendo DS™",
       "anchor": "#nintendo-ds",
       "badge": "https://img.shields.io/badge/Nintendo_DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d22128",

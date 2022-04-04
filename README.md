@@ -37,6 +37,9 @@
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-5-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
+  <a href="#nintendo-64">
+    <img src="https://img.shields.io/badge/Nintendo_64-13-ddd?logo=nintendo&labelColor=e80012&logoColor=white"/>
+  </a>
   <a href="#nintendo-ds">
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
@@ -90,7 +93,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1520-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1533-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -667,6 +670,22 @@
 - [Mario Kart 7](https://www.nintendo.com/games/detail/mario-kart-7-3ds/)
 - [The Legend of Zelda: A Link Between Worlds](https://www.nintendo.com/games/detail/the-legend-of-zelda-a-link-between-worlds-3ds/)
 - [The Legend of Zelda: The Minish Cap](https://www.nintendolife.com/reviews/3ds-eshop/legend_of_zelda_the_minish_cap_gba)
+
+## Nintendo 64™
+
+- [Banjo-Kazooie](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [Dr. Mario 64](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [F-Zero X](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [Mario Kart 64](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [Mario Tennis](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [Paper Mario](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [Sin & Punishment ](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [Star Fox 64](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [Super Mario 64](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [The Legend of Zelda: Majora's Mask](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [The Legend of Zelda: Ocarina of Time](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [WIN BACK: COVERT OPERATIONS](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [Yoshi’s Story](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 
 ## Nintendo DS™
 
