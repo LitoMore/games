@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-92-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-93-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-236-ddd?logo=steam&labelColor=171a21"/>
@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1555-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1556-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1365,6 +1365,7 @@
 - [Valkyria Chronicles 4 Complete Edition](https://stadia.google.com/store/details/b00e2f20b91e43c8a0597b07fc80ca84rcp1/sku/bd0a6e3669c7410c8c3f86779cac1f44p)
 - [Wave Break](https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2)
 - [Wavetale](https://stadia.google.com/store/details/68297438f4ca40828f91b31db3ce746ercp1/sku/32da1095f7c642aeb90ed11e4e7fbae9p)
+- [World War Z: Aftermath](https://stadia.google.com/store/details/f06818137947441f92b742e1a0e3b348rcp1/sku/c4973b47c0464948b68923e041ac6a30p)
 - [Wreckfest](https://stadia.google.com/store/details/586beac11cb345289d46125b859396farcp1/sku/ce650e8fa4d84cdbbb6433953fde398cp)
 - [Ys IX: Monstrum Nox](https://stadia.google.com/store/details/b2c9b37fb3eb4089ad91f30b4e30ce92rcp1/sku/a5b7783b7e1b4c1684870124bd338eb1p)
 - [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/store/details/7ced0b517b144dd98529ceffab963791rcp1/sku/b51c2723938547a99ebfb2e3b2ae320dp)
