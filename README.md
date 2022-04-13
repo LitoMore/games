@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-166-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-75-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-76-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1557-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1558-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1210,6 +1210,7 @@
 - [Godfall Challenger Edition](https://www.playstation.com/en-hk/games/godfall/)
 - [Gran Turismo® 7](https://www.playstation.com/en-us/games/gran-turismo-7/)
 - [Hades](https://www.playstation.com/en-us/games/hades/)
+- [Hood: Outlaws & Legends](https://www.playstation.com/en-hk/games/hood-outlaws-and-legends/)
 - [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)
 - [Hunter's Arena: Legends](https://www.playstation.com/en-us/games/hunters-arena-legends/)
 - [Immortals Fenyx Rising™](https://www.playstation.com/en-us/games/immortals-fenyx-rising/)
