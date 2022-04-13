@@ -4094,12 +4094,20 @@
           "website": "https://store.playstation.com/en-us/product/UP4223-CUSA09511_00-COCONUTGAMESSHIO"
         },
         {
+          "name": "Slay the Spire",
+          "website": "https://www.playstation.com/en-us/games/slay-the-spire/"
+        },
+        {
           "name": "SMITE",
           "website": "https://www.playstation.com/en-us/games/smite/"
         },
         {
           "name": "SONIC FORCES",
           "website": "https://www.playstation.com/en-us/games/sonic-forces-ps4/"
+        },
+        {
+          "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+          "website": "https://www.playstation.com/en-us/games/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/"
         },
         {
           "name": "STAR WARS Jedi: Fallen Order™",
@@ -4438,7 +4446,7 @@
         },
         {
           "name": "Hood: Outlaws & Legends",
-          "website": "https://www.playstation.com/en-hk/games/hood-outlaws-and-legends/"
+          "website": "https://www.playstation.com/en-us/games/hood-outlaws-and-legends/"
         },
         {
           "name": "Horizon Forbidden West",

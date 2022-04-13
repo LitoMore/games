@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/Origin-11-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-166-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-168-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-76-ddd?logo=playstation&labelColor=white&logoColor=black"/>
@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1558-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1560-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1124,8 +1124,10 @@
 - [Shadow of the Colossus](https://www.playstation.com/en-us/games/shadow-of-the-colossus-ps4/)
 - [Shadow of the Tomb Raider Definitive Edition](https://store.playstation.com/en-us/product/UP0082-CUSA10938_00-DEFINITIVE00SIEA)
 - [Shio](https://store.playstation.com/en-us/product/UP4223-CUSA09511_00-COCONUTGAMESSHIO)
+- [Slay the Spire](https://www.playstation.com/en-us/games/slay-the-spire/)
 - [SMITE](https://www.playstation.com/en-us/games/smite/)
 - [SONIC FORCES](https://www.playstation.com/en-us/games/sonic-forces-ps4/)
+- [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](https://www.playstation.com/en-us/games/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/)
 - [STAR WARS Jedi: Fallen Order™](https://www.playstation.com/en-us/games/star-wars-jedi-fallen-order-ps4/)
 - [Star Wars™ Battlefront™ II](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
 - [STAR WARS™: Squadrons](https://store.playstation.com/en-us/product/UP0006-CUSA15080_00-STARWARSQUADRONS)
@@ -1210,7 +1212,7 @@
 - [Godfall Challenger Edition](https://www.playstation.com/en-hk/games/godfall/)
 - [Gran Turismo® 7](https://www.playstation.com/en-us/games/gran-turismo-7/)
 - [Hades](https://www.playstation.com/en-us/games/hades/)
-- [Hood: Outlaws & Legends](https://www.playstation.com/en-hk/games/hood-outlaws-and-legends/)
+- [Hood: Outlaws & Legends](https://www.playstation.com/en-us/games/hood-outlaws-and-legends/)
 - [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)
 - [Hunter's Arena: Legends](https://www.playstation.com/en-us/games/hunters-arena-legends/)
 - [Immortals Fenyx Rising™](https://www.playstation.com/en-us/games/immortals-fenyx-rising/)
