@@ -2229,6 +2229,20 @@
       ]
     },
     {
+      "name": "Legacy Games",
+      "anchor": "#legacy-games",
+      "badge": "https://img.shields.io/badge/Legacy_Games-{{count}}-ddd?labelColor=144a9f",
+      "hostnames": [
+        "legacygames.com"
+      ],
+      "gameList": [
+        {
+          "name": "House Of 1000 Doors: Family Secrets",
+          "website": "https://legacygames.com/product/house-of-1000-doors-5-pack/"
+        }
+      ]
+    },
+    {
       "name": "Microsoft Store",
       "anchor": "#microsoft-store",
       "badge": "https://img.shields.io/badge/Microsoft_Store-{{count}}-ddd?logo=microsoft&labelColor=0067c0",
