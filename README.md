@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/NES-61-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-213-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-214-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#oculus">
     <img src="https://img.shields.io/badge/Oculus-8-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1563-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1564-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -892,6 +892,7 @@
 - [Nintendo 64™ – Nintendo Switch Online](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [Nintendo Entertainment System™ - Nintendo Switch Online](https://www.nintendo.com/games/detail/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Nintendo Labo Toy-Con 04: VR Kit](https://labo.nintendo.com/kits/vr-kit/)
+- [Nobody Saves the World](https://www.nintendo.com/store/products/nobody-saves-the-world-switch/)
 - [NoReload Heroes](https://www.nintendo.com/games/detail/noreload-heroes-switch/)
 - [Oceanhorn - Monster of Uncharted Seas](https://www.nintendo.com/games/detail/oceanhorn-monster-of-uncharted-seas-switch/)
 - [Octopath Traveler™](https://www.nintendo.com/games/detail/octopath-traveler-switch/)
