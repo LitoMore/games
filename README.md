@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-168-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-76-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-77-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -96,7 +96,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1562-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1563-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1230,6 +1230,7 @@
 - [Marvel's Spider-Man: Miles Morales](https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/)
 - [MONSTER HUNTER: WORLD™](https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-0000000000000000)
 - [Mortal Kombat X](https://www.playstation.com/en-us/games/mortal-kombat-x/)
+- [Nobody Saves the World](https://store.playstation.com/en-us/product/UP2045-PPSA03332_00-6824837102800807)
 - [Oddworld: Soulstorm](https://www.playstation.com/en-us/games/oddworld-soulstorm/)
 - [Operation: Tango](https://www.playstation.com/en-us/games/operation-tango/)
 - [Overcooked! All You Can Eat](https://store.playstation.com/en-gb/product/EP4064-CUSA23463_00-OVERCOOKEDAYCE00/)
