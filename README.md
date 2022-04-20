@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
-    <img src="https://img.shields.io/badge/Legacy_Games-1-ddd?labelColor=144a9f"/>
+    <img src="https://img.shields.io/badge/Legacy_Games-2-ddd?labelColor=144a9f"/>
   </a>
   <a href="#microsoft-store">
     <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=0067c0"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1565-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1566-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -663,6 +663,7 @@
 ## Legacy Games
 
 - [House Of 1000 Doors: Family Secrets](https://legacygames.com/product/house-of-1000-doors-5-pack/)
+- [Rubek](https://legacygames.com/product/bonus-game-rubek/)
 
 ## Microsoft Store
 
