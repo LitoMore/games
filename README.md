@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Stadia-93-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-236-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-237-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-52-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1566-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1567-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1444,6 +1444,7 @@
 - [Don't Starve](https://steamcommunity.com/app/219740)
 - [Don't Starve Together](https://steamcommunity.com/app/322330)
 - [Dota 2](https://steamcommunity.com/app/570)
+- [Elden Ring](https://steamcommunity.com/app/1245620)
 - [Environmental Station Alpha](https://store.steampowered.com/app/350070)
 - [Evoland](https://steamcommunity.com/app/233470)
 - [Evoland 2](https://steamcommunity.com/app/359310)
