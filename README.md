@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Stadia-93-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-237-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-240-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-52-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1574-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1577-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1609,6 +1609,9 @@
 - [Warhammer: Vermintide 2](https://steamcommunity.com/app/552500)
 - [WayOut](https://steamcommunity.com/app/551110)
 - [WayOut 2: Hex](https://steampowered.com/app/585950)
+- [We Were Here](https://steamcommunity.com/app/582500)
+- [We Were Here Together](https://steamcommunity.com/app/865360)
+- [We Were Here Too](https://steamcommunity.com/app/677160)
 - [Windosill](https://steamcommunity.com/app/37600)
 - [Wolcen: Lords of Mayhem](https://steamcommunity.com/app/424370)
 - [Wonder Boy: Returns Remix](https://steamcommunity.com/app/1112240)
