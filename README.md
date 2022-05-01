@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-93-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-97-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-240-ddd?logo=steam&labelColor=171a21"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1579-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1583-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1338,6 +1338,7 @@
 - [Hundred Days - Winemaking Simulator](https://stadia.google.com/store/details/0b14eb3560f94ed69375f6ca5b7491fercp1/sku/da04f57bb412431bb1152cac7bac248bp)
 - [It Came From Space And Ate Our Brains](https://stadia.google.com/store/details/004b82924b0441c5a2ba6488cca19b90rcp1/sku/cf6b0ff80be24b3591051fb31a0765c0p)
 - [Journey to the Savage Planet](https://stadia.google.com/store/details/22c6d03e67474644a139de4f04a08c11rcp1/sku/a287b8393c204384a8b940dc79d142fd)
+- [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks)
 - [Kemono Heroes](https://stadia.google.com/store/details/81733d32e2db41f9a58b97aa80c0b2fcrcp1/sku/75f3878de6e64b6084650d3dabd25abap)
 - [Killer Queen Black](https://stadia.google.com/store/details/3f30ebc3799945fea323f8a663c35501rcp1/sku/70065c4266c5464ca068d225cd341902p)
 - [Lara Croft and the Guardian of Light](https://stadia.google.com/store/details/29b3d5d6788f444c8cd59aa0a49d1bd1rcp1/sku/b4f4f4de3d1e4eef9417a9c896513f0ap)
@@ -1346,6 +1347,7 @@
 - [Life is Strange: Before the Storm Remastered](https://stadia.google.com/store/details/e8eaa376059b43d5a3007c13589e8a1drcp1/sku/af2ae96f69964fee8ab4dbe2fb3f925dp)
 - [Little Big Workshop](https://stadia.google.com/store/details/e4e8f5e5bc744270a644c554ba3f2962rcp1/sku/c00cecabcbde4e95bdab69be6e80b40bp)
 - [Little Nightmares II](https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp)
+- [Lumote: The Mastermote Chronicles](https://stadia.google.com/store/details/25e92c9cd0fb416a8e3495f18c6c6587rcp1/sku/4b9a9483fce64aa48d373a6ec9c72976p)
 - [Mafia III: Definitive Edition](https://stadia.google.com/store/details/9092c5ed87224f3e8a277dac0479874frcp1/sku/5be0350274a142b1acbfa2a958d494f9)
 - [Merek's Market](https://stadia.google.com/store/details/1509dbd662b7403f9497661157b9ca6brcp1/sku/86ce32e71e954f9b8d9c17aad82d50ccp)
 - [Moonlighter](https://stadia.google.com/store/details/703fbd4ee94441299adeaace6446f27arcp1/sku/a12ef65cefdd48d5856ed5c4cde6b977p)
@@ -1353,8 +1355,10 @@
 - [Nanotale - Typing Chronicles](https://stadia.google.com/store/details/4108770e33414848ae849cb6ad14e685rcp1/sku/32f70a285ee34bdfba4261237f869ad9p)
 - [One Hand Clapping](https://stadia.google.com/store/details/76309b9f2f294b07b410e8b6aa879273rcp1/sku/55b718bf03544bd3a9f6a62946fe7436)
 - [Orcs Must Die! 3](https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a)
+- [OUTRIDERS](https://stadia.google.com/game/outriders)
 - [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5)
 - [PAW Patrol Mighty Pups Save Adventure Bay](https://stadia.google.com/store/details/ccf9e5615864445ba6a85cbd3557665frcp1/sku/7fca0a0255f04ab5aea66889e4695997p)
+- [PAW Patrol The Movie: Adventure City Calls](https://stadia.google.com/game/paw-patrol-the-movie)
 - [PGA TOUR 2K21](https://stadia.google.com/store/details/6a2ac2fc8e684c41b5c14981dcb454fdrcp1/sku/9c7fd0f16817482c9e0b311a8340cb0b)
 - [PHOGS!](https://stadia.google.com/store/details/05b9db9b9b5b489995568afd930a9db3rcp1/sku/6efd691ecc1c4c50a1a314bb085fb2d7p)
 - [PIKUNIKU](https://stadia.google.com/store/details/c02a86f966b044569ee03f80fbc86035rcp1/sku/f1bbad79434f496bae9865248c6c136ap)

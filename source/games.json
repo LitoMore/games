@@ -4932,6 +4932,10 @@
           "website": "https://stadia.google.com/store/details/22c6d03e67474644a139de4f04a08c11rcp1/sku/a287b8393c204384a8b940dc79d142fd"
         },
         {
+          "name": "Kaze and the Wild Masks",
+          "website": "https://stadia.google.com/game/kaze-and-the-wild-masks"
+        },
+        {
           "name": "Kemono Heroes",
           "website": "https://stadia.google.com/store/details/81733d32e2db41f9a58b97aa80c0b2fcrcp1/sku/75f3878de6e64b6084650d3dabd25abap"
         },
@@ -4964,6 +4968,10 @@
           "website": "https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp"
         },
         {
+          "name": "Lumote: The Mastermote Chronicles",
+          "website": "https://stadia.google.com/store/details/25e92c9cd0fb416a8e3495f18c6c6587rcp1/sku/4b9a9483fce64aa48d373a6ec9c72976p"
+        },
+        {
           "name": "Mafia III: Definitive Edition",
           "website": "https://stadia.google.com/store/details/9092c5ed87224f3e8a277dac0479874frcp1/sku/5be0350274a142b1acbfa2a958d494f9"
         },
@@ -4992,12 +5000,20 @@
           "website": "https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a"
         },
         {
+          "name": "OUTRIDERS",
+          "website": "https://stadia.google.com/game/outriders"
+        },
+        {
           "name": "PAC-MAN™ Mega Tunnel Battle",
           "website": "https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5"
         },
         {
           "name": "PAW Patrol Mighty Pups Save Adventure Bay",
           "website": "https://stadia.google.com/store/details/ccf9e5615864445ba6a85cbd3557665frcp1/sku/7fca0a0255f04ab5aea66889e4695997p"
+        },
+        {
+          "name": "PAW Patrol The Movie: Adventure City Calls",
+          "website": "https://stadia.google.com/game/paw-patrol-the-movie"
         },
         {
           "name": "PGA TOUR 2K21",
