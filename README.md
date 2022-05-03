@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-130-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-22-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-23-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1590-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1591-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -377,6 +377,7 @@
 
 - [Angry Birds Reloaded](https://apps.apple.com/us/app/id1539172625)
 - [Blek+](https://apps.apple.com/us/app/id1551231841)
+- [Bloons TD 6+](https://apps.apple.com/us/app/id1584423325)
 - [Crossy Road Castle](https://apps.apple.com/us/app/id1489275350)
 - [Cut the Rope Remastered](https://apps.apple.com/us/app/id1524615151)
 - [Doodle God Universe](https://apps.apple.com/us/app/id1539947531)
