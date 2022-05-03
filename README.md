@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-129-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-134-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-130-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1584-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1589-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -129,6 +129,7 @@
 - [Bombslinger](https://images-na.ssl-images-amazon.com/images/I/51BNGrQcHrS.jpg)
 - [Boomerang Fu](https://images-na.ssl-images-amazon.com/images/I/41TtBQGClUL.jpg)
 - [Candleman: The Complete Journey](https://images-na.ssl-images-amazon.com/images/I/41oTfRlUA2L.jpg)
+- [Cat Quest](https://images-na.ssl-images-amazon.com/images/I/51LJ5Ss5TNL.jpg)
 - [Crypto Against All Odds](https://images-na.ssl-images-amazon.com/images/I/41aUXYHLK-L.jpg)
 - [Demon Hunter 2: New Chapter](https://images-na.ssl-images-amazon.com/images/I/41DRdSEQBaL.jpg)
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
@@ -155,6 +156,7 @@
 - [looK INside](https://images-na.ssl-images-amazon.com/images/I/418lWp3WsWL.jpg)
 - [Lost Horizon 2](https://images-na.ssl-images-amazon.com/images/I/41ivssRyTpS.jpg)
 - [Lost in Harmony](https://images-na.ssl-images-amazon.com/images/I/51qCd1cXydL.jpg)
+- [Mail Mole + 'Xpress Deliveries](https://images-na.ssl-images-amazon.com/images/I/41CxuvnY4LL.bbjpg)
 - [Mana Spark](https://images-na.ssl-images-amazon.com/images/I/413nUCcC7GS.jpg)
 - [Metal Slug 2](https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg)
 - [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
@@ -168,6 +170,7 @@
 - [Nanotale - Typing Chronicles](https://images-na.ssl-images-amazon.com/images/I/41nkwCHZKcL.jpg)
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
+- [Out of Line](https://images-na.ssl-images-amazon.com/images/I/31OX+MgkvXL.jpg)
 - [Paper Beast - Folded Edition](https://images-na.ssl-images-amazon.com/images/I/41tL36ULpEL.jpg)
 - [Pesterquest](https://images-na.ssl-images-amazon.com/images/I/51hnvuspZzL.jpg)
 - [Plant Alpha](https://images-na.ssl-images-amazon.com/images/I/41NItUoNtCS.jpg)
@@ -186,6 +189,7 @@
 - [Secret Files: Sam Peters](https://images-na.ssl-images-amazon.com/images/I/412kSoip3LL.jpg)
 - [Secret Files: Tunguska](https://images-na.ssl-images-amazon.com/images/I/411b84JxTmS.jpg)
 - [Sengoku 3](https://images-na.ssl-images-amazon.com/images/I/51OqxYzuPUL.jpg)
+- [Shattered - Tale of the Forgotten King](https://images-na.ssl-images-amazon.com/images/I/41IDYv8CbdL.jpg)
 - [Shock Troopers](https://images-na.ssl-images-amazon.com/images/I/51Cnw8dv7AL.jpg)
 - [Shock Troopers 2nd Squad](https://images-na.ssl-images-amazon.com/images/I/51RCuh-K5tL.jpg)
 - [Sine Mora Ex](https://images-na.ssl-images-amazon.com/images/I/51D4U4R0PLL.jpg)
@@ -210,6 +214,7 @@
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
 - [The Blind Prophet](https://images-na.ssl-images-amazon.com/images/I/41cznbpARHS.jpg)
+- [The Curse of Monkey Island](https://images-na.ssl-images-amazon.com/images/I/41dOCokHgfL.jpg)
 - [The Dark Crystal: Age of Resistance Tactics](https://images-na.ssl-images-amazon.com/images/I/41iLzPBFjDL.jpg)
 - [The Escapists](https://images-na.ssl-images-amazon.com/images/I/41Kb8VDshJL.jpg)
 - [The King of Fighters '98 Ultimate Match Final Edition](https://images-na.ssl-images-amazon.com/images/I/41qpZ-kv70L.jpg)
