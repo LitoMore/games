@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-61-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-62-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1592-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1593-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1775,6 +1775,7 @@
 - [Tomb Raider: Definitive Edition](https://www.microsoft.com/en-us/p/tomb-raider-definitive-edition/bqxts0sx4w0n)
 - [Tropico 4](https://www.microsoft.com/en-us/p/tropico-4/bqcrwnb8zqbs)
 - [Tropico 5 - Penultimate Edition](https://www.xbox.com/en-us/games/store/tropico-5-penultimate-edition/bsmg6rbzh4lq)
+- [TUNIC](https://www.xbox.com/en-us/games/store/tunic/9nlrt31z4rwm)
 - [Vicious Attack Llama Apocalypse](https://www.microsoft.com/en-us/p/Vicious-Attack-Llama-Apocalypse/9N253PVJ49WT)
 - [Vikings - Wolves of Midgard](https://www.microsoft.com/en-us/p/Vikings---Wolves-of-Midgard/C32XK5TG6RNM)
 - [Warface: Breakout](https://www.microsoft.com/en-us/p/warface-breakout/9ngvwz3mgt0b)
