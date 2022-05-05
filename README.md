@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-168-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-77-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-79-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1593-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1595-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1223,6 +1223,7 @@
 - [Devil May Cry 5 Special Edition](https://www.playstation.com/en-us/games/devil-may-cry-5-special-edition/)
 - [Diablo II: Resurrected](https://www.playstation.com/en-us/games/diablo-ii-resurrected/)
 - [DiRT 5](https://www.playstation.com/en-us/games/dirt-5/)
+- [EA SPORTS™ FIFA 22](https://www.playstation.com/en-us/games/ea-sports-fifa-22/)
 - [Elden Ring](https://www.playstation.com/en-us/games/elden-ring)
 - [F.I.S.T: Forged in Shadow Torch](https://www.playstation.com/en-us/games/fist-forged-in-shadow-torch/)
 - [Fallout 4](https://www.playstation.com/en-us/games/fallout-4/)
@@ -1270,6 +1271,7 @@
 - [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian/)
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered/)
 - [The Pathless](https://www.playstation.com/en-us/games/the-pathless/)
+- [Tribes of Midgard](https://www.playstation.com/en-us/games/tribes-of-midgard/)
 - [Uncharted 4: A Thief’s End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
 - [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
 - [Watch Dogs®: Legion](https://www.playstation.com/en-us/games/watch-dogs-legion/)
