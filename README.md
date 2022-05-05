@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-168-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-169-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-79-ddd?logo=playstation&labelColor=white&logoColor=black"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1595-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1596-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1063,6 +1063,7 @@
 - [Concrete Genie](https://store.playstation.com/en-hk/product/HP9000-CUSA11851_00-CONCRETEGENIE000)
 - [Control](https://www.playstation.com/en-us/games/control-ps4/)
 - [Crash Bandicoot™ 4: It’s About Time](https://store.playstation.com/en-us/product/UP0002-CUSA19035_00-CB4STANDARD00001)
+- [Curse of the Dead Gods](https://www.playstation.com/en-us/games/curse-of-the-dead-gods/)
 - [Cyber Danganronpa VR: The Class Trial](https://store.playstation.com/en-hk/product/JP0365-CUSA04582_00-ASIA000000000000)
 - [Cyberpunk 2077](https://www.playstation.com/en-us/games/cyberpunk-2077/)
 - [Danganronpa 1•2 Reload](https://www.playstation.com/en-us/games/danganronpa-1-2-reload-ps4/)
