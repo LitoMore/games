@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-202-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-203-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1597-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1598-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -543,6 +543,7 @@
 - [Rage 2](https://www.epicgames.com/store/en-US/p/rage-2)
 - [Railway Empire](https://www.epicgames.com/store/en-US/p/railway-empire)
 - [Rebel Galaxy](https://www.epicgames.com/store/en-US/p/rebel-galaxy)
+- [Redout: Enhanced Edition](https://store.epicgames.com/en-US/p/redout-enhanced-edition)
 - [Relicta](https://www.epicgames.com/store/en-US/p/relicta)
 - [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/p/remnant-from-the-ashes)
 - [Rise of the Tomb Raider: 20 Year Celebration](https://www.epicgames.com/store/en-US/p/rise-of-the-tomb-raider)
