@@ -22,4 +22,7 @@ build:
 reset:
 	cd source && deno run --allow-read --allow-write reset.ts
 
+search:
+	cd source && deno run --allow-read search.ts "$(anchor)" "$(name)"
+
 default: lint check build

@@ -75,3 +75,10 @@ export const websiteChecks = (anchor: string, website: string): string => {
       return website;
   }
 };
+
+export const fuzzyMatched = (name: string, searchString?: string) =>
+  searchString
+    ? normalizeName(name).toLowerCase().includes(
+      normalizeName(searchString.toLowerCase()),
+    )
+    : true;
