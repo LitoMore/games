@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/NES-61-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-216-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-217-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#oculus">
     <img src="https://img.shields.io/badge/Oculus-8-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1598-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1599-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -873,6 +873,7 @@
 - [Jumping Joe & Friends](https://www.nintendo.com/games/detail/jumping-joe-and-friends-switch/)
 - [Just Dance® 2020](https://www.nintendo.com/games/detail/just-dance-2020-switch/)
 - [Just Dance® 2021](https://www.nintendo.com/games/detail/just-dance-2021-switch/)
+- [Just Dance® 2022](https://www.nintendo.com/store/products/just-dance-2022-switch/)
 - [Just Shapes & Beats](https://www.nintendo.com/games/detail/just-shapes-and-beats-switch/)
 - [KAMIKO](https://www.nintendo.com/games/detail/kamiko-switch/)
 - [Kirby™ and the Forgotten Land](https://www.nintendo.com/store/products/kirby-and-the-forgotten-land-switch/)
