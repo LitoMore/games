@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-62-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-64-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1599-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1601-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1776,6 +1776,7 @@
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
 - [The Escapists 2](https://www.xbox.com/en-us/games/store/the-escapists-2/bs8xgcll3vqz)
 - [The Flame in the Flood](https://www.xbox.com/en-hk/games/store/the-flame-in-the-flood/bxkldp56hfgz)
+- [The Inner World - The Last Wind Monk](https://www.xbox.com/en-US/games/store/the-inner-world-the-last-wind-monk/c0194l4m9qr2)
 - [The King's Bird](https://www.microsoft.com/en-us/p/the-kings-bird/9nz5057nl64c)
 - [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
 - [Tomb Raider: Definitive Edition](https://www.microsoft.com/en-us/p/tomb-raider-definitive-edition/bqxts0sx4w0n)
@@ -1784,6 +1785,7 @@
 - [TUNIC](https://www.xbox.com/en-us/games/store/tunic/9nlrt31z4rwm)
 - [Vicious Attack Llama Apocalypse](https://www.microsoft.com/en-us/p/Vicious-Attack-Llama-Apocalypse/9N253PVJ49WT)
 - [Vikings - Wolves of Midgard](https://www.microsoft.com/en-us/p/Vikings---Wolves-of-Midgard/C32XK5TG6RNM)
+- [Viva Piñata Party Animals](https://www.xbox.com/en-US/games/store/viva-pinata-party-animals/9n548rbqvq6c)
 - [Warface: Breakout](https://www.microsoft.com/en-us/p/warface-breakout/9ngvwz3mgt0b)
 - [Warhammer: Chaosbane Xbox One](https://www.microsoft.com/en-us/p/warhammer-chaosbane-xbox-one/c0gmgv6xh996)
 - [Yoku's Island Express](https://www.xbox.com/en-us/games/store/yokus-island-express/bp63mt1vjv6x)
