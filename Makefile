@@ -1,5 +1,5 @@
 .DEFAULT_GOAL := default
-.SILENT: lint add add-platform check fix build reset
+.SILENT: lint add add-platform check fix build reset search
 
 lint:
 	deno lint
