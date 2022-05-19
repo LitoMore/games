@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-169-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-79-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-80-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1601-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1602-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1271,6 +1271,7 @@
 - [Rocket Arena](https://www.playstation.com/en-us/games/rocket-arena/)
 - [Sackboy: A Big Adventure](https://www.playstation.com/en-us/games/sackboy-a-big-adventure/)
 - [SCARLET NEXUS](https://www.playstation.com/en-us/games/scarlet-nexus/)
+- [Soundfall](https://store.playstation.com/en-us/product/UP0481-PPSA03801_00-9482550928209070)
 - [Tales of Arise](https://www.playstation.com/en-us/games/tales-of-arise/)
 - [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian/)
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered/)
