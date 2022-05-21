@@ -76,9 +76,25 @@ export const websiteChecks = (anchor: string, website: string): string => {
   }
 };
 
-export const fuzzyMatched = (name: string, searchString?: string) =>
-  searchString
-    ? normalizeName(name).toLowerCase().includes(
-      normalizeName(searchString.toLowerCase()),
+export const fuzzyMatched = (name: string, searchString?: string) => {
+  if (!searchString) return true;
+
+  if (searchString.startsWith("@")) {
+    return normalizeName(name).toLowerCase().replace(
+      /[^a-z0-9]/g,
+      "",
     )
-    : true;
+      .includes(
+        normalizeName(searchString.slice(1)).toLowerCase(),
+      );
+  }
+
+  const searchPattern = new RegExp(
+    normalizeName(searchString).split("").join(".*"),
+    "i",
+  );
+
+  return (searchPattern).exec(
+    normalizeName(name),
+  );
+};
