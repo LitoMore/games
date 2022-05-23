@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-97-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-98-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-240-ddd?logo=steam&labelColor=171a21"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1603-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1604-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1322,6 +1322,7 @@
 - [Cake Bash](https://stadia.google.com/store/details/19efd5fa36794d7b8bc87de68124e705rcp1/sku/a7f0a6098ae747788a6f75d0d1e1d8f2p)
 - [Chicken Police - Paint it RED!](https://stadia.google.com/store/details/7482e6a205f840d2a31ee967dfdc8f73rcp1/sku/5672f10bacd64938aa51568fe5d0b6a4p)
 - [Chronos: Before the Ashes](https://stadia.google.com/store/details/3f94b62fa50c4202be10472947478f8frcp1/sku/c3fcca2c75614bf6b634bedc2f766003p)
+- [Cities: Skylines - Stadia™ Edition](https://stadia.google.com/game/cities-skylines-stadia-edition)
 - [City Legends - The Curse of the Crimson Shadow CE](https://stadia.google.com/store/details/f1b8df21b7854aa3a8f60b34be8513ffrcp1/sku/8156e852e38f41bc864509fc9254b583p)
 - [Control Ultimate Edition](https://stadia.google.com/store/details/2cdcb63bc3604360a157c4a4021eca35rcp1/sku/24eb3c7b5a9d44259c8d997bab233411p)
 - [Cosmic Star Heroine](https://stadia.google.com/store/details/88396e4e44c94d43b4259e6bedbd582crcp1/sku/8eec020af3914643b3ce2ff4332b9a4cp)
