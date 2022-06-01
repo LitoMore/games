@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-98-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-104-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-240-ddd?logo=steam&labelColor=171a21"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1607-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1613-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1320,6 +1320,7 @@
 - [ARK: Survival Evolved](https://stadia.google.com/store/details/805de0d15b8b4beea63e282aa6f7e8fercp1/sku/83ebd12c0b184c7a8b870c73bc14a7d4p)
 - [Ary and the Secret of Seasons](https://stadia.google.com/store/details/016636d5f49f4862be3ff8cbcf6c7adercp1/sku/be70e67b1fd64dc2bb4f002e65239731p)
 - [AVICII Invector](https://stadia.google.com/store/details/2c8b9ab112e5460db922dc7353381256rcp1/sku/afb2b66ddd744605a3d01acbeaf3ba01p)
+- [Ben 10: Power Trip](https://stadia.google.com/game/ben-10-power-trip)
 - [Bloodstained: Ritual of the Night](https://stadia.google.com/store/details/df3c9859e1d14300941f62a693d140e2rcp1/sku/10f078ceb83f47cb8657d965c28e1ac2p)
 - [Blue Fire](https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p)
 - [Cake Bash](https://stadia.google.com/store/details/19efd5fa36794d7b8bc87de68124e705rcp1/sku/a7f0a6098ae747788a6f75d0d1e1d8f2p)
@@ -1336,6 +1337,8 @@
 - [Darksiders III](https://stadia.google.com/store/details/d05ef34140f34f5e91f7c2ea9e58b135rcp1/sku/06fd5affa44b4a1fad02cac1937c5492p)
 - [Darkwood](https://stadia.google.com/store/details/848cb37ae8f64d4cbeddc5f2e290806ercp1/sku/4814de45415b434686ce123c77a4ae39p)
 - [Dawn of the Monsters](https://stadia.google.com/store/details/b53ea3b447064495aae1ed257085111drcp1/sku/6b3f1cf65045443a93b2e84d8a3660f6p)
+- [DEATHRUN TV](https://stadia.google.com/game/deathrun-tv)
+- [Deliver Us The Moon](https://stadia.google.com/game/deliver-us-the-moon)
 - [Destroy All Humans!](https://stadia.google.com/store/details/0fd3103549b54c7e89afd6eed83672cercp1/sku/fae281d43a044453a5ad2e1a1961625a)
 - [DIRT 5](https://stadia.google.com/store/details/ed81a01114044edcacfa52656b259d41rcp1/sku/f0c21370f7e2488f8898ae59220c2e24p)
 - [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/store/details/e15d4480e6e44c64b8fe79b3bfc57c9ercp1/sku/da957550fe2c4ff5a71039739f68a450p)
@@ -1348,6 +1351,7 @@
 - [Figment](https://stadia.google.com/store/details/7183914d07034cb1bbb8a511779bc1efrcp1/sku/dfc0719b3a5b48ab8213033dc72bfdfcp)
 - [FLOOR KIDS](https://stadia.google.com/store/details/e184f2da322a41c9a31b3ef2c473f95arcp1/sku/c78b6a8ef7734bbf8de9c068eeadd049p)
 - [FORECLOSED](https://stadia.google.com/store/details/80869457fb214724a5058437e86007b6rcp1/sku/492248b1c5764e5580abaf4b57c25d14p)
+- [Golf With Your Friends](https://stadia.google.com/game/golf-with-your-friends)
 - [GRIME](https://stadia.google.com/store/details/d7a58e7a34c843bc91106ef9be366b32rcp1/sku/c6649217ccef4f75923cc53872fd9e21p)
 - [Gunsport](https://stadia.google.com/store/details/16330bd770134d85b5bef3cc6b1407ffrcp1/sku/896565e45f974774a117876f949630df)
 - [Hello Engineer - Early Access](https://stadia.google.com/store/details/e85d550899de407e996a8a2d9dfbc7efrcp1/sku/4db0c5af19c74032beb90d083dfb9431p)
@@ -1362,6 +1366,7 @@
 - [Kaze and the Wild Masks](https://stadia.google.com/game/kaze-and-the-wild-masks)
 - [Kemono Heroes](https://stadia.google.com/store/details/81733d32e2db41f9a58b97aa80c0b2fcrcp1/sku/75f3878de6e64b6084650d3dabd25abap)
 - [Killer Queen Black](https://stadia.google.com/store/details/3f30ebc3799945fea323f8a663c35501rcp1/sku/70065c4266c5464ca068d225cd341902p)
+- [Lake](https://stadia.google.com/game/lake)
 - [Lara Croft and the Guardian of Light](https://stadia.google.com/store/details/29b3d5d6788f444c8cd59aa0a49d1bd1rcp1/sku/b4f4f4de3d1e4eef9417a9c896513f0ap)
 - [Legend of Keepers: Career of a Dungeon Manager](https://stadia.google.com/store/details/ba593716983f436ea49ae09a531d65b5rcp1/sku/83e17749482942da85f0c20ea0d47ca5p)
 - [Life is Strange Remastered](https://stadia.google.com/store/details/09011184da8446c1b6fafb8c010888bfrcp1/sku/317ac190bf5a4dc6bbb9490a1c073632p)
@@ -1404,6 +1409,7 @@
 - [The Darkside Detective: A Fumble in the Dark](https://stadia.google.com/store/details/4e9c4e089aa5410cbffb3c1869d68925rcp1/sku/31d2c4b062e34650aa2ca3037e030355p)
 - [The Falconeer: Warrior Edition](https://stadia.google.com/store/details/b7be5151de924478ab54ef9afeee4826rcp1/sku/3656264eb2bf4dd8bac883c3106f2be2p)
 - [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp)
+- [Through the Darkest of Times](https://stadia.google.com/game/through-the-darkest-of-times)
 - [TRANSFORMERS: BATTLEGROUNDS - Complete Edition](https://stadia.google.com/store/details/6ae8f01d51f04274aaec6b7e1180d62arcp1/sku/14f3bf4f94254323be95864b934c8256p)
 - [Trine 4: The Nightmare Prince](https://stadia.google.com/store/details/30fd580936bb43b782ec2dbdac8b2f45rcp1/sku/8f39647dac4f452ea0abb9aec508295fp)
 - [Unto The End](https://stadia.google.com/store/details/a089691b36254f77bc66a75052fc7cf6rcp1/sku/9e7a4e4a25cf45bc81367d8087df7f3bp)
