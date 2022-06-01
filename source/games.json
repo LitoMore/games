@@ -6456,9 +6456,14 @@
       "anchor": "#uplay",
       "badge": "https://img.shields.io/badge/Uplay-{{count}}-ddd?logo=ubisoft&labelColor=0070ff",
       "hostnames": [
-        "store.ubi.com"
+        "store.ubi.com",
+        "www.ubisoft.com"
       ],
       "gameList": [
+        {
+          "name": "Far Cry 4",
+          "website": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-4"
+        },
         {
           "name": "Heroes of Might and Magic® 2: Gold",
           "website": "https://store.ubi.com/ie/game?pid=5902fbba88a7e3f0618b4567"
