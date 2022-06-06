@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-104-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-105-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-240-ddd?logo=steam&labelColor=171a21"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1620-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1621-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1416,6 +1416,7 @@
 - [The Falconeer: Warrior Edition](https://stadia.google.com/store/details/b7be5151de924478ab54ef9afeee4826rcp1/sku/3656264eb2bf4dd8bac883c3106f2be2p)
 - [The Legend of Heroes: Trails of Cold Steel III](https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp)
 - [Through the Darkest of Times](https://stadia.google.com/game/through-the-darkest-of-times)
+- [TOHU](https://stadia.google.com/game/tohu)
 - [TRANSFORMERS: BATTLEGROUNDS - Complete Edition](https://stadia.google.com/store/details/6ae8f01d51f04274aaec6b7e1180d62arcp1/sku/14f3bf4f94254323be95864b934c8256p)
 - [Trine 4: The Nightmare Prince](https://stadia.google.com/store/details/30fd580936bb43b782ec2dbdac8b2f45rcp1/sku/8f39647dac4f452ea0abb9aec508295fp)
 - [Unto The End](https://stadia.google.com/store/details/a089691b36254f77bc66a75052fc7cf6rcp1/sku/9e7a4e4a25cf45bc81367d8087df7f3bp)
