@@ -3748,12 +3748,21 @@
       "hostnames": [
         "www.playstation.com",
         "store.playstation.com",
-        "www.thelastofus.playstation.com"
+        "www.thelastofus.playstation.com",
+        "wikipedia.org"
       ],
       "gameList": [
         {
+          "name": "11-11 Memories Retold",
+          "website": "https://store.playstation.com/en-us/product/UP0700-CUSA13505_00-ELEVENELEVEN1111"
+        },
+        {
           "name": "13 Sentinels: Aegis Rim",
           "website": "https://www.playstation.com/en-us/games/13-sentinels-aegis-rim/"
+        },
+        {
+          "name": "2Dark",
+          "website": "https://store.playstation.com/en-us/product/UP4008-CUSA04685_00-2DARKTHEGAMEAUI3"
         },
         {
           "name": "A Plague Tale: Innocence",
@@ -3772,6 +3781,10 @@
           "website": "https://www.playstation.com/en-us/games/action-henk-ps4/"
         },
         {
+          "name": "ADR1FT",
+          "website": "https://store.playstation.com/en-us/product/UP4040-CUSA02572_00-ADR1FTGAME000001"
+        },
+        {
           "name": "Aegis Defenders",
           "website": "https://www.playstation.com/en-us/games/aegis-defenders-ps4/"
         },
@@ -3780,16 +3793,44 @@
           "website": "https://www.playstation.com/en-us/games/aeternoblade-ii-ps4/"
         },
         {
+          "name": "Age of Wonders: Planetfall",
+          "website": "https://www.playstation.com/en-us/games/age-of-wonders-planetfall/"
+        },
+        {
+          "name": "Alienation™",
+          "website": "https://www.playstation.com/en-us/games/alienation/"
+        },
+        {
+          "name": "ALIENATION™",
+          "website": "https://store.playstation.com/en-hk/product/HP9000-CUSA04430_00-ALIENATIONGAMEKR"
+        },
+        {
+          "name": "AO Tennis 2",
+          "website": "https://store.playstation.com/en-us/product/UP4008-CUSA17121_00-AO2SIEA000000000"
+        },
+        {
           "name": "ARK: Survival Evolved",
           "website": "https://www.playstation.com/en-hk/games/ark-survival-evolved/"
+        },
+        {
+          "name": "Ashen",
+          "website": "https://store.playstation.com/en-us/product/UP2470-CUSA14332_00-ASHENSIEA1111111"
         },
         {
           "name": "Assassin’s Creed® Origins",
           "website": "https://www.playstation.com/en-us/games/assassins-creed-origins-ps4/"
         },
         {
+          "name": "Assetto Corsa Competizione",
+          "website": "https://store.playstation.com/en-us/product/UP4040-CUSA17301_00-ACCOMP0000000000"
+        },
+        {
           "name": "ASTRO BOT Rescue Mission",
           "website": "https://www.playstation.com/en-us/games/astro-bot-rescue-mission/"
+        },
+        {
+          "name": "AVICII Invector",
+          "website": "https://store.playstation.com/en-us/product/UP4382-CUSA18271_00-AVICIIINVECTOR00"
         },
         {
           "name": "Batman™: Arkham Knight",
@@ -3800,12 +3841,24 @@
           "website": "https://store.playstation.com/en-hk/product/UP1018-CUSA05335_00-ASIA000000000000"
         },
         {
+          "name": "Battle Chasers: Nightwar",
+          "website": "https://store.playstation.com/en-us/product/UP4389-CUSA06807_00-BATTLECHASERSUS0"
+        },
+        {
           "name": "Battlefield™ V",
           "website": "https://www.playstation.com/en-us/games/battlefield-v/"
         },
         {
           "name": "Beat Saber",
           "website": "https://www.playstation.com/en-us/games/beat-saber-ps4/"
+        },
+        {
+          "name": "Bee Simulator",
+          "website": "https://store.playstation.com/en-us/product/UP4008-CUSA15611_00-BEESIEA000000000"
+        },
+        {
+          "name": "BEYOND: Two Souls™",
+          "website": "https://store.playstation.com/en-hk/product/HP9000-CUSA00494_00-GBEYONDTWO000001"
         },
         {
           "name": "Biomutant",
@@ -3820,6 +3873,10 @@
           "website": "https://www.playstation.com/en-us/games/bioshock-infinite-ps3/"
         },
         {
+          "name": "Blasphemous",
+          "website": "https://www.playstation.com/en-us/games/blasphemous/"
+        },
+        {
           "name": "Bloodborne",
           "website": "https://www.playstation.com/en-us/games/bloodborne-ps4/"
         },
@@ -3828,8 +3885,24 @@
           "website": "https://store.playstation.com/en-hk/product/UP4040-CUSA07953_00-ASIA000000000002"
         },
         {
+          "name": "Bomber Crew",
+          "website": "https://store.playstation.com/en-us/product/UP4395-CUSA10423_00-BOMBERCREW000000"
+        },
+        {
           "name": "Borderlands 3",
           "website": "https://www.playstation.com/en-us/games/borderlands-3-ps4/"
+        },
+        {
+          "name": "Borderlands: The Handsome Collection",
+          "website": "https://store.playstation.com/en-hk/product/UP1001-CUSA01401_00-ASIA000000000000"
+        },
+        {
+          "name": "Bound by Flame™",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA00459_00-BOUNDBYFLAMEGAME"
+        },
+        {
+          "name": "BOUND: Shattered Kingdom",
+          "website": "https://store.playstation.com/en-hk/product/HP9000-CUSA04325_00-BOUNDGAMEAS00001"
         },
         {
           "name": "Bravo Team",
@@ -3838,6 +3911,14 @@
         {
           "name": "Brothers: A Take of Two Sons",
           "website": "https://www.playstation.com/en-us/games/brothers-a-tale-of-two-sons/"
+        },
+        {
+          "name": "Caladrius Blaze",
+          "website": "https://store.playstation.com/en-us/product/UP1295-CUSA03819_00-ENCALADRIUSBLAZE"
+        },
+        {
+          "name": "Call of Cthulhu®",
+          "website": "https://www.playstation.com/en-us/games/call-of-cthulhu/"
         },
         {
           "name": "Call of Duty®: Black Ops 4",
@@ -3860,8 +3941,24 @@
           "website": "https://www.playstation.com/en-us/games/call-of-duty-wwii-ps4/"
         },
         {
+          "name": "Can't Drive This",
+          "website": "https://store.playstation.com/en-hk/product/HP1276-CUSA26423_00-CDTPS40000000000"
+        },
+        {
+          "name": "Child Of Light",
+          "website": "https://store.playstation.com/en-hk/product/JP0001-CUSA00385_00-CHILDOFLIGHT0001"
+        },
+        {
+          "name": "Chocobo's Mystery Dungeon EVERY BUDDY!",
+          "website": "https://store.playstation.com/en-us/product/UP0082-CUSA14219_00-CMDEB0STANDEDBUN"
+        },
+        {
           "name": "Chronicles of Teddy: Harmony of Exidus",
           "website": "https://www.playstation.com/en-us/games/chronicles-of-teddy-harmony-of-exidus-ps4/"
+        },
+        {
+          "name": "Chronos: Before the Ashes",
+          "website": "https://store.playstation.com/en-us/product/UP4389-CUSA15174_00-CHRONOSUS0000000"
         },
         {
           "name": "Cities: Skylines - PlayStation®4 Edition",
@@ -3888,6 +3985,10 @@
           "website": "https://store.playstation.com/en-us/product/UP0002-CUSA19035_00-CB4STANDARD00001"
         },
         {
+          "name": "Crysis Remastered",
+          "website": "https://store.playstation.com/en-hk/product/EP4291-CUSA18671_00-CRYSISREMASTERED"
+        },
+        {
           "name": "Curse of the Dead Gods",
           "website": "https://www.playstation.com/en-us/games/curse-of-the-dead-gods/"
         },
@@ -3898,6 +3999,10 @@
         {
           "name": "Cyberpunk 2077",
           "website": "https://www.playstation.com/en-us/games/cyberpunk-2077/"
+        },
+        {
+          "name": "Damascus Gear: Operation Tokyo HD Edtion",
+          "website": "https://store.playstation.com/en-us/product/UP0036-CUSA08326_00-DGEARHD000000000"
         },
         {
           "name": "Danganronpa 1•2 Reload",
@@ -3912,12 +4017,44 @@
           "website": "https://www.playstation.com/en-us/games/danganronpa-another-episode-ultra-despair-girls-psvita/"
         },
         {
+          "name": "Darksiders Genesis",
+          "website": "https://www.playstation.com/en-us/games/darksiders-genesis/"
+        },
+        {
+          "name": "Darksiders II Deathinitive Edition",
+          "website": "https://store.playstation.com/en-hk/product/UP4389-CUSA02420_00-ASIA000000000000"
+        },
+        {
           "name": "Darksiders III",
           "website": "https://www.playstation.com/en-us/games/darksiders-iii-ps4/"
         },
         {
+          "name": "Darksiders Warmastered Edition",
+          "website": "https://store.playstation.com/en-hk/product/UP4389-CUSA05347_00-ASIA000000000000"
+        },
+        {
+          "name": "Dead Nation™: Apocalypse Edition",
+          "website": "https://store.playstation.com/en-hk/product/HP9000-CUSA00523_00-DEADNATIONGAME01"
+        },
+        {
+          "name": "Deadlight: Director's Cut",
+          "website": "https://store.playstation.com/en-hk/product/EP4062-CUSA04434_00-ASIALIGHTPS40100"
+        },
+        {
+          "name": "Death end re;Quest",
+          "website": "https://store.playstation.com/en-us/product/UP0031-CUSA13132_00-DEATHENDREQUEST0"
+        },
+        {
+          "name": "Death end re;Quest 2",
+          "website": "https://store.playstation.com/en-us/product/UP0031-CUSA19163_00-DERQ200000000001"
+        },
+        {
           "name": "Death Stranding",
           "website": "https://www.playstation.com/en-us/games/death-stranding/"
+        },
+        {
+          "name": "Desperados III",
+          "website": "https://www.playstation.com/en-us/games/desperados-iii/"
         },
         {
           "name": "Destiny",
@@ -3944,24 +4081,72 @@
           "website": "https://www.playstation.com/en-us/games/doom-vfr-ps4/"
         },
         {
+          "name": "Dragon Star Varnir",
+          "website": "https://store.playstation.com/en-us/product/UP0031-CUSA14503_00-VARNIR0000000000"
+        },
+        {
           "name": "Dragon's Crown Pro",
           "website": "https://store.playstation.com/en-us/product/UP2611-CUSA10454_00-DRAGONSCROWNPRO1"
+        },
+        {
+          "name": "Dreamfall Chapters",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA07307_00-DREAMFALLCHAPTER"
+        },
+        {
+          "name": "Dynasty Warriors 7",
+          "website": "https://en.wikipedia.org/wiki/Dynasty_Warriors_7"
         },
         {
           "name": "DYNASTY WARRIORS 8: Xtreme Legends Complete Edition",
           "website": "https://www.playstation.com/en-us/games/dynasty-warriors-8-xtreme-legends-complete-edition-ps4/"
         },
         {
+          "name": "Eagle Flight",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA04900_00-EAGLEFLIGHTGAME0"
+        },
+        {
+          "name": "ELEX",
+          "website": "https://store.playstation.com/en-us/product/UP4389-CUSA04317_00-ELEXRPGPBNGUS001"
+        },
+        {
+          "name": "Embr",
+          "website": "https://store.playstation.com/en-us/product/UP4395-CUSA25172_00-EMBRPS4GAMEUS000"
+        },
+        {
           "name": "Enter the Gungeon",
           "website": "https://store.playstation.com/en-us/product/UP3643-CUSA01608_00-0000000000000000"
+        },
+        {
+          "name": "Entwined™",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA00571_00-ETWPS40000000000"
         },
         {
           "name": "Erica",
           "website": "https://www.playstation.com/en-us/games/erica-ps4/"
         },
         {
+          "name": "Everybody's Golf",
+          "website": "https://www.playstation.com/en-us/games/everybodys-golf/"
+        },
+        {
+          "name": "Fade to Silence",
+          "website": "https://store.playstation.com/en-us/product/UP4389-CUSA11498_00-FADETOSILENCEUS1"
+        },
+        {
           "name": "Fall Guys: Ultimate Knockout",
           "website": "https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout-ps4/"
+        },
+        {
+          "name": "Far Cry® 3 Blood Dragon Classic Edition",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA29007_00-FC3BDMASTERPS400"
+        },
+        {
+          "name": "Far Cry® 3 Classic Edition",
+          "website": "https://www.playstation.com/en-us/games/far-cry-3-classic-edition/"
+        },
+        {
+          "name": "Far Cry® 4",
+          "website": "https://www.playstation.com/en-us/games/far-cry-4/"
         },
         {
           "name": "Farming Simulator 19",
@@ -3976,12 +4161,60 @@
           "website": "https://store.playstation.com/en-us/product/UP4427-CUSA00383_00-FEZTHEGAMEPOLYTR"
         },
         {
+          "name": "FIGHTING EX LAYER",
+          "website": "https://store.playstation.com/en-us/product/UP3783-CUSA10442_00-CPS025COST000001"
+        },
+        {
           "name": "FINAL FANTASY VII REMAKE",
           "website": "https://www.playstation.com/en-us/games/final-fantasy-vii-remake-ps4/"
         },
         {
+          "name": "FINAL FANTASY VIII Remastered",
+          "website": "https://www.playstation.com/en-us/games/final-fantasy-viii-remastered/"
+        },
+        {
+          "name": "FINAL FANTASY X/X-2 HD Remaster",
+          "website": "https://www.playstation.com/en-us/games/final-fantasy-x-x-2-hd-remaster/"
+        },
+        {
+          "name": "Final Fantasy XII The Zodiac Age",
+          "website": "https://www.playstation.com/en-us/games/final-fantasy-xii-the-zodiac-age/"
+        },
+        {
+          "name": "FINAL FANTASY® IX Digital Edition",
+          "website": "https://store.playstation.com/en-us/product/UP0082-CUSA08877_00-FFIXDIGITALED000"
+        },
+        {
+          "name": "FINAL FANTASY® VII",
+          "website": "https://www.playstation.com/en-us/games/final-fantasy-vii/"
+        },
+        {
           "name": "Firewall Zero Hour",
           "website": "https://www.playstation.com/en-us/games/firewall-zero-hour-ps4/"
+        },
+        {
+          "name": "FlatOut 4 - Total Insanity",
+          "website": "https://store.playstation.com/en-us/product/UP3458-CUSA07843_00-FLATOUT400000000"
+        },
+        {
+          "name": "For Honor",
+          "website": "https://www.playstation.com/en-us/games/for-honor/"
+        },
+        {
+          "name": "For The King",
+          "website": "https://store.playstation.com/en-us/product/UP4395-CUSA12956_00-FORTHEKING000001"
+        },
+        {
+          "name": "Friday the 13th: The Game",
+          "website": "https://www.playstation.com/en-us/games/friday-the-13th-the-game/"
+        },
+        {
+          "name": "Gabbuchi",
+          "website": "https://store.playstation.com/en-us/product/UP1024-CUSA16423_00-JWEVGVQNVXNNUBQC"
+        },
+        {
+          "name": "Get Even",
+          "website": "https://store.playstation.com/en-us/product/UP0700-CUSA07589_00-GETEVENGAME00001"
         },
         {
           "name": "Ghost of Tsushima",
@@ -4004,16 +4237,52 @@
           "website": "https://www.playstation.com/en-us/games/god-of-war-iii-remastered-ps4/"
         },
         {
+          "name": "Golf With Your Friends",
+          "website": "https://store.playstation.com/en-us/product/UP4064-CUSA17669_00-GOLFWYFRIENDS000"
+        },
+        {
           "name": "Gran Turismo Sport",
           "website": "https://www.playstation.com/en-us/explore/playstation-vr/bundles/playstation-vr-gran-turismo-sport-bundle/"
+        },
+        {
+          "name": "Graveyard Keeper",
+          "website": "https://store.playstation.com/en-us/product/UP0097-CUSA10727_00-GRAVEYARDKEEPER0"
+        },
+        {
+          "name": "Gravity Rush Remastered",
+          "website": "https://store.playstation.com/en-hk/product/HP9000-CUSA01112_00-0000000000000000"
+        },
+        {
+          "name": "Gravity Rush™ 2",
+          "website": "https://www.playstation.com/en-us/games/gravity-rush-2/"
         },
         {
           "name": "GreedFall",
           "website": "https://store.playstation.com/en-us/product/UP4133-CUSA14211_00-GREEDFALL0000000"
         },
         {
+          "name": "GRIP",
+          "website": "https://store.playstation.com/en-us/product/UP4382-CUSA11250_00-GRIPTHEGAME00000"
+        },
+        {
           "name": "Guilty Gear Xrd REV 2",
           "website": "https://www.playstation.com/en-us/games/guilty-gear-xrd-rev-2-ps4/"
+        },
+        {
+          "name": "Gunvolt Chronicles: Luminous Avenger iX",
+          "website": "https://store.playstation.com/zh-hant-hk/product/JP1368-CUSA16426_00-ASIASET000000000"
+        },
+        {
+          "name": "Harvest Moon®: Light of Hope Special Edition",
+          "website": "https://store.playstation.com/en-us/product/UP1014-CUSA09973_00-HARVESTMOONLOHSE"
+        },
+        {
+          "name": "Heavy Rain™",
+          "website": "https://store.playstation.com/en-hk/product/HP9000-CUSA02567_00-HRPS400000000001"
+        },
+        {
+          "name": "Hello Neighbor",
+          "website": "https://store.playstation.com/en-us/product/UP0097-CUSA10963_00-HELLONEIGHBOR4NA"
         },
         {
           "name": "HITMAN™ 2",
@@ -4024,12 +4293,64 @@
           "website": "https://www.playstation.com/en-us/games/hollow-knight-voidheart-edition-ps4/"
         },
         {
+          "name": "Homefront®: The Revolution",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA01012_00-HOMEFRONT2000000"
+        },
+        {
           "name": "Horizon Zero Dawn: Complete Edition",
           "website": "https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/"
         },
         {
+          "name": "Hotline Miami 2: Wrong Number",
+          "website": "https://www.playstation.com/en-us/games/hotline-miami-2-wrong-number/"
+        },
+        {
+          "name": "Hotshot Racing",
+          "website": "https://store.playstation.com/en-us/product/UP4395-CUSA11585_00-RACINGAPEX000000"
+        },
+        {
+          "name": "How to Survive 2",
+          "website": "https://store.playstation.com/en-us/product/UP4040-CUSA07006_00-HOWTOSUR2PS4SCEA"
+        },
+        {
+          "name": "How to Survive: Storm Warning Edition",
+          "website": "https://store.playstation.com/en-us/product/UP4040-CUSA00660_00-HOWTOSURVIVE0001"
+        },
+        {
+          "name": "Hue",
+          "website": "https://store.playstation.com/en-us/product/UP4395-CUSA05091_00-HUESCEA000000000"
+        },
+        {
           "name": "Human Anatomy VR",
           "website": "https://store.playstation.com/en-us/product/UP5269-CUSA16456_00-VIRTUALMEDICINEX"
+        },
+        {
+          "name": "inFAMOUS First Light",
+          "website": "https://www.playstation.com/en-us/games/infamous-first-light/"
+        },
+        {
+          "name": "Injustice™ 2",
+          "website": "https://www.playstation.com/en-us/games/injustice-2/"
+        },
+        {
+          "name": "Jak 3",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA07841_00-SCUS973300000001"
+        },
+        {
+          "name": "Jak and Daxter: The Precursor Legacy™",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA02522_00-SCUS971240000001"
+        },
+        {
+          "name": "Jak II™",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA07840_00-SCUS972650000001"
+        },
+        {
+          "name": "Jak X: Combat Racing",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA07842_00-SCUS974290000001"
+        },
+        {
+          "name": "Journey to the Savage Planet",
+          "website": "https://www.playstation.com/en-us/games/journey-to-the-savage-planet/"
         },
         {
           "name": "Judgment",
@@ -4040,8 +4361,24 @@
           "website": "https://store.playstation.com/en-us/product/UP0082-CUSA01493_00-JUSTCAUSE3NA0000/"
         },
         {
+          "name": "Killzone™ Shadow Fall",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA00190_00-KZ4RELEASE000041"
+        },
+        {
+          "name": "Killzone™ Shadow Fall Intercept Online Co-Op Expansion",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA00190_00-COOPEXPANSION000"
+        },
+        {
+          "name": "Kingdom Come: Deliverance",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA07238_00-KCDGAME010000000"
+        },
+        {
           "name": "KINGDOM HEARTS III",
           "website": "https://www.playstation.com/en-us/games/kingdom-hearts-iii-ps4/"
+        },
+        {
+          "name": "Kingdom Two Crowns",
+          "website": "https://store.playstation.com/en-us/product/UP2320-CUSA13597_00-KINGDOMTWOCROWNS"
         },
         {
           "name": "Kingdoms of Amalur: Re-Reckoning",
@@ -4052,8 +4389,28 @@
           "website": "https://www.playstation.com/en-hk/games/knack-2/"
         },
         {
+          "name": "Knack™",
+          "website": "https://www.playstation.com/en-us/games/knack/"
+        },
+        {
           "name": "Kunio-kun: The World Classics Collection",
           "website": "https://store.playstation.com/en-hk/product/JP0036-CUSA11418_00-ASIA000000000000"
+        },
+        {
+          "name": "Last Day of June",
+          "website": "https://store.playstation.com/en-us/product/UP4040-CUSA06148_00-OVOSONICO505GCAR"
+        },
+        {
+          "name": "LEFT ALIVE™ DAY ONE EDITION",
+          "website": "https://store.playstation.com/en-us/product/UP0082-CUSA11229_00-LEFTALIVEDAYONE0"
+        },
+        {
+          "name": "Legendary Fishing",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA12845_00-LEGENDARYFISHING"
+        },
+        {
+          "name": "LEGO® Batman™ 3: Beyond Gotham",
+          "website": "https://www.playstation.com/en-us/games/lego-batman-3-beyond-gotham/"
         },
         {
           "name": "LEGO® DC Super-Villains",
@@ -4064,6 +4421,46 @@
           "website": "https://www.playstation.com/en-us/games/lego-harry-potter-collection/"
         },
         {
+          "name": "Little Nightmares",
+          "website": "https://www.playstation.com/en-us/games/little-nightmares/"
+        },
+        {
+          "name": "LittleBigPlanet™ 3",
+          "website": "https://www.playstation.com/en-us/games/littlebigplanet-3/"
+        },
+        {
+          "name": "LocoRoco™ 2 Remastered",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA06091_00-UCUS987310000001"
+        },
+        {
+          "name": "LocoRoco™ Remastered",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA06090_00-UCUS986620000001"
+        },
+        {
+          "name": "LUMINES REMASTERED",
+          "website": "https://store.playstation.com/en-us/product/UP0751-CUSA11624_00-LUMINESREMASTERE"
+        },
+        {
+          "name": "Mafia II: Definitive Edition",
+          "website": "https://store.playstation.com/en-us/product/UP1001-CUSA16990_00-MAFIATWOREMASTER"
+        },
+        {
+          "name": "Mafia III: Definitive Edition",
+          "website": "https://www.playstation.com/en-us/games/mafia-iii/"
+        },
+        {
+          "name": "Mafia: Definitive Edition",
+          "website": "https://store.playstation.com/en-us/product/UP1001-CUSA18097_00-MAFIAONEREMASTER"
+        },
+        {
+          "name": "Magicka 2",
+          "website": "https://store.playstation.com/en-us/product/UP4139-CUSA02421_00-MAMA02GP40000003"
+        },
+        {
+          "name": "Mahjong",
+          "website": "https://store.playstation.com/en-us/product/UP4008-CUSA04962_00-MAHJONG000000000"
+        },
+        {
           "name": "Marvel's Iron Man VR",
           "website": "https://www.playstation.com/en-us/games/marvels-iron-man-vr-ps4/"
         },
@@ -4072,12 +4469,36 @@
           "website": "https://www.playstation.com/en-us/games/marvels-spider-man-ps4/"
         },
         {
+          "name": "MATTERFALL",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA07765_00-MATTERFALLUS0001"
+        },
+        {
+          "name": "MedEvil",
+          "website": "https://www.playstation.com/en-us/games/medievil/"
+        },
+        {
+          "name": "Megadimension Neptunia VII",
+          "website": "https://store.playstation.com/en-us/product/UP0031-CUSA03133_00-GAME000000000000"
+        },
+        {
+          "name": "Metro 2033 Redux",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA00623_00-M33REDUXDIGITAL1"
+        },
+        {
           "name": "Metro Exodus",
           "website": "https://www.playstation.com/en-us/games/metro-exodus-ps4/"
         },
         {
+          "name": "Metro: Last Light Redux",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA00624_00-MLLREDUXDIGITAL1"
+        },
+        {
           "name": "Middle-earth™: Shadow of War™",
           "website": "https://www.playstation.com/en-us/games/middle-earth-shadow-of-war-ps4/"
+        },
+        {
+          "name": "Mighty No. 9",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA02495_00-MIGHTYNUMBERNINE"
         },
         {
           "name": "Mirror’s Edge™ Catalyst",
@@ -4096,6 +4517,10 @@
           "website": "https://www.playstation.com/en-us/games/monster-hunter-world-ps4/iceborne/"
         },
         {
+          "name": "Monster Jam Steel Titans 2",
+          "website": "https://store.playstation.com/en-us/product/UP4389-CUSA19156_00-MONSTERJAM2US000"
+        },
+        {
           "name": "Mortal Shell",
           "website": "https://www.playstation.com/en-us/games/mortal-shell/"
         },
@@ -4104,12 +4529,44 @@
           "website": "https://store.playstation.com/en-us/product/UP1983-CUSA09290_00-MOSSGAME00000000"
         },
         {
+          "name": "Moving Out",
+          "website": "https://www.playstation.com/en-us/games/moving-out/"
+        },
+        {
+          "name": "MudRunner",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA09936_00-MUDRUNNERUS00000"
+        },
+        {
+          "name": "My Friend Pedro",
+          "website": "https://store.playstation.com/en-us/product/UP3643-CUSA18145_00-0000000000000000"
+        },
+        {
+          "name": "My Time at Portia",
+          "website": "https://store.playstation.com/en-us/product/UP4064-CUSA10924_00-MYTIMEATPORTIA00"
+        },
+        {
           "name": "NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 Road to Boruto",
           "website": "https://www.playstation.com/en-us/games/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-ps4/"
         },
         {
+          "name": "NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4",
+          "website": "https://www.playstation.com/en-us/games/naruto-shippuden-ultimate-ninja-storm-4/"
+        },
+        {
+          "name": "NARUTO TO BORUTO: SHINOBI STRIKER",
+          "website": "https://store.playstation.com/en-us/product/UP0700-CUSA08789_00-SHINOBISTRIKER01"
+        },
+        {
+          "name": "NBA 2K Playgrounds 2",
+          "website": "https://www.playstation.com/en-us/games/nba-2k-playgrounds-2/"
+        },
+        {
           "name": "NBA 2K20",
           "website": "https://www.playstation.com/en-us/games/nba-2k20-ps4/"
+        },
+        {
+          "name": "Necromunda: Underhive Wars",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA12508_00-NECROMUNDAUHWARS"
         },
         {
           "name": "Need for Speed™ Payback",
@@ -4132,8 +4589,36 @@
           "website": "https://www.playstation.com/en-us/games/nioh-2-ps4/"
         },
         {
+          "name": "Observation",
+          "website": "https://www.playstation.com/en-us/games/observation/"
+        },
+        {
+          "name": "Observer: System Redux",
+          "website": "https://store.playstation.com/en-us/product/UP4176-PPSA02118_00-8840415776217330"
+        },
+        {
+          "name": "Oddworld: New 'n' Tasty",
+          "website": "https://store.playstation.com/en-us/product/UP4134-CUSA00329_00-ONNTGAME00000001"
+        },
+        {
+          "name": "Outcast - Second Contact",
+          "website": "https://store.playstation.com/en-us/product/UP4008-CUSA07476_00-OUTCAST000000000"
+        },
+        {
+          "name": "Outer Wilds",
+          "website": "https://www.playstation.com/en-us/games/outer-wilds/"
+        },
+        {
           "name": "Outlast 2",
           "website": "https://www.playstation.com/en-us/games/outlast-2-ps4/"
+        },
+        {
+          "name": "Overcooked! 2",
+          "website": "https://www.playstation.com/en-us/games/overcooked-2/"
+        },
+        {
+          "name": "Overpass",
+          "website": "https://store.playstation.com/en-us/product/UP4008-CUSA15507_00-OPSIEA0000000000"
         },
         {
           "name": "Paper Beast",
@@ -4148,6 +4633,14 @@
           "website": "https://www.playstation.com/en-us/games/patapon-remastered-ps4/"
         },
         {
+          "name": "Pathfinder: Kingmaker - Definitive Edition",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA14853_00-KINGMAKER00000US"
+        },
+        {
+          "name": "PAYDAY 2: CRIMEWAVE EDITION",
+          "website": "https://www.playstation.com/en-us/games/payday-2-crimewave-edition/"
+        },
+        {
           "name": "Persona 5",
           "website": "https://www.playstation.com/en-us/games/persona-5-ps4/"
         },
@@ -4160,6 +4653,18 @@
           "website": "https://www.playstation.com/en-us/games/persona-5-strikers/"
         },
         {
+          "name": "PGA Tour 2K21",
+          "website": "https://www.playstation.com/en-us/games/pga-tour-2k21/"
+        },
+        {
+          "name": "Pillars of Eternity: Complete Edition",
+          "website": "https://store.playstation.com/en-us/product/UP4139-CUSA06915_00-PILLARSPS4MAINUS"
+        },
+        {
+          "name": "Pixel Piracy",
+          "website": "https://store.playstation.com/en-us/product/UP4040-CUSA02221_00-PIXELPIRACY00000"
+        },
+        {
           "name": "Plants vs. Zombies: Battle for Neighborville™",
           "website": "https://www.playstation.com/en-us/games/plants-vs-zombies-battle-for-neighborville/"
         },
@@ -4168,8 +4673,28 @@
           "website": "https://www.playstation.com/en-us/games/playerunknowns-battlegrounds-ps4/"
         },
         {
+          "name": "Portal Knights",
+          "website": "https://store.playstation.com/en-us/product/UP4040-CUSA06266_00-PORTALKNIGHTS000"
+        },
+        {
           "name": "Predator: Hunting Grounds",
           "website": "https://www.playstation.com/en-us/games/predator-hunting-grounds/"
+        },
+        {
+          "name": "Prison Architect: PlayStation®4 Edition",
+          "website": "https://www.playstation.com/en-us/games/prison-architect-playstation-4-edition/"
+        },
+        {
+          "name": "Project CARS 2",
+          "website": "https://www.playstation.com/en-us/games/project-cars-2/"
+        },
+        {
+          "name": "Project CARS 3",
+          "website": "https://www.playstation.com/en-us/games/project-cars-3/"
+        },
+        {
+          "name": "Rainbow Moon",
+          "website": "https://store.playstation.com/en-us/product/UP2005-CUSA03443_00-RAINBOWMOON00001"
         },
         {
           "name": "Ratchet & Clank™",
@@ -4177,15 +4702,23 @@
         },
         {
           "name": "Red Dead Redemption 2",
-          "website": "https://www.playstation.com/en-us/games/red-dead-redemption-2-ps4/"
+          "website": "https://www.playstation.com/en-us/games/red-dead-redemption-2/"
         },
         {
           "name": "Redout: Lightspeed Edition",
           "website": "https://www.playstation.com/en-us/games/redout-lightspeed-edition-ps4/"
         },
         {
+          "name": "Relicta",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA17538_00-ARELICTA00000000"
+        },
+        {
           "name": "Remnant: From the Ashes",
           "website": "https://store.playstation.com/en-us/product/UP1980-CUSA10507_00-REMNANT000000001"
+        },
+        {
+          "name": "Resident Evil",
+          "website": "https://store.playstation.com/en-us/product/UP0102-CUSA01068_00-BHRHDPS400000001"
         },
         {
           "name": "Resident Evil 4",
@@ -4200,12 +4733,24 @@
           "website": "https://www.playstation.com/en-us/games/resident-evil-6-ps4/"
         },
         {
+          "name": "RESOGUN™",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA00038_00-RESOGUN000000002"
+        },
+        {
           "name": "Rez Infinite",
           "website": "https://store.playstation.com/en-us/product/UP0751-CUSA05868_00-REZINFINITE00000"
         },
         {
+          "name": "RIDE 4",
+          "website": "https://www.playstation.com/en-us/games/ride-4/"
+        },
+        {
           "name": "Rise of the Tomb Raider: 20 Year Celebration",
           "website": "https://www.playstation.com/en-us/games/rise-of-the-tomb-raider-20-year-celebration-ps4/"
+        },
+        {
+          "name": "Risk® Urban Assault",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA02108_00-RISKGAMEPS400004"
         },
         {
           "name": "Ruined King: A League of Legends Story™ - Deluxe Edition Bundle",
@@ -4216,8 +4761,20 @@
           "website": "https://www.playstation.com/en-us/games/sakura-wars-ps4/"
         },
         {
+          "name": "Seasons after Fall",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA03158_00-SEASONSAFTERFALL"
+        },
+        {
+          "name": "Secret Neighbor",
+          "website": "https://store.playstation.com/en-us/product/UP0097-CUSA25164_00-1498554604360333"
+        },
+        {
           "name": "Sekiro™: Shadows Die Twice",
           "website": "https://www.playstation.com/en-us/games/sekiro-shadows-die-twice-ps4/"
+        },
+        {
+          "name": "Shadow of the Beast",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA02871_00-SHADOWOFBEAST0US"
         },
         {
           "name": "Shadow of the Colossus",
@@ -4226,6 +4783,14 @@
         {
           "name": "Shadow of the Tomb Raider Definitive Edition",
           "website": "https://store.playstation.com/en-us/product/UP0082-CUSA10938_00-DEFINITIVE00SIEA"
+        },
+        {
+          "name": "Shadow Warrior 3",
+          "website": "https://www.playstation.com/en-us/games/shadow-warrior-3/"
+        },
+        {
+          "name": "Shiness: The Lightning Kingdom",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA06256_00-SHINESSLIGHTKING"
         },
         {
           "name": "Shio",
@@ -4240,12 +4805,52 @@
           "website": "https://www.playstation.com/en-us/games/smite/"
         },
         {
+          "name": "Sniper Elite 4",
+          "website": "https://www.playstation.com/en-us/games/sniper-elite-4/"
+        },
+        {
           "name": "SONIC FORCES",
           "website": "https://www.playstation.com/en-us/games/sonic-forces-ps4/"
         },
         {
+          "name": "SOULCALIBUR VI",
+          "website": "https://www.playstation.com/en-us/games/soulcalibur-vi/"
+        },
+        {
+          "name": "South Park™: The Fractured but Whole™",
+          "website": "https://www.playstation.com/en-us/games/south-park-the-fractured-but-whole/"
+        },
+        {
+          "name": "South Park™: The Stick of Truth™",
+          "website": "https://www.playstation.com/en-us/games/south-park-the-stick-of-truth/"
+        },
+        {
+          "name": "Space Crew: Legendary Edition",
+          "website": "https://store.playstation.com/en-us/product/UP4395-CUSA18162_00-SPACECREWUS00000"
+        },
+        {
+          "name": "Space Hulk: Deathwing - Enhanced Edition",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA08982_00-SPACEHULKDEATHWI"
+        },
+        {
+          "name": "Space Hulk: Tactics",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA11101_00-SPACEHULKTACTICS"
+        },
+        {
+          "name": "Space Junkies",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA14074_00-SPACEJUNKIESGAME"
+        },
+        {
           "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
           "website": "https://www.playstation.com/en-us/games/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/"
+        },
+        {
+          "name": "STAR OCEAN First Departure R",
+          "website": "https://store.playstation.com/en-us/product/UP0082-CUSA16913_00-000STAROCEAN1FDR"
+        },
+        {
+          "name": "Star Trek™: Bridge Crew",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA05893_00-STARTREKBRGCRW01"
         },
         {
           "name": "STAR WARS Jedi: Fallen Order™",
@@ -4260,6 +4865,18 @@
           "website": "https://store.playstation.com/en-us/product/UP0006-CUSA15080_00-STARWARSQUADRONS"
         },
         {
+          "name": "Starlink: Battle For Atlas Digital Edition",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA06979_00-STARLINKBFADIGIT"
+        },
+        {
+          "name": "STEEP",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA05489_00-STEEPSCEA0000000"
+        },
+        {
+          "name": "Stellaris: Console Edition",
+          "website": "https://store.playstation.com/en-us/product/UP4139-CUSA07740_00-STELLARISPS4US00"
+        },
+        {
           "name": "Stranded Deep",
           "website": "https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA"
         },
@@ -4272,16 +4889,60 @@
           "website": "https://store.playstation.com/en-us/product/UP5245-CUSA13529_00-SUBNAUTICA000000"
         },
         {
+          "name": "Surviving Mars",
+          "website": "https://store.playstation.com/en-us/product/UP4139-CUSA10160_00-SURVIVINGMARS002"
+        },
+        {
           "name": "Team Sonic Racing",
           "website": "https://www.playstation.com/en-us/games/team-sonic-racing/"
+        },
+        {
+          "name": "Tearaway™ Unfolded",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA01607_00-TEARAWAYUNFOLDED"
         },
         {
           "name": "Tennis World Tour 2",
           "website": "https://www.playstation.com/en-us/games/tennis-world-tour-2/"
         },
         {
+          "name": "Terraria: PS4™ Edition",
+          "website": "https://www.playstation.com/en-us/games/terraria/"
+        },
+        {
+          "name": "Tetris® Effect: Connected",
+          "website": "https://store.playstation.com/en-us/product/UP0751-CUSA13594_00-TETRISEFFECT0000"
+        },
+        {
+          "name": "The Book of Unwritten Tales 2",
+          "website": "https://store.playstation.com/en-us/product/UP4389-CUSA02030_00-BOUT2SCEA0000001"
+        },
+        {
+          "name": "The Council - The Complete Season",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA10781_00-THECOUNCILALLEPS"
+        },
+        {
+          "name": "The Crew",
+          "website": "https://www.playstation.com/en-us/games/the-crew/"
+        },
+        {
+          "name": "The Crew® 2",
+          "website": "https://www.playstation.com/en-us/games/the-crew-2/"
+        },
+        {
+          "name": "The Dark Pictures Anthology: Little Hope",
+          "website": "https://store.playstation.com/en-us/product/UP0700-CUSA18028_00-SMGTHEDARKPICSLH"
+        },
+        {
+          "name": "The Dark Pictures Anthology: Man of Medan",
+          "website": "https://store.playstation.com/en-us/product/UP0700-CUSA13933_00-SMGDARKPICTURESA"
+        },
+        {
           "name": "The Elder Scrolls V: Skyrim VR",
           "website": "https://www.playstation.com/en-us/games/the-elder-scrolls-v-skyrim-vr-ps4/"
+        },
+        {
+          "name": "The Fisherman - Fishing Planet",
+          "website": "https://store.playstation.com/en-us/product/UP4008-CUSA15613_00-0000000000000000"
         },
         {
           "name": "The Last of Us Part II",
@@ -4290,6 +4951,18 @@
         {
           "name": "The Last of Us™ Remastered",
           "website": "https://www.playstation.com/en-us/games/the-last-of-us-remastered-ps4/"
+        },
+        {
+          "name": "The LEGO® Movie Videogame",
+          "website": "https://store.playstation.com/en-us/product/UP1018-CUSA00084_00-LEGOMOVIE0000000"
+        },
+        {
+          "name": "The Messenger",
+          "website": "https://www.playstation.com/en-us/games/the-messenger/"
+        },
+        {
+          "name": "The MISSING: J.J. Macfield and the Island of Memories",
+          "website": "https://store.playstation.com/en-us/product/UP0036-CUSA12349_00-0000000000000000"
         },
         {
           "name": "The Outer Worlds",
@@ -4320,6 +4993,14 @@
           "website": "https://www.playstation.com/en-us/games/the-surge-ps4/"
         },
         {
+          "name": "The Surge 2",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA12564_00-0000000THESURGE2"
+        },
+        {
+          "name": "The Technomancer",
+          "website": "https://store.playstation.com/en-us/product/UP4133-CUSA03803_00-THETECHNOMANCER0"
+        },
+        {
           "name": "The Walking Dead: Saints & Sinners - Standard Edition",
           "website": "https://www.playstation.com/en-us/games/the-walking-dead-saints-sinners/"
         },
@@ -4330,6 +5011,18 @@
         {
           "name": "The Witness",
           "website": "https://store.playstation.com/en-us/product/UP2124-CUSA00498_00-THEWITNESSPS4PS4"
+        },
+        {
+          "name": "This is the Police",
+          "website": "https://store.playstation.com/en-us/product/UP4389-CUSA05852_00-THISISTHEPO00US1"
+        },
+        {
+          "name": "This Is the Police 2",
+          "website": "https://store.playstation.com/en-us/product/UP4389-CUSA11626_00-THISISTHEPO2US01"
+        },
+        {
+          "name": "This War of Mine: The Little Ones",
+          "website": "https://www.playstation.com/en-us/games/this-war-of-mine-the-little-ones/"
         },
         {
           "name": "Thumper",
@@ -4352,12 +5045,48 @@
           "website": "https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/"
         },
         {
+          "name": "Tom Clancy’s The Division™",
+          "website": "https://www.playstation.com/en-us/games/tom-clancys-the-division/"
+        },
+        {
+          "name": "Totally Reliable Delivery Service",
+          "website": "https://store.playstation.com/en-us/product/UP0097-CUSA18566_00-TOTALLYRELIABLE0"
+        },
+        {
+          "name": "TowerFall Ascension",
+          "website": "https://store.playstation.com/en-us/product/UP2120-CUSA00466_00-0000TOWERFALLPS4"
+        },
+        {
+          "name": "Transference",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA09609_00-TRANSFERENCE0000"
+        },
+        {
+          "name": "Trials Fusion™",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA00304_00-TRIALSFUSION0001"
+        },
+        {
+          "name": "Trials of The Blood Dragon",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA04198_00-TRIALSBDGAME1234"
+        },
+        {
+          "name": "Trials Rising",
+          "website": "https://www.playstation.com/en-us/games/trials-rising/"
+        },
+        {
+          "name": "TT Isle of Man: Ride on the Edge 2",
+          "website": "https://store.playstation.com/en-us/product/UP4008-CUSA17031_00-TT2SIEA000000000"
+        },
+        {
           "name": "UFC® 4",
           "website": "https://www.playstation.com/en-us/games/ea-sports-ufc-4/"
         },
         {
           "name": "Uncharted 4: A Thief's End",
           "website": "https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end-ps4/"
+        },
+        {
+          "name": "UNCHARTED: The Lost Legacy",
+          "website": "https://www.playstation.com/en-us/games/uncharted-the-lost-legacy/"
         },
         {
           "name": "Uncharted: The Nathan Drake Collection",
@@ -4376,20 +5105,40 @@
           "website": "https://www.playstation.com/en-us/games/until-you-fall/"
         },
         {
+          "name": "Valiant Hearts: The Great War™",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA00478_00-VALIANTHEARTS001"
+        },
+        {
           "name": "Vampyr",
           "website": "https://www.playstation.com/en-us/games/vampyr-ps4/"
+        },
+        {
+          "name": "Virginia",
+          "website": "https://store.playstation.com/en-us/product/UP4040-CUSA03127_00-VIRGINIA00000001"
         },
         {
           "name": "Virtua Fighter 5 Ultimate Showdown",
           "website": "https://store.playstation.com/en-hk/product/HP0177-CUSA27067_00-9030766588190582"
         },
         {
+          "name": "Warhammer 40,000: Inquisitor - Martyr",
+          "website": "https://store.playstation.com/en-us/product/UP4008-CUSA10632_00-WARHAMMER40KINQ1"
+        },
+        {
           "name": "Watch Dogs™",
           "website": "https://www.playstation.com/en-us/games/watch-dogs-ps4/"
         },
         {
+          "name": "Werewolves Within™",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA05323_00-WEREWOLVSWTHIN01"
+        },
+        {
           "name": "What Remains of Edith Finch",
           "website": "https://www.playstation.com/en-us/games/what-remains-of-edith-finch-ps4/"
+        },
+        {
+          "name": "Windbound",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA17782_00-WINDBOUNDGAMEUS0"
         },
         {
           "name": "Wing of Darkness",
@@ -4404,6 +5153,14 @@
           "website": "https://www.playstation.com/en-us/games/wolfenstein-cyberpilot-ps4/"
         },
         {
+          "name": "WORLD OF FINAL FANTASY",
+          "website": "https://store.playstation.com/en-us/product/UP0082-CUSA04647_00-WORLDOFFFPS40000"
+        },
+        {
+          "name": "Wreckfest",
+          "website": "https://www.playstation.com/en-us/games/wreckfest/"
+        },
+        {
           "name": "WWE 2K Battlegrounds",
           "website": "https://www.playstation.com/en-us/games/wwe-2k-battlegrounds/"
         },
@@ -4412,16 +5169,36 @@
           "website": "https://store.playstation.com/en-us/product/UP4380-CUSA07598_00-XMORPHDIGITALDLX"
         },
         {
+          "name": "XCOM® 2",
+          "website": "https://www.playstation.com/en-us/games/xcom-2/"
+        },
+        {
           "name": "Xuan-Yuan Sword VII",
           "website": "https://store.playstation.com/en-hk/product/HP3256-CUSA23482_00-XUANYUANSWORD007"
+        },
+        {
+          "name": "Y School Heroes: Bustlin' School life",
+          "website": "https://store.playstation.com/en-hk/product/JP0720-CUSA19264_00-YWY1GAME00000000"
+        },
+        {
+          "name": "YO-KAI WATCH 4++",
+          "website": "https://store.playstation.com/en-hk/product/JP0720-CUSA17589_00-ASIA000000000000"
         },
         {
           "name": "Yonder: The Cloud Catcher Chronicles",
           "website": "https://store.playstation.com/en-hk/product/HP5035-CUSA10978_00-YONDERCCCKR00000"
         },
         {
+          "name": "Ys VIII: Lacrimosa of DANA",
+          "website": "https://store.playstation.com/en-us/product/UP1063-CUSA08565_00-YSVIIIGAME000000"
+        },
+        {
           "name": "Zanki Zero: Last Beginning",
           "website": "https://store.playstation.com/en-us/product/UP4774-CUSA13221_00-ZANKIZEROPS40000"
+        },
+        {
+          "name": "ZOMBI",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA01886_00-ZUNEXTPS4PORT001"
         },
         {
           "name": "Zombie Army 4: Dead War",
@@ -4432,6 +5209,11 @@
     {
       "name": "PlayStation®5",
       "anchor": "#playstation5",
+      "duplication": {
+        "website": [
+          "https://www.playstation.com/en-us/games/ghost-of-tsushima/"
+        ]
+      },
       "badge": "https://img.shields.io/badge/PlayStation_5-{{count}}-ddd?logo=playstation&labelColor=white&logoColor=black",
       "hostnames": [
         "www.playstation.com",
@@ -4447,8 +5229,16 @@
           "website": "https://www.playstation.com/en-us/games/anno-mutationem/"
         },
         {
+          "name": "Ape Escape",
+          "website": "https://store.playstation.com/en-hk/product/EP9000-CUSA31965_00-SCES01564P000000"
+        },
+        {
           "name": "Assassin's Creed® Valhalla",
           "website": "https://www.playstation.com/en-us/games/assassins-creed-valhalla/"
+        },
+        {
+          "name": "Assetto Corsa Competizione",
+          "website": "https://store.playstation.com/en-us/product/UP4040-CUSA17301_00-ACCOMP0000000000"
         },
         {
           "name": "ASTRO's PLAYROOM",
@@ -4457,6 +5247,10 @@
         {
           "name": "Atelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition",
           "website": "https://store.playstation.com/en-us/product/UP4108-PPSA02093_00-ATELIERYZA2UE000"
+        },
+        {
+          "name": "BALAN WONDERWORLD",
+          "website": "https://www.playstation.com/en-us/games/balan-wonderworld/"
         },
         {
           "name": "Batman™: Arkham Knight",
@@ -4487,6 +5281,10 @@
           "website": "https://www.playstation.com/en-us/games/call-of-duty-vanguard/"
         },
         {
+          "name": "Can't Drive This",
+          "website": "https://store.playstation.com/en-hk/product/HP1276-PPSA02784_00-CDTPS5NEXTGEN000"
+        },
+        {
           "name": "Control: Ultimate Edition",
           "website": "https://store.playstation.com/en-hk/product/UP4040-PPSA01949_00-3990089525246341"
         },
@@ -4497,6 +5295,10 @@
         {
           "name": "Days Gone",
           "website": "https://www.playstation.com/en-us/games/days-gone/"
+        },
+        {
+          "name": "DEATH STRANDING DIRECTOR'S CUT",
+          "website": "https://www.playstation.com/en-us/games/death-stranding-directors-cut/"
         },
         {
           "name": "DEATHLOOP",
@@ -4531,12 +5333,24 @@
           "website": "https://www.playstation.com/en-us/games/dirt-5/"
         },
         {
+          "name": "Disney Pixar Toy Story 2: Buzz Lightyear to the Rescue!",
+          "website": "https://store.playstation.com/en-hk/product/UP1082-CUSA33334_00-6265507718650825"
+        },
+        {
           "name": "EA SPORTS™ FIFA 22",
           "website": "https://www.playstation.com/en-us/games/ea-sports-fifa-22/"
         },
         {
+          "name": "echochrome™",
+          "website": "https://store.playstation.com/en-hk/product/HP9000-CUSA32647_00-UCKS450820000000"
+        },
+        {
           "name": "Elden Ring",
           "website": "https://www.playstation.com/en-us/games/elden-ring"
+        },
+        {
+          "name": "Everybody's Golf",
+          "website": "https://store.playstation.com/en-hk/product/EP9000-CUSA32007_00-SCES009830000000"
         },
         {
           "name": "F.I.S.T: Forged in Shadow Torch",
@@ -4563,6 +5377,10 @@
           "website": "https://www.playstation.com/en-us/games/first-class-trouble/"
         },
         {
+          "name": "FORECLOSED",
+          "website": "https://store.playstation.com/en-us/product/UP1260-PPSA02483_00-4653158974428182"
+        },
+        {
           "name": "Ghost of Tsushima Director's Cut",
           "website": "https://www.playstation.com/en-us/games/ghost-of-tsushima/"
         },
@@ -4583,6 +5401,10 @@
           "website": "https://www.playstation.com/en-us/games/gran-turismo-7/"
         },
         {
+          "name": "GreedFall - Standard Edition",
+          "website": "https://www.playstation.com/en-us/games/greedfall/"
+        },
+        {
           "name": "Hades",
           "website": "https://www.playstation.com/en-us/games/hades/"
         },
@@ -4595,8 +5417,16 @@
           "website": "https://www.playstation.com/en-us/games/horizon-forbidden-west/"
         },
         {
+          "name": "Human: Fall Flat",
+          "website": "https://www.playstation.com/en-us/games/human-fall-flat/"
+        },
+        {
           "name": "Hunter's Arena: Legends",
           "website": "https://www.playstation.com/en-us/games/hunters-arena-legends/"
+        },
+        {
+          "name": "I Am Dead",
+          "website": "https://store.playstation.com/en-us/product/UP2470-PPSA02616_00-IAMDEADSIEA00000"
         },
         {
           "name": "Immortals Fenyx Rising™",
@@ -4609,6 +5439,10 @@
         {
           "name": "It Takes Two",
           "website": "https://www.playstation.com/en-us/games/it-takes-two/"
+        },
+        {
+          "name": "Jumping Flash!",
+          "website": "https://store.playstation.com/en-hk/product/EP9000-CUSA32019_00-SCES000030000000"
         },
         {
           "name": "Just Cause 4",
@@ -4627,12 +5461,32 @@
           "website": "https://www.playstation.com/en-us/games/knockout-city/"
         },
         {
+          "name": "Kona",
+          "website": "https://store.playstation.com/en-us/product/UP2047-PPSA05384_00-KONA1MAINGAMEPS5"
+        },
+        {
+          "name": "Kurushi",
+          "website": "https://store.playstation.com/en-hk/product/EP9000-CUSA32016_00-SCES008660000000"
+        },
+        {
+          "name": "Last Stop",
+          "website": "https://store.playstation.com/en-us/product/UP2470-PPSA02287_00-LASTSTOPSIEA0000"
+        },
+        {
+          "name": "Lawn Mowing Simulator",
+          "website": "https://store.playstation.com/en-us/product/UP4395-PPSA04870_00-LAWNMOWINGSIMPS5"
+        },
+        {
           "name": "Maneater PS5",
           "website": "https://store.playstation.com/en-us/product/UP0115-PPSA01861_00-MANEATER00000001"
         },
         {
           "name": "Maquette",
           "website": "https://store.playstation.com/en-hk/product/HP2418-PPSA01834_00-MAQUETTESIEJASIA"
+        },
+        {
+          "name": "Marvel's Guardians of the Galaxy",
+          "website": "https://www.playstation.com/en-us/games/marvels-guardians-of-the-galaxy/"
         },
         {
           "name": "Marvel's Spider-Man Remastered",
@@ -4647,12 +5501,44 @@
           "website": "https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-0000000000000000"
         },
         {
+          "name": "Monster Truck Championship",
+          "website": "https://store.playstation.com/en-us/product/UP4008-PPSA01902_00-MTC0SIEA00000000"
+        },
+        {
+          "name": "Mortal Kombat 11",
+          "website": "https://www.playstation.com/en-us/games/mortal-kombat-11/"
+        },
+        {
           "name": "Mortal Kombat X",
           "website": "https://www.playstation.com/en-us/games/mortal-kombat-x/"
         },
         {
+          "name": "Mr. Driller",
+          "website": "https://store.playstation.com/en-hk/product/HP0700-CUSA33765_00-MRDRILLER0000000"
+        },
+        {
+          "name": "MXGP 2021 - The Official Motocross Videogame",
+          "website": "https://www.playstation.com/en-us/games/mxgp-2021/"
+        },
+        {
+          "name": "NBA 2K22",
+          "website": "https://www.playstation.com/en-us/games/nba-2k22/"
+        },
+        {
+          "name": "Nickelodeon All-Star Brawl",
+          "website": "https://store.playstation.com/en-us/product/UP0283-PPSA02279_00-5063066328046533"
+        },
+        {
           "name": "Nobody Saves the World",
           "website": "https://store.playstation.com/en-us/product/UP2045-PPSA03332_00-6824837102800807"
+        },
+        {
+          "name": "Observer: System Redux",
+          "website": "https://store.playstation.com/en-us/product/UP4176-PPSA02118_00-8840415776217330"
+        },
+        {
+          "name": "Oddworld: Abe's Oddysee (PS1 Emulation)",
+          "website": "https://store.playstation.com/en-hk/product/UP4134-CUSA33999_00-3720818447088678"
         },
         {
           "name": "Oddworld: Soulstorm",
@@ -4695,12 +5581,20 @@
           "website": "https://www.playstation.com/en-us/games/returnal/"
         },
         {
+          "name": "RIDE 4",
+          "website": "https://www.playstation.com/en-us/games/ride-4/"
+        },
+        {
           "name": "Rocket Arena",
           "website": "https://www.playstation.com/en-us/games/rocket-arena/"
         },
         {
           "name": "Sackboy: A Big Adventure",
           "website": "https://www.playstation.com/en-us/games/sackboy-a-big-adventure/"
+        },
+        {
+          "name": "Saints Row: The Third Remastered",
+          "website": "https://store.playstation.com/en-us/product/UP2047-PPSA02873_00-SRTTRPS5SIEA0000"
         },
         {
           "name": "SCARLET NEXUS",
@@ -4711,8 +5605,24 @@
           "website": "https://store.playstation.com/en-us/product/UP0481-PPSA03801_00-9482550928209070"
         },
         {
+          "name": "Syphon Filter",
+          "website": "https://store.playstation.com/en-hk/product/UP9000-CUSA31967_00-SCUS942400000000"
+        },
+        {
           "name": "Tales of Arise",
           "website": "https://www.playstation.com/en-us/games/tales-of-arise/"
+        },
+        {
+          "name": "TEKKEN2",
+          "website": "https://store.playstation.com/en-hk/product/HP0700-CUSA33749_00-TEKKEN2000000000"
+        },
+        {
+          "name": "The Artful Escape",
+          "website": "https://store.playstation.com/en-us/product/UP2470-PPSA05082_00-ARTFULSIEA000000"
+        },
+        {
+          "name": "The Elder Scrolls Online",
+          "website": "https://store.playstation.com/en-us/product/UP1003-PPSA02017_00-OSPREYGAMECLIENT"
         },
         {
           "name": "The Last Guardian",
@@ -4727,6 +5637,10 @@
           "website": "https://www.playstation.com/en-us/games/the-pathless/"
         },
         {
+          "name": "Tour de France 2021",
+          "website": "https://store.playstation.com/en-us/product/UP6665-PPSA03341_00-TDF2100000000000"
+        },
+        {
           "name": "Tribes of Midgard",
           "website": "https://www.playstation.com/en-us/games/tribes-of-midgard/"
         },
@@ -4739,6 +5653,14 @@
           "website": "https://www.playstation.com/en-us/games/until-dawn/"
         },
         {
+          "name": "Warhammer: Chaosbane",
+          "website": "https://www.playstation.com/en-us/games/warhammer-chaosbane/"
+        },
+        {
+          "name": "Warhammer: Chaosbane Slayer Edition",
+          "website": "https://store.playstation.com/en-us/product/UP4008-PPSA01446_00-WHCBSIEA00000000"
+        },
+        {
           "name": "Watch Dogs®: Legion",
           "website": "https://www.playstation.com/en-us/games/watch-dogs-legion/"
         },
@@ -4747,12 +5669,28 @@
           "website": "https://store.playstation.com/en-ie/product/EP4008-PPSA02113_00-WTASIEE000000000"
         },
         {
+          "name": "Wild Arms",
+          "website": "https://store.playstation.com/en-hk/search/wild%20arms"
+        },
+        {
           "name": "World of Warships: Legends",
           "website": "https://www.playstation.com/en-us/games/world-of-warships-legends/"
         },
         {
+          "name": "Worms Armageddon [PS1 Emulation]",
+          "website": "https://store.playstation.com/en-hk/product/EP4064-CUSA33245_00-SLES022170000000"
+        },
+        {
           "name": "Worms Rumble",
           "website": "https://www.playstation.com/en-us/games/worms-rumble/"
+        },
+        {
+          "name": "Worms World Party [PS1 Emulation]",
+          "website": "https://store.playstation.com/en-hk/product/EP4064-CUSA33247_00-SLES038040000000"
+        },
+        {
+          "name": "WRC 10 FIA World Rally Championship",
+          "website": "https://www.playstation.com/en-us/games/wrc-10-fia-world-rally-championship/"
         },
         {
           "name": "Wreckfest",
