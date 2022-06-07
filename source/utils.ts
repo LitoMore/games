@@ -85,7 +85,10 @@ export const fuzzyMatched = (name: string, searchString?: string) => {
       "",
     )
       .includes(
-        normalizeName(searchString.slice(1)).toLowerCase(),
+        normalizeName(searchString.slice(1)).toLowerCase().replace(
+          /[^a-z0-9]/g,
+          "",
+        ),
       );
   }
 
