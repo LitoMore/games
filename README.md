@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-64-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-66-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1856-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1858-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1989,6 +1989,7 @@
 - [Assassin's Creed® Odyssey](https://www.xbox.com/en-US/games/store/assassins-creed-odyssey/BW9TWC8L4JCS/0001)
 - [Assassin's Creed® Origins](https://www.xbox.com/en-US/games/store/assassins-creed-origins/BZGJRJC1FGF3/0001)
 - [Assassin's Creed® Valhalla](https://www.xbox.com/en-US/games/store/assassins-creed-valhalla/9P4NJFH17MRT/0010)
+- [Aven Colony](https://www.xbox.com/en-HK/games/store/aven-colony/BZ5RJLM8NW91)
 - [Bleed 2](https://www.microsoft.com/en-us/p/Bleed-2/BVDG19SHG495)
 - [Broken Sword 5 - the Serpent's Curse](https://www.xbox.com/en-us/games/store/broken-sword-5-the-serpents-curse/bnt2nf1s3hnn)
 - [Cloning Clyde](https://www.xbox.com/en-us/games/store/cloning-clyde/9N4JZFCK7BBX)
@@ -2028,6 +2029,7 @@
 - [SpongeBob: Truth-Sq.](https://www.xbox.com/en-hk/games/store/spongebob-truth-sq/9nkfjtr38n6z)
 - [STREET FIGHTER IV](https://marketplace.xbox.com/en-US/Product/STREET-FIGHTER-IV/66acd000-77fe-1000-9115-d802434307e1)
 - [Street Power Football](https://www.xbox.com/en-hk/games/store/street-power-football/9n95j9gp26m1)
+- [Super Meat Boy](https://www.xbox.com/en-HK/games/store/super-meat-boy/c1365lm1q2dk)
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
 - [The Escapists 2](https://www.xbox.com/en-us/games/store/the-escapists-2/bs8xgcll3vqz)
 - [The Flame in the Flood](https://www.xbox.com/en-hk/games/store/the-flame-in-the-flood/bxkldp56hfgz)
