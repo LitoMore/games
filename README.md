@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-66-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-67-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1859-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1860-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2009,6 +2009,7 @@
 - [Hard Corps: Uprising](https://www.microsoft.com/en-us/p/hard-corps-uprising/c30z07t9q9ct)
 - [Hover](https://www.microsoft.com/en-us/p/Hover/BS39NGVS2SP7)
 - [Hue](https://www.xbox.com/en-us/games/store/Hue/BXLH97R22VM2)
+- [Joe Danger 2: The Movie](https://www.xbox.com/en-HK/games/store/joe-danger-2-the-movie/BVKX6B5FS9C1)
 - [Kingdom Two Crowns](https://www.xbox.com/en-us/games/store/kingdom-two-crowns/bwt2gpvwch2f)
 - [Little Nightmares](https://www.microsoft.com/en-us/p/Little-Nightmares/BWD88K55MK5W)
 - [Moving Out](https://www.xbox.com/en-us/games/store/Moving-Out/9NXPBSMHPLTV)
