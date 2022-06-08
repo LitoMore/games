@@ -3646,11 +3646,12 @@
       ]
     },
     {
-      "name": "Oculus",
-      "anchor": "#oculus",
-      "badge": "https://img.shields.io/badge/Oculus-{{count}}-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white",
+      "name": "Meta Quest",
+      "anchor": "#meta-quest",
+      "badge": "https://img.shields.io/badge/Meta_Quest-{{count}}-ddd?logo=meta&labelColor=0467df&logoColor=white",
       "hostnames": [
-        "www.oculus.com"
+        "www.oculus.com",
+        "store.facebook.com"
       ],
       "gameList": [
         {

@@ -52,8 +52,8 @@
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-218-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
-  <a href="#oculus">
-    <img src="https://img.shields.io/badge/Oculus-8-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
+  <a href="#meta-quest">
+    <img src="https://img.shields.io/badge/Meta_Quest-8-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -1015,7 +1015,7 @@
 - [Yoshi’s Crafted World™](https://www.nintendo.com/games/detail/yoshis-crafted-world-switch/)
 - [Zumba® Burn It Up!](https://www.nintendo.com/games/detail/zumba-burn-it-up-switch/)
 
-## Oculus
+## Meta Quest
 
 - [Beat Saber](https://www.oculus.com/experiences/quest/2448060205267927)
 - [Blade & Sorcery: Nomad](https://www.oculus.com/experiences/quest/2031826350263349)
