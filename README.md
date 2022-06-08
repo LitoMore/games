@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/NES-61-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-217-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-218-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#oculus">
     <img src="https://img.shields.io/badge/Oculus-8-ddd?logo=oculus&labelColor=1c1e20d&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1858-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1859-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -968,6 +968,7 @@
 - [SEGA Mega Drive - Nintendo Switch Online](https://store-jp.nintendo.com/list/software/70010000046986.html)
 - [Sid Meier’s Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch/)
 - [Snipperclips Plus - Cut it out, together!](https://www.nintendo.com/games/detail/snipperclips-plus-switch/)
+- [SNOW BROS. SPECIAL](https://www.nintendo.com/store/products/snow-bros-special-switch/)
 - [Splatoon™ 2](https://www.nintendo.com/games/detail/splatoon-2-switch/)
 - [Stardew Valley](https://www.nintendo.com/games/detail/stardew-valley-switch/)
 - [Super Bomberman R](https://www.nintendo.com/games/detail/super-bomberman-r-switch/)
