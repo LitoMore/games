@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-206-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-207-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1860-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1861-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -518,6 +518,7 @@
 - [Legends of Runeterra](https://www.epicgames.com/store/en-US/p/legends-of-runeterra)
 - [Loop Hero](https://www.epicgames.com/store/en-US/p/loop-hero)
 - [Mages of Mystralia](https://www.epicgames.com/store/en-US/p/mages-of-mystralia)
+- [Maneater](https://store.epicgames.com/en-US/p/maneater)
 - [Metro: 2033 Redux](https://www.epicgames.com/store/en-US/p/metro-2033-redux)
 - [Metro: Last Light Redux](https://www.epicgames.com/store/en-US/p/metro-last-light-redux)
 - [Minit](https://www.epicgames.com/store/en-US/p/minit)
