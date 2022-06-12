@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/Stadia-105-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-240-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-241-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-52-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1863-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1864-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1880,6 +1880,7 @@
 - [Trine 3: The Artifacts of Power](https://steamcommunity.com/app/319910)
 - [Unheard](https://steamcommunity.com/app/942970)
 - [Universe Sandbox](https://steamcommunity.com/app/230290)
+- [V Rising](https://steamcommunity.com/app/1604030)
 - [Valheim](https://steamcommunity.com/app/892970)
 - [Virgo Versus The Zodiac](https://steamcommunity.com/app/920320)
 - [Wallpaper Engine](https://steamcommunity.com/app/431960)
