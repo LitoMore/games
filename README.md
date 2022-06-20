@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-139-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-130-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-131-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-24-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1866-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1867-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -323,6 +323,7 @@
 - [KUUKIYOMI 2: Consider It More! - New Era](https://apps.apple.com/us/app/id1274969184)
 - [Kuukiyomi Pro](https://apps.apple.com/us/app/id1465347099)
 - [League of Legends: Wild Rift](https://apps.apple.com/ph/app/id1480616990)
+- [Legends of Runeterra](https://apps.apple.com/app/id1480617557)
 - [LEGO® AR Playgrounds](https://apps.apple.com/us/app/id1445150018)
 - [LEGO® Building Instructions](https://apps.apple.com/us/app/id1486159728)
 - [LEGO® POWERED UP](https://apps.apple.com/us/app/id1367846574)
