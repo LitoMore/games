@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/NES-61-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-218-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-219-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#meta-quest">
     <img src="https://img.shields.io/badge/Meta_Quest-8-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1867-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1868-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -857,6 +857,7 @@
 - [Eastward](https://www.nintendo.com/games/detail/eastward-switch/)
 - [ESCAPE TRICK: 35 Fateful Enigmas](https://www.nintendo.com/games/detail/escape-trick-35-fateful-enigmas-switch/)
 - [Evoland Legendary Edition](https://www.nintendo.com/games/detail/evoland-legendary-edition-switch/)
+- [Fall Guys](https://www.nintendo.com/store/products/fall-guys-switch/)
 - [Family Computer - Nintendo Switch Online](https://www.nintendo.co.jp/hardware/switch/onlineservice/fc/)
 - [FEZ](https://www.nintendo.com/games/detail/fez-switch/)
 - [FIFA 18](https://www.nintendolife.com/reviews/nintendo-switch/fifa_18)
