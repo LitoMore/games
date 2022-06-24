@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-208-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-210-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1868-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1870-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -423,6 +423,7 @@
 - [20XX](https://www.epicgames.com/store/en-US/p/20xx)
 - [3 out of 10, EP 1: "Welcome To Shovelworks"](https://www.epicgames.com/store/en-US/p/3-out-of-10-ep-1)
 - [3 out of 10: Season Two](https://www.epicgames.com/store/en-US/p/3-out-of-10-season-2)
+- [A Game Of Thrones: The Board Game Digital Edition](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)
 - [A Plague Tale: Innocence](https://www.epicgames.com/store/en-US/p/a-plague-tale-innocence)
 - [Absolute Drift](https://www.epicgames.com/store/en-US/p/absolute-drift)
 - [ABZU](https://www.epicgames.com/store/en-US/p/abzu)
@@ -447,6 +448,7 @@
 - [Borderlands: The Pre-Sequel](https://www.epicgames.com/store/en-US/p/borderlands-the-pre-sequel)
 - [Bridge Constructor: The Walking Dead](https://www.epicgames.com/store/en-US/p/bridge-constructor-the-walking-dead)
 - [Brothers - A Tale of Two Sons](https://www.epicgames.com/store/en-US/p/brothers-a-tale-of-two-sons)
+- [Car Mechanic Simulator 2018](https://store.epicgames.com/en-US/p/car-mechanic-simulator-2018)
 - [Carcassonne](https://www.epicgames.com/store/en-US/p/carcassonne)
 - [Cave Story®'s Secret Santa](https://www.epicgames.com/store/en-US/p/cave-storys-secret-santa-b6d437)
 - [Cave Story+](https://www.epicgames.com/store/en-US/p/cave-story-plus)
