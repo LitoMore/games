@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-139-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-156-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-131-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -99,12 +99,14 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1886-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1903-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
 ## Amazon Games
 
+- [10 Second Ninja X](https://images-na.ssl-images-amazon.com/images/I/414fPmDGijL.jpg)
+- [8Doors: Arum's Afterlife Adventure](https://images-na.ssl-images-amazon.com/images/I/41gm3-QznnL.jpg)
 - [A Blind Legend](https://images-na.ssl-images-amazon.com/images/I/41sJPY42QXS.jpg)
 - [A Normal Lost Phone](https://images-na.ssl-images-amazon.com/images/I/41qFAy59K7S.jpg)
 - [Abandon Ship](https://images-na.ssl-images-amazon.com/images/I/41Go92IhokL.jpg)
@@ -118,6 +120,7 @@
 - [Astrologaster](https://images-na.ssl-images-amazon.com/images/I/41hglRnHErL.jpg)
 - [Automachef](https://images-na.ssl-images-amazon.com/images/I/61lCqx9OTyL.jpg)
 - [BAFL - Brakes Are For Losers](https://images-na.ssl-images-amazon.com/images/I/41tTXAZ8GlL.jpg)
+- [Bang Bang Racing](https://images-na.ssl-images-amazon.com/images/I/51-MBaCx5HL.jpg)
 - [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
 - [Batman - The Enemy Within](https://images-na.ssl-images-amazon.com/images/I/61ZiWwlxBML.jpg)
 - [Batman - The Telltale Series](https://images-na.ssl-images-amazon.com/images/I/41tSzcUvDnL.jpg)
@@ -133,7 +136,9 @@
 - [Calico](https://images-na.ssl-images-amazon.com/images/I/51yzRh73sPL.jpg)
 - [Candleman: The Complete Journey](https://images-na.ssl-images-amazon.com/images/I/41oTfRlUA2L.jpg)
 - [Cat Quest](https://images-na.ssl-images-amazon.com/images/I/51LJ5Ss5TNL.jpg)
+- [Clouds & Sheep 2](https://images-na.ssl-images-amazon.com/images/I/51zmCFEilGL.jpg)
 - [Crypto Against All Odds](https://images-na.ssl-images-amazon.com/images/I/41aUXYHLK-L.jpg)
+- [Death Squared](https://images-na.ssl-images-amazon.com/images/I/4158UULS2ML.jpg)
 - [Demon Hunter 2: New Chapter](https://images-na.ssl-images-amazon.com/images/I/41DRdSEQBaL.jpg)
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
 - [Double Kick Heroes](https://images-na.ssl-images-amazon.com/images/I/51kJA4fOGJL.jpg)
@@ -147,9 +152,12 @@
 - [Frog Climbers](https://images-na.ssl-images-amazon.com/images/I/41nZGimGmBS.jpg)
 - [Galaxy of Pen and Paper](https://images-na.ssl-images-amazon.com/images/I/41pQeEecfEL.jpg)
 - [Garou: Mark of the Wolves](https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg)
+- [Giana Sisters: Twisted Dreams](https://images-na.ssl-images-amazon.com/images/I/51rdRExDVVL.jpg)
 - [Golazo! Soccer League](https://images-na.ssl-images-amazon.com/images/I/51DkCVKj2ML.jpg)
+- [Gone Viral](https://images-na.ssl-images-amazon.com/images/I/414ePg1PKAL.jpg)
 - [Guild of Ascension](https://images-na.ssl-images-amazon.com/images/I/41AXRlYIHUL.jpg)
 - [Healer's Quest](https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg)
+- [HUE](https://images-na.ssl-images-amazon.com/images/I/41esGVTJyfL.jpg)
 - [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
 - [Indiana Jones and the Fate of Atlantis](https://images-na.ssl-images-amazon.com/images/I/41P0j0+tDwS.jpg)
 - [Iris and the Giant](https://images-na.ssl-images-amazon.com/images/I/41OFIiY-UCL.jpg)
@@ -162,8 +170,10 @@
 - [Lost in Harmony](https://images-na.ssl-images-amazon.com/images/I/51qCd1cXydL.jpg)
 - [Mail Mole + 'Xpress Deliveries](https://images-na.ssl-images-amazon.com/images/I/41CxuvnY4LL.bbjpg)
 - [Mana Spark](https://images-na.ssl-images-amazon.com/images/I/413nUCcC7GS.jpg)
+- [Manual Samuel](https://images-na.ssl-images-amazon.com/images/I/41FnrrBpmVL.jpg)
 - [Metal Slug 2](https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg)
 - [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
+- [Metal Unit](https://images-na.ssl-images-amazon.com/images/I/51KbGFkyl4L.jpg)
 - [Metamorphosis](https://images-na.ssl-images-amazon.com/images/I/41SuIGzLwsS.jpg)
 - [Monkey Island 2 Special Edition: LeChuck's Revenge](https://images-na.ssl-images-amazon.com/images/I/51BkzvbjdxL.jpg)
 - [Monster Prom: Hotseat Edition](https://images-na.ssl-images-amazon.com/images/I/51nRAK5QHeL.jpg)
@@ -180,9 +190,11 @@
 - [Plant Alpha](https://images-na.ssl-images-amazon.com/images/I/41NItUoNtCS.jpg)
 - [Portal Dogs](https://images-na.ssl-images-amazon.com/images/I/61AAnHadacL.jpg)
 - [Pulstar](https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg)
+- [Pumped BMX Pro](https://images-na.ssl-images-amazon.com/images/I/41fr0Yo28cL.jpg)
 - [Puzzle Agent](https://images-na.ssl-images-amazon.com/images/I/417yiWhPz4L.jpg)
 - [Puzzle Agent 2](https://images-na.ssl-images-amazon.com/images/I/41gCrfJk1CL.jpg)
 - [RAD](https://images-na.ssl-images-amazon.com/images/I/617XkOfU4VL.jpg)
+- [Rain World](https://images-na.ssl-images-amazon.com/images/I/41IcvCvhLnL.jpg)
 - [Red Wings: Aces of the Sky](https://images-na.ssl-images-amazon.com/images/I/41gp31NRJIL.jpg)
 - [Rogue Heroes: Ruins of Tasos](https://images-na.ssl-images-amazon.com/images/I/51jks9rVXzL.jpg)
 - [Sam and Max Hit the Road](https://images-na.ssl-images-amazon.com/images/I/51ceukl9cAL.jpg)
@@ -193,6 +205,7 @@
 - [Secret Files: Sam Peters](https://images-na.ssl-images-amazon.com/images/I/412kSoip3LL.jpg)
 - [Secret Files: Tunguska](https://images-na.ssl-images-amazon.com/images/I/411b84JxTmS.jpg)
 - [Sengoku 3](https://images-na.ssl-images-amazon.com/images/I/51OqxYzuPUL.jpg)
+- [Serial Cleaner](https://images-na.ssl-images-amazon.com/images/I/41qAbIg1PpL.jpg)
 - [Shattered - Tale of the Forgotten King](https://images-na.ssl-images-amazon.com/images/I/41IDYv8CbdL.jpg)
 - [Shock Troopers](https://images-na.ssl-images-amazon.com/images/I/51Cnw8dv7AL.jpg)
 - [Shock Troopers 2nd Squad](https://images-na.ssl-images-amazon.com/images/I/51RCuh-K5tL.jpg)
@@ -218,8 +231,11 @@
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
 - [The Blind Prophet](https://images-na.ssl-images-amazon.com/images/I/41cznbpARHS.jpg)
+- [The Crow's Eye](https://images-na.ssl-images-amazon.com/images/I/41dnBmCc-gL.jpg)
 - [The Curse of Monkey Island](https://images-na.ssl-images-amazon.com/images/I/41dOCokHgfL.jpg)
 - [The Dark Crystal: Age of Resistance Tactics](https://images-na.ssl-images-amazon.com/images/I/41iLzPBFjDL.jpg)
+- [The Darkside Detective](https://images-na.ssl-images-amazon.com/images/I/41tZxZmSuAL.jpg)
+- [The Darkside Detective: A Fumble in the Dark](https://images-na.ssl-images-amazon.com/images/I/41wNV4jXqvL.jpg)
 - [The Escapists](https://images-na.ssl-images-amazon.com/images/I/41Kb8VDshJL.jpg)
 - [The King of Fighters '98 Ultimate Match Final Edition](https://images-na.ssl-images-amazon.com/images/I/41qpZ-kv70L.jpg)
 - [The King of Fighters 2000](https://images-na.ssl-images-amazon.com/images/I/41Wjf4l03CL.jpg)
@@ -227,6 +243,7 @@
 - [The King of Fighters 2002 Unlimited Match](https://images-na.ssl-images-amazon.com/images/I/419qf06lJJL.jpg)
 - [The King of Fighters 97 Global Match](https://images-na.ssl-images-amazon.com/images/I/41WC6yyAMmL.jpg)
 - [The Last Blade 2](https://images-na.ssl-images-amazon.com/images/I/51mIp68C2yL.jpg)
+- [The Metronomicon: Slay the Dance Floor](https://images-na.ssl-images-amazon.com/images/I/51ZuaoTs-rL.jpg)
 - [The Secret of Monkey Island: Special Edition](https://images-na.ssl-images-amazon.com/images/I/61kOEDVeufL.jpg)
 - [The Stillness of the Wind](https://images-na.ssl-images-amazon.com/images/I/41PvAU18+ML.jpg)
 - [The Wanderer: Frankenstein's Creature](https://images-na.ssl-images-amazon.com/images/I/61BQKl6r4sL.jpg)

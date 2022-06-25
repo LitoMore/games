@@ -9,6 +9,14 @@
       ],
       "gameList": [
         {
+          "name": "10 Second Ninja X",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/414fPmDGijL.jpg"
+        },
+        {
+          "name": "8Doors: Arum's Afterlife Adventure",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41gm3-QznnL.jpg"
+        },
+        {
           "name": "A Blind Legend",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41sJPY42QXS.jpg"
         },
@@ -59,6 +67,10 @@
         {
           "name": "BAFL - Brakes Are For Losers",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41tTXAZ8GlL.jpg"
+        },
+        {
+          "name": "Bang Bang Racing",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51-MBaCx5HL.jpg"
         },
         {
           "name": "Baseball Stars 2",
@@ -121,8 +133,16 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/51LJ5Ss5TNL.jpg"
         },
         {
+          "name": "Clouds & Sheep 2",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51zmCFEilGL.jpg"
+        },
+        {
           "name": "Crypto Against All Odds",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41aUXYHLK-L.jpg"
+        },
+        {
+          "name": "Death Squared",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/4158UULS2ML.jpg"
         },
         {
           "name": "Demon Hunter 2: New Chapter",
@@ -177,8 +197,16 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg"
         },
         {
+          "name": "Giana Sisters: Twisted Dreams",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51rdRExDVVL.jpg"
+        },
+        {
           "name": "Golazo! Soccer League",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51DkCVKj2ML.jpg"
+        },
+        {
+          "name": "Gone Viral",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/414ePg1PKAL.jpg"
         },
         {
           "name": "Guild of Ascension",
@@ -187,6 +215,10 @@
         {
           "name": "Healer's Quest",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg"
+        },
+        {
+          "name": "HUE",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41esGVTJyfL.jpg"
         },
         {
           "name": "In Other Waters",
@@ -237,12 +269,20 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/413nUCcC7GS.jpg"
         },
         {
+          "name": "Manual Samuel",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41FnrrBpmVL.jpg"
+        },
+        {
           "name": "Metal Slug 2",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg"
         },
         {
           "name": "Metal Slug 3",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg"
+        },
+        {
+          "name": "Metal Unit",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51KbGFkyl4L.jpg"
         },
         {
           "name": "Metamorphosis",
@@ -309,6 +349,10 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg"
         },
         {
+          "name": "Pumped BMX Pro",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41fr0Yo28cL.jpg"
+        },
+        {
           "name": "Puzzle Agent",
           "website": "https://images-na.ssl-images-amazon.com/images/I/417yiWhPz4L.jpg"
         },
@@ -319,6 +363,10 @@
         {
           "name": "RAD",
           "website": "https://images-na.ssl-images-amazon.com/images/I/617XkOfU4VL.jpg"
+        },
+        {
+          "name": "Rain World",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41IcvCvhLnL.jpg"
         },
         {
           "name": "Red Wings: Aces of the Sky",
@@ -359,6 +407,10 @@
         {
           "name": "Sengoku 3",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51OqxYzuPUL.jpg"
+        },
+        {
+          "name": "Serial Cleaner",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41qAbIg1PpL.jpg"
         },
         {
           "name": "Shattered - Tale of the Forgotten King",
@@ -461,12 +513,24 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/41cznbpARHS.jpg"
         },
         {
+          "name": "The Crow's Eye",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41dnBmCc-gL.jpg"
+        },
+        {
           "name": "The Curse of Monkey Island",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41dOCokHgfL.jpg"
         },
         {
           "name": "The Dark Crystal: Age of Resistance Tactics",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41iLzPBFjDL.jpg"
+        },
+        {
+          "name": "The Darkside Detective",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41tZxZmSuAL.jpg"
+        },
+        {
+          "name": "The Darkside Detective: A Fumble in the Dark",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/41wNV4jXqvL.jpg"
         },
         {
           "name": "The Escapists",
@@ -495,6 +559,10 @@
         {
           "name": "The Last Blade 2",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51mIp68C2yL.jpg"
+        },
+        {
+          "name": "The Metronomicon: Slay the Dance Floor",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51ZuaoTs-rL.jpg"
         },
         {
           "name": "The Secret of Monkey Island: Special Edition",
