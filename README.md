@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Steam-241-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
-    <img src="https://img.shields.io/badge/SNES-52-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
   </a>
   <a href="#uplay">
     <img src="https://img.shields.io/badge/Uplay-3-ddd?logo=ubisoft&labelColor=0070ff"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1906-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1911-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1960,6 +1960,7 @@
 - [Breath of Fire II](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Caveman Ninja (also known as Joe & Mac)](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Claymates](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Congo's Caper](https://www.nintendo.com/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Demon's Crest](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Donkey Kong Country](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Donkey Kong Country 2: Diddy’s Kong-Quest](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
@@ -1971,8 +1972,11 @@
 - [Jelly Boy](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Joe & Mac 2: Lost in the Tropics](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Kirby Super Star™](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Kirby Super Star™](https://www.nintendo.com/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Kirby's Dream Course™](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Kirby's Dream Course™](https://www.nintendo.com/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Kirby's Dream Land™ 3](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Kirby's Dream Land™ 3](https://www.nintendo.com/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Magical Drop2](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Mario’s Super Picross](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Natsume Championship Wrestling](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
@@ -1982,6 +1986,7 @@
 - [Pop'n TwinBee](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Prehistorik Man](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Psycho Dream](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Rival Turf!](https://www.nintendo.com/store/products/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Smash Tennis™](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Spanky’s™Quest](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Star Fox™](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
