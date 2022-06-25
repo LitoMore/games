@@ -2343,18 +2343,89 @@
     {
       "name": "Legacy Games",
       "anchor": "#legacy-games",
+      "duplication": {
+        "website": [
+          "https://legacygames.com/product/puzzle-of-the-year-10-pack/",
+          "https://legacygames.com/product/road-trip-3-pack/",
+          "https://legacygames.com/product/addling-adventures-3-pack/"
+        ]
+      },
       "badge": "https://img.shields.io/badge/Legacy_Games-{{count}}-ddd?labelColor=144a9f",
       "hostnames": [
         "legacygames.com"
       ],
       "gameList": [
         {
+          "name": "Angelo & Deemon: One Hell of a Quest",
+          "website": "https://legacygames.com/product/addling-adventures-3-pack/"
+        },
+        {
+          "name": "Evergarden",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
+          "name": "Hook",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
           "name": "House Of 1000 Doors: Family Secrets",
           "website": "https://legacygames.com/product/house-of-1000-doors-5-pack/"
         },
         {
+          "name": "Klocki",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
+          "name": "LIT: Bend the Light",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
+          "name": "Lyne",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
+          "name": "Naboki",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
+          "name": "NagiQ 2: Treasure Hunt",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
+          "name": "Prune",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
+          "name": "Road Trip: Europe",
+          "website": "https://legacygames.com/product/road-trip-3-pack/"
+        },
+        {
+          "name": "Road Trip: USA",
+          "website": "https://legacygames.com/product/road-trip-3-pack/"
+        },
+        {
+          "name": "Road Trip: USA 2 West CE",
+          "website": "https://legacygames.com/product/road-trip-3-pack/"
+        },
+        {
+          "name": "Rosette and Words",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
           "name": "Rubek",
           "website": "https://legacygames.com/product/bonus-game-rubek/"
+        },
+        {
+          "name": "The Wild Case",
+          "website": "https://legacygames.com/product/addling-adventures-3-pack/"
+        },
+        {
+          "name": "Up Left Out",
+          "website": "https://legacygames.com/product/puzzle-of-the-year-10-pack/"
+        },
+        {
+          "name": "Varenje",
+          "website": "https://legacygames.com/product/addling-adventures-3-pack/"
         }
       ]
     },

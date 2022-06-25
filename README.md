@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
-    <img src="https://img.shields.io/badge/Legacy_Games-2-ddd?labelColor=144a9f"/>
+    <img src="https://img.shields.io/badge/Legacy_Games-18-ddd?labelColor=144a9f"/>
   </a>
   <a href="#microsoft-store">
     <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=0067c0"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1870-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1886-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -690,8 +690,24 @@
 
 ## Legacy Games
 
+- [Angelo & Deemon: One Hell of a Quest](https://legacygames.com/product/addling-adventures-3-pack/)
+- [Evergarden](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [Hook](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [House Of 1000 Doors: Family Secrets](https://legacygames.com/product/house-of-1000-doors-5-pack/)
+- [Klocki](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [LIT: Bend the Light](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [Lyne](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [Naboki](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [NagiQ 2: Treasure Hunt](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [Prune](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [Road Trip: Europe](https://legacygames.com/product/road-trip-3-pack/)
+- [Road Trip: USA](https://legacygames.com/product/road-trip-3-pack/)
+- [Road Trip: USA 2 West CE](https://legacygames.com/product/road-trip-3-pack/)
+- [Rosette and Words](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Rubek](https://legacygames.com/product/bonus-game-rubek/)
+- [The Wild Case](https://legacygames.com/product/addling-adventures-3-pack/)
+- [Up Left Out](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [Varenje](https://legacygames.com/product/addling-adventures-3-pack/)
 
 ## Microsoft Store
 
