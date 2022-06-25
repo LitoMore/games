@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-entertainment-system">
-    <img src="https://img.shields.io/badge/NES-61-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NES-62-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-219-ddd?logo=nintendo-switch&labelColor=e60012"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1903-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1904-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -806,6 +806,7 @@
 - [Nightshade](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Ninja Gaiden](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Ninja JaJaMaru-kun](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [Pinball](https://www.nintendo.com/store/products/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Pro Wrestling](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Punch-Out!!™ Featuring Mr. Dream](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [River City Ransom](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
