@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-121-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
-    <img src="https://img.shields.io/badge/SEGA_Genesis-22-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SEGA_Genesis-25-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-105-ddd?logo=stadia&labelColor=cd2640"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1911-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1914-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1591,8 +1591,11 @@
 - [Phantasy Star 4: The End of the Millennium ](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Ristar](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Shining Force ](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
+- [Shining Force II](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/)
 - [Shinobi 3](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Sonic the Hedgehog 2](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
+- [Sonic The Hedgehog Spinball](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/)
+- [Space Harrier II](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/)
 - [Streets of Rage 2](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Strider](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Super Fantasy Zone](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
