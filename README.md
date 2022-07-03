@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-211-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-214-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1929-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1932-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -509,6 +509,7 @@
 - [Fortnite](https://www.epicgames.com/store/en-US/p/fortnite)
 - [Frostpunk](https://www.epicgames.com/store/en-US/p/frostpunk)
 - [Galactic Civilizations III](https://www.epicgames.com/store/en-US/p/galactic-civilizations-iii)
+- [Geneforge 1: Mutagen](https://store.epicgames.com/en-US/p/geneforge-1-mutagen)
 - [Genshin Impact](https://www.epicgames.com/store/en-US/p/genshin-impact)
 - [Ghostbusters: The Video Game Remastered](https://www.epicgames.com/store/en-US/p/ghostbusters-the-video-game-remastered)
 - [God's Trigger](https://www.epicgames.com/store/en-US/p/gods-trigger)
@@ -523,6 +524,7 @@
 - [Hell is other demons](https://www.epicgames.com/store/en-US/p/hell-is-other-demons)
 - [HITMAN](https://www.epicgames.com/store/en-US/p/hitman)
 - [Hob](https://www.epicgames.com/store/en-US/p/hob)
+- [Hood: Outlaws & Legends](https://store.epicgames.com/en-US/p/hood-outlaws-and-legends)
 - [Horizon Chase Turbo](https://www.epicgames.com/store/en-US/p/horizon-chase-turbo)
 - [Hue](https://www.epicgames.com/store/en-US/p/hue)
 - [Idle Champions of the Forgotten Realms](https://www.epicgames.com/store/en-US/p/idle-champions-of-the-forgotten-realms)
@@ -531,6 +533,7 @@
 - [Inside](https://www.epicgames.com/store/en-US/p/inside)
 - [Insurmountable](https://store.epicgames.com/en-US/p/insurmountable-b02c31)
 - [Into The Breach](https://www.epicgames.com/store/en-US/p/into-the-breach)
+- [Iratus: Lord of the Dead](https://store.epicgames.com/en-US/p/iratus-d0e5ba)
 - [Ironcast](https://www.epicgames.com/store/en-US/p/ironcast)
 - [Jotun: Valhalla Edition](https://www.epicgames.com/store/en-US/p/jotun)
 - [Jurassic World Evolution](https://www.epicgames.com/store/en-US/p/jurassic-world-evolution)
