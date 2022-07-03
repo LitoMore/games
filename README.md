@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-156-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-160-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-131-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1915-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1919-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -148,7 +148,9 @@
 - [Fahrenheit: Indigo Prophecy Remastered](https://images-na.ssl-images-amazon.com/images/I/41VPSnTYLXL.jpg)
 - [Faraway: Director's Cut](https://images-na.ssl-images-amazon.com/images/I/41tBJUB2HPS.jpg)
 - [Fatal Fury Special](https://images-na.ssl-images-amazon.com/images/I/51n1J7RP2rL.jpg)
+- [Fell Seal: Arbiter's Mark](https://images-na.ssl-images-amazon.com/images/I/41fqrLgoGjL.jpg)
 - [Figment](https://images-na.ssl-images-amazon.com/images/I/41Kj+hdi3lL.jpg)
+- [Fishing: North Atlantic](https://images-na.ssl-images-amazon.com/images/I/41dDH2US0hL.jpg)
 - [Frog Climbers](https://images-na.ssl-images-amazon.com/images/I/41nZGimGmBS.jpg)
 - [Galaxy of Pen and Paper](https://images-na.ssl-images-amazon.com/images/I/41pQeEecfEL.jpg)
 - [Garou: Mark of the Wolves](https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg)
@@ -170,6 +172,7 @@
 - [Lost in Harmony](https://images-na.ssl-images-amazon.com/images/I/51qCd1cXydL.jpg)
 - [Mail Mole + 'Xpress Deliveries](https://images-na.ssl-images-amazon.com/images/I/41CxuvnY4LL.bbjpg)
 - [Mana Spark](https://images-na.ssl-images-amazon.com/images/I/413nUCcC7GS.jpg)
+- [Maniac Mansion](https://images-na.ssl-images-amazon.com/images/I/41QkCnsXlGL.jpg)
 - [Manual Samuel](https://images-na.ssl-images-amazon.com/images/I/41FnrrBpmVL.jpg)
 - [Metal Slug 2](https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg)
 - [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
@@ -220,6 +223,7 @@
 - [SteamWorld Quest: Hand of Gilgamech](https://images-na.ssl-images-amazon.com/images/I/512UzdrrfJL.jpg)
 - [Strata](https://images-na.ssl-images-amazon.com/images/I/41Y5n+c728L.jpg)
 - [Stubbs the Zombie in Rebel Without ap Pulse](https://images-na.ssl-images-amazon.com/images/I/41XpKqAuNnL.jpg)
+- [Suzerain](https://images-na.ssl-images-amazon.com/images/I/419ZhSyzHsL.jpg)
 - [Swimsanity! - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51m6tg4jpcL.jpg)
 - [Table Manners](https://images-na.ssl-images-amazon.com/images/I/518y8hZMjiL.jpg)
 - [Tales of Monkey Island: Chapter 1](https://images-na.ssl-images-amazon.com/images/I/41pzTRtBA0L.jpg)
