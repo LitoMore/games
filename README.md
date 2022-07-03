@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-68-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-70-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1925-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1927-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2055,6 +2055,7 @@
 - [Assassin's Creed® Origins](https://www.xbox.com/en-US/games/store/assassins-creed-origins/BZGJRJC1FGF3/0001)
 - [Assassin's Creed® Valhalla](https://www.xbox.com/en-US/games/store/assassins-creed-valhalla/9P4NJFH17MRT/0010)
 - [Aven Colony](https://www.xbox.com/en-HK/games/store/aven-colony/BZ5RJLM8NW91)
+- [Beasts of Maravilla Island](https://www.xbox.com/en-US/games/store/beasts-of-maravilla-island/9p2qkszk1k4x)
 - [Bleed 2](https://www.microsoft.com/en-us/p/Bleed-2/BVDG19SHG495)
 - [Broken Sword 5 - the Serpent's Curse](https://www.xbox.com/en-us/games/store/broken-sword-5-the-serpents-curse/bnt2nf1s3hnn)
 - [Cloning Clyde](https://www.xbox.com/en-us/games/store/cloning-clyde/9N4JZFCK7BBX)
@@ -2103,6 +2104,7 @@
 - [The Inner World - The Last Wind Monk](https://www.xbox.com/en-US/games/store/the-inner-world-the-last-wind-monk/c0194l4m9qr2)
 - [The King's Bird](https://www.microsoft.com/en-us/p/the-kings-bird/9nz5057nl64c)
 - [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
+- [Thrillville: OTR](https://www.xbox.com/en-US/games/store/thrillville-otr/9pcgss4qg4hs)
 - [Tomb Raider: Definitive Edition](https://www.microsoft.com/en-us/p/tomb-raider-definitive-edition/bqxts0sx4w0n)
 - [Tropico 4](https://www.microsoft.com/en-us/p/tropico-4/bqcrwnb8zqbs)
 - [Tropico 5 - Penultimate Edition](https://www.xbox.com/en-us/games/store/tropico-5-penultimate-edition/bsmg6rbzh4lq)
