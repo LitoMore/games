@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-363-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-121-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-123-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-25-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1927-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1929-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1492,6 +1492,7 @@
 - [Elden Ring](https://www.playstation.com/en-us/games/elden-ring)
 - [Everybody's Golf](https://store.playstation.com/en-hk/product/EP9000-CUSA32007_00-SCES009830000000)
 - [F.I.S.T: Forged in Shadow Torch](https://www.playstation.com/en-us/games/fist-forged-in-shadow-torch/)
+- [Fall Guys: Ultimate Knockout](https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/)
 - [Fallout 4](https://www.playstation.com/en-us/games/fallout-4/)
 - [Far Cry 6](https://www.playstation.com/en-us/games/far-cry-6/)
 - [FINAL FANTASY VII REMAKE INTERGRADE](https://www.playstation.com/en-us/games/final-fantasy-vii-remake-intergrade/)
@@ -1563,6 +1564,7 @@
 - [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian/)
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered/)
 - [The Pathless](https://www.playstation.com/en-us/games/the-pathless/)
+- [Tiny Tina's Wonderlands](https://www.playstation.com/en-us/games/tiny-tinas-wonderlands/)
 - [Tour de France 2021](https://store.playstation.com/en-us/product/UP6665-PPSA03341_00-TDF2100000000000)
 - [Tribes of Midgard](https://www.playstation.com/en-us/games/tribes-of-midgard/)
 - [Uncharted 4: A Thief’s End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
