@@ -6066,6 +6066,10 @@
           "website": "https://stadia.google.com/store/details/19efd5fa36794d7b8bc87de68124e705rcp1/sku/a7f0a6098ae747788a6f75d0d1e1d8f2p"
         },
         {
+          "name": "Centipede: Recharged",
+          "website": "https://stadia.google.com/game/centipede-recharged"
+        },
+        {
           "name": "Chicken Police - Paint it RED!",
           "website": "https://stadia.google.com/store/details/7482e6a205f840d2a31ee967dfdc8f73rcp1/sku/5672f10bacd64938aa51568fe5d0b6a4p"
         },
@@ -6162,8 +6166,16 @@
           "website": "https://stadia.google.com/store/details/f3519f3dc3d74fbb8086520577b832e0rcp1/sku/60da786be741463fbbeb63ed5130bc11"
         },
         {
+          "name": "Fast and Furious: Spy Racers Rise of SH1FT3R",
+          "website": "https://stadia.google.com/game/fast-and-furious-spy-racers-rise-of-sh1ft3r"
+        },
+        {
           "name": "Figment",
           "website": "https://stadia.google.com/store/details/7183914d07034cb1bbb8a511779bc1efrcp1/sku/dfc0719b3a5b48ab8213033dc72bfdfcp"
+        },
+        {
+          "name": "Five Nights at Freddy's: Security Breach",
+          "website": "https://stadia.google.com/game/five-nights-at-freddys-security-breach"
         },
         {
           "name": "FLOOR KIDS",
@@ -6346,6 +6358,10 @@
           "website": "https://stadia.google.com/store/details/8c452d1e69554c36a28b64ee8344037drcp1/sku/29857d666ee24e56a7c52ce2f8f561b4p"
         },
         {
+          "name": "Roguebook",
+          "website": "https://stadia.google.com/game/roguebook"
+        },
+        {
           "name": "Saints Row: Re-Elected",
           "website": "https://stadia.google.com/store/details/5325f670b13d4c959123c437948d1834rcp1/sku/fafc0429262e4930b682a7e02365e8cep"
         },
@@ -6406,6 +6422,10 @@
           "website": "https://stadia.google.com/store/details/5de3aed0b1b4439887e1cb4458f9cec8rcp1/sku/692590363fe44ae9bbf8eb28c171a9afp"
         },
         {
+          "name": "Those Who Remain",
+          "website": "https://stadia.google.com/game/those-who-remain"
+        },
+        {
           "name": "Through the Darkest of Times",
           "website": "https://stadia.google.com/game/through-the-darkest-of-times"
         },
@@ -6440,6 +6460,10 @@
         {
           "name": "World War Z: Aftermath",
           "website": "https://stadia.google.com/store/details/f06818137947441f92b742e1a0e3b348rcp1/sku/c4973b47c0464948b68923e041ac6a30p"
+        },
+        {
+          "name": "Worms W.M.D",
+          "website": "https://stadia.google.com/game/worms-wmd"
         },
         {
           "name": "Wreckfest",
