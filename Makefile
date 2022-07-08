@@ -1,5 +1,5 @@
 .DEFAULT_GOAL := default
-.SILENT: lint add add-platform check fix build reset search
+.SILENT: lint add add-platform check fix build reset search summary
 
 lint:
 	deno lint
@@ -24,5 +24,8 @@ reset:
 
 search:
 	cd source && deno run --allow-read search.ts "$(anchor)" "$(name)"
+
+summary:
+	cd source && deno run --allow-read summary.ts
 
 default: lint check build
