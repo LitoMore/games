@@ -10,7 +10,7 @@ jobs:
         uses: denoland/setup-deno@main
         with:
           deno-version: v1.x
+      - run: deno --version
       - run: |
-          deno --version
           make
           make summary
