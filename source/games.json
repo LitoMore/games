@@ -1411,6 +1411,10 @@
           "website": "https://www.epicgames.com/store/en-US/p/among-us"
         },
         {
+          "name": "Ancient Enemy",
+          "website": "https://store.epicgames.com/en-US/p/ancient-enemy"
+        },
+        {
           "name": "ARK: Survival Evolved",
           "website": "https://www.epicgames.com/store/en-US/p/ark"
         },
@@ -1749,6 +1753,10 @@
         {
           "name": "KID A MNESIA EXHIBITION",
           "website": "https://www.epicgames.com/store/en-US/p/kid-a-mnesia-exhibition"
+        },
+        {
+          "name": "Killing Floor 2",
+          "website": "https://store.epicgames.com/en-US/p/killing-floor-2"
         },
         {
           "name": "Kingdom Come: Deliverance",
