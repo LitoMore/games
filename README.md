@@ -59,10 +59,10 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-363-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-364-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-123-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-126-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-25-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1934-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1938-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1458,6 +1458,7 @@
 - [Yonder: The Cloud Catcher Chronicles](https://store.playstation.com/en-hk/product/HP5035-CUSA10978_00-YONDERCCCKR00000)
 - [Ys VIII: Lacrimosa of DANA](https://store.playstation.com/en-us/product/UP1063-CUSA08565_00-YSVIIIGAME000000)
 - [Zanki Zero: Last Beginning](https://store.playstation.com/en-us/product/UP4774-CUSA13221_00-ZANKIZEROPS40000)
+- [Zero Strain](https://store.playstation.com/en-us/product/UP2005-CUSA18570_00-ZEROSTRAIN000000)
 - [ZOMBI](https://store.playstation.com/en-us/product/UP0001-CUSA01886_00-ZUNEXTPS4PORT001)
 - [Zombie Army 4: Dead War](https://www.playstation.com/en-us/games/zombie-army-4-dead-war/)
 
@@ -1466,6 +1467,7 @@
 - [A Plague Tale: Innocence](https://www.playstation.com/en-us/games/a-plague-tale-innocence/)
 - [ANNO: Mutationem](https://www.playstation.com/en-us/games/anno-mutationem/)
 - [Ape Escape](https://store.playstation.com/en-hk/product/EP9000-CUSA31965_00-SCES01564P000000)
+- [Arcadegeddon](https://www.playstation.com/en-us/games/arcadegeddon/)
 - [Assassin's Creed® Valhalla](https://www.playstation.com/en-us/games/assassins-creed-valhalla/)
 - [Assetto Corsa Competizione](https://store.playstation.com/en-us/product/UP4040-CUSA17301_00-ACCOMP0000000000)
 - [ASTRO's PLAYROOM](https://www.playstation.com/en-us/games/astros-playroom/)
@@ -1480,6 +1482,7 @@
 - [Call of Duty®: Vanguard](https://www.playstation.com/en-us/games/call-of-duty-vanguard/)
 - [Can't Drive This](https://store.playstation.com/en-hk/product/HP1276-PPSA02784_00-CDTPS5NEXTGEN000)
 - [Control: Ultimate Edition](https://store.playstation.com/en-hk/product/UP4040-PPSA01949_00-3990089525246341)
+- [Crash Bandicoot™ 4: It's About Time](https://www.playstation.com/en-us/games/crash-bandicoot-4-its-about-time/)
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
 - [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
 - [DEATH STRANDING DIRECTOR'S CUT](https://www.playstation.com/en-us/games/death-stranding-directors-cut/)
@@ -1586,6 +1589,7 @@
 - [Worms World Party [PS1 Emulation]](https://store.playstation.com/en-hk/product/EP4064-CUSA33247_00-SLES038040000000)
 - [WRC 10 FIA World Rally Championship](https://www.playstation.com/en-us/games/wrc-10-fia-world-rally-championship/)
 - [Wreckfest](https://www.playstation.com/en-us/games/wreckfest/)
+- [Zero Strain](https://store.playstation.com/en-us/product/UP2005-PPSA03915_00-ZEROSTRAIN000000)
 
 ## SEGA Genesis™
 

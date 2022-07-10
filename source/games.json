@@ -5425,6 +5425,10 @@
           "website": "https://store.playstation.com/en-us/product/UP4774-CUSA13221_00-ZANKIZEROPS40000"
         },
         {
+          "name": "Zero Strain",
+          "website": "https://store.playstation.com/en-us/product/UP2005-CUSA18570_00-ZEROSTRAIN000000"
+        },
+        {
           "name": "ZOMBI",
           "website": "https://store.playstation.com/en-us/product/UP0001-CUSA01886_00-ZUNEXTPS4PORT001"
         },
@@ -5459,6 +5463,10 @@
         {
           "name": "Ape Escape",
           "website": "https://store.playstation.com/en-hk/product/EP9000-CUSA31965_00-SCES01564P000000"
+        },
+        {
+          "name": "Arcadegeddon",
+          "website": "https://www.playstation.com/en-us/games/arcadegeddon/"
         },
         {
           "name": "Assassin's Creed® Valhalla",
@@ -5515,6 +5523,10 @@
         {
           "name": "Control: Ultimate Edition",
           "website": "https://store.playstation.com/en-hk/product/UP4040-PPSA01949_00-3990089525246341"
+        },
+        {
+          "name": "Crash Bandicoot™ 4: It's About Time",
+          "website": "https://www.playstation.com/en-us/games/crash-bandicoot-4-its-about-time/"
         },
         {
           "name": "Crash Bandicoot™ N. Sane Trilogy",
@@ -5939,6 +5951,10 @@
         {
           "name": "Wreckfest",
           "website": "https://www.playstation.com/en-us/games/wreckfest/"
+        },
+        {
+          "name": "Zero Strain",
+          "website": "https://store.playstation.com/en-us/product/UP2005-PPSA03915_00-ZEROSTRAIN000000"
         }
       ]
     },
