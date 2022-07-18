@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-70-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-72-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1940-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1942-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2101,6 +2101,7 @@
 - [Port Royale 3](https://www.microsoft.com/en-us/p/port-royale-3/bqmptj2mvcqj)
 - [Powerstar Golf](https://www.microsoft.com/en-us/p/powerstar-golf/bnq94hh98ztp)
 - [Project Highrise: Architect's Edition](https://www.xbox.com/en-US/games/store/project-highrise-architects-edition/bnjlmb6jqt98)
+- [Relicta](https://www.xbox.com/en-US/games/store/Relicta/9NVPM74DD797)
 - [Resident Evil](https://www.xbox.com/en-US/games/resident-evil)
 - [ROBLOX](https://www.microsoft.com/en-us/p/ROBLOX/BQ1TN1T79V9K)
 - [Rock of Ages 3: Make & Break](https://www.microsoft.com/en-us/p/rock-of-ages-3-make-break/9n9ksxhrnhw1)
@@ -2119,6 +2120,7 @@
 - [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
 - [Thrillville: OTR](https://www.xbox.com/en-US/games/store/thrillville-otr/9pcgss4qg4hs)
 - [Tomb Raider: Definitive Edition](https://www.microsoft.com/en-us/p/tomb-raider-definitive-edition/bqxts0sx4w0n)
+- [Torchlight](https://www.xbox.com/en-HK/games/store/torchlight/c5kdxm27b23f)
 - [Tropico 4](https://www.microsoft.com/en-us/p/tropico-4/bqcrwnb8zqbs)
 - [Tropico 5 - Penultimate Edition](https://www.xbox.com/en-us/games/store/tropico-5-penultimate-edition/bsmg6rbzh4lq)
 - [TUNIC](https://www.xbox.com/en-us/games/store/tunic/9nlrt31z4rwm)
