@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Nintendo_Switch-219-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#meta-quest">
-    <img src="https://img.shields.io/badge/Meta_Quest-8-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Meta_Quest-12-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1942-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1946-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1075,10 +1075,14 @@
 - [Beat Saber](https://www.oculus.com/experiences/quest/2448060205267927)
 - [Blade & Sorcery: Nomad](https://www.oculus.com/experiences/quest/2031826350263349)
 - [First Steps for Quest 2](https://www.oculus.com/experiences/quest/3675568169182204)
+- [Floating world - Alpha](https://www.oculus.com/experiences/quest/3649816788453163)
 - [Fruit Ninja](https://www.oculus.com/experiences/quest/2215140511885250)
 - [Horizon Workrooms](https://www.oculus.com/experiences/quest/2514011888645651)
+- [Immersed](https://www.oculus.com/experiences/quest/2849273531812512)
 - [Kizuna AI - Touch the Beat!](https://www.oculus.com/experiences/quest/3857024597703276)
+- [SKYBOX VR Video Player](https://www.oculus.com/experiences/quest/2063931653705427)
 - [The Room VR: A Dark Matter](https://www.oculus.com/experiences/quest/2124523024270629)
+- [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772)
 - [VRChat](https://www.oculus.com/experiences/quest/1856672347794301)
 
 ## Origin
