@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     name: Deno
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       - name: Setup Deno
         uses: denoland/setup-deno@main
         with:
