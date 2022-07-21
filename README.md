@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-217-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-219-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1946-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1948-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -603,6 +603,7 @@
 - [Sheltered](https://www.epicgames.com/store/en-US/p/sheltered)
 - [Shenmue 3](https://www.epicgames.com/store/en-US/p/shenmue-3)
 - [Sherlock Holmes: Crimes and Punishments](https://www.epicgames.com/store/en-US/p/sherlock-holmes-crimes-and-punishments)
+- [Shop Titans](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)
 - [Sid Meier's Civilization® VI](https://www.epicgames.com/store/en-US/p/sid-meiers-civilization-vi)
 - [Sludge Life](https://www.epicgames.com/store/en-US/p/sludge-life)
 - [Solitairica](https://www.epicgames.com/store/en-US/p/solitairica)
@@ -621,6 +622,7 @@
 - [Surviving Mars](https://www.epicgames.com/store/en-US/p/surviving-mars)
 - [Tacoma](https://www.epicgames.com/store/en-US/p/tacoma)
 - [Tales of the Neon Sea](https://www.epicgames.com/store/en-US/p/tales-of-the-neon-sea)
+- [Tanenberg](https://store.epicgames.com/en-US/p/tannenberg)
 - [Terraforming Mars](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)
 - [Tharsis](https://www.epicgames.com/store/en-US/p/tharsis)
 - [The Alto Collection](https://www.epicgames.com/store/en-US/p/the-alto-collection)
