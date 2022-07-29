@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-9-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-219-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-220-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1948-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1949-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -544,6 +544,7 @@
 - [Killing Floor 2](https://store.epicgames.com/en-US/p/killing-floor-2)
 - [Kingdom Come: Deliverance](https://www.epicgames.com/store/en-US/p/kingdom-come-deliverance)
 - [Kingdom New Lands](https://www.epicgames.com/store/en-US/p/kingdom-new-lands)
+- [Lawn Mowing Simulator](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)
 - [Layers of Fear 2](https://www.epicgames.com/store/en-US/p/layers-of-fear-2)
 - [League of Legends](https://www.epicgames.com/store/en-US/p/league-of-legends)
 - [Legends of Runeterra](https://www.epicgames.com/store/en-US/p/legends-of-runeterra)
