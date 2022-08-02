@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-160-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-164-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-131-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1949-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1953-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -124,6 +124,7 @@
 - [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
 - [Batman - The Enemy Within](https://images-na.ssl-images-amazon.com/images/I/61ZiWwlxBML.jpg)
 - [Batman - The Telltale Series](https://images-na.ssl-images-amazon.com/images/I/41tSzcUvDnL.jpg)
+- [Beasts of Maravilla Island](https://images-na.ssl-images-amazon.com/images/I/41MAEezbuQL.jpg)
 - [Before I Forge](https://images-na.ssl-images-amazon.com/images/I/314xBFn+hsL.jpg)
 - [Beholder](https://images-na.ssl-images-amazon.com/images/I/41sxMfZTa+S.jpg)
 - [BFF or Die](https://images-na.ssl-images-amazon.com/images/I/41e6drXiqqL.jpg)
@@ -198,11 +199,13 @@
 - [Puzzle Agent 2](https://images-na.ssl-images-amazon.com/images/I/41gCrfJk1CL.jpg)
 - [RAD](https://images-na.ssl-images-amazon.com/images/I/617XkOfU4VL.jpg)
 - [Rain World](https://images-na.ssl-images-amazon.com/images/I/41IcvCvhLnL.jpg)
+- [Recompile](https://images-na.ssl-images-amazon.com/images/I/41xqQydsL6L.jpg)
 - [Red Wings: Aces of the Sky](https://images-na.ssl-images-amazon.com/images/I/41gp31NRJIL.jpg)
 - [Rogue Heroes: Ruins of Tasos](https://images-na.ssl-images-amazon.com/images/I/51jks9rVXzL.jpg)
 - [Sam and Max Hit the Road](https://images-na.ssl-images-amazon.com/images/I/51ceukl9cAL.jpg)
 - [Samurai Shodown II](https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg)
 - [Samurai Shodown V Special](https://images-na.ssl-images-amazon.com/images/I/41BTivtNKNL.jpg)
+- [ScourgeBringer](https://images-na.ssl-images-amazon.com/images/I/41RAyaEVysL.jpg)
 - [Secret Files 2: Puritas Cordis](https://images-na.ssl-images-amazon.com/images/I/41iZ9lOZvZL.jpg)
 - [Secret Files 3](https://images-na.ssl-images-amazon.com/images/I/41P3uq+EcML.jpg)
 - [Secret Files: Sam Peters](https://images-na.ssl-images-amazon.com/images/I/412kSoip3LL.jpg)
@@ -265,6 +268,7 @@
 - [WRC 8](https://images-na.ssl-images-amazon.com/images/I/411gArERiJL.jpg)
 - [Yoku's Island Express](https://images-na.ssl-images-amazon.com/images/I/41XjHktTocS.jpg)
 - [Youtubers Life](https://images-na.ssl-images-amazon.com/images/I/41SwO+8GhyL.jpg)
+- [Zak McKracken and the Alien Mindbenders](https://images-na.ssl-images-amazon.com/images/I/41EVUhwZ9vL.jpg)
 
 ## App Store
 
