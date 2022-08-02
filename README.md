@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
-    <img src="https://img.shields.io/badge/Legacy_Games-18-ddd?labelColor=144a9f"/>
+    <img src="https://img.shields.io/badge/Legacy_Games-19-ddd?labelColor=144a9f"/>
   </a>
   <a href="#microsoft-store">
     <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=0067c0"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1954-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1955-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -728,6 +728,7 @@
 
 - [Angelo & Deemon: One Hell of a Quest](https://legacygames.com/product/addling-adventures-3-pack/)
 - [Evergarden](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [Family Mysteries: Poisonous Promises](https://legacygames.com/prime-gaming-poisonous-promises/)
 - [Hook](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [House Of 1000 Doors: Family Secrets](https://legacygames.com/product/house-of-1000-doors-5-pack/)
 - [Klocki](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
