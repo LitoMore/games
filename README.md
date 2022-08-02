@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/SEGA_Genesis-25-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-112-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-118-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-241-ddd?logo=steam&labelColor=171a21"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1955-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1961-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1643,6 +1643,7 @@
 - [Bloodstained: Ritual of the Night](https://stadia.google.com/store/details/df3c9859e1d14300941f62a693d140e2rcp1/sku/10f078ceb83f47cb8657d965c28e1ac2p)
 - [Blue Fire](https://stadia.google.com/store/details/e9c4d2fc77424c34b0cd570bd761aab0rcp1/sku/f368b1f436404e55bd96d733652d75a7p)
 - [Cake Bash](https://stadia.google.com/store/details/19efd5fa36794d7b8bc87de68124e705rcp1/sku/a7f0a6098ae747788a6f75d0d1e1d8f2p)
+- [Calico](https://stadia.google.com/game/calico)
 - [Centipede: Recharged](https://stadia.google.com/game/centipede-recharged)
 - [Chicken Police - Paint it RED!](https://stadia.google.com/store/details/7482e6a205f840d2a31ee967dfdc8f73rcp1/sku/5672f10bacd64938aa51568fe5d0b6a4p)
 - [Chronos: Before the Ashes](https://stadia.google.com/store/details/3f94b62fa50c4202be10472947478f8frcp1/sku/c3fcca2c75614bf6b634bedc2f766003p)
@@ -1698,8 +1699,10 @@
 - [Lumote: The Mastermote Chronicles](https://stadia.google.com/store/details/25e92c9cd0fb416a8e3495f18c6c6587rcp1/sku/4b9a9483fce64aa48d373a6ec9c72976p)
 - [Mafia III: Definitive Edition](https://stadia.google.com/store/details/9092c5ed87224f3e8a277dac0479874frcp1/sku/5be0350274a142b1acbfa2a958d494f9)
 - [Merek's Market](https://stadia.google.com/store/details/1509dbd662b7403f9497661157b9ca6brcp1/sku/86ce32e71e954f9b8d9c17aad82d50ccp)
+- [Monster Jam Stell Titans 2](https://stadia.google.com/game/monster-jam-steel-titans-2)
 - [Moonlighter](https://stadia.google.com/store/details/703fbd4ee94441299adeaace6446f27arcp1/sku/a12ef65cefdd48d5856ed5c4cde6b977p)
 - [MotoGP™20](https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5)
+- [Murder by Numbers](https://stadia.google.com/game/murder-by-numbers)
 - [Nanotale - Typing Chronicles](https://stadia.google.com/store/details/4108770e33414848ae849cb6ad14e685rcp1/sku/32f70a285ee34bdfba4261237f869ad9p)
 - [One Hand Clapping](https://stadia.google.com/store/details/76309b9f2f294b07b410e8b6aa879273rcp1/sku/55b718bf03544bd3a9f6a62946fe7436)
 - [Orcs Must Die! 3](https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a)
@@ -1718,6 +1721,8 @@
 - [Resident Evil 7 biohazard Gold Edition](https://stadia.google.com/store/details/8c452d1e69554c36a28b64ee8344037drcp1/sku/29857d666ee24e56a7c52ce2f8f561b4p)
 - [Roguebook](https://stadia.google.com/game/roguebook)
 - [Saints Row: Re-Elected](https://stadia.google.com/store/details/5325f670b13d4c959123c437948d1834rcp1/sku/fafc0429262e4930b682a7e02365e8cep)
+- [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered)
+- [Shantae: Half - Genie Hero Ultimate Edition](https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition)
 - [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/store/details/4fe5de76fee2427591e4a61d046a20d0rcp1/sku/e8eeb695a5194e3e8e412f41d99db082p)
 - [SpongeBobSquarePants:Battle for Bikini BottomRehydrated](https://stadia.google.com/store/details/53bd183291e340dda697167108d3dc6brcp1/sku/a25302b5cbc44d03b1440d2adaa0dd5ap)
 - [STAR WARS Jedi: Fallen Order™](https://stadia.google.com/store/details/36c01626f21f428e8d5ae35ce19c774brcp1/sku/73f14fd59eb3417c8439562f54d2fc4a)
@@ -1742,6 +1747,7 @@
 - [Valkyria Chronicles 4 Complete Edition](https://stadia.google.com/store/details/b00e2f20b91e43c8a0597b07fc80ca84rcp1/sku/bd0a6e3669c7410c8c3f86779cac1f44p)
 - [Wave Break](https://stadia.google.com/store/details/3e7b24085e704c10ab03f93a19947c14rcp1/sku/599a08652fad4a41baad8591e18e83e2)
 - [Wavetale](https://stadia.google.com/store/details/68297438f4ca40828f91b31db3ce746ercp1/sku/32da1095f7c642aeb90ed11e4e7fbae9p)
+- [Welcom to Elk](https://stadia.google.com/game/welcome-to-elk)
 - [World War Z: Aftermath](https://stadia.google.com/store/details/f06818137947441f92b742e1a0e3b348rcp1/sku/c4973b47c0464948b68923e041ac6a30p)
 - [Worms W.M.D](https://stadia.google.com/game/worms-wmd)
 - [Wreckfest](https://stadia.google.com/store/details/586beac11cb345289d46125b859396farcp1/sku/ce650e8fa4d84cdbbb6433953fde398cp)

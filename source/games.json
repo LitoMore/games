@@ -6166,6 +6166,10 @@
           "website": "https://stadia.google.com/store/details/19efd5fa36794d7b8bc87de68124e705rcp1/sku/a7f0a6098ae747788a6f75d0d1e1d8f2p"
         },
         {
+          "name": "Calico",
+          "website": "https://stadia.google.com/game/calico"
+        },
+        {
           "name": "Centipede: Recharged",
           "website": "https://stadia.google.com/game/centipede-recharged"
         },
@@ -6386,12 +6390,20 @@
           "website": "https://stadia.google.com/store/details/1509dbd662b7403f9497661157b9ca6brcp1/sku/86ce32e71e954f9b8d9c17aad82d50ccp"
         },
         {
+          "name": "Monster Jam Stell Titans 2",
+          "website": "https://stadia.google.com/game/monster-jam-steel-titans-2"
+        },
+        {
           "name": "Moonlighter",
           "website": "https://stadia.google.com/store/details/703fbd4ee94441299adeaace6446f27arcp1/sku/a12ef65cefdd48d5856ed5c4cde6b977p"
         },
         {
           "name": "MotoGP™20",
           "website": "https://stadia.google.com/store/details/e465c4086aff4884990933d9f119f5f5rcp1/sku/b0c60f8483be419eb2335a79a0783cc5"
+        },
+        {
+          "name": "Murder by Numbers",
+          "website": "https://stadia.google.com/game/murder-by-numbers"
         },
         {
           "name": "Nanotale - Typing Chronicles",
@@ -6464,6 +6476,14 @@
         {
           "name": "Saints Row: Re-Elected",
           "website": "https://stadia.google.com/store/details/5325f670b13d4c959123c437948d1834rcp1/sku/fafc0429262e4930b682a7e02365e8cep"
+        },
+        {
+          "name": "Saints Row®: The Third™ - Remastered",
+          "website": "https://stadia.google.com/game/saints-row-the-third-remastered"
+        },
+        {
+          "name": "Shantae: Half - Genie Hero Ultimate Edition",
+          "website": "https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition"
         },
         {
           "name": "Shantae: Risky's Revenge - Director's Cut",
@@ -6560,6 +6580,10 @@
         {
           "name": "Wavetale",
           "website": "https://stadia.google.com/store/details/68297438f4ca40828f91b31db3ce746ercp1/sku/32da1095f7c642aeb90ed11e4e7fbae9p"
+        },
+        {
+          "name": "Welcom to Elk",
+          "website": "https://stadia.google.com/game/welcome-to-elk"
         },
         {
           "name": "World War Z: Aftermath",
