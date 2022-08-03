@@ -4101,6 +4101,26 @@
           "website": "https://store.playstation.com/en-us/product/UP2470-CUSA14332_00-ASHENSIEA1111111"
         },
         {
+          "name": "Assassin's Creed® Freedom Cry",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA00416_00-ACBFDLCSPSA00001"
+        },
+        {
+          "name": "Assassin's Creed® Rogue Remastered",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA10158_00-ACRGAMEPS4000001"
+        },
+        {
+          "name": "Assassin's Creed® The Ezio Collection",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA05008_00-ACLEGACYHD000000"
+        },
+        {
+          "name": "Assassin's Creed® Unity",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA00663_00-AC4GAMEPS4000001"
+        },
+        {
+          "name": "Assassin’s Creed® IV Black Flag™",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA00010_00-AC4GAMEPS4000001"
+        },
+        {
           "name": "Assassin’s Creed® Origins",
           "website": "https://www.playstation.com/en-us/games/assassins-creed-origins-ps4/"
         },
@@ -4753,6 +4773,10 @@
           "website": "https://www.playstation.com/en-us/games/marvels-spider-man-ps4/"
         },
         {
+          "name": "Marvel's Spider-Man: Game of the Year Edition",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA02299_00-MARVELSSMGOTY000"
+        },
+        {
           "name": "MATTERFALL",
           "website": "https://store.playstation.com/en-us/product/UP9000-CUSA07765_00-MATTERFALLUS0001"
         },
@@ -4921,6 +4945,10 @@
           "website": "https://store.playstation.com/en-us/product/UP2047-CUSA14853_00-KINGMAKER00000US"
         },
         {
+          "name": "Paw Patrol: On a Roll!",
+          "website": "https://store.playstation.com/en-us/product/UP3824-CUSA10445_00-PP10000000000000"
+        },
+        {
           "name": "PAYDAY 2: CRIMEWAVE EDITION",
           "website": "https://www.playstation.com/en-us/games/payday-2-crimewave-edition/"
         },
@@ -4985,6 +5013,10 @@
           "website": "https://store.playstation.com/en-us/product/UP9000-CUSA01047_00-RATCHETPS4000000"
         },
         {
+          "name": "ReadySet Heroes",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA15404_00-G2PGTINMAN000001"
+        },
+        {
           "name": "Red Dead Redemption 2",
           "website": "https://www.playstation.com/en-us/games/red-dead-redemption-2/"
         },
@@ -5043,6 +5075,14 @@
         {
           "name": "Ryu Ga Gotoku 7: Hikari To Yami No Yukue",
           "website": "https://www.playstation.com/en-hk/games/ryu-ga-gotoku-7/"
+        },
+        {
+          "name": "Saints Row IV Re-Elected",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA01164_00-DIGISAINTSROW4NG"
+        },
+        {
+          "name": "Saints Row: Gat Out of Hell",
+          "website": "https://store.playstation.com/en-us/product/UP2047-CUSA00997_00-DIGISAINTSROWGAT"
         },
         {
           "name": "Sakura Wars™",
@@ -5649,6 +5689,10 @@
           "website": "https://store.playstation.com/en-hk/product/HP9000-CUSA32647_00-UCKS450820000000"
         },
         {
+          "name": "echoshift",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA33585_00-NPUG803030000000"
+        },
+        {
           "name": "Elden Ring",
           "website": "https://www.playstation.com/en-us/games/elden-ring"
         },
@@ -5789,12 +5833,20 @@
           "website": "https://store.playstation.com/en-us/product/UP4395-PPSA04870_00-LAWNMOWINGSIMPS5"
         },
         {
+          "name": "LocoRoco Midnight Carnival",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA32639_00-0000000000000000"
+        },
+        {
           "name": "Maneater PS5",
           "website": "https://store.playstation.com/en-us/product/UP0115-PPSA01861_00-MANEATER00000001"
         },
         {
           "name": "Maquette",
           "website": "https://store.playstation.com/en-hk/product/HP2418-PPSA01834_00-MAQUETTESIEJASIA"
+        },
+        {
+          "name": "Marvel's Avengers",
+          "website": "https://www.playstation.com/en-us/games/marvels-avengers/"
         },
         {
           "name": "Marvel's Guardians of the Galaxy",
@@ -5839,6 +5891,10 @@
         {
           "name": "Nickelodeon All-Star Brawl",
           "website": "https://store.playstation.com/en-us/product/UP0283-PPSA02279_00-5063066328046533"
+        },
+        {
+          "name": "No Heroes Allowed!",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA33595_00-NPUG804600000000"
         },
         {
           "name": "Nobody Saves the World",
@@ -5917,6 +5973,10 @@
           "website": "https://store.playstation.com/en-us/product/UP0481-PPSA03801_00-9482550928209070"
         },
         {
+          "name": "Stray",
+          "website": "https://www.playstation.com/en-us/games/stray/"
+        },
+        {
           "name": "Syphon Filter",
           "website": "https://store.playstation.com/en-hk/product/UP9000-CUSA31967_00-SCUS942400000000"
         },
@@ -5927,6 +5987,10 @@
         {
           "name": "TEKKEN2",
           "website": "https://store.playstation.com/en-hk/product/HP0700-CUSA33749_00-TEKKEN2000000000"
+        },
+        {
+          "name": "Tennis World Tour 2",
+          "website": "https://store.playstation.com/en-us/product/UP4008-PPSA02020_00-TWT2SIEA00000000"
         },
         {
           "name": "The Artful Escape",

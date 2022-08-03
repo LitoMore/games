@@ -59,10 +59,10 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-366-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-376-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-128-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-134-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-25-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1965-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1981-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1127,6 +1127,11 @@
 - [AO Tennis 2](https://store.playstation.com/en-us/product/UP4008-CUSA17121_00-AO2SIEA000000000)
 - [ARK: Survival Evolved](https://www.playstation.com/en-hk/games/ark-survival-evolved/)
 - [Ashen](https://store.playstation.com/en-us/product/UP2470-CUSA14332_00-ASHENSIEA1111111)
+- [Assassin's Creed® Freedom Cry](https://store.playstation.com/en-us/product/UP0001-CUSA00416_00-ACBFDLCSPSA00001)
+- [Assassin's Creed® Rogue Remastered](https://store.playstation.com/en-us/product/UP0001-CUSA10158_00-ACRGAMEPS4000001)
+- [Assassin's Creed® The Ezio Collection](https://store.playstation.com/en-us/product/UP0001-CUSA05008_00-ACLEGACYHD000000)
+- [Assassin's Creed® Unity](https://store.playstation.com/en-us/product/UP0001-CUSA00663_00-AC4GAMEPS4000001)
+- [Assassin’s Creed® IV Black Flag™](https://store.playstation.com/en-us/product/UP0001-CUSA00010_00-AC4GAMEPS4000001)
 - [Assassin’s Creed® Origins](https://www.playstation.com/en-us/games/assassins-creed-origins-ps4/)
 - [Assetto Corsa Competizione](https://store.playstation.com/en-us/product/UP4040-CUSA17301_00-ACCOMP0000000000)
 - [ASTRO BOT Rescue Mission](https://www.playstation.com/en-us/games/astro-bot-rescue-mission/)
@@ -1290,6 +1295,7 @@
 - [Mahjong](https://store.playstation.com/en-us/product/UP4008-CUSA04962_00-MAHJONG000000000)
 - [Marvel's Iron Man VR](https://www.playstation.com/en-us/games/marvels-iron-man-vr-ps4/)
 - [Marvel's Spider-Man](https://www.playstation.com/en-us/games/marvels-spider-man-ps4/)
+- [Marvel's Spider-Man: Game of the Year Edition](https://store.playstation.com/en-us/product/UP9000-CUSA02299_00-MARVELSSMGOTY000)
 - [MATTERFALL](https://store.playstation.com/en-us/product/UP9000-CUSA07765_00-MATTERFALLUS0001)
 - [MedEvil](https://www.playstation.com/en-us/games/medievil/)
 - [Megadimension Neptunia VII](https://store.playstation.com/en-us/product/UP0031-CUSA03133_00-GAME000000000000)
@@ -1332,6 +1338,7 @@
 - [Patapon™ 2 Remastered](https://www.playstation.com/en-us/games/patapon-2-remastered-ps4/)
 - [Patapon™ Remastered](https://www.playstation.com/en-us/games/patapon-remastered-ps4/)
 - [Pathfinder: Kingmaker - Definitive Edition](https://store.playstation.com/en-us/product/UP2047-CUSA14853_00-KINGMAKER00000US)
+- [Paw Patrol: On a Roll!](https://store.playstation.com/en-us/product/UP3824-CUSA10445_00-PP10000000000000)
 - [PAYDAY 2: CRIMEWAVE EDITION](https://www.playstation.com/en-us/games/payday-2-crimewave-edition/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5-ps4/)
 - [Persona 5 Scramble: The Phantom Strikers](https://www.playstation.com/en-hk/games/persona-5-scramble-the-phantom-strikers-ps4/)
@@ -1348,6 +1355,7 @@
 - [Project CARS 3](https://www.playstation.com/en-us/games/project-cars-3/)
 - [Rainbow Moon](https://store.playstation.com/en-us/product/UP2005-CUSA03443_00-RAINBOWMOON00001)
 - [Ratchet & Clank™](https://store.playstation.com/en-us/product/UP9000-CUSA01047_00-RATCHETPS4000000)
+- [ReadySet Heroes](https://store.playstation.com/en-us/product/UP9000-CUSA15404_00-G2PGTINMAN000001)
 - [Red Dead Redemption 2](https://www.playstation.com/en-us/games/red-dead-redemption-2/)
 - [Redout: Lightspeed Edition](https://www.playstation.com/en-us/games/redout-lightspeed-edition-ps4/)
 - [Relicta](https://store.playstation.com/en-us/product/UP2047-CUSA17538_00-ARELICTA00000000)
@@ -1363,6 +1371,8 @@
 - [Risk® Urban Assault](https://store.playstation.com/en-us/product/UP0001-CUSA02108_00-RISKGAMEPS400004)
 - [Ruined King: A League of Legends Story™ - Deluxe Edition Bundle](https://www.playstation.com/en-us/games/ruined-king-a-league-of-legends-story/)
 - [Ryu Ga Gotoku 7: Hikari To Yami No Yukue](https://www.playstation.com/en-hk/games/ryu-ga-gotoku-7/)
+- [Saints Row IV Re-Elected](https://store.playstation.com/en-us/product/UP2047-CUSA01164_00-DIGISAINTSROW4NG)
+- [Saints Row: Gat Out of Hell](https://store.playstation.com/en-us/product/UP2047-CUSA00997_00-DIGISAINTSROWGAT)
 - [Sakura Wars™](https://www.playstation.com/en-us/games/sakura-wars-ps4/)
 - [Seasons after Fall](https://store.playstation.com/en-us/product/UP4133-CUSA03158_00-SEASONSAFTERFALL)
 - [Secret Neighbor](https://store.playstation.com/en-us/product/UP0097-CUSA25164_00-1498554604360333)
@@ -1513,6 +1523,7 @@
 - [Disney Pixar Toy Story 2: Buzz Lightyear to the Rescue!](https://store.playstation.com/en-hk/product/UP1082-CUSA33334_00-6265507718650825)
 - [EA SPORTS™ FIFA 22](https://www.playstation.com/en-us/games/ea-sports-fifa-22/)
 - [echochrome™](https://store.playstation.com/en-hk/product/HP9000-CUSA32647_00-UCKS450820000000)
+- [echoshift](https://store.playstation.com/en-us/product/UP9000-CUSA33585_00-NPUG803030000000)
 - [Elden Ring](https://www.playstation.com/en-us/games/elden-ring)
 - [Everybody's Golf](https://store.playstation.com/en-hk/product/EP9000-CUSA32007_00-SCES009830000000)
 - [F.I.S.T: Forged in Shadow Torch](https://www.playstation.com/en-us/games/fist-forged-in-shadow-torch/)
@@ -1548,8 +1559,10 @@
 - [Kurushi](https://store.playstation.com/en-hk/product/EP9000-CUSA32016_00-SCES008660000000)
 - [Last Stop](https://store.playstation.com/en-us/product/UP2470-PPSA02287_00-LASTSTOPSIEA0000)
 - [Lawn Mowing Simulator](https://store.playstation.com/en-us/product/UP4395-PPSA04870_00-LAWNMOWINGSIMPS5)
+- [LocoRoco Midnight Carnival](https://store.playstation.com/en-us/product/UP9000-CUSA32639_00-0000000000000000)
 - [Maneater PS5](https://store.playstation.com/en-us/product/UP0115-PPSA01861_00-MANEATER00000001)
 - [Maquette](https://store.playstation.com/en-hk/product/HP2418-PPSA01834_00-MAQUETTESIEJASIA)
+- [Marvel's Avengers](https://www.playstation.com/en-us/games/marvels-avengers/)
 - [Marvel's Guardians of the Galaxy](https://www.playstation.com/en-us/games/marvels-guardians-of-the-galaxy/)
 - [Marvel's Spider-Man Remastered](https://www.playstation.com/en-us/games/marvels-spider-man-remastered/)
 - [Marvel's Spider-Man: Miles Morales](https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/)
@@ -1561,6 +1574,7 @@
 - [MXGP 2021 - The Official Motocross Videogame](https://www.playstation.com/en-us/games/mxgp-2021/)
 - [NBA 2K22](https://www.playstation.com/en-us/games/nba-2k22/)
 - [Nickelodeon All-Star Brawl](https://store.playstation.com/en-us/product/UP0283-PPSA02279_00-5063066328046533)
+- [No Heroes Allowed!](https://store.playstation.com/en-us/product/UP9000-CUSA33595_00-NPUG804600000000)
 - [Nobody Saves the World](https://store.playstation.com/en-us/product/UP2045-PPSA03332_00-6824837102800807)
 - [Observer: System Redux](https://store.playstation.com/en-us/product/UP4176-PPSA02118_00-8840415776217330)
 - [Oddworld: Abe's Oddysee (PS1 Emulation)](https://store.playstation.com/en-hk/product/UP4134-CUSA33999_00-3720818447088678)
@@ -1580,9 +1594,11 @@
 - [Saints Row: The Third Remastered](https://store.playstation.com/en-us/product/UP2047-PPSA02873_00-SRTTRPS5SIEA0000)
 - [SCARLET NEXUS](https://www.playstation.com/en-us/games/scarlet-nexus/)
 - [Soundfall](https://store.playstation.com/en-us/product/UP0481-PPSA03801_00-9482550928209070)
+- [Stray](https://www.playstation.com/en-us/games/stray/)
 - [Syphon Filter](https://store.playstation.com/en-hk/product/UP9000-CUSA31967_00-SCUS942400000000)
 - [Tales of Arise](https://www.playstation.com/en-us/games/tales-of-arise/)
 - [TEKKEN2](https://store.playstation.com/en-hk/product/HP0700-CUSA33749_00-TEKKEN2000000000)
+- [Tennis World Tour 2](https://store.playstation.com/en-us/product/UP4008-PPSA02020_00-TWT2SIEA00000000)
 - [The Artful Escape](https://store.playstation.com/en-us/product/UP2470-PPSA05082_00-ARTFULSIEA000000)
 - [The Elder Scrolls Online](https://store.playstation.com/en-us/product/UP1003-PPSA02017_00-OSPREYGAMECLIENT)
 - [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian/)
