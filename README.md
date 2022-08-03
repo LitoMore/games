@@ -59,10 +59,10 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-364-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-366-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-126-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-128-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-25-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1961-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1965-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1362,6 +1362,7 @@
 - [Rise of the Tomb Raider: 20 Year Celebration](https://www.playstation.com/en-us/games/rise-of-the-tomb-raider-20-year-celebration-ps4/)
 - [Risk® Urban Assault](https://store.playstation.com/en-us/product/UP0001-CUSA02108_00-RISKGAMEPS400004)
 - [Ruined King: A League of Legends Story™ - Deluxe Edition Bundle](https://www.playstation.com/en-us/games/ruined-king-a-league-of-legends-story/)
+- [Ryu Ga Gotoku 7: Hikari To Yami No Yukue](https://www.playstation.com/en-hk/games/ryu-ga-gotoku-7/)
 - [Sakura Wars™](https://www.playstation.com/en-us/games/sakura-wars-ps4/)
 - [Seasons after Fall](https://store.playstation.com/en-us/product/UP4133-CUSA03158_00-SEASONSAFTERFALL)
 - [Secret Neighbor](https://store.playstation.com/en-us/product/UP0097-CUSA25164_00-1498554604360333)
@@ -1446,6 +1447,7 @@
 - [Uncharted 4: A Thief's End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end-ps4/)
 - [UNCHARTED: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy/)
 - [Uncharted: The Nathan Drake Collection](https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection-ps4/)
+- [UNRAILED!](https://store.playstation.com/en-us/product/UP1440-CUSA20431_00-DAENAUNRAILED001)
 - [Unravel](https://www.playstation.com/en-us/games/unravel/)
 - [Unravel Two](https://www.playstation.com/en-us/games/unravel-two/)
 - [Until You Fall](https://www.playstation.com/en-us/games/until-you-fall/)
@@ -1587,6 +1589,7 @@
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered/)
 - [The Pathless](https://www.playstation.com/en-us/games/the-pathless/)
 - [Tiny Tina's Wonderlands](https://www.playstation.com/en-us/games/tiny-tinas-wonderlands/)
+- [Tony Hawk's™ Pro Skater™ 1 + 2 - Cross-Gen Deluxe Bundle](https://store.playstation.com/en-us/product/UP0002-PPSA02176_00-TH12RTHEGAME0001)
 - [Tour de France 2021](https://store.playstation.com/en-us/product/UP6665-PPSA03341_00-TDF2100000000000)
 - [Tribes of Midgard](https://www.playstation.com/en-us/games/tribes-of-midgard/)
 - [Uncharted 4: A Thief’s End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
@@ -1603,6 +1606,7 @@
 - [Worms World Party [PS1 Emulation]](https://store.playstation.com/en-hk/product/EP4064-CUSA33247_00-SLES038040000000)
 - [WRC 10 FIA World Rally Championship](https://www.playstation.com/en-us/games/wrc-10-fia-world-rally-championship/)
 - [Wreckfest](https://www.playstation.com/en-us/games/wreckfest/)
+- [Yakuza: Like a Dragon](https://www.playstation.com/en-hk/games/yakuza-like-a-dragon/)
 - [Zero Strain](https://store.playstation.com/en-us/product/UP2005-PPSA03915_00-ZEROSTRAIN000000)
 
 ## SEGA Genesis™
