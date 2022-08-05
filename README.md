@@ -2176,3 +2176,4 @@
 
 - [Transformers](https://github.com/LitoMore/transformers) - My Transformers toys
 - [LEGO® Bricks](https://github.com/LitoMore/lego-bricks) - My LEGO® Bricks
+- [Tamiya Toys](https://github.com/LitoMore/tamiya-toys) - My Tamiya toys
