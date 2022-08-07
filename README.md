@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-164-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-131-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-132-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-24-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1982-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1983-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -359,6 +359,7 @@
 - [Mandora](https://apps.apple.com/us/app/id541790591)
 - [MapleStory M: Fantasy MMORPG](https://apps.apple.com/us/app/id1290086677)
 - [Mario Kart Tour](https://apps.apple.com/us/app/id1293634699)
+- [Microsoft Solitaire Collection](https://apps.apple.com/app/id1103438575)
 - [Minecraft](https://apps.apple.com/us/app/id479516143)
 - [MO:Astray](https://www.moastray.game/en)
 - [Mobile Legends: Bang Bang](https://apps.apple.com/us/app/id1160056295)
