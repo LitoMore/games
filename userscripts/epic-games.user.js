@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name        Redeem Epic Games
 // @homepage    https://github.com/LitoMore/games
-// @version     0.0.3
+// @version     0.0.4
 // @description Copy Free Games to Clipboard
 // @author      LitoMore
 // @match       https://*.epicgames.com/*
 // @require     https://cdn.jsdelivr.net/npm/@testing-library/dom/dist/@testing-library/dom.umd.js
 // @downloadURL https://raw.githubusercontent.com/LitoMore/games/main/userscripts/epic-games.user.js
 // @updateURL   https://raw.githubusercontent.com/LitoMore/games/main/userscripts/epic-games.user.js
-//
+// @grant       GM_setClipboard
 // ==/UserScript==
 
 const { configure, fireEvent, screen, waitFor } = window.TestingLibraryDom;
@@ -81,4 +81,13 @@ async function redeemAll() {
     await redeem(game);
   }
   redeemEntrance.textContent = "DonE";
+
+  const quoted = (str) => `$'${str.replace(/'/g, "'")}'`;
+  GM_setClipboard?.(
+    freeGames.map((game) =>
+      `make add anchor=epic-games name=${
+        quoted(game.name)
+      } website='${game.url}'`
+    ).join("\n"),
+  );
 }
