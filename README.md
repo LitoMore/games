@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-132-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-25-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-26-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1985-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1986-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -417,6 +417,7 @@
 - [Game Dev Story+](https://apps.apple.com/us/app/id1557657042)
 - [INMOST](https://apps.apple.com/us/app/id1465235605)
 - [Jetpack Joyride+](https://apps.apple.com/us/app/id1550866882)
+- [Mahjong Tian+](https://apps.apple.com/app/id1551538909)
 - [Mini Motorways](https://apps.apple.com/us/app/id1453901000)
 - [Monument Valley+](https://apps.apple.com/us/app/id1551940922)
 - [Neko Atsume: Kitty Collector+](https://apps.apple.com/us/app/id1569279695)
