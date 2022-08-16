@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Redeem Epic Games
 // @homepage    https://github.com/LitoMore/games
-// @version     0.0.4
+// @version     0.0.5
 // @description Copy Free Games to Clipboard
 // @author      LitoMore
 // @match       https://*.epicgames.com/*
@@ -82,7 +82,7 @@ async function redeemAll() {
   }
   redeemEntrance.textContent = "DonE";
 
-  const quoted = (str) => `$'${str.replace(/'/g, "'")}'`;
+  const quoted = (str) => `$'${str.replace(/'/g, "\\'")}'`;
   GM_setClipboard?.(
     freeGames.map((game) =>
       `make add anchor=epic-games name=${
