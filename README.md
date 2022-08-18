@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-222-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-224-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1986-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-1988-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -505,6 +505,7 @@
 - [Defense Grid: The Awakening](https://www.epicgames.com/store/en-US/p/defense-grid)
 - [DEMON'S TILT](https://store.epicgames.com/en-US/p/demons-tilt)
 - [Deponia: The Complete Journey](https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey)
+- [DOOM 64](https://store.epicgames.com/en-US/p/doom-64)
 - [Drawful 2](https://www.epicgames.com/store/en-US/p/drawful-2)
 - [Dungeons 3](https://www.epicgames.com/store/en-US/p/dungeons-3)
 - [Elite Dangerous](https://www.epicgames.com/store/en-US/p/elite-dangerous)
@@ -601,6 +602,7 @@
 - [Rogue Company](https://www.epicgames.com/store/en-US/p/rogue-company)
 - [Rogue Legacy](https://store.epicgames.com/en-US/p/rogue-legacy)
 - [RollerCoaster Tycoon® 3: Complete Edition](https://www.epicgames.com/store/en-US/p/rollercoaster-tycoon-3-complete-edition)
+- [Rumbleverse™](https://store.epicgames.com/en-US/p/rumbleverse)
 - [Saints Row®: The Third™ Remastered](https://www.epicgames.com/store/en-US/p/saints-row-the-third-remastered)
 - [Salt and Sanctuary](https://www.epicgames.com/store/en-US/p/salt-and-sanctuary)
 - [SAMURAI SHODOWN NEOGEO COLLECTION](https://www.epicgames.com/store/en-US/p/samurai-shodown-neogeo-collection)
