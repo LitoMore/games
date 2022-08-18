@@ -90,7 +90,9 @@ async function waitForPlaceOrder() {
 }
 
 async function redeem(game) {
-  fireEvent.click(game.el);
+  fireEvent.click(
+    document.querySelector(`[href="${game.el.getAttribute("href")}"]`),
+  );
 
   const redeemButton = await screen.findByTestId("purchase-cta-button");
 
