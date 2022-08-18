@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Redeem Epic Games
 // @homepage    https://github.com/LitoMore/games
-// @version     0.0.5
+// @version     0.0.6
 // @description Copy Free Games to Clipboard
 // @author      LitoMore
 // @match       https://*.epicgames.com/*
@@ -29,6 +29,15 @@ redeemEntrance.addEventListener("mouseenter", () => {
 });
 document.body.appendChild(redeemEntrance);
 
+if (window.location.pathname.includes("/purchase")) {
+  redeemEntrance.style.display = "none";
+  try {
+    waitForPlaceOrder();
+  } catch (error) {
+    alert(error.name + error.message);
+  }
+}
+
 function checkLoginState() {
   return document.querySelector(".sign-text").textContent !== "Sign In";
 }
@@ -47,20 +56,53 @@ function getFreeGames() {
   return freeGames;
 }
 
+async function waitForAgeConfirm() {
+  const ageConfirmText = await waitFor(() =>
+    screen.getByText(
+      /This game contains mature content recommended only for ages/,
+    ), {
+    timeout: 1000,
+    onTimeout: () => null,
+  });
+
+  if (ageConfirmText) {
+    fireEvent.click(screen.getByText("Continue"));
+  }
+}
+
+async function waitForNotCompatibleText() {
+  const ageConfirmText = await waitFor(() =>
+    screen.getByText(
+      /This product is not compatible with your current device/,
+    ), {
+    timeout: 1000,
+    onTimeout: () => null,
+  });
+
+  if (ageConfirmText) {
+    fireEvent.click(screen.getByText("Continue"));
+  }
+}
+
+async function waitForPlaceOrder() {
+  const placeOrderButton = await screen.findByText("Place Order");
+  fireEvent.click(placeOrderButton);
+}
+
 async function redeem(game) {
   fireEvent.click(game.el);
 
-  const redeemButton = await waitFor(
-    () => screen.getByTestId("purchase-cta-button"),
-  );
+  const redeemButton = await screen.findByTestId("purchase-cta-button");
+
+  await waitForAgeConfirm();
 
   if (redeemButton.textContent === "Get") {
     fireEvent.click(redeemButton);
-    fireEvent.click(
-      await waitFor(() => screen.getByText("Place Order")),
-    );
-    await waitFor(() => screen.getByText("Thank you for buying"));
-    fireEvent.click(await waitFor(() => screen.getByLabelText("Close modal")));
+
+    await waitForNotCompatibleText();
+
+    await screen.findByText("Thank you for buying");
+    fireEvent.click(await screen.findByLabelText("Close modal"));
   }
   fireEvent.click(document.querySelector('.shieldLogo[role="button"]'));
   await waitFor(getFreeGames);
