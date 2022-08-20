@@ -5,48 +5,49 @@
 // @description Copy Free Games to Clipboard
 // @author      LitoMore
 // @match       https://stadia.google.com/*
+// @require     https://cdn.jsdelivr.net/npm/@testing-library/dom/dist/@testing-library/dom.umd.js
 // @downloadURL https://raw.githubusercontent.com/LitoMore/games/main/userscripts/stadia.user.js
 // @updateURL   https://raw.githubusercontent.com/LitoMore/games/main/userscripts/stadia.user.js
 // ==/UserScript==
 
-// let href = window.location.href;
+const { configure, fireEvent, screen, waitFor, within } =
+  window.TestingLibraryDom;
 
-// window.addEventListener("popstate", () => {
-//   console.log(window.location);
-// });
+configure({ asyncUtilTimeout: 1000 * 30 });
 
-// const observer = new MutationObserver((mutations) => {
-//   mutations.forEach(function (mutation) {
-//     if (
-//       href !== document.location.href &&
-//       document.location.href.startsWith("https://stadia.google.com/game/")
-//     ) {
-//       href = document.location.href;
-//       console.log("href", href);
-//     }
-//   });
-// });
+const redeemEntrance = document.createElement("button");
+redeemEntrance.setAttribute(
+  "style",
+  "position: fixed; background-color: white; padding: 2px; right: 5px; bottom: 5px; border: none; font-size: 12px; line-height: 1.1",
+);
+redeemEntrance.textContent = "RedeeM";
+redeemEntrance.addEventListener("click", redeemAll);
+redeemEntrance.addEventListener("mouseenter", () => {
+  if (redeemEntrance.textContent === "DonE") {
+    redeemEntrance.textContent = "RedeeM";
+  }
+});
+document.body.appendChild(redeemEntrance);
 
-// observer.observe(document.querySelector("body"), {
-//   childList: true,
-//   subtree: true,
-// });
-
-window.getStadia = () => {
-  const freeItems = [
-    ...document.querySelectorAll("streamable[data-page-index]"),
-  ].filter((el) =>
-    [...el.querySelectorAll("div")].filter((labelEl) =>
-      labelEl.textContent === "Claimed"
-    ).length === 0
-  ).map((el) => el.querySelector("div[tabindex]")).map((el) => ({
-    name: el.getAttribute("aria-label").replace(/^View /, ""),
-    website: "",
-  }));
-
-  copy(
-    freeItems.map(({ name, website }) =>
-      `make add anchor=stadia name="${name}" website="${website}"`
-    ).join("\n"),
+function goToStore() {
+  const storeTab = within(screen.getByLabelText("Main navigation")).getByText(
+    "Store",
   );
-};
+  fireEvent.click(storeTab);
+}
+
+async function watiForStadiaProGames() {
+  window.scrollTo(0, document.body.scrollHeight);
+  await waitFor(() => {
+    const stadiaProGamesTitle = screen.getAllByText(
+      "Stadia Pro games",
+    )[1];
+    const seeAll = within(stadiaProGamesTitle.parentNode).getByText("See all");
+    fireEvent.click(seeAll);
+  });
+}
+
+async function redeemAll() {
+  goToStore();
+  await watiForStadiaProGames();
+}
