@@ -59,10 +59,10 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-376-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-393-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-134-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-137-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-25-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-1989-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2009-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1144,6 +1144,8 @@
 - [Assetto Corsa Competizione](https://store.playstation.com/en-us/product/UP4040-CUSA17301_00-ACCOMP0000000000)
 - [ASTRO BOT Rescue Mission](https://www.playstation.com/en-us/games/astro-bot-rescue-mission/)
 - [AVICII Invector](https://store.playstation.com/en-us/product/UP4382-CUSA18271_00-AVICIIINVECTOR00)
+- [Batman: Return to Arkham - Arkham Asylum](https://store.playstation.com/en-us/product/UP1018-CUSA04601_00-ARKHAMASYLUMHD00)
+- [Batman: Return to Arkham - Arkham city](https://store.playstation.com/en-us/product/UP1018-CUSA04516_00-ARKHAMCITYHD0000)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight-ps4/)
 - [Batman™: Arkham VR](https://store.playstation.com/en-hk/product/UP1018-CUSA05335_00-ASIA000000000000)
 - [Battle Chasers: Nightwar](https://store.playstation.com/en-us/product/UP4389-CUSA06807_00-BATTLECHASERSUS0)
@@ -1261,6 +1263,7 @@
 - [Hollow Knight: Voidheart Edition](https://www.playstation.com/en-us/games/hollow-knight-voidheart-edition-ps4/)
 - [Homefront®: The Revolution](https://store.playstation.com/en-us/product/UP2047-CUSA01012_00-HOMEFRONT2000000)
 - [Horizon Zero Dawn: Complete Edition](https://www.playstation.com/en-us/games/horizon-zero-dawn-ps4/)
+- [Hotline Miami](https://store.playstation.com/en-us/product/UP3643-CUSA00486_00-HOTLINEMIAMIPS40)
 - [Hotline Miami 2: Wrong Number](https://www.playstation.com/en-us/games/hotline-miami-2-wrong-number/)
 - [Hotshot Racing](https://store.playstation.com/en-us/product/UP4395-CUSA11585_00-RACINGAPEX000000)
 - [How to Survive 2](https://store.playstation.com/en-us/product/UP4040-CUSA07006_00-HOWTOSUR2PS4SCEA)
@@ -1314,13 +1317,17 @@
 - [Mighty No. 9](https://store.playstation.com/en-us/product/UP2047-CUSA02495_00-MIGHTYNUMBERNINE)
 - [Mirror’s Edge™ Catalyst](https://www.playstation.com/en-us/games/mirrors-edge-catalyst-ps4/)
 - [MLB® The Show™ 19](https://www.playstation.com/en-us/games/mlb-the-show-19-ps4/)
+- [MONOPLAY PLUS](https://store.playstation.com/en-us/product/UP0001-CUSA01061_00-ASOBOMONOPOLY000)
+- [MONOPOLY® Madness](https://store.playstation.com/en-us/product/UP0001-CUSA26329_00-MONOPOLYGAME0000)
 - [Monster Energy Supercross - The Official Videogame](https://www.playstation.com/en-us/games/monster-energy-supercross-the-official-videogame-ps4/)
 - [Monster Hunter World: Iceborne](https://www.playstation.com/en-us/games/monster-hunter-world-ps4/iceborne/)
 - [Monster Jam Steel Titans 2](https://store.playstation.com/en-us/product/UP4389-CUSA19156_00-MONSTERJAM2US000)
+- [Monster Truck Championship](https://store.playstation.com/en-us/product/UP4008-CUSA18665_00-MTC0SIEA00000000)
 - [Mortal Shell](https://www.playstation.com/en-us/games/mortal-shell/)
 - [Moss™](https://store.playstation.com/en-us/product/UP1983-CUSA09290_00-MOSSGAME00000000)
 - [Moving Out](https://www.playstation.com/en-us/games/moving-out/)
 - [MudRunner](https://store.playstation.com/en-us/product/UP4133-CUSA09936_00-MUDRUNNERUS00000)
+- [MXGP 2021 - The Official Motocross Videogame](https://store.playstation.com/en-us/product/UP1981-CUSA28533_00-MXGP2021FULLGAME)
 - [My Friend Pedro](https://store.playstation.com/en-us/product/UP3643-CUSA18145_00-0000000000000000)
 - [My Time at Portia](https://store.playstation.com/en-us/product/UP4064-CUSA10924_00-MYTIMEATPORTIA00)
 - [NARUTO SHIPPUDEN: Ultimate Ninja STORM 4 Road to Boruto](https://www.playstation.com/en-us/games/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-ps4/)
@@ -1328,6 +1335,7 @@
 - [NARUTO TO BORUTO: SHINOBI STRIKER](https://store.playstation.com/en-us/product/UP0700-CUSA08789_00-SHINOBISTRIKER01)
 - [NBA 2K Playgrounds 2](https://www.playstation.com/en-us/games/nba-2k-playgrounds-2/)
 - [NBA 2K20](https://www.playstation.com/en-us/games/nba-2k20-ps4/)
+- [NBA 2K22 for PS4™](https://store.playstation.com/en-us/product/UP1001-CUSA28234_00-NBA2K22000000000)
 - [Necromunda: Underhive Wars](https://store.playstation.com/en-us/product/UP4133-CUSA12508_00-NECROMUNDAUHWARS)
 - [Need for Speed™ Payback](https://www.playstation.com/en-us/games/need-for-speed-payback-ps4/)
 - [Need for Speed™ Rivals](https://www.playstation.com/en-us/games/need-for-speed-rivals-ps4/)
@@ -1452,12 +1460,15 @@
 - [Tilt Brush](https://www.playstation.com/en-us/games/tilt-brush-ps4/)
 - [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](https://store.playstation.com/en-us/product/UP1001-CUSA30035_00-000PAWPAWSIEAPS4)
 - [Titanfall 2](https://www.playstation.com/en-us/games/titanfall-2-ps4/)
+- [Tom Clancy’s Ghost Recon® Wildlands Standard Edition](https://store.playstation.com/en-us/product/UP0001-CUSA02902_00-GRWNCSANORMAL000)
 - [Tom Clancy’s The Division® 2](https://www.playstation.com/en-us/games/tom-clancys-the-division-2-ps4/)
 - [Tom Clancy’s The Division™](https://www.playstation.com/en-us/games/tom-clancys-the-division/)
 - [Totally Reliable Delivery Service](https://store.playstation.com/en-us/product/UP0097-CUSA18566_00-TOTALLYRELIABLE0)
+- [Tour de France 2021 PS4](https://store.playstation.com/en-us/product/UP6665-CUSA27350_00-TDF2100000000000)
 - [TowerFall Ascension](https://store.playstation.com/en-us/product/UP2120-CUSA00466_00-0000TOWERFALLPS4)
 - [Transference](https://store.playstation.com/en-us/product/UP0001-CUSA09609_00-TRANSFERENCE0000)
 - [Trials Fusion™](https://store.playstation.com/en-us/product/UP0001-CUSA00304_00-TRIALSFUSION0001)
+- [Trials of Mana](https://store.playstation.com/en-us/product/UP0082-CUSA17050_00-TOMPS4APPNA00001)
 - [Trials of The Blood Dragon](https://store.playstation.com/en-us/product/UP0001-CUSA04198_00-TRIALSBDGAME1234)
 - [Trials Rising](https://www.playstation.com/en-us/games/trials-rising/)
 - [TT Isle of Man: Ride on the Edge 2](https://store.playstation.com/en-us/product/UP4008-CUSA17031_00-TT2SIEA000000000)
@@ -1465,6 +1476,7 @@
 - [Uncharted 4: A Thief's End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end-ps4/)
 - [UNCHARTED: The Lost Legacy](https://www.playstation.com/en-us/games/uncharted-the-lost-legacy/)
 - [Uncharted: The Nathan Drake Collection](https://www.playstation.com/en-us/games/uncharted-the-nathan-drake-collection-ps4/)
+- [UNO®](https://store.playstation.com/en-us/product/UP0001-CUSA04071_00-UBISOFTUNOFULL00)
 - [UNRAILED!](https://store.playstation.com/en-us/product/UP1440-CUSA20431_00-DAENAUNRAILED001)
 - [Unravel](https://www.playstation.com/en-us/games/unravel/)
 - [Unravel Two](https://www.playstation.com/en-us/games/unravel-two/)
@@ -1475,6 +1487,7 @@
 - [Virtua Fighter 5 Ultimate Showdown](https://store.playstation.com/en-hk/product/HP0177-CUSA27067_00-9030766588190582)
 - [Warhammer 40,000: Inquisitor - Martyr](https://store.playstation.com/en-us/product/UP4008-CUSA10632_00-WARHAMMER40KINQ1)
 - [Watch Dogs™](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
+- [Werewolf: The Apocalypse – Earthblood](https://store.playstation.com/en-us/product/UP4008-CUSA16865_00-WTASIEA000000000)
 - [Werewolves Within™](https://store.playstation.com/en-us/product/UP0001-CUSA05323_00-WEREWOLVSWTHIN01)
 - [What Remains of Edith Finch](https://www.playstation.com/en-us/games/what-remains-of-edith-finch-ps4/)
 - [Windbound](https://store.playstation.com/en-us/product/UP2047-CUSA17782_00-WINDBOUNDGAMEUS0)
@@ -1482,12 +1495,16 @@
 - [WipEout Omega Collection](https://www.playstation.com/en-us/games/wipeout-omega-collection-ps4/)
 - [Wolfenstein: Cyberpilot](https://www.playstation.com/en-us/games/wolfenstein-cyberpilot-ps4/)
 - [WORLD OF FINAL FANTASY](https://store.playstation.com/en-us/product/UP0082-CUSA04647_00-WORLDOFFFPS40000)
+- [WRC 10 FIA World Rally Championship](https://store.playstation.com/en-us/product/UP6665-CUSA27791_00-WRC1000000000000)
 - [Wreckfest](https://www.playstation.com/en-us/games/wreckfest/)
 - [WWE 2K Battlegrounds](https://www.playstation.com/en-us/games/wwe-2k-battlegrounds/)
 - [X-Morph: Defense](https://store.playstation.com/en-us/product/UP4380-CUSA07598_00-XMORPHDIGITALDLX)
 - [XCOM® 2](https://www.playstation.com/en-us/games/xcom-2/)
 - [Xuan-Yuan Sword VII](https://store.playstation.com/en-hk/product/HP3256-CUSA23482_00-XUANYUANSWORD007)
 - [Y School Heroes: Bustlin' School life](https://store.playstation.com/en-hk/product/JP0720-CUSA19264_00-YWY1GAME00000000)
+- [Yakuza 0](https://store.playstation.com/en-us/product/UP0177-CUSA05070_00-YAKUZA0AMERICA00)
+- [Yakuza Kiwami](https://store.playstation.com/en-us/product/UP0177-CUSA06997_00-YAKUZAKIWAMI0100)
+- [Yakuza Kiwami 2](https://store.playstation.com/en-us/product/UP0177-CUSA10634_00-YAKUZAKIWAMI0002)
 - [YO-KAI WATCH 4++](https://store.playstation.com/en-hk/product/JP0720-CUSA17589_00-ASIA000000000000)
 - [Yonder: The Cloud Catcher Chronicles](https://store.playstation.com/en-hk/product/HP5035-CUSA10978_00-YONDERCCCKR00000)
 - [Ys VIII: Lacrimosa of DANA](https://store.playstation.com/en-us/product/UP1063-CUSA08565_00-YSVIIIGAME000000)
@@ -1519,9 +1536,11 @@
 - [Crash Bandicoot™ 4: It's About Time](https://www.playstation.com/en-us/games/crash-bandicoot-4-its-about-time/)
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
 - [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
+- [Dead by Daylight](https://www.playstation.com/en-us/games/dead-by-daylight/)
 - [DEATH STRANDING DIRECTOR'S CUT](https://www.playstation.com/en-us/games/death-stranding-directors-cut/)
 - [DEATHLOOP](https://www.playstation.com/en-us/games/deathloop/)
 - [Deep Rock Galactic](https://store.playstation.com/en-us/product/UP4664-PPSA02967_00-DRGFULLGAMEPS5US)
+- [Deliver Us The Moon](https://store.playstation.com/en-us/product/UP4382-PPSA04137_00-DUTMPS5000000000)
 - [Demon's Souls](https://www.playstation.com/en-us/games/demons-souls/)
 - [Destruction AllStars](https://store.playstation.com/en-hk/product/HP9000-PPSA02714_00-DALLSTARSPLUS001)
 - [Detroit: Become Human](https://www.playstation.com/en-us/games/detroit-become-human/)
@@ -1574,6 +1593,7 @@
 - [Marvel's Guardians of the Galaxy](https://www.playstation.com/en-us/games/marvels-guardians-of-the-galaxy/)
 - [Marvel's Spider-Man Remastered](https://www.playstation.com/en-us/games/marvels-spider-man-remastered/)
 - [Marvel's Spider-Man: Miles Morales](https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/)
+- [Metro Exodus](https://store.playstation.com/en-us/product/UP2047-PPSA02395_00-METROEXODUS0GEN9)
 - [MONSTER HUNTER: WORLD™](https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-0000000000000000)
 - [Monster Truck Championship](https://store.playstation.com/en-us/product/UP4008-PPSA01902_00-MTC0SIEA00000000)
 - [Mortal Kombat 11](https://www.playstation.com/en-us/games/mortal-kombat-11/)
