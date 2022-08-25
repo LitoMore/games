@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-224-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-226-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2010-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2012-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -506,6 +506,7 @@
 - [Defense Grid: The Awakening](https://www.epicgames.com/store/en-US/p/defense-grid)
 - [DEMON'S TILT](https://store.epicgames.com/en-US/p/demons-tilt)
 - [Deponia: The Complete Journey](https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey)
+- [Destiny 2: Bungie 30th Anniversary Pack](https://store.epicgames.com/en-US/p/destiny-2--bungie-30th-anniversary-pack)
 - [DOOM 64](https://store.epicgames.com/en-US/p/doom-64)
 - [Drawful 2](https://www.epicgames.com/store/en-US/p/drawful-2)
 - [Dungeons 3](https://www.epicgames.com/store/en-US/p/dungeons-3)
@@ -597,6 +598,7 @@
 - [Redout: Enhanced Edition](https://store.epicgames.com/en-US/p/redout-enhanced-edition)
 - [Relicta](https://www.epicgames.com/store/en-US/p/relicta)
 - [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/p/remnant-from-the-ashes)
+- [Ring of Pain](https://store.epicgames.com/en-US/p/ring-of-pain)
 - [Rise of the Tomb Raider: 20 Year Celebration](https://www.epicgames.com/store/en-US/p/rise-of-the-tomb-raider)
 - [Rising Storm 2: Vietnam](https://www.epicgames.com/store/en-US/p/rising-storm-2-vietnam)
 - [Riverbond](https://store.epicgames.com/en-US/p/riverbond-782aa4)
