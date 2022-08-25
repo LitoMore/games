@@ -2534,7 +2534,7 @@
           "https://legacygames.com/product/addling-adventures-3-pack/"
         ]
       },
-      "badge": "https://img.shields.io/badge/Legacy_Games-{{count}}-ddd?labelColor=144a9f",
+      "badge": "https://img.shields.io/badge/Legacy_Games-{{count}}-ddd?logo=legacygames&labelColor=144b9e&logoColor=white",
       "hostnames": [
         "legacygames.com"
       ],
