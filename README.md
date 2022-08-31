@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-72-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-74-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2012-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2014-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2160,6 +2160,7 @@
 - [Joe Danger 2: The Movie](https://www.xbox.com/en-HK/games/store/joe-danger-2-the-movie/BVKX6B5FS9C1)
 - [Kingdom Two Crowns](https://www.xbox.com/en-us/games/store/kingdom-two-crowns/bwt2gpvwch2f)
 - [Little Nightmares](https://www.microsoft.com/en-us/p/Little-Nightmares/BWD88K55MK5W)
+- [Monaco: What's Yours is Mine](https://www.xbox.com/en-US/games/store/Monaco-Whats-Yours-is-Mine/C1Z0M42RJ2C1)
 - [Moving Out](https://www.xbox.com/en-us/games/store/Moving-Out/9NXPBSMHPLTV)
 - [Mulaka](https://www.microsoft.com/en-us/p/mulaka/bzjh12cj6n3r)
 - [MX vs. ATV Alive](https://www.xbox.com/en-us/games/store/mx-vs-atv-alive/9nqs7f51zlp3)
@@ -2176,6 +2177,7 @@
 - [ROBLOX](https://www.microsoft.com/en-us/p/ROBLOX/BQ1TN1T79V9K)
 - [Rock of Ages 3: Make & Break](https://www.microsoft.com/en-us/p/rock-of-ages-3-make-break/9n9ksxhrnhw1)
 - [Saints Row: Gat out of Hell](https://www.microsoft.com/en-us/p/saints-row-gat-out-of-hell/bqd7ntqp0cd9)
+- [ScourgeBringer](https://www.xbox.com/en-US/games/store/scourgebringer/9nxpv1t3ws34)
 - [Shadows: Awakening](https://www.microsoft.com/en-us/p/shadows-awakening/c1lmjj64fv3j)
 - [Space Invaders: IG](https://www.xbox.com/en-us/games/store/space-invaders-ig/c5fn9wf5z4lh)
 - [SpongeBob: Truth-Sq.](https://www.xbox.com/en-hk/games/store/spongebob-truth-sq/9nkfjtr38n6z)
