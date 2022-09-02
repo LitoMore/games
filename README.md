@@ -76,8 +76,8 @@
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
   </a>
-  <a href="#uplay">
-    <img src="https://img.shields.io/badge/Uplay-3-ddd?logo=ubisoft&labelColor=0070ff"/>
+  <a href="#ubisoft-connect">
+    <img src="https://img.shields.io/badge/Ubisoft_Connect-4-ddd?logo=ubisoft&labelColor=0070ff"/>
   </a>
   <a href="#wegame">
     <img src="https://img.shields.io/badge/WeGame-2-ddd?logo=wegame&labelColor=faab00&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2021-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2022-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2116,8 +2116,9 @@
 - [Tuff E Nuff](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Wild Guns](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 
-## Uplay
+## Ubisoft Connect
 
+- [Assassin's Creed Origins](https://store.ubi.com/us/assassins-creed--origins/592450934e0165f46c8b456a.html)
 - [Far Cry 4](https://www.ubisoft.com/en-us/game/far-cry/far-cry-4)
 - [Heroes of Might and Magic® 2: Gold](https://store.ubi.com/ie/game?pid=5902fbba88a7e3f0618b4567)
 - [Rayman® 2: The Great Escape](https://store.ubi.com/us/game/?lang=en_US&pid=56c4947e88a7e300458b465c)

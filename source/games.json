@@ -8055,14 +8055,18 @@
       ]
     },
     {
-      "name": "Uplay",
-      "anchor": "#uplay",
-      "badge": "https://img.shields.io/badge/Uplay-{{count}}-ddd?logo=ubisoft&labelColor=0070ff",
+      "name": "Ubisoft Connect",
+      "anchor": "#ubisoft-connect",
+      "badge": "https://img.shields.io/badge/Ubisoft_Connect-{{count}}-ddd?logo=ubisoft&labelColor=0070ff",
       "hostnames": [
         "store.ubi.com",
         "www.ubisoft.com"
       ],
       "gameList": [
+        {
+          "name": "Assassin's Creed Origins",
+          "website": "https://store.ubi.com/us/assassins-creed--origins/592450934e0165f46c8b456a.html"
+        },
         {
           "name": "Far Cry 4",
           "website": "https://www.ubisoft.com/en-us/game/far-cry/far-cry-4"
