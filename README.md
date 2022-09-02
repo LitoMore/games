@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-164-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-168-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-132-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2016-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2020-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -136,10 +136,12 @@
 - [Boomerang Fu](https://images-na.ssl-images-amazon.com/images/I/41TtBQGClUL.jpg)
 - [Calico](https://images-na.ssl-images-amazon.com/images/I/51yzRh73sPL.jpg)
 - [Candleman: The Complete Journey](https://images-na.ssl-images-amazon.com/images/I/41oTfRlUA2L.jpg)
+- [Castle on the Coast](https://images-na.ssl-images-amazon.com/images/I/51ie-KjW8jL.jpg)
 - [Cat Quest](https://images-na.ssl-images-amazon.com/images/I/51LJ5Ss5TNL.jpg)
 - [Clouds & Sheep 2](https://images-na.ssl-images-amazon.com/images/I/51zmCFEilGL.jpg)
 - [Crypto Against All Odds](https://images-na.ssl-images-amazon.com/images/I/41aUXYHLK-L.jpg)
 - [Death Squared](https://images-na.ssl-images-amazon.com/images/I/4158UULS2ML.jpg)
+- [Defend the Rook](https://m.media-amazon.com/images/I/51NpzeUQxGL.jpg)
 - [Demon Hunter 2: New Chapter](https://images-na.ssl-images-amazon.com/images/I/41DRdSEQBaL.jpg)
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
 - [Double Kick Heroes](https://images-na.ssl-images-amazon.com/images/I/51kJA4fOGJL.jpg)
@@ -243,6 +245,7 @@
 - [The Dark Crystal: Age of Resistance Tactics](https://images-na.ssl-images-amazon.com/images/I/41iLzPBFjDL.jpg)
 - [The Darkside Detective](https://images-na.ssl-images-amazon.com/images/I/41tZxZmSuAL.jpg)
 - [The Darkside Detective: A Fumble in the Dark](https://images-na.ssl-images-amazon.com/images/I/41wNV4jXqvL.jpg)
+- [The Dig](https://m.media-amazon.com/images/I/31XGmn45WVL.jpg)
 - [The Escapists](https://images-na.ssl-images-amazon.com/images/I/41Kb8VDshJL.jpg)
 - [The King of Fighters '98 Ultimate Match Final Edition](https://images-na.ssl-images-amazon.com/images/I/41qpZ-kv70L.jpg)
 - [The King of Fighters 2000](https://images-na.ssl-images-amazon.com/images/I/41Wjf4l03CL.jpg)
@@ -263,6 +266,7 @@
 - [Wallace & Gromit: Muzzled!](https://images-na.ssl-images-amazon.com/images/I/4103e2g3bjL.jpg)
 - [Wallace & Gromit: THe Bogey Man](https://images-na.ssl-images-amazon.com/images/I/41mFBIvFgRL.jpg)
 - [Wallace & Gromit: The Last Resort](https://images-na.ssl-images-amazon.com/images/I/41yBxUVj4tL.jpg)
+- [We. The Revolution](https://m.media-amazon.com/images/I/41MceW8AC9L.jpg)
 - [Whiskey & Zombies: Great Southern Zombie Escape](https://images-na.ssl-images-amazon.com/images/I/41ZENvW42-L.jpg)
 - [WRC 7 FIA World Rally Championship](https://images-na.ssl-images-amazon.com/images/I/41cDuOOqj5L.jpg)
 - [WRC 8](https://images-na.ssl-images-amazon.com/images/I/411gArERiJL.jpg)

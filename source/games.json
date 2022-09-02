@@ -5,7 +5,8 @@
       "anchor": "#amazon-games",
       "badge": "https://img.shields.io/badge/Amazon_Games-{{count}}-ddd?logo=amazon&labelColor=ff9900&logoColor=white",
       "hostnames": [
-        "images-na.ssl-images-amazon.com"
+        "images-na.ssl-images-amazon.com",
+        "m.media-amazon.com"
       ],
       "gameList": [
         {
@@ -133,6 +134,10 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/41oTfRlUA2L.jpg"
         },
         {
+          "name": "Castle on the Coast",
+          "website": "https://images-na.ssl-images-amazon.com/images/I/51ie-KjW8jL.jpg"
+        },
+        {
           "name": "Cat Quest",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51LJ5Ss5TNL.jpg"
         },
@@ -147,6 +152,10 @@
         {
           "name": "Death Squared",
           "website": "https://images-na.ssl-images-amazon.com/images/I/4158UULS2ML.jpg"
+        },
+        {
+          "name": "Defend the Rook",
+          "website": "https://m.media-amazon.com/images/I/51NpzeUQxGL.jpg"
         },
         {
           "name": "Demon Hunter 2: New Chapter",
@@ -561,6 +570,10 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/41wNV4jXqvL.jpg"
         },
         {
+          "name": "The Dig",
+          "website": "https://m.media-amazon.com/images/I/31XGmn45WVL.jpg"
+        },
+        {
           "name": "The Escapists",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41Kb8VDshJL.jpg"
         },
@@ -639,6 +652,10 @@
         {
           "name": "Wallace & Gromit: The Last Resort",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41yBxUVj4tL.jpg"
+        },
+        {
+          "name": "We. The Revolution",
+          "website": "https://m.media-amazon.com/images/I/41MceW8AC9L.jpg"
         },
         {
           "name": "Whiskey & Zombies: Great Southern Zombie Escape",
