@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/SEGA_Genesis-25-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-119-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-123-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-241-ddd?logo=steam&labelColor=171a21"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2022-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2026-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1764,6 +1764,7 @@
 - [One Hand Clapping](https://stadia.google.com/store/details/76309b9f2f294b07b410e8b6aa879273rcp1/sku/55b718bf03544bd3a9f6a62946fe7436)
 - [Orcs Must Die! 3](https://stadia.google.com/store/details/c1928530515748da9f55afc7243fd3e1rcp1/sku/fa63c6e891ff4d1bb76c4ac7580c119a)
 - [OUTRIDERS](https://stadia.google.com/game/outriders)
+- [Overcooked! All You Can Eat](https://stadia.google.com/game/overcooked-all-you-can-eat)
 - [PAC-MAN™ Mega Tunnel Battle](https://stadia.google.com/store/details/9affbc684aeb422086bfb5d0c8bf2f55rcp1/sku/9a25de2639254575abb6f2d58d5c57e5)
 - [PAW Patrol Mighty Pups Save Adventure Bay](https://stadia.google.com/store/details/ccf9e5615864445ba6a85cbd3557665frcp1/sku/7fca0a0255f04ab5aea66889e4695997p)
 - [PAW Patrol The Movie: Adventure City Calls](https://stadia.google.com/game/paw-patrol-the-movie)
@@ -1771,6 +1772,7 @@
 - [PHOGS!](https://stadia.google.com/store/details/05b9db9b9b5b489995568afd930a9db3rcp1/sku/6efd691ecc1c4c50a1a314bb085fb2d7p)
 - [PIKUNIKU](https://stadia.google.com/store/details/c02a86f966b044569ee03f80fbc86035rcp1/sku/f1bbad79434f496bae9865248c6c136ap)
 - [PixelJunk Raiders](https://stadia.google.com/store/details/5903b3b139194aefa713f216669ee334rcp1/sku/45405fbb56ad4f9fa280d60a6bb57b08p)
+- [PJ MASKS: HEROES OF THE NIGHT](https://stadia.google.com/game/pj-masks-heroes-of-the-night)
 - [PlayerUnknown's Battlegrounds – Breakthrough Edition](https://stadia.google.com/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/e0d32e6d5b0442f9bea2f8deb5d03570p)
 - [Race With Ryan Road Trip Deluxe Edition](https://stadia.google.com/store/details/d21537bc9f434127ad0f52d555c74d2crcp1/sku/07ed97f1050045b299fb062562432dc8p)
 - [Reigns](https://stadia.google.com/store/details/2677ffb357f946e29b4e86a9f18ea55frcp1/sku/0b415b02e06f452f8be948daf77787c1p)
@@ -1781,6 +1783,7 @@
 - [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered)
 - [Shantae: Half - Genie Hero Ultimate Edition](https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition)
 - [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/store/details/4fe5de76fee2427591e4a61d046a20d0rcp1/sku/e8eeb695a5194e3e8e412f41d99db082p)
+- [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition)
 - [SpongeBobSquarePants:Battle for Bikini BottomRehydrated](https://stadia.google.com/store/details/53bd183291e340dda697167108d3dc6brcp1/sku/a25302b5cbc44d03b1440d2adaa0dd5ap)
 - [STAR WARS Jedi: Fallen Order™](https://stadia.google.com/store/details/36c01626f21f428e8d5ae35ce19c774brcp1/sku/73f14fd59eb3417c8439562f54d2fc4a)
 - [SteamWorld Dig 2](https://stadia.google.com/store/details/b832835182124d4d83cb76a74a76a33frcp1/sku/90f5bd9270024986b26ee8221c1fa2e4)
@@ -1799,6 +1802,7 @@
 - [Time on Frog Island](https://stadia.google.com/game/time-on-frog-island)
 - [TOHU](https://stadia.google.com/game/tohu)
 - [TRANSFORMERS: BATTLEGROUNDS - Complete Edition](https://stadia.google.com/store/details/6ae8f01d51f04274aaec6b7e1180d62arcp1/sku/14f3bf4f94254323be95864b934c8256p)
+- [Tri6: Infinite](https://stadia.google.com/game/tri6-infinite)
 - [Trine 4: The Nightmare Prince](https://stadia.google.com/store/details/30fd580936bb43b782ec2dbdac8b2f45rcp1/sku/8f39647dac4f452ea0abb9aec508295fp)
 - [Unto The End](https://stadia.google.com/store/details/a089691b36254f77bc66a75052fc7cf6rcp1/sku/9e7a4e4a25cf45bc81367d8087df7f3bp)
 - [Valkyria Chronicles 4 Complete Edition](https://stadia.google.com/store/details/b00e2f20b91e43c8a0597b07fc80ca84rcp1/sku/bd0a6e3669c7410c8c3f86779cac1f44p)
