@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-132-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-28-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-30-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2027-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2029-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -414,6 +414,7 @@
 - [Angry Birds Reloaded](https://apps.apple.com/us/app/id1539172625)
 - [Blek+](https://apps.apple.com/us/app/id1551231841)
 - [Bloons TD 6+](https://apps.apple.com/us/app/id1584423325)
+- [Bridge Constructor+](https://apps.apple.com/app/id1587908263)
 - [Crossy Road Castle](https://apps.apple.com/us/app/id1489275350)
 - [Cut the Rope Remastered](https://apps.apple.com/us/app/id1524615151)
 - [Doodle God Universe](https://apps.apple.com/us/app/id1539947531)
@@ -433,6 +434,7 @@
 - [Possessions.](https://apps.apple.com/us/app/id1470984371)
 - [Sayonara Wild Hearts](https://apps.apple.com/us/app/id1461823255)
 - [Shantae and the Seven Sirens](https://apps.apple.com/us/app/id1466096947)
+- [Simon's Cat - Story Time](https://apps.apple.com/app/id1535011471)
 - [Solitaire by MobilityWare+](https://apps.apple.com/us/app/id1556715867)
 - [Spek.](https://apps.apple.com/us/app/id1465321502)
 - [Taiko no Tatsujin Pop Tap Beat](https://apps.apple.com/us/app/id1463360242)
