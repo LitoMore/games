@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-74-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-76-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2029-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2031-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2168,6 +2168,7 @@
 - [Forza Horizon 5 Premium Edition](https://www.xbox.com/en-us/games/store/Forza-Horizon-5-Premium-Edition/9MTLKM2DJMZ2)
 - [Forza Motorsport 5](https://www.microsoft.com/en-us/p/forza-motorsport-5/bqlk685tm311)
 - [Gears 5](https://www.xbox.com/en-US/games/gears-5)
+- [Gods Will Fall](https://www.xbox.com/en-US/games/store/gods-will-fall/9pkbbtwkg85h)
 - [Grand Theft Auto V](https://www.xbox.com/en-US/games/gta-v)
 - [Hard Corps: Uprising](https://www.microsoft.com/en-us/p/hard-corps-uprising/c30z07t9q9ct)
 - [Hover](https://www.microsoft.com/en-us/p/Hover/BS39NGVS2SP7)
@@ -2205,6 +2206,7 @@
 - [The Inner World - The Last Wind Monk](https://www.xbox.com/en-US/games/store/the-inner-world-the-last-wind-monk/c0194l4m9qr2)
 - [The King's Bird](https://www.microsoft.com/en-us/p/the-kings-bird/9nz5057nl64c)
 - [The Raven Remastered](https://www.microsoft.com/en-us/p/the-raven-remastered/c3qdk7r638h2)
+- [Thrillville](https://www.xbox.com/en-US/games/store/thrillville/9nlqmzp1cvtv)
 - [Thrillville: OTR](https://www.xbox.com/en-US/games/store/thrillville-otr/9pcgss4qg4hs)
 - [Tomb Raider: Definitive Edition](https://www.microsoft.com/en-us/p/tomb-raider-definitive-edition/bqxts0sx4w0n)
 - [Torchlight](https://www.xbox.com/en-HK/games/store/torchlight/c5kdxm27b23f)
