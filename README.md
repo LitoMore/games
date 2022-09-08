@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
-    <img src="https://img.shields.io/badge/Legacy_Games-19-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Legacy_Games-20-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
   </a>
   <a href="#microsoft-store">
     <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=0067c0"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2032-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2033-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -766,6 +766,7 @@
 - [The Wild Case](https://legacygames.com/product/addling-adventures-3-pack/)
 - [Up Left Out](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Varenje](https://legacygames.com/product/addling-adventures-3-pack/)
+- [Word of the Law: Death Mask Collector's Edition](https://legacygames.com/product/best-of-domini-3-pack/)
 
 ## Microsoft Store
 
