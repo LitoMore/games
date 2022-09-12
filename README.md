@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-5-ddd?logo=nintendo-3ds&labelColor=d12228"/>
   </a>
   <a href="#nintendo-64">
-    <img src="https://img.shields.io/badge/Nintendo_64-15-ddd?logo=nintendo&labelColor=0124a6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nintendo_64-17-ddd?logo=nintendo&labelColor=0124a6&logoColor=white"/>
   </a>
   <a href="#nintendo-ds">
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=221e1f"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2038-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2040-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -803,11 +803,13 @@
 - [Mario Tennis](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [Paper Mario](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [Pokémon Snap™](https://www.nintendo.com/store/products/nintendo-64-nintendo-switch-online-switch/)
+- [Pokémon™ Puzzle League](https://www.nintendo.com/store/products/nintendo-64-nintendo-switch-online-switch/)
 - [Sin & Punishment ](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [Star Fox 64](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [Super Mario 64](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [The Legend of Zelda: Majora's Mask](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [The Legend of Zelda: Ocarina of Time](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
+- [Wave Race™ 64](https://www.nintendo.com/store/products/nintendo-64-nintendo-switch-online-switch/)
 - [WIN BACK: COVERT OPERATIONS](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [Yoshi’s Story](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 
