@@ -21,9 +21,15 @@ if (!(anchor && name && website)) {
   Deno.exit(1);
 }
 
-const foundPlatform = games.platforms.find((platform) =>
+const foundPlatformExact = games.platforms.find((platform) =>
+  platform.anchor.toLocaleLowerCase() === anchor
+);
+
+const foundPlatformFuzzy = games.platforms.find((platform) =>
   platform.anchor.includes(anchor)
 );
+
+const foundPlatform = foundPlatformExact || foundPlatformFuzzy;
 
 if (!foundPlatform) {
   console.error(
