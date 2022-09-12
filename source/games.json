@@ -6313,6 +6313,10 @@
           "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
         },
         {
+          "name": "Comix Zone",
+          "website": "https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
           "name": "Contra: Hard Corps",
           "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
         },
@@ -6343,6 +6347,10 @@
         {
           "name": "M.U.S.H.A.",
           "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Mega Man: The Wily Wars",
+          "website": "https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/"
         },
         {
           "name": "Phantasy Star 4: The End of the Millennium ",
@@ -6393,12 +6401,20 @@
           "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
         },
         {
+          "name": "Target Earth",
+          "website": "https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
           "name": "Thunder Force 2",
           "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
         },
         {
           "name": "ToeJam & Earl",
           "website": "https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/"
+        },
+        {
+          "name": "Zero Wing",
+          "website": "https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/"
         }
       ]
     },

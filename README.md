@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/PlayStation_5-137-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
-    <img src="https://img.shields.io/badge/SEGA_Genesis-25-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
     <img src="https://img.shields.io/badge/Stadia-123-ddd?logo=stadia&labelColor=cd2640"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2040-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2044-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1679,6 +1679,7 @@
 - [Alien Soldier](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Altered Beast](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Castlevania: Bloodlines](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
+- [Comix Zone](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/)
 - [Contra: Hard Corps](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Dr. Robotnik's Mean Bean Machine](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Dynamite Headdy](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
@@ -1687,6 +1688,7 @@
 - [Gunstar Heroes](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Light Crusader](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [M.U.S.H.A.](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
+- [Mega Man: The Wily Wars](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/)
 - [Phantasy Star 4: The End of the Millennium ](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Ristar](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Shining Force ](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
@@ -1699,8 +1701,10 @@
 - [Strider](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Super Fantasy Zone](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Sword of Vermillon](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
+- [Target Earth](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/)
 - [Thunder Force 2](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [ToeJam & Earl](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
+- [Zero Wing](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/)
 
 ## Stadia
 
