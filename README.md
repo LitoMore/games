@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
   </a>
   <a href="#nintendo-entertainment-system">
-    <img src="https://img.shields.io/badge/NES-62-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-219-ddd?logo=nintendo-switch&labelColor=e60012"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2037-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2038-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -827,6 +827,7 @@
 - [City Connection](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Clu Clu Land™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Crystalis](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
+- [DAIVA STORY 6 IMPERIAL OF NIRSARTIA](https://www.nintendo.com/store/products/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [DIG DUG Ⅱ™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Donkey Kong](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Donkey Kong 3](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
