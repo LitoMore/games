@@ -2354,6 +2354,20 @@
       ]
     },
     {
+      "name": "Facebook Gaming",
+      "anchor": "#facebook-gaming",
+      "badge": "https://img.shields.io/badge/Facebook_Gaming-{{count}}-ddd?logo=facebook-gaming&labelColor=005FED",
+      "hostnames": [
+        "www.facebook.com"
+      ],
+      "gameList": [
+        {
+          "name": "Angry Birds",
+          "website": "https://www.facebook.com/gaming/play/1825153594465039"
+        }
+      ]
+    },
+    {
       "name": "Game & Watch™: Super Mario Bros.™",
       "anchor": "#game--watch-super-mario-bros",
       "duplication": true,
@@ -2679,6 +2693,65 @@
         {
           "name": "Word of the Law: Death Mask Collector's Edition",
           "website": "https://legacygames.com/product/best-of-domini-3-pack/"
+        }
+      ]
+    },
+    {
+      "name": "Meta Quest",
+      "anchor": "#meta-quest",
+      "badge": "https://img.shields.io/badge/Meta_Quest-{{count}}-ddd?logo=meta&labelColor=0467df&logoColor=white",
+      "hostnames": [
+        "www.oculus.com",
+        "store.facebook.com"
+      ],
+      "gameList": [
+        {
+          "name": "Beat Saber",
+          "website": "https://www.oculus.com/experiences/quest/2448060205267927"
+        },
+        {
+          "name": "Blade & Sorcery: Nomad",
+          "website": "https://www.oculus.com/experiences/quest/2031826350263349"
+        },
+        {
+          "name": "First Steps for Quest 2",
+          "website": "https://www.oculus.com/experiences/quest/3675568169182204"
+        },
+        {
+          "name": "Floating world - Alpha",
+          "website": "https://www.oculus.com/experiences/quest/3649816788453163"
+        },
+        {
+          "name": "Fruit Ninja",
+          "website": "https://www.oculus.com/experiences/quest/2215140511885250"
+        },
+        {
+          "name": "Horizon Workrooms",
+          "website": "https://www.oculus.com/experiences/quest/2514011888645651"
+        },
+        {
+          "name": "Immersed",
+          "website": "https://www.oculus.com/experiences/quest/2849273531812512"
+        },
+        {
+          "name": "Kizuna AI - Touch the Beat!",
+          "website": "https://www.oculus.com/experiences/quest/3857024597703276"
+        },
+        {
+          "name": "SKYBOX VR Video Player",
+          "website": "https://www.oculus.com/experiences/quest/2063931653705427"
+        },
+        {
+          "name": "The Room VR: A Dark Matter",
+          "website": "https://www.oculus.com/experiences/quest/2124523024270629"
+        },
+        {
+          "name": "Virtual Desktop",
+          "website": "https://www.oculus.com/experiences/quest/2017050365004772"
+        },
+        {
+          "name": "VRChat",
+          "website": "https://www.oculus.com/experiences/quest/1856672347794301"
         }
       ]
     },
@@ -4026,65 +4099,6 @@
         {
           "name": "Zumba® Burn It Up!",
           "website": "https://www.nintendo.com/games/detail/zumba-burn-it-up-switch/"
-        }
-      ]
-    },
-    {
-      "name": "Meta Quest",
-      "anchor": "#meta-quest",
-      "badge": "https://img.shields.io/badge/Meta_Quest-{{count}}-ddd?logo=meta&labelColor=0467df&logoColor=white",
-      "hostnames": [
-        "www.oculus.com",
-        "store.facebook.com"
-      ],
-      "gameList": [
-        {
-          "name": "Beat Saber",
-          "website": "https://www.oculus.com/experiences/quest/2448060205267927"
-        },
-        {
-          "name": "Blade & Sorcery: Nomad",
-          "website": "https://www.oculus.com/experiences/quest/2031826350263349"
-        },
-        {
-          "name": "First Steps for Quest 2",
-          "website": "https://www.oculus.com/experiences/quest/3675568169182204"
-        },
-        {
-          "name": "Floating world - Alpha",
-          "website": "https://www.oculus.com/experiences/quest/3649816788453163"
-        },
-        {
-          "name": "Fruit Ninja",
-          "website": "https://www.oculus.com/experiences/quest/2215140511885250"
-        },
-        {
-          "name": "Horizon Workrooms",
-          "website": "https://www.oculus.com/experiences/quest/2514011888645651"
-        },
-        {
-          "name": "Immersed",
-          "website": "https://www.oculus.com/experiences/quest/2849273531812512"
-        },
-        {
-          "name": "Kizuna AI - Touch the Beat!",
-          "website": "https://www.oculus.com/experiences/quest/3857024597703276"
-        },
-        {
-          "name": "SKYBOX VR Video Player",
-          "website": "https://www.oculus.com/experiences/quest/2063931653705427"
-        },
-        {
-          "name": "The Room VR: A Dark Matter",
-          "website": "https://www.oculus.com/experiences/quest/2124523024270629"
-        },
-        {
-          "name": "Virtual Desktop",
-          "website": "https://www.oculus.com/experiences/quest/2017050365004772"
-        },
-        {
-          "name": "VRChat",
-          "website": "https://www.oculus.com/experiences/quest/1856672347794301"
         }
       ]
     },

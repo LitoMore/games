@@ -16,6 +16,9 @@
   <a href="#epic-games">
     <img src="https://img.shields.io/badge/Epic_Games-231-ddd?logo=epic-games&labelColor=313131"/>
   </a>
+  <a href="#facebook-gaming">
+    <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
+  </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
   </a>
@@ -30,6 +33,9 @@
   </a>
   <a href="#legacy-games">
     <img src="https://img.shields.io/badge/Legacy_Games-20-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
+  </a>
+  <a href="#meta-quest">
+    <img src="https://img.shields.io/badge/Meta_Quest-12-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
   </a>
   <a href="#microsoft-store">
     <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=0067c0"/>
@@ -51,9 +57,6 @@
   </a>
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-220-ddd?logo=nintendo-switch&labelColor=e60012"/>
-  </a>
-  <a href="#meta-quest">
-    <img src="https://img.shields.io/badge/Meta_Quest-12-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -99,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2045-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2046-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -691,6 +694,10 @@
 - [Yoku's Island Express](https://www.epicgames.com/store/en-US/p/yokus-island-express)
 - [Yooka-Laylee](https://www.epicgames.com/store/en-US/p/yooka-laylee)
 
+## Facebook Gaming
+
+- [Angry Birds](https://www.facebook.com/gaming/play/1825153594465039)
+
 ## Game & Watch™: Super Mario Bros.™
 
 - [Game & Watch™: Ball](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
@@ -771,6 +778,21 @@
 - [Up Left Out](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Varenje](https://legacygames.com/product/addling-adventures-3-pack/)
 - [Word of the Law: Death Mask Collector's Edition](https://legacygames.com/product/best-of-domini-3-pack/)
+
+## Meta Quest
+
+- [Beat Saber](https://www.oculus.com/experiences/quest/2448060205267927)
+- [Blade & Sorcery: Nomad](https://www.oculus.com/experiences/quest/2031826350263349)
+- [First Steps for Quest 2](https://www.oculus.com/experiences/quest/3675568169182204)
+- [Floating world - Alpha](https://www.oculus.com/experiences/quest/3649816788453163)
+- [Fruit Ninja](https://www.oculus.com/experiences/quest/2215140511885250)
+- [Horizon Workrooms](https://www.oculus.com/experiences/quest/2514011888645651)
+- [Immersed](https://www.oculus.com/experiences/quest/2849273531812512)
+- [Kizuna AI - Touch the Beat!](https://www.oculus.com/experiences/quest/3857024597703276)
+- [SKYBOX VR Video Player](https://www.oculus.com/experiences/quest/2063931653705427)
+- [The Room VR: A Dark Matter](https://www.oculus.com/experiences/quest/2124523024270629)
+- [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772)
+- [VRChat](https://www.oculus.com/experiences/quest/1856672347794301)
 
 ## Microsoft Store
 
@@ -1108,21 +1130,6 @@
 - [Yo-kai Watch 4++](https://ec.nintendo.com/JP/ja/bundles/70070000008641)
 - [Yoshi’s Crafted World™](https://www.nintendo.com/games/detail/yoshis-crafted-world-switch/)
 - [Zumba® Burn It Up!](https://www.nintendo.com/games/detail/zumba-burn-it-up-switch/)
-
-## Meta Quest
-
-- [Beat Saber](https://www.oculus.com/experiences/quest/2448060205267927)
-- [Blade & Sorcery: Nomad](https://www.oculus.com/experiences/quest/2031826350263349)
-- [First Steps for Quest 2](https://www.oculus.com/experiences/quest/3675568169182204)
-- [Floating world - Alpha](https://www.oculus.com/experiences/quest/3649816788453163)
-- [Fruit Ninja](https://www.oculus.com/experiences/quest/2215140511885250)
-- [Horizon Workrooms](https://www.oculus.com/experiences/quest/2514011888645651)
-- [Immersed](https://www.oculus.com/experiences/quest/2849273531812512)
-- [Kizuna AI - Touch the Beat!](https://www.oculus.com/experiences/quest/3857024597703276)
-- [SKYBOX VR Video Player](https://www.oculus.com/experiences/quest/2063931653705427)
-- [The Room VR: A Dark Matter](https://www.oculus.com/experiences/quest/2124523024270629)
-- [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772)
-- [VRChat](https://www.oculus.com/experiences/quest/1856672347794301)
 
 ## Origin
 
