@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-168-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-132-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-133-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-31-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2036-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2037-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -342,6 +342,7 @@
 - [Hearthstone](https://apps.apple.com/us/app/id625257520)
 - [Hidden Folks](https://apps.apple.com/us/app/id1133544923)
 - [Hill Climb Racing](https://apps.apple.com/us/app/id564540143)
+- [Homescapes](https://apps.apple.com/us/app/id1195621598)
 - [Honor of Kings](https://apps.apple.com/cn/app/id989673964)
 - [Implosion - Never Lose Hope](https://apps.apple.com/us/app/id870322730)
 - [Ingress Prime](https://apps.apple.com/us/app/id576505181)
