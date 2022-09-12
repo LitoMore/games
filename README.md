@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-219-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-220-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#meta-quest">
     <img src="https://img.shields.io/badge/Meta_Quest-12-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
@@ -99,7 +99,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2044-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2045-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1090,6 +1090,7 @@
 - [Trials of Mana](https://www.nintendo.com/games/detail/trials-of-mana-switch/)
 - [Trine 4: The Nightmare Prince](https://www.nintendo.com/games/detail/trine-4-the-nightmare-prince-switch/)
 - [Turnip Boy Commits Tax Evasion](https://www.nintendo.com/games/detail/turnip-boy-commits-tax-evasion-switch/)
+- [Ultimate Chicken Horse](https://www.nintendo.com/store/products/ultimate-chicken-horse-switch/)
 - [Undertale](https://www.nintendo.com/games/detail/undertale-switch/)
 - [UNO®](https://www.nintendo.com/games/detail/uno-switch/)
 - [Unravel Two](https://www.nintendo.com/games/detail/unravel-two-switch/)
