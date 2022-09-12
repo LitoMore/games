@@ -38,16 +38,16 @@
     <img src="https://img.shields.io/badge/Netflix_Games-3-ddd?logo=netflix&labelColor=e50914"/>
   </a>
   <a href="#nintendo-3ds">
-    <img src="https://img.shields.io/badge/Nintendo_3DS-5-ddd?logo=nintendo-3ds&labelColor=d22128"/>
+    <img src="https://img.shields.io/badge/Nintendo_3DS-5-ddd?logo=nintendo-3ds&labelColor=d12228"/>
   </a>
   <a href="#nintendo-64">
-    <img src="https://img.shields.io/badge/Nintendo_64-15-ddd?logo=nintendo&labelColor=e80012&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nintendo_64-15-ddd?logo=nintendo&labelColor=0124a6&logoColor=white"/>
   </a>
   <a href="#nintendo-ds">
-    <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=d22128"/>
+    <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=221e1f"/>
   </a>
   <a href="#nintendo-entertainment-system">
-    <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-219-ddd?logo=nintendo-switch&labelColor=e60012"/>
@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Steam-241-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
-    <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=e60113&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
   </a>
   <a href="#ubisoft-connect">
     <img src="https://img.shields.io/badge/Ubisoft_Connect-4-ddd?logo=ubisoft&labelColor=0070ff"/>

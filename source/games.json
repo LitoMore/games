@@ -2733,7 +2733,7 @@
     {
       "name": "Nintendo 3DS™",
       "anchor": "#nintendo-3ds",
-      "badge": "https://img.shields.io/badge/Nintendo_3DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d22128",
+      "badge": "https://img.shields.io/badge/Nintendo_3DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d12228",
       "hostnames": [
         "namu.wiki",
         "www.nintendo.com",
@@ -2766,7 +2766,7 @@
       "name": "Nintendo 64™",
       "anchor": "#nintendo-64",
       "duplication": true,
-      "badge": "https://img.shields.io/badge/Nintendo_64-{{count}}-ddd?logo=nintendo&labelColor=e80012&logoColor=white",
+      "badge": "https://img.shields.io/badge/Nintendo_64-{{count}}-ddd?logo=nintendo&labelColor=0124a6&logoColor=white",
       "hostnames": [
         "www.nintendo.com"
       ],
@@ -2836,7 +2836,7 @@
     {
       "name": "Nintendo DS™",
       "anchor": "#nintendo-ds",
-      "badge": "https://img.shields.io/badge/Nintendo_DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d22128",
+      "badge": "https://img.shields.io/badge/Nintendo_DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=221e1f",
       "hostnames": [
         "nintendo.fandom.com",
         "www.nintendo.com"
@@ -2864,7 +2864,7 @@
       "name": "Nintendo Entertainment System™",
       "anchor": "#nintendo-entertainment-system",
       "duplication": true,
-      "badge": "https://img.shields.io/badge/NES-{{count}}-ddd?logo=nintendo&labelColor=e60113&logoColor=white",
+      "badge": "https://img.shields.io/badge/NES-{{count}}-ddd?logo=nintendo&labelColor=fe0100&logoColor=white",
       "hostnames": [
         "www.nintendo.com"
       ],
@@ -7875,7 +7875,7 @@
       "name": "Super Nintendo Entertainment System™",
       "anchor": "#super-nintendo-entertainment-system",
       "duplication": true,
-      "badge": "https://img.shields.io/badge/SNES-{{count}}-ddd?logo=nintendo&labelColor=e60113&logoColor=white",
+      "badge": "https://img.shields.io/badge/SNES-{{count}}-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white",
       "hostnames": [
         "www.nintendo.com"
       ],
