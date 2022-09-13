@@ -32,14 +32,19 @@ const checkWebsite = () => {
   }
 };
 
-const checkOrder = () => {
+const checkPlatformOrder = () => {
+  games.platforms.sort(nameCompare({ showErrors: !withFix }));
+};
+
+const checkGamesOrder = () => {
   games.platforms.forEach((platform: Platform) => {
     platform.gameList.sort(nameCompare({ showErrors: !withFix }));
   });
 };
 
 checkWebsite();
-checkOrder();
+checkPlatformOrder();
+checkGamesOrder();
 
 if (withFix) {
   const jsonFile = JSON.stringify(games, null, 2);
