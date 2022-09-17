@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-231-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-233-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2046-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2048-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -640,6 +640,7 @@
 - [Solitairica](https://www.epicgames.com/store/en-US/p/solitairica)
 - [Sonic Mania](https://www.epicgames.com/store/en-US/p/sonic-mania)
 - [Speed Brawl](https://www.epicgames.com/store/en-US/p/speed-brawl)
+- [Spirit of the North](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)
 - [STAR WARS™ Battlefront™ II: Celebration Edition](https://www.epicgames.com/store/en-US/p/star-wars-battlefront-2)
 - [Steep](https://www.epicgames.com/store/en-US/p/steep)
 - [Stick It To The Man](https://www.epicgames.com/store/en-US/p/stick-it-to-the-man)
@@ -658,6 +659,7 @@
 - [Terraforming Mars](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)
 - [Tharsis](https://www.epicgames.com/store/en-US/p/tharsis)
 - [The Alto Collection](https://www.epicgames.com/store/en-US/p/the-alto-collection)
+- [The Captain](https://store.epicgames.com/en-US/p/the-captain)
 - [The Escapists](https://www.epicgames.com/store/en-US/p/the-escapists)
 - [The Fall](https://www.epicgames.com/store/en-US/p/the-fall)
 - [The First Tree](https://www.epicgames.com/store/en-US/p/the-first-tree)
