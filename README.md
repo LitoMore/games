@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-168-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-133-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-134-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-31-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2048-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2049-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -279,6 +279,7 @@
 
 ## App Store
 
+- [3 Tiles: Connect Tile Matching](https://apps.apple.com/app/id1525211513)
 - [A Dark Dragon](https://apps.apple.com/au/app/id1029839730)
 - [AB Classic](https://apps.apple.com/zw/app/id343200656)
 - [Adera](https://apps.apple.com/us/app/id1319325202)
