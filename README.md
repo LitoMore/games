@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-134-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-33-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-34-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2052-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2053-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -440,6 +440,7 @@
 - [Possessions.](https://apps.apple.com/us/app/id1470984371)
 - [Sayonara Wild Hearts](https://apps.apple.com/us/app/id1461823255)
 - [Shantae and the Seven Sirens](https://apps.apple.com/us/app/id1466096947)
+- [Shovel Knight Dig](https://apps.apple.com/app/id1538097794)
 - [Simon's Cat - Story Time](https://apps.apple.com/app/id1535011471)
 - [Solitaire by MobilityWare+](https://apps.apple.com/us/app/id1556715867)
 - [Solitaire Stories](https://apps.apple.com/us/app/id1534193824)
