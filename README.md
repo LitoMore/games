@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-393-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-395-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-137-ddd?logo=playstation&labelColor=white&logoColor=black"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2057-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2059-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1288,6 +1288,7 @@
 - [God of War® III Remastered](https://www.playstation.com/en-us/games/god-of-war-iii-remastered-ps4/)
 - [Golf With Your Friends](https://store.playstation.com/en-us/product/UP4064-CUSA17669_00-GOLFWYFRIENDS000)
 - [Gran Turismo Sport](https://www.playstation.com/en-us/explore/playstation-vr/bundles/playstation-vr-gran-turismo-sport-bundle/)
+- [Granblue Fantasy: Versus](https://www.playstation.com/en-us/games/granblue-fantasy-versus/)
 - [Graveyard Keeper](https://store.playstation.com/en-us/product/UP0097-CUSA10727_00-GRAVEYARDKEEPER0)
 - [Gravity Rush Remastered](https://store.playstation.com/en-hk/product/HP9000-CUSA01112_00-0000000000000000)
 - [Gravity Rush™ 2](https://www.playstation.com/en-us/games/gravity-rush-2/)
@@ -1376,6 +1377,7 @@
 - [NBA 2K20](https://www.playstation.com/en-us/games/nba-2k20-ps4/)
 - [NBA 2K22 for PS4™](https://store.playstation.com/en-us/product/UP1001-CUSA28234_00-NBA2K22000000000)
 - [Necromunda: Underhive Wars](https://store.playstation.com/en-us/product/UP4133-CUSA12508_00-NECROMUNDAUHWARS)
+- [Need for Speed™ Heat](https://www.playstation.com/en-us/games/need-for-speed-heat/)
 - [Need for Speed™ Payback](https://www.playstation.com/en-us/games/need-for-speed-payback-ps4/)
 - [Need for Speed™ Rivals](https://www.playstation.com/en-us/games/need-for-speed-rivals-ps4/)
 - [NieR Replicant ver.1.22474487139...](https://www.playstation.com/en-hk/games/nier-replicant-ver-1-22474487139/)
