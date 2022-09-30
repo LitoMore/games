@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-234-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-236-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2054-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2056-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -627,6 +627,7 @@
 - [Rogue Legacy](https://store.epicgames.com/en-US/p/rogue-legacy)
 - [RollerCoaster Tycoon® 3: Complete Edition](https://www.epicgames.com/store/en-US/p/rollercoaster-tycoon-3-complete-edition)
 - [Rumbleverse™](https://store.epicgames.com/en-US/p/rumbleverse)
+- [Runbow](https://store.epicgames.com/en-US/p/runbow-fc9fa4)
 - [Saints Row®: The Third™ Remastered](https://www.epicgames.com/store/en-US/p/saints-row-the-third-remastered)
 - [Salt and Sanctuary](https://www.epicgames.com/store/en-US/p/salt-and-sanctuary)
 - [SAMURAI SHODOWN NEOGEO COLLECTION](https://www.epicgames.com/store/en-US/p/samurai-shodown-neogeo-collection)
@@ -665,6 +666,7 @@
 - [Tharsis](https://www.epicgames.com/store/en-US/p/tharsis)
 - [The Alto Collection](https://www.epicgames.com/store/en-US/p/the-alto-collection)
 - [The Captain](https://store.epicgames.com/en-US/p/the-captain)
+- [The Drone Racing League Simulator](https://store.epicgames.com/en-US/p/the-drone-racing-league-simulator)
 - [The Escapists](https://www.epicgames.com/store/en-US/p/the-escapists)
 - [The Fall](https://www.epicgames.com/store/en-US/p/the-fall)
 - [The First Tree](https://www.epicgames.com/store/en-US/p/the-first-tree)
