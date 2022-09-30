@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-395-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-137-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-138-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2059-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2060-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1674,6 +1674,7 @@
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered/)
 - [The Pathless](https://www.playstation.com/en-us/games/the-pathless/)
 - [Tiny Tina's Wonderlands](https://www.playstation.com/en-us/games/tiny-tinas-wonderlands/)
+- [TOEM](https://www.playstation.com/en-us/games/toem/)
 - [Tony Hawk's™ Pro Skater™ 1 + 2 - Cross-Gen Deluxe Bundle](https://store.playstation.com/en-us/product/UP0002-PPSA02176_00-TH12RTHEGAME0001)
 - [Tour de France 2021](https://store.playstation.com/en-us/product/UP6665-PPSA03341_00-TDF2100000000000)
 - [Tribes of Midgard](https://www.playstation.com/en-us/games/tribes-of-midgard/)
