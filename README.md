@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-236-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-237-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2056-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2057-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -687,6 +687,7 @@
 - [Tropico 5](https://www.epicgames.com/store/en-US/p/tropico-5)
 - [Tyranny - Gold Edition](https://www.epicgames.com/store/en-US/p/tyranny)
 - [Unrailed!](https://store.epicgames.com/en-US/p/unrailed-e19729)
+- [VALORANT](https://store.epicgames.com/en-US/p/valorant)
 - [Vampyr](https://www.epicgames.com/store/en-US/p/vampyr)
 - [Verdun](https://www.epicgames.com/store/en-US/p/verdun)
 - [Void Bastards](https://www.epicgames.com/store/en-US/p/void-bastards)
