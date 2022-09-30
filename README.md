@@ -62,10 +62,10 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-395-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-401-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-138-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-142-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2060-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2070-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1247,6 +1247,7 @@
 - [Diablo® III: Reaper of Souls™ - Ultimate Evil Edition™](https://www.playstation.com/en-us/games/diablo-3-reaper-of-souls-ultimate-evil-edition-ps4/)
 - [DiRT Rally 2.0](https://www.playstation.com/en-us/games/dirt-rally-20-ps4/)
 - [DOOM® VFR](https://www.playstation.com/en-us/games/doom-vfr-ps4/)
+- [DRAGON BALL XENOVERSE 2](https://store.playstation.com/en-us/product/UP0700-CUSA05350_00-DRAGONBALLXV2002)
 - [Dragon Star Varnir](https://store.playstation.com/en-us/product/UP0031-CUSA14503_00-VARNIR0000000000)
 - [Dragon's Crown Pro](https://store.playstation.com/en-us/product/UP2611-CUSA10454_00-DRAGONSCROWNPRO1)
 - [Dreamfall Chapters](https://store.playstation.com/en-us/product/UP2047-CUSA07307_00-DREAMFALLCHAPTER)
@@ -1410,8 +1411,10 @@
 - [Prison Architect: PlayStation®4 Edition](https://www.playstation.com/en-us/games/prison-architect-playstation-4-edition/)
 - [Project CARS 2](https://www.playstation.com/en-us/games/project-cars-2/)
 - [Project CARS 3](https://www.playstation.com/en-us/games/project-cars-3/)
+- [Rabbids® Invasion](https://store.playstation.com/en-us/product/UP0001-CUSA01225_00-RABBIDSINVASION1)
 - [Rainbow Moon](https://store.playstation.com/en-us/product/UP2005-CUSA03443_00-RAINBOWMOON00001)
 - [Ratchet & Clank™](https://store.playstation.com/en-us/product/UP9000-CUSA01047_00-RATCHETPS4000000)
+- [Rayman® Legends](https://www.playstation.com/en-us/games/rayman-legends/)
 - [ReadySet Heroes](https://store.playstation.com/en-us/product/UP9000-CUSA15404_00-G2PGTINMAN000001)
 - [Red Dead Redemption 2](https://www.playstation.com/en-us/games/red-dead-redemption-2/)
 - [Redout: Lightspeed Edition](https://www.playstation.com/en-us/games/redout-lightspeed-edition-ps4/)
@@ -1451,6 +1454,7 @@
 - [Space Hulk: Deathwing - Enhanced Edition](https://store.playstation.com/en-us/product/UP4133-CUSA08982_00-SPACEHULKDEATHWI)
 - [Space Hulk: Tactics](https://store.playstation.com/en-us/product/UP4133-CUSA11101_00-SPACEHULKTACTICS)
 - [Space Junkies](https://store.playstation.com/en-us/product/UP0001-CUSA14074_00-SPACEJUNKIESGAME)
+- [Spiritfarer®: Farewell Edition](https://store.playstation.com/en-us/product/UP2388-CUSA20182_00-0000000000000000)
 - [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](https://www.playstation.com/en-us/games/spongebob-squarepants-battle-for-bikini-bottom-rehydrated/)
 - [STAR OCEAN First Departure R](https://store.playstation.com/en-us/product/UP0082-CUSA16913_00-000STAROCEAN1FDR)
 - [Star Trek™: Bridge Crew](https://store.playstation.com/en-us/product/UP0001-CUSA05893_00-STARTREKBRGCRW01)
@@ -1494,6 +1498,7 @@
 - [The Walking Dead: Saints & Sinners - Standard Edition](https://www.playstation.com/en-us/games/the-walking-dead-saints-sinners/)
 - [The Witcher 3: Wild Hunt – Complete Edition](https://store.playstation.com/en-us/product/UP4497-CUSA05725_00-00000000000GOTY5)
 - [The Witness](https://store.playstation.com/en-us/product/UP2124-CUSA00498_00-THEWITNESSPS4PS4)
+- [The Wonderful 101: Remastered](https://store.playstation.com/en-us/product/UP2522-CUSA18780_00-THEWONDERFUL101R)
 - [This is the Police](https://store.playstation.com/en-us/product/UP4389-CUSA05852_00-THISISTHEPO00US1)
 - [This Is the Police 2](https://store.playstation.com/en-us/product/UP4389-CUSA11626_00-THISISTHEPO2US01)
 - [This War of Mine: The Little Ones](https://www.playstation.com/en-us/games/this-war-of-mine-the-little-ones/)
@@ -1527,6 +1532,7 @@
 - [Virginia](https://store.playstation.com/en-us/product/UP4040-CUSA03127_00-VIRGINIA00000001)
 - [Virtua Fighter 5 Ultimate Showdown](https://store.playstation.com/en-hk/product/HP0177-CUSA27067_00-9030766588190582)
 - [Warhammer 40,000: Inquisitor - Martyr](https://store.playstation.com/en-us/product/UP4008-CUSA10632_00-WARHAMMER40KINQ1)
+- [Watch Dogs 2](https://www.playstation.com/en-us/games/watch-dogs-2/)
 - [Watch Dogs™](https://www.playstation.com/en-us/games/watch-dogs-ps4/)
 - [Werewolf: The Apocalypse – Earthblood](https://store.playstation.com/en-us/product/UP4008-CUSA16865_00-WTASIEA000000000)
 - [Werewolves Within™](https://store.playstation.com/en-us/product/UP0001-CUSA05323_00-WEREWOLVSWTHIN01)
@@ -1588,7 +1594,8 @@
 - [Devil May Cry 5 Special Edition](https://www.playstation.com/en-us/games/devil-may-cry-5-special-edition/)
 - [Diablo II: Resurrected](https://www.playstation.com/en-us/games/diablo-ii-resurrected/)
 - [DiRT 5](https://www.playstation.com/en-us/games/dirt-5/)
-- [Disney Pixar Toy Story 2: Buzz Lightyear to the Rescue!](https://store.playstation.com/en-hk/product/UP1082-CUSA33334_00-6265507718650825)
+- [Disney/Pixar Toy Story 2: Buzz Lightyear to the Rescue!](https://store.playstation.com/en-hk/product/UP1082-CUSA33334_00-6265507718650825)
+- [Disney/Pixar Toy Story 3](https://store.playstation.com/en-us/product/UP1082-CUSA33343_00-4838282977086414)
 - [EA SPORTS™ FIFA 22](https://www.playstation.com/en-us/games/ea-sports-fifa-22/)
 - [echochrome™](https://store.playstation.com/en-hk/product/HP9000-CUSA32647_00-UCKS450820000000)
 - [echoshift](https://store.playstation.com/en-us/product/UP9000-CUSA33585_00-NPUG803030000000)
@@ -1622,6 +1629,7 @@
 - [Just Cause 4](https://www.playstation.com/en-us/games/just-cause-4/)
 - [Just Dance® 2021](https://store.playstation.com/en-us/product/UP0001-CUSA19596_00-JD2021PS4SIEA000)
 - [Kena: Bridge of Spirits](https://www.playstation.com/en-us/games/kena-bridge-of-spirits/)
+- [Kingdom of Paradise](https://store.playstation.com/en-us/product/UP9000-CUSA33573_00-UCUS986230000000)
 - [Knockout City™](https://www.playstation.com/en-us/games/knockout-city/)
 - [Kona](https://store.playstation.com/en-us/product/UP2047-PPSA05384_00-KONA1MAINGAMEPS5)
 - [Kurushi](https://store.playstation.com/en-hk/product/EP9000-CUSA32016_00-SCES008660000000)
@@ -1635,6 +1643,7 @@
 - [Marvel's Spider-Man Remastered](https://www.playstation.com/en-us/games/marvels-spider-man-remastered/)
 - [Marvel's Spider-Man: Miles Morales](https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/)
 - [Metro Exodus](https://store.playstation.com/en-us/product/UP2047-PPSA02395_00-METROEXODUS0GEN9)
+- [Monster Energy Supercross - The Official Videogame 5](https://store.playstation.com/en-us/product/UP1981-PPSA04054_00-SUPERCROSS5FGAME)
 - [MONSTER HUNTER: WORLD™](https://store.playstation.com/en-us/product/UP0102-CUSA07713_00-0000000000000000)
 - [Monster Truck Championship](https://store.playstation.com/en-us/product/UP4008-PPSA01902_00-MTC0SIEA00000000)
 - [Mortal Kombat 11](https://www.playstation.com/en-us/games/mortal-kombat-11/)
@@ -1665,6 +1674,7 @@
 - [Soundfall](https://store.playstation.com/en-us/product/UP0481-PPSA03801_00-9482550928209070)
 - [Stray](https://www.playstation.com/en-us/games/stray/)
 - [Syphon Filter](https://store.playstation.com/en-hk/product/UP9000-CUSA31967_00-SCUS942400000000)
+- [Syphon Filter 2](https://store.playstation.com/en-us/product/UP9000-CUSA32470_00-SCUS944510000000)
 - [Tales of Arise](https://www.playstation.com/en-us/games/tales-of-arise/)
 - [TEKKEN2](https://store.playstation.com/en-hk/product/HP0700-CUSA33749_00-TEKKEN2000000000)
 - [Tennis World Tour 2](https://store.playstation.com/en-us/product/UP4008-PPSA02020_00-TWT2SIEA00000000)

@@ -4568,6 +4568,10 @@
           "website": "https://www.playstation.com/en-us/games/doom-vfr-ps4/"
         },
         {
+          "name": "DRAGON BALL XENOVERSE 2",
+          "website": "https://store.playstation.com/en-us/product/UP0700-CUSA05350_00-DRAGONBALLXV2002"
+        },
+        {
           "name": "Dragon Star Varnir",
           "website": "https://store.playstation.com/en-us/product/UP0031-CUSA14503_00-VARNIR0000000000"
         },
@@ -5220,12 +5224,20 @@
           "website": "https://www.playstation.com/en-us/games/project-cars-3/"
         },
         {
+          "name": "Rabbids® Invasion",
+          "website": "https://store.playstation.com/en-us/product/UP0001-CUSA01225_00-RABBIDSINVASION1"
+        },
+        {
           "name": "Rainbow Moon",
           "website": "https://store.playstation.com/en-us/product/UP2005-CUSA03443_00-RAINBOWMOON00001"
         },
         {
           "name": "Ratchet & Clank™",
           "website": "https://store.playstation.com/en-us/product/UP9000-CUSA01047_00-RATCHETPS4000000"
+        },
+        {
+          "name": "Rayman® Legends",
+          "website": "https://www.playstation.com/en-us/games/rayman-legends/"
         },
         {
           "name": "ReadySet Heroes",
@@ -5382,6 +5394,10 @@
         {
           "name": "Space Junkies",
           "website": "https://store.playstation.com/en-us/product/UP0001-CUSA14074_00-SPACEJUNKIESGAME"
+        },
+        {
+          "name": "Spiritfarer®: Farewell Edition",
+          "website": "https://store.playstation.com/en-us/product/UP2388-CUSA20182_00-0000000000000000"
         },
         {
           "name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
@@ -5556,6 +5572,10 @@
           "website": "https://store.playstation.com/en-us/product/UP2124-CUSA00498_00-THEWITNESSPS4PS4"
         },
         {
+          "name": "The Wonderful 101: Remastered",
+          "website": "https://store.playstation.com/en-us/product/UP2522-CUSA18780_00-THEWONDERFUL101R"
+        },
+        {
           "name": "This is the Police",
           "website": "https://store.playstation.com/en-us/product/UP4389-CUSA05852_00-THISISTHEPO00US1"
         },
@@ -5686,6 +5706,10 @@
         {
           "name": "Warhammer 40,000: Inquisitor - Martyr",
           "website": "https://store.playstation.com/en-us/product/UP4008-CUSA10632_00-WARHAMMER40KINQ1"
+        },
+        {
+          "name": "Watch Dogs 2",
+          "website": "https://www.playstation.com/en-us/games/watch-dogs-2/"
         },
         {
           "name": "Watch Dogs™",
@@ -5936,8 +5960,12 @@
           "website": "https://www.playstation.com/en-us/games/dirt-5/"
         },
         {
-          "name": "Disney Pixar Toy Story 2: Buzz Lightyear to the Rescue!",
+          "name": "Disney/Pixar Toy Story 2: Buzz Lightyear to the Rescue!",
           "website": "https://store.playstation.com/en-hk/product/UP1082-CUSA33334_00-6265507718650825"
+        },
+        {
+          "name": "Disney/Pixar Toy Story 3",
+          "website": "https://store.playstation.com/en-us/product/UP1082-CUSA33343_00-4838282977086414"
         },
         {
           "name": "EA SPORTS™ FIFA 22",
@@ -6072,6 +6100,10 @@
           "website": "https://www.playstation.com/en-us/games/kena-bridge-of-spirits/"
         },
         {
+          "name": "Kingdom of Paradise",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA33573_00-UCUS986230000000"
+        },
+        {
           "name": "Knockout City™",
           "website": "https://www.playstation.com/en-us/games/knockout-city/"
         },
@@ -6122,6 +6154,10 @@
         {
           "name": "Metro Exodus",
           "website": "https://store.playstation.com/en-us/product/UP2047-PPSA02395_00-METROEXODUS0GEN9"
+        },
+        {
+          "name": "Monster Energy Supercross - The Official Videogame 5",
+          "website": "https://store.playstation.com/en-us/product/UP1981-PPSA04054_00-SUPERCROSS5FGAME"
         },
         {
           "name": "MONSTER HUNTER: WORLD™",
@@ -6242,6 +6278,10 @@
         {
           "name": "Syphon Filter",
           "website": "https://store.playstation.com/en-hk/product/UP9000-CUSA31967_00-SCUS942400000000"
+        },
+        {
+          "name": "Syphon Filter 2",
+          "website": "https://store.playstation.com/en-us/product/UP9000-CUSA32470_00-SCUS944510000000"
         },
         {
           "name": "Tales of Arise",
