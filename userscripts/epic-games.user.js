@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        Redeem Epic Games
+// @name        Claim Epic Games
 // @homepage    https://github.com/LitoMore/games
-// @version     0.0.6
-// @description Copy Free Games to Clipboard
+// @version     0.0.7
+// @description Automation script for claiming Epic Games weekly items
 // @author      LitoMore
 // @match       https://*.epicgames.com/*
 // @require     https://cdn.jsdelivr.net/npm/@testing-library/dom/dist/@testing-library/dom.umd.js
@@ -10,6 +10,11 @@
 // @updateURL   https://raw.githubusercontent.com/LitoMore/games/main/userscripts/epic-games.user.js
 // @grant       GM_setClipboard
 // ==/UserScript==
+
+const uesrConfig = {
+  saveCommandsToClipboard: false, // Save `make add` commands to clipboard once redeem process is done.
+  developmentMode: false, // Use development mode, games won't actually claim.
+};
 
 const { configure, fireEvent, screen, waitFor } = window.TestingLibraryDom;
 
@@ -32,7 +37,7 @@ document.body.appendChild(redeemEntrance);
 if (window.location.pathname.includes("/purchase")) {
   redeemEntrance.style.display = "none";
   try {
-    waitForPlaceOrder();
+    await waitForPlaceOrder();
   } catch (error) {
     alert(error.name + error.message);
   }
@@ -89,6 +94,17 @@ async function waitForPlaceOrder() {
   fireEvent.click(placeOrderButton);
 }
 
+function saveCommandsToClipboard() {
+  const quoted = (str) => `$'${str.replace(/'/g, "\\'")}'`;
+  GM_setClipboard?.(
+    freeGames.map((game) =>
+      `make add anchor=epic-games name=${
+        quoted(game.name)
+      } website='${game.url}'`
+    ).join("\n"),
+  );
+}
+
 async function redeem(game) {
   fireEvent.click(
     document.querySelector(`[href="${game.el.getAttribute("href")}"]`),
@@ -98,11 +114,9 @@ async function redeem(game) {
 
   await waitForAgeConfirm();
 
-  if (redeemButton.textContent === "Get") {
+  if (!uesrConfig.developmentMode && redeemButton.textContent === "Get") {
     fireEvent.click(redeemButton);
-
     await waitForNotCompatibleText();
-
     await screen.findByText("Thank you for buying");
     fireEvent.click(await screen.findByLabelText("Close modal"));
   }
@@ -126,12 +140,7 @@ async function redeemAll() {
   }
   redeemEntrance.textContent = "DonE";
 
-  const quoted = (str) => `$'${str.replace(/'/g, "\\'")}'`;
-  GM_setClipboard?.(
-    freeGames.map((game) =>
-      `make add anchor=epic-games name=${
-        quoted(game.name)
-      } website='${game.url}'`
-    ).join("\n"),
-  );
+  if (uesrConfig.saveCommandsToClipboard) {
+    saveCommandsToClipboard();
+  }
 }
