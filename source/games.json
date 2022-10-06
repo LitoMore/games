@@ -6565,6 +6565,10 @@
           "website": "https://stadia.google.com/store/details/5c7fb29c666241a48c90d7cc42a65b39rcp1/sku/1d6d5c15623b4196be5b521ed57bdf76p"
         },
         {
+          "name": "Arcade Paradise",
+          "website": "https://stadia.google.com/game/arcade-paradise"
+        },
+        {
           "name": "ARK: Survival Evolved",
           "website": "https://stadia.google.com/store/details/805de0d15b8b4beea63e282aa6f7e8fercp1/sku/83ebd12c0b184c7a8b870c73bc14a7d4p"
         },
@@ -6667,6 +6671,10 @@
         {
           "name": "DIRT 5",
           "website": "https://stadia.google.com/store/details/ed81a01114044edcacfa52656b259d41rcp1/sku/f0c21370f7e2488f8898ae59220c2e24p"
+        },
+        {
+          "name": "Drawful 2",
+          "website": "https://stadia.google.com/game/drawful-2"
         },
         {
           "name": "DreamWorks Dragons: Dawn of New Riders",
@@ -6809,6 +6817,10 @@
           "website": "https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp"
         },
         {
+          "name": "Looking for Aliens",
+          "website": "https://stadia.google.com/game/looking-for-aliens"
+        },
+        {
           "name": "Lumote: The Mastermote Chronicles",
           "website": "https://stadia.google.com/store/details/25e92c9cd0fb416a8e3495f18c6c6587rcp1/sku/4b9a9483fce64aa48d373a6ec9c72976p"
         },
@@ -6929,6 +6941,10 @@
           "website": "https://stadia.google.com/store/details/4fe5de76fee2427591e4a61d046a20d0rcp1/sku/e8eeb695a5194e3e8e412f41d99db082p"
         },
         {
+          "name": "Slaycation Paradise",
+          "website": "https://stadia.google.com/game/slaycation-paradise"
+        },
+        {
           "name": "Spiritfarer: Farewell Edition",
           "website": "https://stadia.google.com/game/spiritfarer-farewell-edition"
         },
@@ -6965,8 +6981,16 @@
           "website": "https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6"
         },
         {
+          "name": "Tangle Tower",
+          "website": "https://stadia.google.com/store/details/88926d0fbc584e7d88b4bad03ea19e34rcp1/sku/b8cd91e8f6ae4fe49eee8d1181565146p"
+        },
+        {
           "name": "Terraria",
           "website": "https://stadia.google.com/store/details/774b82b8c1194dc2acc13a268c4ea7c7rcp1/sku/f308e50758b64693bd6314550bd249aep"
+        },
+        {
+          "name": "The Addams Family: Mansion Mayhem",
+          "website": "https://stadia.google.com/game/the-addams-family-mansion-mayhem"
         },
         {
           "name": "The Darkside Detective",

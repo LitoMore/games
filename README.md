@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
   <a href="#stadia">
-    <img src="https://img.shields.io/badge/Stadia-124-ddd?logo=stadia&labelColor=cd2640"/>
+    <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
     <img src="https://img.shields.io/badge/Steam-241-ddd?logo=steam&labelColor=171a21"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2076-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2082-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1746,6 +1746,7 @@
 ## Stadia
 
 - [Adam Wolfe](https://stadia.google.com/store/details/5c7fb29c666241a48c90d7cc42a65b39rcp1/sku/1d6d5c15623b4196be5b521ed57bdf76p)
+- [Arcade Paradise](https://stadia.google.com/game/arcade-paradise)
 - [ARK: Survival Evolved](https://stadia.google.com/store/details/805de0d15b8b4beea63e282aa6f7e8fercp1/sku/83ebd12c0b184c7a8b870c73bc14a7d4p)
 - [Ary and the Secret of Seasons](https://stadia.google.com/store/details/016636d5f49f4862be3ff8cbcf6c7adercp1/sku/be70e67b1fd64dc2bb4f002e65239731p)
 - [AVICII Invector](https://stadia.google.com/store/details/2c8b9ab112e5460db922dc7353381256rcp1/sku/afb2b66ddd744605a3d01acbeaf3ba01p)
@@ -1772,6 +1773,7 @@
 - [Deliver Us The Moon](https://stadia.google.com/game/deliver-us-the-moon)
 - [Destroy All Humans!](https://stadia.google.com/store/details/0fd3103549b54c7e89afd6eed83672cercp1/sku/fae281d43a044453a5ad2e1a1961625a)
 - [DIRT 5](https://stadia.google.com/store/details/ed81a01114044edcacfa52656b259d41rcp1/sku/f0c21370f7e2488f8898ae59220c2e24p)
+- [Drawful 2](https://stadia.google.com/game/drawful-2)
 - [DreamWorks Dragons: Dawn of New Riders](https://stadia.google.com/store/details/e15d4480e6e44c64b8fe79b3bfc57c9ercp1/sku/da957550fe2c4ff5a71039739f68a450p)
 - [DreamWorks Spirit Lucky's Big Adventure](https://stadia.google.com/store/details/25567bfb599a46ecab0fc8b18682b3f8rcp1/sku/171479c2432146a59989b5f2660b62e6p)
 - [El Hijo - A Wild West Tale](https://stadia.google.com/store/details/d46f9c2d858d41d6ae4cc12d186657f0rcp1/sku/4761cd53808a462ca823a9e403baea99)
@@ -1807,6 +1809,7 @@
 - [Life is Strange: Before the Storm Remastered](https://stadia.google.com/store/details/e8eaa376059b43d5a3007c13589e8a1drcp1/sku/af2ae96f69964fee8ab4dbe2fb3f925dp)
 - [Little Big Workshop](https://stadia.google.com/store/details/e4e8f5e5bc744270a644c554ba3f2962rcp1/sku/c00cecabcbde4e95bdab69be6e80b40bp)
 - [Little Nightmares II](https://stadia.google.com/store/details/0175bc876f55414ca207b2ea6691cfb2rcp1/sku/657a67fa3574490aa63600ea1d4b5c2dp)
+- [Looking for Aliens](https://stadia.google.com/game/looking-for-aliens)
 - [Lumote: The Mastermote Chronicles](https://stadia.google.com/store/details/25e92c9cd0fb416a8e3495f18c6c6587rcp1/sku/4b9a9483fce64aa48d373a6ec9c72976p)
 - [Mafia III: Definitive Edition](https://stadia.google.com/store/details/9092c5ed87224f3e8a277dac0479874frcp1/sku/5be0350274a142b1acbfa2a958d494f9)
 - [Merek's Market](https://stadia.google.com/store/details/1509dbd662b7403f9497661157b9ca6brcp1/sku/86ce32e71e954f9b8d9c17aad82d50ccp)
@@ -1837,6 +1840,7 @@
 - [Saints Row®: The Third™ - Remastered](https://stadia.google.com/game/saints-row-the-third-remastered)
 - [Shantae: Half - Genie Hero Ultimate Edition](https://stadia.google.com/game/shantae-half-genie-hero-ultimate-edition)
 - [Shantae: Risky's Revenge - Director's Cut](https://stadia.google.com/store/details/4fe5de76fee2427591e4a61d046a20d0rcp1/sku/e8eeb695a5194e3e8e412f41d99db082p)
+- [Slaycation Paradise](https://stadia.google.com/game/slaycation-paradise)
 - [Spiritfarer: Farewell Edition](https://stadia.google.com/game/spiritfarer-farewell-edition)
 - [SpongeBobSquarePants:Battle for Bikini BottomRehydrated](https://stadia.google.com/store/details/53bd183291e340dda697167108d3dc6brcp1/sku/a25302b5cbc44d03b1440d2adaa0dd5ap)
 - [STAR WARS Jedi: Fallen Order™](https://stadia.google.com/store/details/36c01626f21f428e8d5ae35ce19c774brcp1/sku/73f14fd59eb3417c8439562f54d2fc4a)
@@ -1846,7 +1850,9 @@
 - [Street Power Football](https://stadia.google.com/store/details/a997c2d05c1b4680b47e376367c187ecrcp1/sku/10d1a160b6904ccba713cafbfe431856p)
 - [Submerged: Hidden Depths](https://stadia.google.com/store/details/3c39a33bbc064308941f9276c38c30e7rcp1/sku/07b0ea07f5554f70a2675fe696b4c9ebp)
 - [SUPERHOT: MIND CONTROL DELETE](https://stadia.google.com/store/details/382fe14629e148449e7b8f94e8aecb38rcp1/sku/f491723b366248d18843107689f3ead6)
+- [Tangle Tower](https://stadia.google.com/store/details/88926d0fbc584e7d88b4bad03ea19e34rcp1/sku/b8cd91e8f6ae4fe49eee8d1181565146p)
 - [Terraria](https://stadia.google.com/store/details/774b82b8c1194dc2acc13a268c4ea7c7rcp1/sku/f308e50758b64693bd6314550bd249aep)
+- [The Addams Family: Mansion Mayhem](https://stadia.google.com/game/the-addams-family-mansion-mayhem)
 - [The Darkside Detective](https://stadia.google.com/store/details/b465998ccc1c48aaa2fb74f331ebbdd7rcp1/sku/9d8c8bb162b6477ca2f2e5ee89f62b15p)
 - [The Darkside Detective: A Fumble in the Dark](https://stadia.google.com/store/details/4e9c4e089aa5410cbffb3c1869d68925rcp1/sku/31d2c4b062e34650aa2ca3037e030355p)
 - [The Falconeer: Warrior Edition](https://stadia.google.com/store/details/b7be5151de924478ab54ef9afeee4826rcp1/sku/3656264eb2bf4dd8bac883c3106f2be2p)
