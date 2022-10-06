@@ -2824,7 +2824,8 @@
       "anchor": "#microsoft-store",
       "badge": "https://img.shields.io/badge/Microsoft_Store-{{count}}-ddd?logo=microsoft&labelColor=0067c0",
       "hostnames": [
-        "www.microsoft.com"
+        "www.microsoft.com",
+        "www.xbox.com"
       ],
       "gameList": [
         {
@@ -2834,6 +2835,10 @@
         {
           "name": "Candy Crush Saga",
           "website": "https://www.microsoft.com/en-us/p/candy-crush-saga/9nblggh18846"
+        },
+        {
+          "name": "Fallout 76 - PC",
+          "website": "https://www.xbox.com/en-us/games/store/fallout-76-pc/9nkgnmnk3k3z"
         },
         {
           "name": "ilomilo plus",

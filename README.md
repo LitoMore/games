@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/Meta_Quest-12-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
   </a>
   <a href="#microsoft-store">
-    <img src="https://img.shields.io/badge/Microsoft_Store-4-ddd?logo=microsoft&labelColor=0067c0"/>
+    <img src="https://img.shields.io/badge/Microsoft_Store-5-ddd?logo=microsoft&labelColor=0067c0"/>
   </a>
   <a href="#netflix-games">
     <img src="https://img.shields.io/badge/Netflix_Games-3-ddd?logo=netflix&labelColor=e50914"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2082-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2083-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -814,6 +814,7 @@
 
 - [Adera](https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p)
 - [Candy Crush Saga](https://www.microsoft.com/en-us/p/candy-crush-saga/9nblggh18846)
+- [Fallout 76 - PC](https://www.xbox.com/en-us/games/store/fallout-76-pc/9nkgnmnk3k3z)
 - [ilomilo plus](https://www.microsoft.com/store/productId/9WZDNCRFHW7P)
 - [Tentacles: Enter the Mind](https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n)
 
