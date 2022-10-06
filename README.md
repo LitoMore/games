@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-168-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-171-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-134-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2070-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2073-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -165,6 +165,8 @@
 - [Gone Viral](https://images-na.ssl-images-amazon.com/images/I/414ePg1PKAL.jpg)
 - [Guild of Ascension](https://images-na.ssl-images-amazon.com/images/I/41AXRlYIHUL.jpg)
 - [Healer's Quest](https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg)
+- [Hero's Hour](https://m.media-amazon.com/images/I/51G-5JeYbnL.jpg)
+- [Horace](https://m.media-amazon.com/images/I/51okOR41QSL.jpg)
 - [HUE](https://images-na.ssl-images-amazon.com/images/I/41esGVTJyfL.jpg)
 - [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
 - [Indiana Jones and the Fate of Atlantis](https://images-na.ssl-images-amazon.com/images/I/41P0j0+tDwS.jpg)
@@ -174,6 +176,7 @@
 - [Liberated](https://images-na.ssl-images-amazon.com/images/I/41zyiCcz1hL.jpg)
 - [Little Big Workshop](https://images-na.ssl-images-amazon.com/images/I/41-1IghdbML.jpg)
 - [looK INside](https://images-na.ssl-images-amazon.com/images/I/418lWp3WsWL.jpg)
+- [Loom](https://m.media-amazon.com/images/I/31RQ+NcWVSL.jpg)
 - [Lost Horizon 2](https://images-na.ssl-images-amazon.com/images/I/41ivssRyTpS.jpg)
 - [Lost in Harmony](https://images-na.ssl-images-amazon.com/images/I/51qCd1cXydL.jpg)
 - [Mail Mole + 'Xpress Deliveries](https://images-na.ssl-images-amazon.com/images/I/41CxuvnY4LL.bbjpg)
