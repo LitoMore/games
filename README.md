@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-238-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-240-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2083-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2085-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -624,6 +624,7 @@
 - [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/p/remnant-from-the-ashes)
 - [Ring of Pain](https://store.epicgames.com/en-US/p/ring-of-pain)
 - [Rise of the Tomb Raider: 20 Year Celebration](https://www.epicgames.com/store/en-US/p/rise-of-the-tomb-raider)
+- [Rising Hell](https://store.epicgames.com/en-US/p/rising-hell-253707)
 - [Rising Storm 2: Vietnam](https://www.epicgames.com/store/en-US/p/rising-storm-2-vietnam)
 - [Riverbond](https://store.epicgames.com/en-US/p/riverbond-782aa4)
 - [Rogue Company](https://www.epicgames.com/store/en-US/p/rogue-company)
@@ -645,6 +646,7 @@
 - [Sherlock Holmes: Crimes and Punishments](https://www.epicgames.com/store/en-US/p/sherlock-holmes-crimes-and-punishments)
 - [Shop Titans](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)
 - [Sid Meier's Civilization® VI](https://www.epicgames.com/store/en-US/p/sid-meiers-civilization-vi)
+- [Slain: Back From Hell](https://store.epicgames.com/en-US/p/slain-aea303)
 - [Sludge Life](https://www.epicgames.com/store/en-US/p/sludge-life)
 - [Solitairica](https://www.epicgames.com/store/en-US/p/solitairica)
 - [Sonic Mania](https://www.epicgames.com/store/en-US/p/sonic-mania)
