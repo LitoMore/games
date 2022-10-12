@@ -62,10 +62,10 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-401-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-402-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-142-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-145-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2085-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2089-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1476,6 +1476,7 @@
 - [Stranded Deep](https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA)
 - [STREET FIGHTER® V](https://www.playstation.com/en-us/games/street-fighter-v-ps4/)
 - [Subnautica](https://store.playstation.com/en-us/product/UP5245-CUSA13529_00-SUBNAUTICA000000)
+- [SUPERHOT](https://store.playstation.com/en-us/product/UP2613-CUSA09030_00-USSUPERHOTGAME00)
 - [Surviving Mars](https://store.playstation.com/en-us/product/UP4139-CUSA10160_00-SURVIVINGMARS002)
 - [Team Sonic Racing](https://www.playstation.com/en-us/games/team-sonic-racing/)
 - [Tearaway™ Unfolded](https://store.playstation.com/en-us/product/UP9000-CUSA01607_00-TEARAWAYUNFOLDED)
@@ -1591,6 +1592,7 @@
 - [Control: Ultimate Edition](https://store.playstation.com/en-hk/product/UP4040-PPSA01949_00-3990089525246341)
 - [Crash Bandicoot™ 4: It's About Time](https://www.playstation.com/en-us/games/crash-bandicoot-4-its-about-time/)
 - [Crash Bandicoot™ N. Sane Trilogy](https://store.playstation.com/en-us/product/UP0002-CUSA07402_00-CRASHNSANETRLOGY)
+- [Crisis Wing](https://store.playstation.com/en-us/product/UP2005-PPSA04591_00-CRISISWING000000)
 - [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
 - [Dead by Daylight](https://www.playstation.com/en-us/games/dead-by-daylight/)
 - [DEATH STRANDING DIRECTOR'S CUT](https://www.playstation.com/en-us/games/death-stranding-directors-cut/)
@@ -1628,6 +1630,7 @@
 - [Hades](https://www.playstation.com/en-us/games/hades/)
 - [Hood: Outlaws & Legends](https://www.playstation.com/en-us/games/hood-outlaws-and-legends/)
 - [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)
+- [HOT WHEELS UNLEASHED](https://www.playstation.com/en-us/games/hot-wheels-unleashed/)
 - [Human: Fall Flat](https://www.playstation.com/en-us/games/human-fall-flat/)
 - [Hunter's Arena: Legends](https://www.playstation.com/en-us/games/hunters-arena-legends/)
 - [I Am Dead](https://store.playstation.com/en-us/product/UP2470-PPSA02616_00-IAMDEADSIEA00000)
@@ -1677,6 +1680,7 @@
 - [Returnal](https://www.playstation.com/en-us/games/returnal/)
 - [RIDE 4](https://www.playstation.com/en-us/games/ride-4/)
 - [Rocket Arena](https://www.playstation.com/en-us/games/rocket-arena/)
+- [Rogue Explorer](https://store.playstation.com/en-us/product/UP2005-PPSA04547_00-ROGUEEXPLORER000)
 - [Sackboy: A Big Adventure](https://www.playstation.com/en-us/games/sackboy-a-big-adventure/)
 - [Saints Row: The Third Remastered](https://store.playstation.com/en-us/product/UP2047-PPSA02873_00-SRTTRPS5SIEA0000)
 - [SCARLET NEXUS](https://www.playstation.com/en-us/games/scarlet-nexus/)
