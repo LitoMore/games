@@ -62,10 +62,10 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-402-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-406-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-145-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-148-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2089-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2096-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1468,7 +1468,10 @@
 - [STAR OCEAN First Departure R](https://store.playstation.com/en-us/product/UP0082-CUSA16913_00-000STAROCEAN1FDR)
 - [Star Trek™: Bridge Crew](https://store.playstation.com/en-us/product/UP0001-CUSA05893_00-STARTREKBRGCRW01)
 - [STAR WARS Jedi: Fallen Order™](https://www.playstation.com/en-us/games/star-wars-jedi-fallen-order-ps4/)
+- [STAR WARS: Bounty Hunter](https://store.playstation.com/en-us/product/UP1082-CUSA03472_00-SLUS204200000001)
+- [STAR WARS: Jedi Starfighter](https://store.playstation.com/en-us/product/UP1082-CUSA03473_00-SLUS202930000001)
 - [Star Wars™ Battlefront™ II](https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/)
+- [Star Wars™: Racer Revenge™](https://store.playstation.com/en-us/product/UP1082-CUSA03474_00-SLUS202680000001)
 - [STAR WARS™: Squadrons](https://store.playstation.com/en-us/product/UP0006-CUSA15080_00-STARWARSQUADRONS)
 - [Starlink: Battle For Atlas Digital Edition](https://store.playstation.com/en-us/product/UP0001-CUSA06979_00-STARLINKBFADIGIT)
 - [STEEP](https://store.playstation.com/en-us/product/UP0001-CUSA05489_00-STEEPSCEA0000000)
@@ -1476,6 +1479,7 @@
 - [Stranded Deep](https://store.playstation.com/en-us/product/UP4968-CUSA18449_00-STRANDEDDEEPSIEA)
 - [STREET FIGHTER® V](https://www.playstation.com/en-us/games/street-fighter-v-ps4/)
 - [Subnautica](https://store.playstation.com/en-us/product/UP5245-CUSA13529_00-SUBNAUTICA000000)
+- [Super Star Wars](https://store.playstation.com/en-us/product/UP1082-CUSA03292_00-SUPERSTARWARS001)
 - [SUPERHOT](https://store.playstation.com/en-us/product/UP2613-CUSA09030_00-USSUPERHOTGAME00)
 - [Surviving Mars](https://store.playstation.com/en-us/product/UP4139-CUSA10160_00-SURVIVINGMARS002)
 - [Team Sonic Racing](https://www.playstation.com/en-us/games/team-sonic-racing/)
@@ -1676,6 +1680,7 @@
 - [Ratchet & Clank: Rift Apart](https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/)
 - [Ratchet & Clank™](https://www.playstation.com/en-us/games/ratchet-and-clank/)
 - [RESIDENT EVIL 7 biohazard](https://www.playstation.com/en-us/games/resident-evil-7-biohazard/)
+- [Resident Evil Director's Cut](https://store.playstation.com/en-us/product/UP0102-CUSA33877_00-CLASSICREDC00001)
 - [Resident Evil Village](https://www.playstation.com/en-us/games/resident-evil-village/)
 - [Returnal](https://www.playstation.com/en-us/games/returnal/)
 - [RIDE 4](https://www.playstation.com/en-us/games/ride-4/)
@@ -1686,12 +1691,14 @@
 - [SCARLET NEXUS](https://www.playstation.com/en-us/games/scarlet-nexus/)
 - [Soundfall](https://store.playstation.com/en-us/product/UP0481-PPSA03801_00-9482550928209070)
 - [Stray](https://www.playstation.com/en-us/games/stray/)
+- [Super Stardust Portable](https://store.playstation.com/en-us/product/UP9000-PPSA07135_00-NPUG802210000000)
 - [Syphon Filter](https://store.playstation.com/en-hk/product/UP9000-CUSA31967_00-SCUS942400000000)
 - [Syphon Filter 2](https://store.playstation.com/en-us/product/UP9000-CUSA32470_00-SCUS944510000000)
 - [Tales of Arise](https://www.playstation.com/en-us/games/tales-of-arise/)
 - [TEKKEN2](https://store.playstation.com/en-hk/product/HP0700-CUSA33749_00-TEKKEN2000000000)
 - [Tennis World Tour 2](https://store.playstation.com/en-us/product/UP4008-PPSA02020_00-TWT2SIEA00000000)
 - [The Artful Escape](https://store.playstation.com/en-us/product/UP2470-PPSA05082_00-ARTFULSIEA000000)
+- [The Dark Pictures Anthology: Man of Medan](https://store.playstation.com/en-us/product/UP0700-PPSA06489_00-SMGDARKPICTURESA)
 - [The Elder Scrolls Online](https://store.playstation.com/en-us/product/UP1003-PPSA02017_00-OSPREYGAMECLIENT)
 - [The Last Guardian](https://www.playstation.com/en-us/games/the-last-guardian/)
 - [The Last of Us™ Remastered](https://www.playstation.com/en-us/games/the-last-of-us-remastered/)

@@ -5453,8 +5453,20 @@
           "website": "https://www.playstation.com/en-us/games/star-wars-jedi-fallen-order-ps4/"
         },
         {
+          "name": "STAR WARS: Bounty Hunter",
+          "website": "https://store.playstation.com/en-us/product/UP1082-CUSA03472_00-SLUS204200000001"
+        },
+        {
+          "name": "STAR WARS: Jedi Starfighter",
+          "website": "https://store.playstation.com/en-us/product/UP1082-CUSA03473_00-SLUS202930000001"
+        },
+        {
           "name": "Star Wars™ Battlefront™ II",
           "website": "https://www.playstation.com/en-us/games/star-wars-battlefront-ii-ps4/"
+        },
+        {
+          "name": "Star Wars™: Racer Revenge™",
+          "website": "https://store.playstation.com/en-us/product/UP1082-CUSA03474_00-SLUS202680000001"
         },
         {
           "name": "STAR WARS™: Squadrons",
@@ -5483,6 +5495,10 @@
         {
           "name": "Subnautica",
           "website": "https://store.playstation.com/en-us/product/UP5245-CUSA13529_00-SUBNAUTICA000000"
+        },
+        {
+          "name": "Super Star Wars",
+          "website": "https://store.playstation.com/en-us/product/UP1082-CUSA03292_00-SUPERSTARWARS001"
         },
         {
           "name": "SUPERHOT",
@@ -6289,6 +6305,10 @@
           "website": "https://www.playstation.com/en-us/games/resident-evil-7-biohazard/"
         },
         {
+          "name": "Resident Evil Director's Cut",
+          "website": "https://store.playstation.com/en-us/product/UP0102-CUSA33877_00-CLASSICREDC00001"
+        },
+        {
           "name": "Resident Evil Village",
           "website": "https://www.playstation.com/en-us/games/resident-evil-village/"
         },
@@ -6329,6 +6349,10 @@
           "website": "https://www.playstation.com/en-us/games/stray/"
         },
         {
+          "name": "Super Stardust Portable",
+          "website": "https://store.playstation.com/en-us/product/UP9000-PPSA07135_00-NPUG802210000000"
+        },
+        {
           "name": "Syphon Filter",
           "website": "https://store.playstation.com/en-hk/product/UP9000-CUSA31967_00-SCUS942400000000"
         },
@@ -6351,6 +6375,10 @@
         {
           "name": "The Artful Escape",
           "website": "https://store.playstation.com/en-us/product/UP2470-PPSA05082_00-ARTFULSIEA000000"
+        },
+        {
+          "name": "The Dark Pictures Anthology: Man of Medan",
+          "website": "https://store.playstation.com/en-us/product/UP0700-PPSA06489_00-SMGDARKPICTURESA"
         },
         {
           "name": "The Elder Scrolls Online",
