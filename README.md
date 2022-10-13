@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-240-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-242-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2096-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2098-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -519,6 +519,7 @@
 - [Darkest Dungeon®](https://www.epicgames.com/store/en-US/p/darkest-dungeon)
 - [Darksiders II Deathinitive Edition](https://www.epicgames.com/store/en-US/p/darksiders2)
 - [Darksiders Warmastered Edition](https://www.epicgames.com/store/en-US/p/darksiders)
+- [Darkwood](https://store.epicgames.com/en-US/p/darkwood-fa73bd)
 - [DARQ: Complete Edition](https://www.epicgames.com/store/en-US/p/darq-complete-edition)
 - [Dead by Daylight](https://www.epicgames.com/store/en-US/p/dead-by-daylight)
 - [Death Coming](https://www.epicgames.com/store/en-US/p/death-coming)
@@ -685,6 +686,7 @@
 - [theHunter: Call of the Wild™](https://www.epicgames.com/store/en-US/p/thehunter-call-of-the-wild)
 - [Ticket to Ride](https://www.epicgames.com/store/en-US/p/ticket-to-ride)
 - [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](https://www.epicgames.com/store/en-US/p/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure)
+- [ToeJam & Earl: Back in the Groove!](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)
 - [Tomb Raider GOTY](https://www.epicgames.com/store/en-US/p/tomb-raider)
 - [Torchlight II](https://www.epicgames.com/store/en-US/p/torchlight-2)
 - [Total War: WARHAMMER](https://www.epicgames.com/store/en-US/p/total-war-warhammer)
