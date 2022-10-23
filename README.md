@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-76-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-78-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2103-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2105-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2233,6 +2233,7 @@
 - [Aven Colony](https://www.xbox.com/en-HK/games/store/aven-colony/BZ5RJLM8NW91)
 - [Beasts of Maravilla Island](https://www.xbox.com/en-US/games/store/beasts-of-maravilla-island/9p2qkszk1k4x)
 - [Bleed 2](https://www.microsoft.com/en-us/p/Bleed-2/BVDG19SHG495)
+- [Bomber Crew Deluxe Edition](https://www.xbox.com/en-US/games/store/bomber-crew-deluxe-edition/bq9rpnd47t2f)
 - [Broken Sword 5 - the Serpent's Curse](https://www.xbox.com/en-us/games/store/broken-sword-5-the-serpents-curse/bnt2nf1s3hnn)
 - [Cloning Clyde](https://www.xbox.com/en-us/games/store/cloning-clyde/9N4JZFCK7BBX)
 - [Conker: Live and Reloaded](https://www.microsoft.com/en-us/p/conker-live-and-reloaded/bvfb8cbs75r6)
@@ -2296,6 +2297,7 @@
 - [Viva Piñata Party Animals](https://www.xbox.com/en-US/games/store/viva-pinata-party-animals/9n548rbqvq6c)
 - [Warface: Breakout](https://www.microsoft.com/en-us/p/warface-breakout/9ngvwz3mgt0b)
 - [Warhammer: Chaosbane Xbox One](https://www.microsoft.com/en-us/p/warhammer-chaosbane-xbox-one/c0gmgv6xh996)
+- [Windbound](https://www.xbox.com/en-US/games/store/windbound/9nmtzwkl8cgm)
 - [Yoku's Island Express](https://www.xbox.com/en-us/games/store/yokus-island-express/bp63mt1vjv6x)
 - [Yooka-Laylee](https://www.microsoft.com/en-us/p/Yooka-Laylee/BZK6TK63SVMP)
 
