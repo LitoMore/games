@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-244-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-246-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2105-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2107-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -640,6 +640,7 @@
 - [Saints Row®: The Third™ Remastered](https://www.epicgames.com/store/en-US/p/saints-row-the-third-remastered)
 - [Salt and Sanctuary](https://www.epicgames.com/store/en-US/p/salt-and-sanctuary)
 - [SAMURAI SHODOWN NEOGEO COLLECTION](https://www.epicgames.com/store/en-US/p/samurai-shodown-neogeo-collection)
+- [Saturnalia](https://store.epicgames.com/en-US/p/saturnalia)
 - [Second Extinction™](https://www.epicgames.com/store/en-US/p/second-extinction)
 - [Shadow of the Tomb Raider: Definitive Edition](https://www.epicgames.com/store/en-US/p/shadow-of-the-tomb-raider)
 - [Shadow Tactics: Blades of the Shogun](https://www.epicgames.com/store/en-US/p/shadow-tactics)
@@ -704,6 +705,7 @@
 - [Verdun](https://www.epicgames.com/store/en-US/p/verdun)
 - [Void Bastards](https://www.epicgames.com/store/en-US/p/void-bastards)
 - [Wargame: Red Dragon](https://www.epicgames.com/store/en-US/p/wargame-red-dragon)
+- [Warhammer 40,000: Mechanicus](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)
 - [Watch Dogs 2](https://www.epicgames.com/store/en-US/p/watch-dogs-2)
 - [Where The Water Tastes Like Wine](https://www.epicgames.com/store/en-US/p/where-the-water-tastes-like-wine)
 - [while True: learn()](https://www.epicgames.com/store/en-US/p/while-true-learn)
