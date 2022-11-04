@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-171-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-176-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-134-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2108-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2113-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -151,6 +151,7 @@
 - [Edgar - Bokbok in Boulzac](https://images-na.ssl-images-amazon.com/images/I/41fkq-o+saL.jpg)
 - [Escape from Monkey Island](https://images-na.ssl-images-amazon.com/images/I/51xf40TaenL.jpg)
 - [Escape Machine City: Airborne](https://images-na.ssl-images-amazon.com/images/I/41EKDorEBoL.jpg)
+- [Etherborn](https://m.media-amazon.com/images/I/31MCfObjElL.jpg)
 - [Fahrenheit: Indigo Prophecy Remastered](https://images-na.ssl-images-amazon.com/images/I/41VPSnTYLXL.jpg)
 - [Faraway: Director's Cut](https://images-na.ssl-images-amazon.com/images/I/41tBJUB2HPS.jpg)
 - [Fatal Fury Special](https://images-na.ssl-images-amazon.com/images/I/51n1J7RP2rL.jpg)
@@ -170,9 +171,11 @@
 - [HUE](https://images-na.ssl-images-amazon.com/images/I/41esGVTJyfL.jpg)
 - [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
 - [Indiana Jones and the Fate of Atlantis](https://images-na.ssl-images-amazon.com/images/I/41P0j0+tDwS.jpg)
+- [Indiana Jones and the Last Crusade](https://m.media-amazon.com/images/I/41IRuMAwVaL.jpg)
 - [Iris and the Giant](https://images-na.ssl-images-amazon.com/images/I/41OFIiY-UCL.jpg)
 - [Ironclad](https://images-na.ssl-images-amazon.com/images/I/41dbe4EmBxL.jpg)
 - [King of the Monsters](https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg)
+- [Last Day of June](https://m.media-amazon.com/images/I/41HxHUD0lZL.jpg)
 - [Liberated](https://images-na.ssl-images-amazon.com/images/I/41zyiCcz1hL.jpg)
 - [Little Big Workshop](https://images-na.ssl-images-amazon.com/images/I/41-1IghdbML.jpg)
 - [looK INside](https://images-na.ssl-images-amazon.com/images/I/418lWp3WsWL.jpg)
@@ -274,8 +277,10 @@
 - [Wallace & Gromit: The Last Resort](https://images-na.ssl-images-amazon.com/images/I/41yBxUVj4tL.jpg)
 - [We. The Revolution](https://m.media-amazon.com/images/I/41MceW8AC9L.jpg)
 - [Whiskey & Zombies: Great Southern Zombie Escape](https://images-na.ssl-images-amazon.com/images/I/41ZENvW42-L.jpg)
+- [Whispering Willows](https://m.media-amazon.com/images/I/41uc5kKoXYL.jpg)
 - [WRC 7 FIA World Rally Championship](https://images-na.ssl-images-amazon.com/images/I/41cDuOOqj5L.jpg)
 - [WRC 8](https://images-na.ssl-images-amazon.com/images/I/411gArERiJL.jpg)
+- [WRC 9](https://m.media-amazon.com/images/I/51QPV+BYAhL.jpg)
 - [Yoku's Island Express](https://images-na.ssl-images-amazon.com/images/I/41XjHktTocS.jpg)
 - [Youtubers Life](https://images-na.ssl-images-amazon.com/images/I/41SwO+8GhyL.jpg)
 - [Zak McKracken and the Alien Mindbenders](https://images-na.ssl-images-amazon.com/images/I/41EVUhwZ9vL.jpg)
