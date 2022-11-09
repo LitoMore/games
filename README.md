@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-241-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-242-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2115-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2116-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2094,6 +2094,7 @@
 - [The Big Journey](https://steampowered.com/app/742480)
 - [The Elder Scrolls Online](https://steamcommunity.com/app/306130)
 - [The Lab](https://steamcommunity.com/app/450390)
+- [The Past Within](https://steamcommunity.com/app/1515210)
 - [The Swapper](https://store.steampowered.com/app/231160)
 - [The Witcher 2: Assassins of Kings Enhanced Edition](https://steamcommunity.com/app/20920)
 - [The Witcher 3: Wild Hunt](https://steamcommunity.com/app/292030)
