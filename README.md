@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-248-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-250-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2117-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2119-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -524,6 +524,7 @@
 - [Crying Suns](https://www.epicgames.com/store/en-US/p/crying-suns)
 - [DAEMON X MACHINA](https://www.epicgames.com/store/en-US/p/daemon-x-machina)
 - [Dandara: Trials of Fear Edition](https://www.epicgames.com/store/en-US/p/dandara)
+- [Dark Deity](https://store.epicgames.com/en-US/p/dark-deity-0b08d1)
 - [Darkest Dungeon®](https://www.epicgames.com/store/en-US/p/darkest-dungeon)
 - [Darksiders II Deathinitive Edition](https://www.epicgames.com/store/en-US/p/darksiders2)
 - [Darksiders Warmastered Edition](https://www.epicgames.com/store/en-US/p/darksiders)
@@ -541,6 +542,7 @@
 - [Elite Dangerous](https://www.epicgames.com/store/en-US/p/elite-dangerous)
 - [Enter The Gungeon](https://www.epicgames.com/store/en-US/p/enter-the-gungeon)
 - [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv)
+- [Evil Dead: The Game](https://store.epicgames.com/en-US/p/evil-dead-the-game)
 - [Evoland Legendary Edition](https://store.epicgames.com/en-US/p/evoland-legendary-edition-5753ec)
 - [Fall Guys](https://store.epicgames.com/en-US/p/fall-guys)
 - [Fallout 3: Game of the Year Edition](https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition)
