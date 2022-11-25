@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-250-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-251-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2119-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2120-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -668,6 +668,7 @@
 - [Speed Brawl](https://www.epicgames.com/store/en-US/p/speed-brawl)
 - [Spirit of the North](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)
 - [STAR WARS™ Battlefront™ II: Celebration Edition](https://www.epicgames.com/store/en-US/p/star-wars-battlefront-2)
+- [STAR WARS™: Squadrons](https://store.epicgames.com/en-US/p/star-wars-squadrons)
 - [Steep](https://www.epicgames.com/store/en-US/p/steep)
 - [Stick It To The Man](https://www.epicgames.com/store/en-US/p/stick-it-to-the-man)
 - [Stranded Deep](https://www.epicgames.com/store/en-US/p/stranded-deep)
