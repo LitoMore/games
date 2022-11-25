@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-406-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-148-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-149-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2121-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2122-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1689,6 +1689,7 @@
 - [MXGP 2021 - The Official Motocross Videogame](https://www.playstation.com/en-us/games/mxgp-2021/)
 - [NBA 2K22](https://www.playstation.com/en-us/games/nba-2k22/)
 - [Nickelodeon All-Star Brawl](https://store.playstation.com/en-us/product/UP0283-PPSA02279_00-5063066328046533)
+- [Nioh 2](https://www.playstation.com/en-us/games/nioh-2/)
 - [No Heroes Allowed!](https://store.playstation.com/en-us/product/UP9000-CUSA33595_00-NPUG804600000000)
 - [Nobody Saves the World](https://store.playstation.com/en-us/product/UP2045-PPSA03332_00-6824837102800807)
 - [Observer: System Redux](https://store.playstation.com/en-us/product/UP4176-PPSA02118_00-8840415776217330)
