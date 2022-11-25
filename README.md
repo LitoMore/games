@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-242-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-243-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2120-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2121-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2024,6 +2024,7 @@
 - [Left 4 Dead](https://steamcommunity.com/app/500)
 - [Left 4 Dead 2](https://steamcommunity.com/app/550)
 - [LEGO® Batman™ 3: Beyond Gotham](https://steamcommunity.com/app/313690)
+- [Lenna's Inception](https://steamcommunity.com/app/1114870)
 - [LIMBO](https://steamcommunity.com/app/48000)
 - [Linea, the Game](https://steamcommunity.com/app/428900)
 - [Lines Infinite](https://steampowered.com/app/733050)
