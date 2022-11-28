@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-243-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-247-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2124-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2128-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2075,6 +2075,8 @@
 - [Rogue Stormers](https://steamcommunity.com/app/299480)
 - [RPG Maker MV](https://steamcommunity.com/app/363890)
 - [Saints Row: The Third](https://steamcommunity.com/app/55230)
+- [Secret Pie](https://steamcommunity.com/app/1802870)
+- [Secret Series: BJ](https://steamcommunity.com/app/1874770)
 - [Shadow of the Tomb Raider](https://steamcommunity.com/app/750920)
 - [Shoot, push, portals](https://steamcommunity.com/app/1197990)
 - [Shoot. Push. Repeat.](https://steamcommunity.com/app/1328810)
@@ -2140,6 +2142,8 @@
 - [We Were Here Together](https://steamcommunity.com/app/865360)
 - [We Were Here Too](https://steamcommunity.com/app/677160)
 - [Windosill](https://steamcommunity.com/app/37600)
+- [Wish](https://steamcommunity.com/app/1207780)
+- [WISH Paradise](https://steamcommunity.com/app/1573300)
 - [Wolcen: Lords of Mayhem](https://steamcommunity.com/app/424370)
 - [Wonder Boy: Returns Remix](https://steamcommunity.com/app/1112240)
 - [YAIBA: NINJA GAIDEN Z](https://steamcommunity.com/app/252230)
