@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-220-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-222-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2122-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2124-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1103,9 +1103,11 @@
 - [Pokémon™ HOME](https://www.nintendo.com/games/detail/pokemon-home-switch/)
 - [Pokémon™ Legends: Arceus](https://www.nintendo.com/games/detail/pokemon-legends-arceus-switch/)
 - [Pokémon™ Quest](https://www.nintendo.com/games/detail/pokemon-quest-switch/)
+- [Pokémon™ Scarlet](https://www.nintendo.com/store/products/pokemon-scarlet-switch/)
 - [Pokémon™ Shield](https://www.nintendo.com/games/detail/pokemon-shield-switch/)
 - [Pokémon™ Shining Pearl](https://www.nintendo.com/games/detail/pokemon-shining-pearl-switch/)
 - [Pokémon™ Sword](https://www.nintendo.com/games/detail/pokemon-sword-switch/)
+- [Pokémon™ Violet](https://www.nintendo.com/store/products/pokemon-violet-switch/)
 - [Pokémon™: Let’s Go, Eevee!](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch/)
 - [Pokémon™: Let’s Go, Pikachu!](https://www.nintendo.com/games/detail/pokemon-lets-go-pikachu-switch/)
 - [Rayman® Legends Definitive Edition](https://www.nintendo.com/games/detail/rayman-legends-definitive-edition-switch/)
