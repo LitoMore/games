@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-222-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-223-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2133-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2134-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -984,6 +984,7 @@
 - [Clubhouse Games™: 51 Worldwide Classics](https://www.nintendo.com/games/detail/clubhouse-games-51-worldwide-classics-switch/)
 - [Collection of Mana](https://www.nintendo.com/games/detail/collection-of-mana-switch/)
 - [Contra Anniversary Collection](https://www.nintendo.com/games/detail/contra-anniversary-collection-switch/)
+- [CrossCode](https://www.nintendo.com/store/products/crosscode-switch/)
 - [Crypt of the NecroDancer: Nintendo Switch Edition](https://www.nintendo.com/games/detail/crypt-of-the-necrodancer-nintendo-switch-edition-switch/)
 - [Cuphead](https://www.nintendo.com/games/detail/cuphead-switch/)
 - [Cytus α](https://www.nintendo.com/games/detail/cytus-a-switch/)
