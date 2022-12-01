@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-247-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-252-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2128-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2133-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1979,6 +1979,7 @@
 - [Evoland Legendary Edition](https://steamcommunity.com/app/1020470)
 - [F-16 Multirole Fighter](https://steamcommunity.com/app/32720)
 - [F-22 Lightning 3](https://steamcommunity.com/app/32730)
+- [Fairy Biography2：Confidante](https://steamcommunity.com/app/2172510)
 - [Fate Seeker](https://steamcommunity.com/app/882790)
 - [Fate Seeker II](https://steamcommunity.com/app/1559390)
 - [FEZ](https://steamcommunity.com/app/224760)
@@ -2040,6 +2041,9 @@
 - [Metro: Last Light Redux](https://steamcommunity.com/app/287390)
 - [Middle-earth™: Shadow of Mordor™](https://steamcommunity.com/app/241930)
 - [MiG-29 Fulcrum](https://steamcommunity.com/app/32740)
+- [mirror](https://steamcommunity.com/app/644560)
+- [Mirror Maker](https://steamcommunity.com/app/1007350)
+- [Mirror Party](https://steamcommunity.com/app/1787820)
 - [Moncage](https://steamcommunity.com/app/1195290)
 - [NEEDY STREAMER OVERLOAD](https://steamcommunity.com/app/1451940)
 - [New World](https://steamcommunity.com/app/1063730)
@@ -2147,6 +2151,7 @@
 - [Wolcen: Lords of Mayhem](https://steamcommunity.com/app/424370)
 - [Wonder Boy: Returns Remix](https://steamcommunity.com/app/1112240)
 - [YAIBA: NINJA GAIDEN Z](https://steamcommunity.com/app/252230)
+- [Zodiac fantasy 2](https://steamcommunity.com/app/2116890)
 - [Zup!](https://steamcommunity.com/app/533300)
 - [Zup! 2](https://steamcommunity.com/app/562220)
 - [Zup! 3](https://steamcommunity.com/app/575640)
