@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-78-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-79-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2134-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2135-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2266,6 +2266,7 @@
 - [Broken Sword 5 - the Serpent's Curse](https://www.xbox.com/en-us/games/store/broken-sword-5-the-serpents-curse/bnt2nf1s3hnn)
 - [Cloning Clyde](https://www.xbox.com/en-us/games/store/cloning-clyde/9N4JZFCK7BBX)
 - [Conker: Live and Reloaded](https://www.microsoft.com/en-us/p/conker-live-and-reloaded/bvfb8cbs75r6)
+- [CrossCode](https://www.xbox.com/en-us/games/store/CrossCode/9N04RQQ64524)
 - [Dandara: Trials of Fear Edition](https://www.microsoft.com/en-us/p/Dandara-Trials-of-Fear-Edition/BQQD1KHRWWL8)
 - [Darksiders III](https://www.microsoft.com/en-us/p/darksiders-iii/bsvzcmgzv52l)
 - [Dead Rising](https://www.microsoft.com/zh-cn/p/dead-rising/bzv7w98b3xn4)
