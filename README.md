@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-252-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-258-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2135-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2141-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1954,6 +1954,7 @@
 - [Counter-Strike: Source](https://steamcommunity.com/app/240)
 - [Crayon Physics Deluxe](https://steamcommunity.com/app/26900)
 - [CrossCode](https://steamcommunity.com/app/368340)
+- [Cyper Bodies](https://steamcommunity.com/app/2182820)
 - [Day of Defeat](https://steamcommunity.com/app/30)
 - [Day of Defeat: Source](https://steamcommunity.com/app/300)
 - [Deathmatch Classic](https://steamcommunity.com/app/40)
@@ -2017,9 +2018,11 @@
 - [Ho Tu Lo Shu：The Books of Dragon](https://steamcommunity.com/app/952860)
 - [Human Fall Flat](https://steamcommunity.com/app/477160)
 - [ICEY](https://steamcommunity.com/app/553640)
+- [Idol Manager](https://steamcommunity.com/app/821880)
 - [Indie Game: The Movie](https://steamcommunity.com/app/207080)
 - [INSIDE](https://steamcommunity.com/app/304430)
 - [Intralism](https://steamcommunity.com/app/513510)
+- [ISEKAI QUEST](https://steamcommunity.com/app/1268110)
 - [Joint Operations: Combined Arms Gold](https://steamcommunity.com/app/32770)
 - [Just Cause 4 Reloaded](https://steamcommunity.com/app/517630)
 - [Lara Croft and the Guardian of Light](https://steamcommunity.com/app/35130)
@@ -2046,6 +2049,7 @@
 - [Mirror Maker](https://steamcommunity.com/app/1007350)
 - [Mirror Party](https://steamcommunity.com/app/1787820)
 - [Moncage](https://steamcommunity.com/app/1195290)
+- [Nayuta no Kiseki: KAI](https://steamcommunity.com/app/1732390)
 - [NEEDY STREAMER OVERLOAD](https://steamcommunity.com/app/1451940)
 - [New World](https://steamcommunity.com/app/1063730)
 - [Nobody Saves the World](https://steamcommunity.com/app/1432050)
@@ -2063,6 +2067,7 @@
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
 - [Owlboy](https://steamcommunity.com/app/115800)
 - [Papers, Please](https://steamcommunity.com/app/239030)
+- [PerfectLover](https://steamcommunity.com/app/1181140)
 - [Pixel Art Coloring Book](https://steamcommunity.com/app/1576340)
 - [Portal](https://steamcommunity.com/app/400)
 - [Portal 2](https://steamcommunity.com/app/620)
@@ -2088,6 +2093,7 @@
 - [Sleeping Dogs: Definitive Edition](https://steamcommunity.com/app/307690)
 - [Sorry, James](https://steampowered.com/app/659190)
 - [Stardew Valley](https://steamcommunity.com/app/413150)
+- [Succubus Cafe](https://store.steampowered.com/agecheck/app/1520500/)
 - [Sudoku Jigsaw](https://steampowered.com/app/858040)
 - [Sudoku Killer](https://steampowered.com/app/861270)
 - [Sudoku Universe](https://steampowered.com/app/733070)
