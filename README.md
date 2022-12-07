@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-176-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-181-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-134-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2164-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2169-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -124,6 +124,7 @@
 - [Automachef](https://images-na.ssl-images-amazon.com/images/I/61lCqx9OTyL.jpg)
 - [BAFL - Brakes Are For Losers](https://images-na.ssl-images-amazon.com/images/I/41tTXAZ8GlL.jpg)
 - [Bang Bang Racing](https://images-na.ssl-images-amazon.com/images/I/51-MBaCx5HL.jpg)
+- [Banners of Ruin](https://m.media-amazon.com/images/I/41km6uBJ7LL.jpg)
 - [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
 - [Batman - The Enemy Within](https://images-na.ssl-images-amazon.com/images/I/61ZiWwlxBML.jpg)
 - [Batman - The Telltale Series](https://images-na.ssl-images-amazon.com/images/I/41tSzcUvDnL.jpg)
@@ -137,6 +138,7 @@
 - [Bomber Crew Deluxe](https://images-na.ssl-images-amazon.com/images/I/51bKrVtSuHL.jpg)
 - [Bombslinger](https://images-na.ssl-images-amazon.com/images/I/51BNGrQcHrS.jpg)
 - [Boomerang Fu](https://images-na.ssl-images-amazon.com/images/I/41TtBQGClUL.jpg)
+- [Brothers: A Tale of Two Sons](https://m.media-amazon.com/images/I/41jIcw7sBgL.jpg)
 - [Calico](https://images-na.ssl-images-amazon.com/images/I/51yzRh73sPL.jpg)
 - [Candleman: The Complete Journey](https://images-na.ssl-images-amazon.com/images/I/41oTfRlUA2L.jpg)
 - [Castle on the Coast](https://images-na.ssl-images-amazon.com/images/I/51ie-KjW8jL.jpg)
@@ -146,7 +148,9 @@
 - [Death Squared](https://images-na.ssl-images-amazon.com/images/I/4158UULS2ML.jpg)
 - [Defend the Rook](https://m.media-amazon.com/images/I/51NpzeUQxGL.jpg)
 - [Demon Hunter 2: New Chapter](https://images-na.ssl-images-amazon.com/images/I/41DRdSEQBaL.jpg)
+- [Desert Child](https://m.media-amazon.com/images/I/41RKhn5W0dL.jpg)
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
+- [Doors: Paradox](https://m.media-amazon.com/images/I/41uN8Z+bt0L.jpg)
 - [Double Kick Heroes](https://images-na.ssl-images-amazon.com/images/I/51kJA4fOGJL.jpg)
 - [Edgar - Bokbok in Boulzac](https://images-na.ssl-images-amazon.com/images/I/41fkq-o+saL.jpg)
 - [Escape from Monkey Island](https://images-na.ssl-images-amazon.com/images/I/51xf40TaenL.jpg)
@@ -248,6 +252,7 @@
 - [Tales of the Neon Sea](https://images-na.ssl-images-amazon.com/images/I/61LxE2n7oYL.jpg)
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
+- [The Amazing American Circus](https://m.media-amazon.com/images/I/41r44WuOwCL.jpg)
 - [The Blind Prophet](https://images-na.ssl-images-amazon.com/images/I/41cznbpARHS.jpg)
 - [The Crow's Eye](https://images-na.ssl-images-amazon.com/images/I/41dnBmCc-gL.jpg)
 - [The Curse of Monkey Island](https://images-na.ssl-images-amazon.com/images/I/41dOCokHgfL.jpg)
