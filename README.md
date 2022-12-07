@@ -89,7 +89,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-79-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-86-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2157-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2164-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2293,7 +2293,11 @@
 - [Darksiders III](https://www.microsoft.com/en-us/p/darksiders-iii/bsvzcmgzv52l)
 - [Dead Rising](https://www.microsoft.com/zh-cn/p/dead-rising/bzv7w98b3xn4)
 - [Dungeons 3](https://www.microsoft.com/en-us/p/dungeons-3/bpb96brz1v3c)
+- [EA SPORTS™ FIFA 16](https://www.xbox.com/en-us/games/store/ea-sports-fifa-16/c4ll0tdqrfls)
+- [EA SPORTS™ FIFA 17](https://www.xbox.com/en-us/games/store/ea-sports-fifa-17/btvffddz0tl4)
 - [FIA European Truck Racing Championship](https://www.microsoft.com/en-hk/p/fia-european-truck-racing-championship/brjp066tz2q7)
+- [FIFA 18](https://www.xbox.com/en-us/games/store/fifa-18/bwpkgqv97n7n)
+- [FIFA 19](https://www.xbox.com/en-us/games/store/fifa-19/c3c71tv51sqc)
 - [Forza Horizon 3](https://www.microsoft.com/en-us/p/Forza-Horizon-3/9NBLGGH1Z7TW)
 - [Forza Horizon 4 Ultimate Edition](https://www.microsoft.com/en-us/p/forza-horizon-4-ultimate-edition/9p513p4mwc71)
 - [Forza Horizon 5 Premium Edition](https://www.xbox.com/en-us/games/store/Forza-Horizon-5-Premium-Edition/9MTLKM2DJMZ2)
@@ -2305,7 +2309,9 @@
 - [Hover](https://www.microsoft.com/en-us/p/Hover/BS39NGVS2SP7)
 - [Hue](https://www.xbox.com/en-us/games/store/Hue/BXLH97R22VM2)
 - [Joe Danger 2: The Movie](https://www.xbox.com/en-HK/games/store/joe-danger-2-the-movie/BVKX6B5FS9C1)
+- [Kinect Sports Rivals](https://www.xbox.com/en-us/games/store/kinect-sports-rivals/brhsml8030zn)
 - [Kingdom Two Crowns](https://www.xbox.com/en-us/games/store/kingdom-two-crowns/bwt2gpvwch2f)
+- [LEGO Marvel Suepr Heroes](https://www.xbox.com/en-us/games/store/lego-marvel-super-heroes/bzgz3g053nth)
 - [Little Nightmares](https://www.microsoft.com/en-us/p/Little-Nightmares/BWD88K55MK5W)
 - [Monaco: What's Yours is Mine](https://www.xbox.com/en-US/games/store/Monaco-Whats-Yours-is-Mine/C1Z0M42RJ2C1)
 - [Moving Out](https://www.xbox.com/en-us/games/store/Moving-Out/9NXPBSMHPLTV)
@@ -2331,6 +2337,7 @@
 - [STREET FIGHTER IV](https://marketplace.xbox.com/en-US/Product/STREET-FIGHTER-IV/66acd000-77fe-1000-9115-d802434307e1)
 - [Street Power Football](https://www.xbox.com/en-hk/games/store/street-power-football/9n95j9gp26m1)
 - [Super Meat Boy](https://www.xbox.com/en-HK/games/store/super-meat-boy/c1365lm1q2dk)
+- [SUPER STREETFIGHTER IV](https://www.xbox.com/en-us/games/store/SUPER-STREETFIGHTER-IV-ARCADE-EDITION/BRRN3ZC632XS)
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
 - [The Escapists 2](https://www.xbox.com/en-us/games/store/the-escapists-2/bs8xgcll3vqz)
 - [The Flame in the Flood](https://www.xbox.com/en-hk/games/store/the-flame-in-the-flood/bxkldp56hfgz)
