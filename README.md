@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
-    <img src="https://img.shields.io/badge/Legacy_Games-22-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Legacy_Games-23-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
   </a>
   <a href="#meta-quest">
     <img src="https://img.shields.io/badge/Meta_Quest-12-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2169-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2170-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -815,6 +815,7 @@
 - [Road Trip: Europe](https://legacygames.com/product/road-trip-3-pack/)
 - [Road Trip: USA](https://legacygames.com/product/road-trip-3-pack/)
 - [Road Trip: USA 2 West CE](https://legacygames.com/product/road-trip-3-pack/)
+- [Rose Riddle 2: Werewolf Shadow](https://legacygames.com/prime-gaming-rose-riddle-2-werewolf-shadow/)
 - [Rosette and Words](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Rubek](https://legacygames.com/product/bonus-game-rubek/)
 - [The Wild Case](https://legacygames.com/product/addling-adventures-3-pack/)
