@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-251-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-254-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2170-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2173-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -558,6 +558,7 @@
 - [Football Manager 2021](https://www.epicgames.com/store/en-US/p/football-manager-2021)
 - [Football Manager 2022](https://store.epicgames.com/en-US/p/football-manager-2022)
 - [For The King](https://www.epicgames.com/store/en-US/p/for-the-king)
+- [Fort Triumph](https://store.epicgames.com/en-US/p/fort-triumph)
 - [Fortnite](https://www.epicgames.com/store/en-US/p/fortnite)
 - [Frostpunk](https://www.epicgames.com/store/en-US/p/frostpunk)
 - [Galactic Civilizations III](https://www.epicgames.com/store/en-US/p/galactic-civilizations-iii)
@@ -634,6 +635,7 @@
 - [Pine](https://www.epicgames.com/store/en-US/p/pine)
 - [Prey](https://www.epicgames.com/store/en-US/p/prey)
 - [Prison Architect](https://www.epicgames.com/store/en-US/p/prison-architect)
+- [Quake](https://store.epicgames.com/en-US/p/quake)
 - [Rage 2](https://www.epicgames.com/store/en-US/p/rage-2)
 - [Railway Empire](https://www.epicgames.com/store/en-US/p/railway-empire)
 - [Realm Royale Reforged Epic Launch Bundle](https://store.epicgames.com/en-US/p/realm-royale-reforged--epic-launch-bundle)
@@ -649,6 +651,7 @@
 - [Rogue Company](https://www.epicgames.com/store/en-US/p/rogue-company)
 - [Rogue Legacy](https://store.epicgames.com/en-US/p/rogue-legacy)
 - [RollerCoaster Tycoon® 3: Complete Edition](https://www.epicgames.com/store/en-US/p/rollercoaster-tycoon-3-complete-edition)
+- [RPG in a Box](https://store.epicgames.com/en-US/p/rpg-in-a-box)
 - [Rumbleverse™](https://store.epicgames.com/en-US/p/rumbleverse)
 - [Runbow](https://store.epicgames.com/en-US/p/runbow-fc9fa4)
 - [Saints Row®: The Third™ Remastered](https://www.epicgames.com/store/en-US/p/saints-row-the-third-remastered)
