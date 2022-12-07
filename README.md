@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-258-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-259-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2141-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2142-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2066,6 +2066,7 @@
 - [OneShot](https://steamcommunity.com/app/420530)
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
 - [Owlboy](https://steamcommunity.com/app/115800)
+- [OxU](https://steamcommunity.com/app/2097180)
 - [Papers, Please](https://steamcommunity.com/app/239030)
 - [PerfectLover](https://steamcommunity.com/app/1181140)
 - [Pixel Art Coloring Book](https://steamcommunity.com/app/1576340)
