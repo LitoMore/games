@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-254-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-256-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/workflow/status/LitoMore/games/Deno?logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2175-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2177-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -654,6 +654,7 @@
 - [RPG in a Box](https://store.epicgames.com/en-US/p/rpg-in-a-box)
 - [Rumbleverse™](https://store.epicgames.com/en-US/p/rumbleverse)
 - [Runbow](https://store.epicgames.com/en-US/p/runbow-fc9fa4)
+- [Saints Row IV Re-Elected](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)
 - [Saints Row®: The Third™ Remastered](https://www.epicgames.com/store/en-US/p/saints-row-the-third-remastered)
 - [Salt and Sanctuary](https://www.epicgames.com/store/en-US/p/salt-and-sanctuary)
 - [SAMURAI SHODOWN NEOGEO COLLECTION](https://www.epicgames.com/store/en-US/p/samurai-shodown-neogeo-collection)
@@ -727,6 +728,7 @@
 - [Watch Dogs 2](https://www.epicgames.com/store/en-US/p/watch-dogs-2)
 - [Where The Water Tastes Like Wine](https://www.epicgames.com/store/en-US/p/where-the-water-tastes-like-wine)
 - [while True: learn()](https://www.epicgames.com/store/en-US/p/while-true-learn)
+- [Wildcat Gun Machine](https://store.epicgames.com/en-US/p/wildcat-gun-machine-c66c4e)
 - [Wilmot's Warehouse](https://www.epicgames.com/store/en-US/p/wilmots-warehouse)
 - [Windbound](https://www.epicgames.com/store/en-US/p/windbound)
 - [Wolfenstein: The New Order](https://store.epicgames.com/en-US/p/wolfenstein-the-new-order)
