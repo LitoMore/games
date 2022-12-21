@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-181-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-134-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-36-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2179-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2181-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -423,6 +423,8 @@
 - [Time Surfer](https://apps.apple.com/us/app/id549361775)
 - [Travel Frog](https://apps.apple.com/us/app/id1255032913)
 - [UNCLE GO](https://apps.apple.com/hk/app/id1084653345)
+- [Unheard](https://apps.apple.com/app/id1537717888)
+- [Vampire Survivors](https://apps.apple.com/app/id6444525702)
 - [VOEZ](https://apps.apple.com/us/app/id1007929736)
 - [Whack Your Boss Cartoon Land](https://apps.apple.com/us/app/id1198806318)
 - [Whack Your Computer](https://apps.apple.com/us/app/id1184075782)
