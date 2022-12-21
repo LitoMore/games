@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-274-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-276-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2177-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2179-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1991,6 +1991,7 @@
 - [Elden Ring](https://steamcommunity.com/app/1245620)
 - [Elf Sex Farm](https://steamcommunity.com/app/1738990)
 - [Environmental Station Alpha](https://store.steampowered.com/app/350070)
+- [Escape Simulator](https://steamcommunity.com/app/1435790)
 - [Estella's Nightmare: Sealed Space and a Succubus's Curse](https://steamcommunity.com/app/1925210)
 - [Evoland](https://steamcommunity.com/app/233470)
 - [Evoland 2](https://steamcommunity.com/app/359310)
@@ -2170,6 +2171,7 @@
 - [Universe Sandbox](https://steamcommunity.com/app/230290)
 - [V Rising](https://steamcommunity.com/app/1604030)
 - [Valheim](https://steamcommunity.com/app/892970)
+- [Vampire Survivors](https://steamcommunity.com/app/1794680)
 - [Virgo Versus The Zodiac](https://steamcommunity.com/app/920320)
 - [Wallpaper Engine](https://steamcommunity.com/app/431960)
 - [Warhammer: Vermintide 2](https://steamcommunity.com/app/552500)
