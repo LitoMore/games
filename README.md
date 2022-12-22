@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-276-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-280-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2181-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2185-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1935,6 +1935,7 @@
 - [Age of Empires II (2013)](https://steamcommunity.com/app/221380)
 - [Age of Empires® III: Complete Collection](https://steamcommunity.com/app/105450)
 - [Age of Mythology: Extended Edition](https://steamcommunity.com/app/266840)
+- [Ara Fell: Enhanced Edition](https://steamcommunity.com/app/440540)
 - [ARK: Survival Evolved](https://steamcommunity.com/app/346110)
 - [ARK: Survival Of The Fittest](https://steamcommunity.com/app/407530)
 - [Armored Fist 3](https://steamcommunity.com//app/32710)
@@ -1954,6 +1955,7 @@
 - [Braid](https://steamcommunity.com/app/26800)
 - [Breach & Clear](https://steamcommunity.com/app/266130)
 - [Breach & Clear: Deadline Rebirth (2016)](https://steamcommunity.com/app/310890)
+- [Chained Echoes](https://steamcommunity.com/app/1229240)
 - [Circuits](https://steamcommunity.com/app/282760)
 - [Comanche 4](https://steamcommunity.com/app/32750)
 - [Commandos 2 - HD Remaster](https://steamcommunity.com/app/1100410)
@@ -2063,6 +2065,7 @@
 - [LYNE](https://steamcommunity.com/app/266010)
 - [Mad Max](https://steamcommunity.com/app/234140)
 - [Marvel Heroes Omega](https://steamcommunity.com/app/226320)
+- [Melatonin](https://steamcommunity.com/app/1585220)
 - [Metro 2033 Redux](https://steamcommunity.com/app/286690)
 - [Metro: Last Light Redux](https://steamcommunity.com/app/287390)
 - [Middle-earth™: Shadow of Mordor™](https://steamcommunity.com/app/241930)
@@ -2106,6 +2109,7 @@
 - [qop 4](https://steamcommunity.com/app/966630)
 - [Queen's Glory](https://steamcommunity.com/app/1271190)
 - [Rescuing You in the Infinite Loop](https://steamcommunity.com/app/1778280)
+- [Rhythm Doctor](https://steamcommunity.com/app/774181)
 - [Ricochet](https://steamcommunity.com/app/60)
 - [Rise of Nations: Extended Edition](https://steamcommunity.com/app/287450)
 - [Rise of the Tomb Raider](https://steamcommunity.com/app/391220)
