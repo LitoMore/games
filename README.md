@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-257-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-258-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2186-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2187-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -552,6 +552,7 @@
 - [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv)
 - [Evil Dead: The Game](https://store.epicgames.com/en-US/p/evil-dead-the-game)
 - [Evoland Legendary Edition](https://store.epicgames.com/en-US/p/evoland-legendary-edition-5753ec)
+- [F.I.S.T.: Forged In Shadow Torch](https://store.epicgames.com/en-US/p/fist-forged-in-shadow-torch)
 - [Fall Guys](https://store.epicgames.com/en-US/p/fall-guys)
 - [Fallout 3: Game of the Year Edition](https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition)
 - [Farming Simulator 19](https://www.epicgames.com/store/en-US/p/farming-simulator-19)
