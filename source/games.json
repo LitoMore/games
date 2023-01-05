@@ -130,6 +130,10 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/41TtBQGClUL.jpg"
         },
         {
+          "name": "Breathedge",
+          "website": "https://m.media-amazon.com/images/I/41DsE5yQcaL.jpg"
+        },
+        {
           "name": "Brothers: A Tale of Two Sons",
           "website": "https://m.media-amazon.com/images/I/41jIcw7sBgL.jpg"
         },
@@ -148,6 +152,10 @@
         {
           "name": "Cat Quest",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51LJ5Ss5TNL.jpg"
+        },
+        {
+          "name": "Chicken Police - Paint it RED!",
+          "website": "https://m.media-amazon.com/images/I/416YkyuGr0L.jpg"
         },
         {
           "name": "Clouds & Sheep 2",
@@ -204,6 +212,10 @@
         {
           "name": "Fahrenheit: Indigo Prophecy Remastered",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41VPSnTYLXL.jpg"
+        },
+        {
+          "name": "Faraway 2: Jungle Escape",
+          "website": "https://m.media-amazon.com/images/I/41Nb3YW4uyL.jpg"
         },
         {
           "name": "Faraway: Director's Cut",
@@ -298,6 +310,10 @@
           "website": "https://m.media-amazon.com/images/I/41HxHUD0lZL.jpg"
         },
         {
+          "name": "Lawn Mowing Simulator",
+          "website": "https://m.media-amazon.com/images/I/514M7jgBZcL.jpg"
+        },
+        {
           "name": "Liberated",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41zyiCcz1hL.jpg"
         },
@@ -338,12 +354,20 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/41FnrrBpmVL.jpg"
         },
         {
+          "name": "Metal Slug",
+          "website": "https://m.media-amazon.com/images/I/41nksKi-tEL.jpg"
+        },
+        {
           "name": "Metal Slug 2",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg"
         },
         {
           "name": "Metal Slug 3",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg"
+        },
+        {
+          "name": "Metal Slug X",
+          "website": "https://m.media-amazon.com/images/I/41nH6iBHz4L.jpg"
         },
         {
           "name": "Metal Unit",
@@ -432,6 +456,10 @@
         {
           "name": "Rain World",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41IcvCvhLnL.jpg"
+        },
+        {
+          "name": "Real Bout Fatal Fury 2: The Newcomers",
+          "website": "https://m.media-amazon.com/images/I/416CZBA0rtL.jpg"
         },
         {
           "name": "Recompile",
@@ -638,8 +666,16 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/419qf06lJJL.jpg"
         },
         {
+          "name": "The King of Fighters 2003",
+          "website": "https://m.media-amazon.com/images/I/41tTfzTgx4L.jpg"
+        },
+        {
           "name": "The King of Fighters 97 Global Match",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41WC6yyAMmL.jpg"
+        },
+        {
+          "name": "The Last Blade",
+          "website": "https://m.media-amazon.com/images/I/51sJGbW6CsL.jpg"
         },
         {
           "name": "The Last Blade 2",
@@ -672,6 +708,10 @@
         {
           "name": "Turnip Boy Commits Tax Evasion",
           "website": "https://images-na.ssl-images-amazon.com/images/I/51lw4F-Jt0L.jpg"
+        },
+        {
+          "name": "Twinkle Star Sprites",
+          "website": "https://m.media-amazon.com/images/I/51px6J79lQL.jpg"
         },
         {
           "name": "Two Point Hospital",

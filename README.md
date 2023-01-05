@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-181-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-191-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2188-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2198-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -138,11 +138,13 @@
 - [Bomber Crew Deluxe](https://images-na.ssl-images-amazon.com/images/I/51bKrVtSuHL.jpg)
 - [Bombslinger](https://images-na.ssl-images-amazon.com/images/I/51BNGrQcHrS.jpg)
 - [Boomerang Fu](https://images-na.ssl-images-amazon.com/images/I/41TtBQGClUL.jpg)
+- [Breathedge](https://m.media-amazon.com/images/I/41DsE5yQcaL.jpg)
 - [Brothers: A Tale of Two Sons](https://m.media-amazon.com/images/I/41jIcw7sBgL.jpg)
 - [Calico](https://images-na.ssl-images-amazon.com/images/I/51yzRh73sPL.jpg)
 - [Candleman: The Complete Journey](https://images-na.ssl-images-amazon.com/images/I/41oTfRlUA2L.jpg)
 - [Castle on the Coast](https://images-na.ssl-images-amazon.com/images/I/51ie-KjW8jL.jpg)
 - [Cat Quest](https://images-na.ssl-images-amazon.com/images/I/51LJ5Ss5TNL.jpg)
+- [Chicken Police - Paint it RED!](https://m.media-amazon.com/images/I/416YkyuGr0L.jpg)
 - [Clouds & Sheep 2](https://images-na.ssl-images-amazon.com/images/I/51zmCFEilGL.jpg)
 - [Crypto Against All Odds](https://images-na.ssl-images-amazon.com/images/I/41aUXYHLK-L.jpg)
 - [Death Squared](https://images-na.ssl-images-amazon.com/images/I/4158UULS2ML.jpg)
@@ -157,6 +159,7 @@
 - [Escape Machine City: Airborne](https://images-na.ssl-images-amazon.com/images/I/41EKDorEBoL.jpg)
 - [Etherborn](https://m.media-amazon.com/images/I/31MCfObjElL.jpg)
 - [Fahrenheit: Indigo Prophecy Remastered](https://images-na.ssl-images-amazon.com/images/I/41VPSnTYLXL.jpg)
+- [Faraway 2: Jungle Escape](https://m.media-amazon.com/images/I/41Nb3YW4uyL.jpg)
 - [Faraway: Director's Cut](https://images-na.ssl-images-amazon.com/images/I/41tBJUB2HPS.jpg)
 - [Fatal Fury Special](https://images-na.ssl-images-amazon.com/images/I/51n1J7RP2rL.jpg)
 - [Fell Seal: Arbiter's Mark](https://images-na.ssl-images-amazon.com/images/I/41fqrLgoGjL.jpg)
@@ -180,6 +183,7 @@
 - [Ironclad](https://images-na.ssl-images-amazon.com/images/I/41dbe4EmBxL.jpg)
 - [King of the Monsters](https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg)
 - [Last Day of June](https://m.media-amazon.com/images/I/41HxHUD0lZL.jpg)
+- [Lawn Mowing Simulator](https://m.media-amazon.com/images/I/514M7jgBZcL.jpg)
 - [Liberated](https://images-na.ssl-images-amazon.com/images/I/41zyiCcz1hL.jpg)
 - [Little Big Workshop](https://images-na.ssl-images-amazon.com/images/I/41-1IghdbML.jpg)
 - [looK INside](https://images-na.ssl-images-amazon.com/images/I/418lWp3WsWL.jpg)
@@ -190,8 +194,10 @@
 - [Mana Spark](https://images-na.ssl-images-amazon.com/images/I/413nUCcC7GS.jpg)
 - [Maniac Mansion](https://images-na.ssl-images-amazon.com/images/I/41QkCnsXlGL.jpg)
 - [Manual Samuel](https://images-na.ssl-images-amazon.com/images/I/41FnrrBpmVL.jpg)
+- [Metal Slug](https://m.media-amazon.com/images/I/41nksKi-tEL.jpg)
 - [Metal Slug 2](https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg)
 - [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
+- [Metal Slug X](https://m.media-amazon.com/images/I/41nH6iBHz4L.jpg)
 - [Metal Unit](https://images-na.ssl-images-amazon.com/images/I/51KbGFkyl4L.jpg)
 - [Metamorphosis](https://images-na.ssl-images-amazon.com/images/I/41SuIGzLwsS.jpg)
 - [Monkey Island 2 Special Edition: LeChuck's Revenge](https://images-na.ssl-images-amazon.com/images/I/51BkzvbjdxL.jpg)
@@ -214,6 +220,7 @@
 - [Puzzle Agent 2](https://images-na.ssl-images-amazon.com/images/I/41gCrfJk1CL.jpg)
 - [RAD](https://images-na.ssl-images-amazon.com/images/I/617XkOfU4VL.jpg)
 - [Rain World](https://images-na.ssl-images-amazon.com/images/I/41IcvCvhLnL.jpg)
+- [Real Bout Fatal Fury 2: The Newcomers](https://m.media-amazon.com/images/I/416CZBA0rtL.jpg)
 - [Recompile](https://images-na.ssl-images-amazon.com/images/I/41xqQydsL6L.jpg)
 - [Red Wings: Aces of the Sky](https://images-na.ssl-images-amazon.com/images/I/41gp31NRJIL.jpg)
 - [Rogue Heroes: Ruins of Tasos](https://images-na.ssl-images-amazon.com/images/I/51jks9rVXzL.jpg)
@@ -265,7 +272,9 @@
 - [The King of Fighters 2000](https://images-na.ssl-images-amazon.com/images/I/41Wjf4l03CL.jpg)
 - [The King of Fighters 2002](https://images-na.ssl-images-amazon.com/images/I/41fcwhx7W2L.jpg)
 - [The King of Fighters 2002 Unlimited Match](https://images-na.ssl-images-amazon.com/images/I/419qf06lJJL.jpg)
+- [The King of Fighters 2003](https://m.media-amazon.com/images/I/41tTfzTgx4L.jpg)
 - [The King of Fighters 97 Global Match](https://images-na.ssl-images-amazon.com/images/I/41WC6yyAMmL.jpg)
+- [The Last Blade](https://m.media-amazon.com/images/I/51sJGbW6CsL.jpg)
 - [The Last Blade 2](https://images-na.ssl-images-amazon.com/images/I/51mIp68C2yL.jpg)
 - [The Metronomicon: Slay the Dance Floor](https://images-na.ssl-images-amazon.com/images/I/51ZuaoTs-rL.jpg)
 - [The Secret of Monkey Island: Special Edition](https://images-na.ssl-images-amazon.com/images/I/61kOEDVeufL.jpg)
@@ -274,6 +283,7 @@
 - [Tiny Robots Recharged](https://images-na.ssl-images-amazon.com/images/I/513hyTSh9mL.jpg)
 - [Tools Up!](https://images-na.ssl-images-amazon.com/images/I/41C2-HXJKVL.jpg)
 - [Turnip Boy Commits Tax Evasion](https://images-na.ssl-images-amazon.com/images/I/51lw4F-Jt0L.jpg)
+- [Twinkle Star Sprites](https://m.media-amazon.com/images/I/51px6J79lQL.jpg)
 - [Two Point Hospital](https://images-na.ssl-images-amazon.com/images/I/41C1YeB5S8L.jpg)
 - [Unmemory](https://images-na.ssl-images-amazon.com/images/I/41TS6+2xU-L.jpg)
 - [Wallace & Gromit: Fright of the Bumblebees](https://images-na.ssl-images-amazon.com/images/I/41EXGQJsdYL.jpg)
