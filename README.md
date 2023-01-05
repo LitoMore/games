@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-258-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-260-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2198-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2200-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -553,6 +553,7 @@
 - [DEMON'S TILT](https://store.epicgames.com/en-US/p/demons-tilt)
 - [Deponia: The Complete Journey](https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey)
 - [Destiny 2: Bungie 30th Anniversary Pack](https://store.epicgames.com/en-US/p/destiny-2--bungie-30th-anniversary-pack)
+- [Dishonored - Definitive Edition](https://store.epicgames.com/en-US/p/dishonored-definitive-edition)
 - [DOOM 64](https://store.epicgames.com/en-US/p/doom-64)
 - [Drawful 2](https://www.epicgames.com/store/en-US/p/drawful-2)
 - [Dungeons 3](https://www.epicgames.com/store/en-US/p/dungeons-3)
@@ -562,6 +563,7 @@
 - [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv)
 - [Evil Dead: The Game](https://store.epicgames.com/en-US/p/evil-dead-the-game)
 - [Evoland Legendary Edition](https://store.epicgames.com/en-US/p/evoland-legendary-edition-5753ec)
+- [Eximius: Seize the Frontline](https://store.epicgames.com/en-US/p/eximius-seize-the-frontline)
 - [F.I.S.T.: Forged In Shadow Torch](https://store.epicgames.com/en-US/p/fist-forged-in-shadow-torch)
 - [Fall Guys](https://store.epicgames.com/en-US/p/fall-guys)
 - [Fallout 3: Game of the Year Edition](https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition)
