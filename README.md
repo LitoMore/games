@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-260-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-263-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2204-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2207-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -554,6 +554,7 @@
 - [Deponia: The Complete Journey](https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey)
 - [Destiny 2: Bungie 30th Anniversary Pack](https://store.epicgames.com/en-US/p/destiny-2--bungie-30th-anniversary-pack)
 - [Dishonored - Definitive Edition](https://store.epicgames.com/en-US/p/dishonored-definitive-edition)
+- [Divine Knockout (DKO)](https://store.epicgames.com/en-US/p/divine-knockout--standard)
 - [DOOM 64](https://store.epicgames.com/en-US/p/doom-64)
 - [Drawful 2](https://www.epicgames.com/store/en-US/p/drawful-2)
 - [Dungeons 3](https://www.epicgames.com/store/en-US/p/dungeons-3)
@@ -570,6 +571,7 @@
 - [Farming Simulator 19](https://www.epicgames.com/store/en-US/p/farming-simulator-19)
 - [Faster Then Light](https://www.epicgames.com/store/en-US/p/faster-than-light)
 - [Filament](https://store.epicgames.com/en-US/p/filament-332a92)
+- [First Class Trouble](https://store.epicgames.com/en-US/p/first-class-trouble)
 - [Football Manager 2020](https://www.epicgames.com/store/en-US/p/football-manager-2020)
 - [Football Manager 2021](https://www.epicgames.com/store/en-US/p/football-manager-2021)
 - [Football Manager 2022](https://store.epicgames.com/en-US/p/football-manager-2022)
@@ -578,6 +580,7 @@
 - [Fortnite](https://www.epicgames.com/store/en-US/p/fortnite)
 - [Frostpunk](https://www.epicgames.com/store/en-US/p/frostpunk)
 - [Galactic Civilizations III](https://www.epicgames.com/store/en-US/p/galactic-civilizations-iii)
+- [Gamedec - Definitive Edition](https://store.epicgames.com/en-US/p/gamedec)
 - [Geneforge 1: Mutagen](https://store.epicgames.com/en-US/p/geneforge-1-mutagen)
 - [Genshin Impact](https://www.epicgames.com/store/en-US/p/genshin-impact)
 - [Ghostbusters: The Video Game Remastered](https://www.epicgames.com/store/en-US/p/ghostbusters-the-video-game-remastered)

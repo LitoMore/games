@@ -1796,6 +1796,10 @@
           "website": "https://store.epicgames.com/en-US/p/dishonored-definitive-edition"
         },
         {
+          "name": "Divine Knockout (DKO)",
+          "website": "https://store.epicgames.com/en-US/p/divine-knockout--standard"
+        },
+        {
           "name": "DOOM 64",
           "website": "https://store.epicgames.com/en-US/p/doom-64"
         },
@@ -1860,6 +1864,10 @@
           "website": "https://store.epicgames.com/en-US/p/filament-332a92"
         },
         {
+          "name": "First Class Trouble",
+          "website": "https://store.epicgames.com/en-US/p/first-class-trouble"
+        },
+        {
           "name": "Football Manager 2020",
           "website": "https://www.epicgames.com/store/en-US/p/football-manager-2020"
         },
@@ -1890,6 +1898,10 @@
         {
           "name": "Galactic Civilizations III",
           "website": "https://www.epicgames.com/store/en-US/p/galactic-civilizations-iii"
+        },
+        {
+          "name": "Gamedec - Definitive Edition",
+          "website": "https://store.epicgames.com/en-US/p/gamedec"
         },
         {
           "name": "Geneforge 1: Mutagen",
