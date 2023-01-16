@@ -74,7 +74,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-281-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-282-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -102,7 +102,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2203-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2204-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2099,6 +2099,7 @@
 - [Nobody Saves the World](https://steamcommunity.com/app/1432050)
 - [Noel The Mortal Fate S1-7](https://steamcommunity.com/app/850000)
 - [Noita](https://store.steampowered.com/app/881100)
+- [Nomad Survival](https://steamcommunity.com/app/1929870)
 - [Nonogram - The Greatest Painter](https://steampowered.com/app/742490)
 - [Oceanhorn: Monster of Uncharted Seas](https://steamcommunity.com/app/339200)
 - [Oik](https://steamcommunity.com/app/588970)
