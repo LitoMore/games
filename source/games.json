@@ -3093,6 +3093,20 @@
       ]
     },
     {
+      "name": "Nexon",
+      "anchor": "#nexon",
+      "badge": "https://img.shields.io/badge/Nexon-{{count}}-ddd?labelColor=212224",
+      "hostnames": [
+        "www.nexon.com"
+      ],
+      "gameList": [
+        {
+          "name": "MapleStory",
+          "website": "https://www.nexon.com/main/en/MapleStory/details"
+        }
+      ]
+    },
+    {
       "name": "Nintendo 3DS™",
       "anchor": "#nintendo-3ds",
       "badge": "https://img.shields.io/badge/Nintendo_3DS-{{count}}-ddd?logo=nintendo-3ds&labelColor=d12228",
