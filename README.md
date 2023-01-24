@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-263-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-264-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2208-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2209-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -564,6 +564,7 @@
 - [Elite Dangerous](https://www.epicgames.com/store/en-US/p/elite-dangerous)
 - [Encased](https://store.epicgames.com/en-US/p/encased)
 - [Enter The Gungeon](https://www.epicgames.com/store/en-US/p/enter-the-gungeon)
+- [Epistory - Typing Chronicles](https://store.epicgames.com/en-US/p/epistory-typing-chronicles-445794)
 - [Europa Universalis IV](https://www.epicgames.com/store/en-US/p/europa-universalis-iv)
 - [Evil Dead: The Game](https://store.epicgames.com/en-US/p/evil-dead-the-game)
 - [Evoland Legendary Edition](https://store.epicgames.com/en-US/p/evoland-legendary-edition-5753ec)
