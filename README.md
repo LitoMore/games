@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-264-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-266-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2209-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2211-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -534,6 +534,7 @@
 - [Centipede: Recharged](https://www.epicgames.com/store/en-US/p/centipede-recharged)
 - [Cities: Skylines](https://www.epicgames.com/store/en-US/p/cities-skylines)
 - [City of Brass](https://store.epicgames.com/en-US/p/city-of-brass)
+- [City of Gangsters](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)
 - [Close To The Sun](https://www.epicgames.com/store/en-US/p/close-to-the-sun)
 - [Control](https://www.epicgames.com/store/en-US/p/control)
 - [Cook, Serve, Delicious! 3?!](https://store.epicgames.com/en-US/p/cook-serve-delicious-3-fb9aae)
@@ -557,6 +558,7 @@
 - [Deponia: The Complete Journey](https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey)
 - [Destiny 2: Bungie 30th Anniversary Pack](https://store.epicgames.com/en-US/p/destiny-2--bungie-30th-anniversary-pack)
 - [Dishonored - Definitive Edition](https://store.epicgames.com/en-US/p/dishonored-definitive-edition)
+- [Dishonored®: Death of the Outsider™](https://store.epicgames.com/en-US/p/dishonored-death-of-the-outsider)
 - [Divine Knockout (DKO)](https://store.epicgames.com/en-US/p/divine-knockout--standard)
 - [DOOM 64](https://store.epicgames.com/en-US/p/doom-64)
 - [Drawful 2](https://www.epicgames.com/store/en-US/p/drawful-2)

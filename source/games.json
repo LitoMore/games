@@ -1704,6 +1704,10 @@
           "website": "https://store.epicgames.com/en-US/p/city-of-brass"
         },
         {
+          "name": "City of Gangsters",
+          "website": "https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974"
+        },
+        {
           "name": "Close To The Sun",
           "website": "https://www.epicgames.com/store/en-US/p/close-to-the-sun"
         },
@@ -1794,6 +1798,10 @@
         {
           "name": "Dishonored - Definitive Edition",
           "website": "https://store.epicgames.com/en-US/p/dishonored-definitive-edition"
+        },
+        {
+          "name": "Dishonored®: Death of the Outsider™",
+          "website": "https://store.epicgames.com/en-US/p/dishonored-death-of-the-outsider"
         },
         {
           "name": "Divine Knockout (DKO)",
