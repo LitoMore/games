@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-191-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-193-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2212-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2214-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -119,6 +119,7 @@
 - [Aces of Luftwaffe - Squadron](https://images-na.ssl-images-amazon.com/images/I/516gqDmaJML.jpg)
 - [Across the Grooves](https://images-na.ssl-images-amazon.com/images/I/41ABpwh3VGL.jpg)
 - [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
+- [Aerial_Knight's Never Yield](https://m.media-amazon.com/images/I/51C2Xrs+KML.jpg)
 - [Another Lost Phone: Laura's Story](https://images-na.ssl-images-amazon.com/images/I/41D0oVq5z8S.jpg)
 - [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
 - [As Far as the Eye](https://images-na.ssl-images-amazon.com/images/I/41XsOFu8tBL.jpg)
@@ -211,6 +212,7 @@
 - [Mugsters](https://images-na.ssl-images-amazon.com/images/I/41HorvHYMGL.jpg)
 - [Nanotale - Typing Chronicles](https://images-na.ssl-images-amazon.com/images/I/41nkwCHZKcL.jpg)
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
+- [Onsen Master](https://m.media-amazon.com/images/I/51vc5y0lIOL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
 - [Out of Line](https://images-na.ssl-images-amazon.com/images/I/31OX+MgkvXL.jpg)
 - [Paper Beast - Folded Edition](https://images-na.ssl-images-amazon.com/images/I/41tL36ULpEL.jpg)
