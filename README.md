@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-266-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-267-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2211-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2212-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -665,6 +665,7 @@
 - [Railway Empire](https://www.epicgames.com/store/en-US/p/railway-empire)
 - [Realm Royale Reforged Epic Launch Bundle](https://store.epicgames.com/en-US/p/realm-royale-reforged--epic-launch-bundle)
 - [Rebel Galaxy](https://www.epicgames.com/store/en-US/p/rebel-galaxy)
+- [Recipe For Disaster](https://store.epicgames.com/en-US/p/recipe-for-disaster-83726f)
 - [Redout: Enhanced Edition](https://store.epicgames.com/en-US/p/redout-enhanced-edition)
 - [Relicta](https://www.epicgames.com/store/en-US/p/relicta)
 - [Remnant: From the Ashes](https://www.epicgames.com/store/en-US/p/remnant-from-the-ashes)
