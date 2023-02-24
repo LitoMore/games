@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-268-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-269-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2221-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2222-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -571,6 +571,7 @@
 - [DOOM 64](https://store.epicgames.com/en-US/p/doom-64)
 - [Drawful 2](https://www.epicgames.com/store/en-US/p/drawful-2)
 - [Dungeons 3](https://www.epicgames.com/store/en-US/p/dungeons-3)
+- [Duskers](https://store.epicgames.com/en-US/p/duskers-672fdc)
 - [Elite Dangerous](https://www.epicgames.com/store/en-US/p/elite-dangerous)
 - [Encased](https://store.epicgames.com/en-US/p/encased)
 - [Enter The Gungeon](https://www.epicgames.com/store/en-US/p/enter-the-gungeon)
