@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-193-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-198-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2216-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2221-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -132,6 +132,7 @@
 - [Baseball Stars 2](https://images-na.ssl-images-amazon.com/images/I/51TEZd+tIuL.jpg)
 - [Batman - The Enemy Within](https://images-na.ssl-images-amazon.com/images/I/61ZiWwlxBML.jpg)
 - [Batman - The Telltale Series](https://images-na.ssl-images-amazon.com/images/I/41tSzcUvDnL.jpg)
+- [BATS: Bloodsucker Anti-Terror Squad](https://m.media-amazon.com/images/I/51KJYPcOdML.jpg)
 - [Beasts of Maravilla Island](https://images-na.ssl-images-amazon.com/images/I/41MAEezbuQL.jpg)
 - [Before I Forge](https://images-na.ssl-images-amazon.com/images/I/314xBFn+hsL.jpg)
 - [Beholder](https://images-na.ssl-images-amazon.com/images/I/41sxMfZTa+S.jpg)
@@ -212,6 +213,7 @@
 - [Mugsters](https://images-na.ssl-images-amazon.com/images/I/41HorvHYMGL.jpg)
 - [Nanotale - Typing Chronicles](https://images-na.ssl-images-amazon.com/images/I/41nkwCHZKcL.jpg)
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
+- [One Hand Clapping](https://m.media-amazon.com/images/I/41eOcWj1hiL.jpg)
 - [Onsen Master](https://m.media-amazon.com/images/I/51vc5y0lIOL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
 - [Out of Line](https://images-na.ssl-images-amazon.com/images/I/31OX+MgkvXL.jpg)
@@ -246,6 +248,8 @@
 - [SkyDrift](https://images-na.ssl-images-amazon.com/images/I/41rINvRQBFL.jpg)
 - [SNK 40th Anniversary Collection](https://images-na.ssl-images-amazon.com/images/I/51TN5AZ4PBL.jpg)
 - [Song of Horror Complete Edition](https://images-na.ssl-images-amazon.com/images/I/41jD3actQoL.jpg)
+- [Space Crew: Legendary Edition](https://m.media-amazon.com/images/I/51Z3OUI+pkL.jpg)
+- [Space Warlord Organ Trading Simulator](https://m.media-amazon.com/images/I/51Tck7m-IBL.jpg)
 - [Spellcaster University](https://images-na.ssl-images-amazon.com/images/I/41PIVqSa7-L.jpg)
 - [Spinch](https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg)
 - [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
@@ -287,6 +291,7 @@
 - [The Wanderer: Frankenstein's Creature](https://images-na.ssl-images-amazon.com/images/I/61BQKl6r4sL.jpg)
 - [Tiny Robots Recharged](https://images-na.ssl-images-amazon.com/images/I/513hyTSh9mL.jpg)
 - [Tools Up!](https://images-na.ssl-images-amazon.com/images/I/41C2-HXJKVL.jpg)
+- [Tunche](https://m.media-amazon.com/images/I/41ntkl+enPL.jpg)
 - [Turnip Boy Commits Tax Evasion](https://images-na.ssl-images-amazon.com/images/I/51lw4F-Jt0L.jpg)
 - [Twinkle Star Sprites](https://m.media-amazon.com/images/I/51px6J79lQL.jpg)
 - [Two Point Hospital](https://images-na.ssl-images-amazon.com/images/I/41C1YeB5S8L.jpg)
