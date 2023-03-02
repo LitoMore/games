@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-88-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-91-ddd?logo=xbox&labelColor=333333"/>
   </a>
 </p>
 
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2222-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2225-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2369,6 +2369,7 @@
 - [Gears 5](https://www.xbox.com/en-US/games/gears-5)
 - [Gods Will Fall](https://www.xbox.com/en-US/games/store/gods-will-fall/9pkbbtwkg85h)
 - [Grand Theft Auto V](https://www.xbox.com/en-US/games/gta-v)
+- [Guts 'N Goals](https://www.xbox.com/en-US/games/store/Guts-N-Goals/9N5LQ46D7907)
 - [Hard Corps: Uprising](https://www.microsoft.com/en-us/p/hard-corps-uprising/c30z07t9q9ct)
 - [Hover](https://www.microsoft.com/en-us/p/Hover/BS39NGVS2SP7)
 - [Hue](https://www.xbox.com/en-us/games/store/Hue/BXLH97R22VM2)
@@ -2400,6 +2401,7 @@
 - [SpongeBob: Truth-Sq.](https://www.xbox.com/en-hk/games/store/spongebob-truth-sq/9nkfjtr38n6z)
 - [STREET FIGHTER IV](https://marketplace.xbox.com/en-US/Product/STREET-FIGHTER-IV/66acd000-77fe-1000-9115-d802434307e1)
 - [Street Power Football](https://www.xbox.com/en-hk/games/store/street-power-football/9n95j9gp26m1)
+- [Sudden Strike 4 - Complete Collection](https://www.xbox.com/en-US/games/store/Sudden-Strike-4-Complete-Collection/BVGH0BLWLR52)
 - [Super Meat Boy](https://www.xbox.com/en-HK/games/store/super-meat-boy/c1365lm1q2dk)
 - [SUPER STREETFIGHTER IV](https://www.xbox.com/en-us/games/store/SUPER-STREETFIGHTER-IV-ARCADE-EDITION/BRRN3ZC632XS)
 - [Swimsanity!](https://www.microsoft.com/en-us/p/swimsanity/9nb4xd95k7k9)
@@ -2414,6 +2416,7 @@
 - [Torchlight](https://www.xbox.com/en-HK/games/store/torchlight/c5kdxm27b23f)
 - [Tropico 4](https://www.microsoft.com/en-us/p/tropico-4/bqcrwnb8zqbs)
 - [Tropico 5 - Penultimate Edition](https://www.xbox.com/en-us/games/store/tropico-5-penultimate-edition/bsmg6rbzh4lq)
+- [Trüberbrook](https://www.xbox.com/en-US/games/store/truberbrook/9p17k8g4h6hg)
 - [TUNIC](https://www.xbox.com/en-us/games/store/tunic/9nlrt31z4rwm)
 - [Vicious Attack Llama Apocalypse](https://www.microsoft.com/en-us/p/Vicious-Attack-Llama-Apocalypse/9N253PVJ49WT)
 - [Vikings - Wolves of Midgard](https://www.microsoft.com/en-us/p/Vikings---Wolves-of-Midgard/C32XK5TG6RNM)
