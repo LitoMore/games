@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-199-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-202-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2228-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2231-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -118,6 +118,7 @@
 - [Abandon Ship](https://images-na.ssl-images-amazon.com/images/I/41Go92IhokL.jpg)
 - [Aces of Luftwaffe - Squadron](https://images-na.ssl-images-amazon.com/images/I/516gqDmaJML.jpg)
 - [Across the Grooves](https://images-na.ssl-images-amazon.com/images/I/41ABpwh3VGL.jpg)
+- [Adios](https://m.media-amazon.com/images/I/41dOpXvx1aL.jpg)
 - [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
 - [Aerial_Knight's Never Yield](https://m.media-amazon.com/images/I/51C2Xrs+KML.jpg)
 - [Another Lost Phone: Laura's Story](https://images-na.ssl-images-amazon.com/images/I/41D0oVq5z8S.jpg)
@@ -166,6 +167,7 @@
 - [Etherborn](https://m.media-amazon.com/images/I/31MCfObjElL.jpg)
 - [Fahrenheit: Indigo Prophecy Remastered](https://images-na.ssl-images-amazon.com/images/I/41VPSnTYLXL.jpg)
 - [Faraway 2: Jungle Escape](https://m.media-amazon.com/images/I/41Nb3YW4uyL.jpg)
+- [Faraway: Arctic Escape](https://m.media-amazon.com/images/I/41jw9dBIdeL.jpg)
 - [Faraway: Director's Cut](https://images-na.ssl-images-amazon.com/images/I/41tBJUB2HPS.jpg)
 - [Fatal Fury Special](https://images-na.ssl-images-amazon.com/images/I/51n1J7RP2rL.jpg)
 - [Fell Seal: Arbiter's Mark](https://images-na.ssl-images-amazon.com/images/I/41fqrLgoGjL.jpg)
@@ -182,6 +184,7 @@
 - [Hero's Hour](https://m.media-amazon.com/images/I/51G-5JeYbnL.jpg)
 - [Horace](https://m.media-amazon.com/images/I/51okOR41QSL.jpg)
 - [HUE](https://images-na.ssl-images-amazon.com/images/I/41esGVTJyfL.jpg)
+- [I am Fish](https://m.media-amazon.com/images/I/41+7C66DYqL.jpg)
 - [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
 - [Indiana Jones and the Fate of Atlantis](https://images-na.ssl-images-amazon.com/images/I/41P0j0+tDwS.jpg)
 - [Indiana Jones and the Last Crusade](https://m.media-amazon.com/images/I/41IRuMAwVaL.jpg)
