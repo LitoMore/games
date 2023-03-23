@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-269-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-270-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2227-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2228-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -760,6 +760,7 @@
 - [Verdun](https://www.epicgames.com/store/en-US/p/verdun)
 - [Void Bastards](https://www.epicgames.com/store/en-US/p/void-bastards)
 - [Wargame: Red Dragon](https://www.epicgames.com/store/en-US/p/wargame-red-dragon)
+- [Warhammer 40,000: Gladius - Relics of War](https://store.epicgames.com/en-US/p/warhammer-40000-gladius-relics-of-war)
 - [Warhammer 40,000: Mechanicus](https://store.epicgames.com/en-US/p/warhammer-mechanicus-0e4b71)
 - [Watch Dogs 2](https://www.epicgames.com/store/en-US/p/watch-dogs-2)
 - [Where The Water Tastes Like Wine](https://www.epicgames.com/store/en-US/p/where-the-water-tastes-like-wine)
