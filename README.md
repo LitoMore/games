@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-202-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-204-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2231-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2233-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -144,6 +144,7 @@
 - [Blue Fire](https://images-na.ssl-images-amazon.com/images/I/41XVdqyZv9L.jpg)
 - [Bomber Crew Deluxe](https://images-na.ssl-images-amazon.com/images/I/51bKrVtSuHL.jpg)
 - [Bombslinger](https://images-na.ssl-images-amazon.com/images/I/51BNGrQcHrS.jpg)
+- [Book of Demons](https://m.media-amazon.com/images/I/410WTAhoDtL.jpg)
 - [Boomerang Fu](https://images-na.ssl-images-amazon.com/images/I/41TtBQGClUL.jpg)
 - [Breathedge](https://m.media-amazon.com/images/I/41DsE5yQcaL.jpg)
 - [Brothers: A Tale of Two Sons](https://m.media-amazon.com/images/I/41jIcw7sBgL.jpg)
@@ -222,6 +223,7 @@
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
 - [Out of Line](https://images-na.ssl-images-amazon.com/images/I/31OX+MgkvXL.jpg)
 - [Paper Beast - Folded Edition](https://images-na.ssl-images-amazon.com/images/I/41tL36ULpEL.jpg)
+- [Peaky Blinders: Mastermind](https://m.media-amazon.com/images/I/41clqqge1OL.jpg)
 - [Pesterquest](https://images-na.ssl-images-amazon.com/images/I/51hnvuspZzL.jpg)
 - [Plant Alpha](https://images-na.ssl-images-amazon.com/images/I/41NItUoNtCS.jpg)
 - [Portal Dogs](https://images-na.ssl-images-amazon.com/images/I/61AAnHadacL.jpg)
