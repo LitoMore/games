@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-270-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-272-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2233-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2235-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -743,6 +743,7 @@
 - [The First Tree](https://www.epicgames.com/store/en-US/p/the-first-tree)
 - [The Lion's Song](https://www.epicgames.com/store/en-US/p/the-lions-song)
 - [The Long Dark](https://www.epicgames.com/store/en-US/p/the-long-dark)
+- [The Silent Age](https://store.epicgames.com/en-US/p/the-silent-age-eb6972)
 - [The Spectrum Retreat](https://www.epicgames.com/store/en-US/p/the-spectrum-retreat)
 - [The Textorcist: The Story of Ray Bibbia](https://www.epicgames.com/store/en-US/p/the-textorcist)
 - [The Vanishing of Ethan Carter](https://www.epicgames.com/store/en-US/p/the-vanishing-of-ethan-carter)
@@ -758,6 +759,7 @@
 - [Total War: WARHAMMER II](https://store.epicgames.com/en-US/p/total-war-warhammer-ii)
 - [Train Sim World® 2](https://www.epicgames.com/store/en-US/p/train-sim-world-2)
 - [Tropico 5](https://www.epicgames.com/store/en-US/p/tropico-5)
+- [Tunche](https://store.epicgames.com/en-US/p/tunche)
 - [Tyranny - Gold Edition](https://www.epicgames.com/store/en-US/p/tyranny)
 - [Unrailed!](https://store.epicgames.com/en-US/p/unrailed-e19729)
 - [VALORANT](https://store.epicgames.com/en-US/p/valorant)
