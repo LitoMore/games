@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-283-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-285-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2235-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2237-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2116,6 +2116,7 @@
 - [Mad Max](https://steamcommunity.com/app/234140)
 - [Marvel Heroes Omega](https://steamcommunity.com/app/226320)
 - [Melatonin](https://steamcommunity.com/app/1585220)
+- [Melvor Idle](https://steamcommunity.com/app/1267910)
 - [Metro 2033 Redux](https://steamcommunity.com/app/286690)
 - [Metro: Last Light Redux](https://steamcommunity.com/app/287390)
 - [Middle-earth™: Shadow of Mordor™](https://steamcommunity.com/app/241930)
@@ -2153,6 +2154,7 @@
 - [POSTAL 2](https://steamcommunity.com/app/223470)
 - [POSTAL 2: Paradise Lost](https://steamcommunity.com/app/360960)
 - [Prince of Qin](https://steamcommunity.com/app/970500)
+- [Project: Mirror](https://steamcommunity.com/app/2171840)
 - [PUBG: BATTLEGROUNDS](https://steamcommunity.com/app/578080)
 - [qop](https://steamcommunity.com/app/654900)
 - [qop 2](https://steamcommunity.com/app/757330)
