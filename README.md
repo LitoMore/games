@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-204-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-206-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2239-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2241-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -123,6 +123,7 @@
 - [Aerial_Knight's Never Yield](https://m.media-amazon.com/images/I/51C2Xrs+KML.jpg)
 - [Another Lost Phone: Laura's Story](https://images-na.ssl-images-amazon.com/images/I/41D0oVq5z8S.jpg)
 - [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
+- [Art of Fighting 3: The Path of The Warrior](https://m.media-amazon.com/images/I/41RJRH6mqvL.jpg)
 - [As Far as the Eye](https://images-na.ssl-images-amazon.com/images/I/41XsOFu8tBL.jpg)
 - [Ashwalkers: A Survival Journey](https://images-na.ssl-images-amazon.com/images/I/410aD1u-IWL.jpg)
 - [Astrologaster](https://images-na.ssl-images-amazon.com/images/I/41hglRnHErL.jpg)
@@ -218,6 +219,7 @@
 - [Mugsters](https://images-na.ssl-images-amazon.com/images/I/41HorvHYMGL.jpg)
 - [Nanotale - Typing Chronicles](https://images-na.ssl-images-amazon.com/images/I/41nkwCHZKcL.jpg)
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
+- [Ninja Commando](https://m.media-amazon.com/images/I/51HDBvdytOL.jpg)
 - [One Hand Clapping](https://m.media-amazon.com/images/I/41eOcWj1hiL.jpg)
 - [Onsen Master](https://m.media-amazon.com/images/I/51vc5y0lIOL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
