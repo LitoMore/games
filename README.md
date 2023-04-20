@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-206-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-213-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2242-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2249-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -139,6 +139,7 @@
 - [Beasts of Maravilla Island](https://images-na.ssl-images-amazon.com/images/I/41MAEezbuQL.jpg)
 - [Before I Forge](https://images-na.ssl-images-amazon.com/images/I/314xBFn+hsL.jpg)
 - [Beholder](https://images-na.ssl-images-amazon.com/images/I/41sxMfZTa+S.jpg)
+- [Beholder 2](https://m.media-amazon.com/images/I/31X8wdrlrBL.jpg)
 - [BFF or Die](https://images-na.ssl-images-amazon.com/images/I/41e6drXiqqL.jpg)
 - [Blasphemous](https://images-na.ssl-images-amazon.com/images/I/41nl6XNb9UL.jpg)
 - [Blazing Star](https://images-na.ssl-images-amazon.com/images/I/41bWigpfrxL.jpg)
@@ -155,6 +156,7 @@
 - [Cat Quest](https://images-na.ssl-images-amazon.com/images/I/51LJ5Ss5TNL.jpg)
 - [Chicken Police - Paint it RED!](https://m.media-amazon.com/images/I/416YkyuGr0L.jpg)
 - [Clouds & Sheep 2](https://images-na.ssl-images-amazon.com/images/I/51zmCFEilGL.jpg)
+- [Crossed Swords](https://m.media-amazon.com/images/I/516IUNhpK8L.jpg)
 - [Crypto Against All Odds](https://images-na.ssl-images-amazon.com/images/I/41aUXYHLK-L.jpg)
 - [Death Squared](https://images-na.ssl-images-amazon.com/images/I/4158UULS2ML.jpg)
 - [Defend the Rook](https://m.media-amazon.com/images/I/51NpzeUQxGL.jpg)
@@ -178,6 +180,7 @@
 - [Frog Climbers](https://images-na.ssl-images-amazon.com/images/I/41nZGimGmBS.jpg)
 - [Galaxy of Pen and Paper](https://images-na.ssl-images-amazon.com/images/I/41pQeEecfEL.jpg)
 - [Garou: Mark of the Wolves](https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg)
+- [Ghost Pilots](https://m.media-amazon.com/images/I/41A6C2G1EPL.jpg)
 - [Giana Sisters: Twisted Dreams](https://images-na.ssl-images-amazon.com/images/I/51rdRExDVVL.jpg)
 - [Golazo! Soccer League](https://images-na.ssl-images-amazon.com/images/I/51DkCVKj2ML.jpg)
 - [Gone Viral](https://images-na.ssl-images-amazon.com/images/I/414ePg1PKAL.jpg)
@@ -187,6 +190,7 @@
 - [Horace](https://m.media-amazon.com/images/I/51okOR41QSL.jpg)
 - [HUE](https://images-na.ssl-images-amazon.com/images/I/41esGVTJyfL.jpg)
 - [I am Fish](https://m.media-amazon.com/images/I/41+7C66DYqL.jpg)
+- [Icewind Dale: Enhanced Edition](https://m.media-amazon.com/images/I/415QLbMuGlL.jpg)
 - [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
 - [Indiana Jones and the Fate of Atlantis](https://images-na.ssl-images-amazon.com/images/I/41P0j0+tDwS.jpg)
 - [Indiana Jones and the Last Crusade](https://m.media-amazon.com/images/I/41IRuMAwVaL.jpg)
@@ -208,6 +212,7 @@
 - [Metal Slug](https://m.media-amazon.com/images/I/41nksKi-tEL.jpg)
 - [Metal Slug 2](https://images-na.ssl-images-amazon.com/images/I/41mN65b7xaL.jpg)
 - [Metal Slug 3](https://images-na.ssl-images-amazon.com/images/I/51uODtSFE1L.jpg)
+- [Metal Slug 4](https://m.media-amazon.com/images/I/512cXsxaj9L.jpg)
 - [Metal Slug X](https://m.media-amazon.com/images/I/41nH6iBHz4L.jpg)
 - [Metal Unit](https://images-na.ssl-images-amazon.com/images/I/51KbGFkyl4L.jpg)
 - [Metamorphosis](https://images-na.ssl-images-amazon.com/images/I/41SuIGzLwsS.jpg)
@@ -220,6 +225,7 @@
 - [Nanotale - Typing Chronicles](https://images-na.ssl-images-amazon.com/images/I/41nkwCHZKcL.jpg)
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
 - [Ninja Commando](https://m.media-amazon.com/images/I/51HDBvdytOL.jpg)
+- [Ninja Master's](https://m.media-amazon.com/images/I/51NP9Fpw2lL.jpg)
 - [One Hand Clapping](https://m.media-amazon.com/images/I/41eOcWj1hiL.jpg)
 - [Onsen Master](https://m.media-amazon.com/images/I/51vc5y0lIOL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
@@ -275,6 +281,7 @@
 - [Tales of Monkey Island: Chapter 5](https://images-na.ssl-images-amazon.com/images/I/41eby475mYL.jpg)
 - [Tales of the Neon Sea](https://images-na.ssl-images-amazon.com/images/I/61LxE2n7oYL.jpg)
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
+- [Terraformers](https://m.media-amazon.com/images/I/51wSNz93pqL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
 - [The Amazing American Circus](https://m.media-amazon.com/images/I/41r44WuOwCL.jpg)
 - [The Blind Prophet](https://images-na.ssl-images-amazon.com/images/I/41cznbpARHS.jpg)
