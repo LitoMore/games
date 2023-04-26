@@ -2940,6 +2940,10 @@
           "website": "https://www.gog.com/en/game/stellaris"
         },
         {
+          "name": "The Beast Inside",
+          "website": "https://www.gog.com/en/game/the_beast_inside"
+        },
+        {
           "name": "The Elder Scrolls II: Daggerfall",
           "website": "https://www.gog.com/en/game/the_elder_scrolls_chapter_ii_daggerfall"
         },
@@ -2962,6 +2966,10 @@
         {
           "name": "The Witcher Goodies Collection",
           "website": "https://www.gog.com/game/the_witcher_goodies_collection"
+        },
+        {
+          "name": "Wolfenstein: The New Order",
+          "website": "https://www.gog.com/en/game/wolfenstein_the_new_order"
         }
       ]
     },
