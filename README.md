@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-273-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-275-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2251-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2253-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -526,6 +526,7 @@
 - [Absolute Drift](https://www.epicgames.com/store/en-US/p/absolute-drift)
 - [ABZU](https://www.epicgames.com/store/en-US/p/abzu)
 - [AER Memories of Old](https://www.epicgames.com/store/en-US/p/aer-memories-of-old)
+- [Against All Odds](https://store.epicgames.com/en-US/p/against-all-odds-409105)
 - [Alba - A Wildlife Adventure](https://store.epicgames.com/en-US/p/alba-a-wildlife-adventure-93736a)
 - [Alien: Isolation](https://www.epicgames.com/store/en-US/p/alien-isolation)
 - [Amnesia: A Machine for Pigs](https://www.epicgames.com/store/en-US/p/amnesia-a-machine-for-pigs)
@@ -642,6 +643,7 @@
 - [Jotun: Valhalla Edition](https://www.epicgames.com/store/en-US/p/jotun)
 - [Jurassic World Evolution](https://www.epicgames.com/store/en-US/p/jurassic-world-evolution)
 - [Just Die Already](https://store.epicgames.com/en-US/p/just-die-already)
+- [Kao the Kangaroo](https://store.epicgames.com/en-US/p/kao-the-kangaroo-62abe3)
 - [Ken Follett's The Pillars of the Earth](https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth)
 - [KID A MNESIA EXHIBITION](https://www.epicgames.com/store/en-US/p/kid-a-mnesia-exhibition)
 - [Killing Floor 2](https://store.epicgames.com/en-US/p/killing-floor-2)
