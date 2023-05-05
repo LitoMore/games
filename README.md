@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-213-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-219-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2253-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2259-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -184,6 +184,7 @@
 - [Giana Sisters: Twisted Dreams](https://images-na.ssl-images-amazon.com/images/I/51rdRExDVVL.jpg)
 - [Golazo! Soccer League](https://images-na.ssl-images-amazon.com/images/I/51DkCVKj2ML.jpg)
 - [Gone Viral](https://images-na.ssl-images-amazon.com/images/I/414ePg1PKAL.jpg)
+- [Grime](https://m.media-amazon.com/images/I/41rpNfakNDL.jpg)
 - [Guild of Ascension](https://images-na.ssl-images-amazon.com/images/I/41AXRlYIHUL.jpg)
 - [Healer's Quest](https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg)
 - [Hero's Hour](https://m.media-amazon.com/images/I/51G-5JeYbnL.jpg)
@@ -205,6 +206,7 @@
 - [Loom](https://m.media-amazon.com/images/I/31RQ+NcWVSL.jpg)
 - [Lost Horizon 2](https://images-na.ssl-images-amazon.com/images/I/41ivssRyTpS.jpg)
 - [Lost in Harmony](https://images-na.ssl-images-amazon.com/images/I/51qCd1cXydL.jpg)
+- [Magician Lord](https://m.media-amazon.com/images/I/41-nqQcjGJL.jpg)
 - [Mail Mole + 'Xpress Deliveries](https://images-na.ssl-images-amazon.com/images/I/41CxuvnY4LL.bbjpg)
 - [Mana Spark](https://images-na.ssl-images-amazon.com/images/I/413nUCcC7GS.jpg)
 - [Maniac Mansion](https://images-na.ssl-images-amazon.com/images/I/41QkCnsXlGL.jpg)
@@ -247,12 +249,14 @@
 - [Rogue Heroes: Ruins of Tasos](https://images-na.ssl-images-amazon.com/images/I/51jks9rVXzL.jpg)
 - [Sam and Max Hit the Road](https://images-na.ssl-images-amazon.com/images/I/51ceukl9cAL.jpg)
 - [Samurai Shodown II](https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg)
+- [Samurai Shodown IV: Amakusa's Revenge](https://m.media-amazon.com/images/I/41YEkve9srL.jpg)
 - [Samurai Shodown V Special](https://images-na.ssl-images-amazon.com/images/I/41BTivtNKNL.jpg)
 - [ScourgeBringer](https://images-na.ssl-images-amazon.com/images/I/41RAyaEVysL.jpg)
 - [Secret Files 2: Puritas Cordis](https://images-na.ssl-images-amazon.com/images/I/41iZ9lOZvZL.jpg)
 - [Secret Files 3](https://images-na.ssl-images-amazon.com/images/I/41P3uq+EcML.jpg)
 - [Secret Files: Sam Peters](https://images-na.ssl-images-amazon.com/images/I/412kSoip3LL.jpg)
 - [Secret Files: Tunguska](https://images-na.ssl-images-amazon.com/images/I/411b84JxTmS.jpg)
+- [Sengoku](https://m.media-amazon.com/images/I/51fwFtA2GrL.jpg)
 - [Sengoku 3](https://images-na.ssl-images-amazon.com/images/I/51OqxYzuPUL.jpg)
 - [Serial Cleaner](https://images-na.ssl-images-amazon.com/images/I/41qAbIg1PpL.jpg)
 - [Shattered - Tale of the Forgotten King](https://images-na.ssl-images-amazon.com/images/I/41IDYv8CbdL.jpg)
@@ -267,10 +271,12 @@
 - [Spellcaster University](https://images-na.ssl-images-amazon.com/images/I/41PIVqSa7-L.jpg)
 - [Spinch](https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg)
 - [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
+- [Star Wars: Rogue Squadron](https://m.media-amazon.com/images/I/41fCya5-zCL.jpg)
 - [Stealth Bastard Deluxe](https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg)
 - [SteamWorld Quest: Hand of Gilgamech](https://images-na.ssl-images-amazon.com/images/I/512UzdrrfJL.jpg)
 - [Strata](https://images-na.ssl-images-amazon.com/images/I/41Y5n+c728L.jpg)
 - [Stubbs the Zombie in Rebel Without ap Pulse](https://images-na.ssl-images-amazon.com/images/I/41XpKqAuNnL.jpg)
+- [Super Sidekicks](https://m.media-amazon.com/images/I/41SB1uxSkgL.jpg)
 - [Suzerain](https://images-na.ssl-images-amazon.com/images/I/419ZhSyzHsL.jpg)
 - [Swimsanity! - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51m6tg4jpcL.jpg)
 - [Table Manners](https://images-na.ssl-images-amazon.com/images/I/518y8hZMjiL.jpg)
