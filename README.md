@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-223-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-226-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2261-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2264-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1046,6 +1046,7 @@
 - [Assassin's Creed® III: Remastered](https://www.nintendo.com/games/detail/assassins-creed-iii-remastered-switch/)
 - [ASTRAL CHAIN](https://www.nintendo.com/games/detail/astral-chain-switch/)
 - [Atelier Ryza 2: Lost Legends & the Secret Fairy](https://www.nintendo.com/games/detail/atelier-ryza-2-lost-legends-and-the-secret-fairy-switch/)
+- [Atelier Ryza 3: Alchemist of the End & the Secret Key](https://www.nintendo.com/store/products/atelier-ryza-3-alchemist-of-the-end-and-the-secret-key-switch/)
 - [Attack on Titan 2](https://www.nintendo.com/games/detail/attack-on-titan-2-switch/)
 - [Bastion](https://www.nintendo.com/games/detail/bastion-switch/)
 - [Bayonetta™](https://www.nintendo.com/games/detail/bayonetta-switch/)
@@ -1168,6 +1169,7 @@
 - [Nobody Saves the World](https://www.nintendo.com/store/products/nobody-saves-the-world-switch/)
 - [NoReload Heroes](https://www.nintendo.com/games/detail/noreload-heroes-switch/)
 - [Oceanhorn - Monster of Uncharted Seas](https://www.nintendo.com/games/detail/oceanhorn-monster-of-uncharted-seas-switch/)
+- [OCTOPATH TRAVELER II](https://www.nintendo.com/store/products/octopath-traveler-ii-switch/)
 - [Octopath Traveler™](https://www.nintendo.com/games/detail/octopath-traveler-switch/)
 - [Ori and the Blind Forest: Definitive Edition](https://www.nintendo.com/games/detail/ori-and-the-blind-forest-definitive-edition-switch/)
 - [Ori and the Will of the Wisps](https://www.nintendo.com/games/detail/ori-and-the-will-of-the-wisps-switch/)
@@ -1233,6 +1235,7 @@
 - [The Legend of Zelda™: Breath of the Wild](https://www.nintendo.com/games/detail/the-legend-of-zelda-breath-of-the-wild-switch/)
 - [The Legend of Zelda™: Link’s Awakening](https://www.nintendo.com/games/detail/the-legend-of-zelda-links-awakening-switch/)
 - [The Legend of Zelda™: Skyward Sword HD](https://www.nintendo.com/games/detail/the-legend-of-zelda-skyward-sword-hd-switch/)
+- [The Legend of Zelda™: Tears of the Kingdom](https://www.nintendo.com/store/products/the-legend-of-zelda-tears-of-the-kingdom-switch/)
 - [The Room](https://www.nintendo.com/games/detail/the-room-switch/)
 - [The Witcher 3: Wild Hunt — Complete Edition](https://www.nintendo.com/games/detail/the-witcher-3-wild-hunt-complete-edition-switch/)
 - [Tokyo Mirage Sessions™ #FE Encore](https://www.nintendo.com/games/detail/tokyo-mirage-sessions-fe-encore-switch/)
