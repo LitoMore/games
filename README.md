@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-406-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-149-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-151-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2264-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2266-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1744,6 +1744,7 @@
 - [Grand Theft Auto V](https://www.playstation.com/en-us/games/grand-theft-auto-v/)
 - [GreedFall - Standard Edition](https://www.playstation.com/en-us/games/greedfall/)
 - [Hades](https://www.playstation.com/en-us/games/hades/)
+- [Hogwarts Legacy](https://www.playstation.com/en-us/games/hogwarts-legacy/)
 - [Hood: Outlaws & Legends](https://www.playstation.com/en-us/games/hood-outlaws-and-legends/)
 - [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)
 - [HOT WHEELS UNLEASHED](https://www.playstation.com/en-us/games/hot-wheels-unleashed/)
@@ -1805,6 +1806,7 @@
 - [Soundfall](https://store.playstation.com/en-us/product/UP0481-PPSA03801_00-9482550928209070)
 - [Stray](https://www.playstation.com/en-us/games/stray/)
 - [Super Stardust Portable](https://store.playstation.com/en-us/product/UP9000-PPSA07135_00-NPUG802210000000)
+- [Sword and Fairy: Together Forever](https://store.playstation.com/en-us/product/UP2005-PPSA07612_00-5540106463966137)
 - [Syphon Filter](https://store.playstation.com/en-hk/product/UP9000-CUSA31967_00-SCUS942400000000)
 - [Syphon Filter 2](https://store.playstation.com/en-us/product/UP9000-CUSA32470_00-SCUS944510000000)
 - [Tales of Arise](https://www.playstation.com/en-us/games/tales-of-arise/)
