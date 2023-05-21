@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-275-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-276-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2260-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2261-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -582,6 +582,7 @@
 - [DARQ: Complete Edition](https://www.epicgames.com/store/en-US/p/darq-complete-edition)
 - [Dead by Daylight](https://www.epicgames.com/store/en-US/p/dead-by-daylight)
 - [Death Coming](https://www.epicgames.com/store/en-US/p/death-coming)
+- [DEATH STRANDING](https://store.epicgames.com/en-US/p/death-stranding)
 - [Defense Grid: The Awakening](https://www.epicgames.com/store/en-US/p/defense-grid)
 - [DEMON'S TILT](https://store.epicgames.com/en-US/p/demons-tilt)
 - [Deponia: The Complete Journey](https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey)
