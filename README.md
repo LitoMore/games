@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Legacy_Games-24-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
   </a>
   <a href="#meta-quest">
-    <img src="https://img.shields.io/badge/Meta_Quest-12-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Meta_Quest-13-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
   </a>
   <a href="#microsoft-store">
     <img src="https://img.shields.io/badge/Microsoft_Store-5-ddd?logo=microsoft&labelColor=0067c0"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2268-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2269-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -912,6 +912,7 @@
 - [The Room VR: A Dark Matter](https://www.oculus.com/experiences/quest/2124523024270629)
 - [Virtual Desktop](https://www.oculus.com/experiences/quest/2017050365004772)
 - [VRChat](https://www.oculus.com/experiences/quest/1856672347794301)
+- [WHAT THE BAT?](https://www.oculus.com/experiences/quest/5251672408247712/)
 
 ## Microsoft Store
 
