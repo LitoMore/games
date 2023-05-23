@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-285-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-286-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2266-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2267-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2175,6 +2175,7 @@
 - [OxU](https://steamcommunity.com/app/2097180)
 - [Papers, Please](https://steamcommunity.com/app/239030)
 - [PerfectLover](https://steamcommunity.com/app/1181140)
+- [PICO PARK](https://steamcommunity.com/app/1509960)
 - [Pixel Art Coloring Book](https://steamcommunity.com/app/1576340)
 - [Portal](https://steamcommunity.com/app/400)
 - [Portal 2](https://steamcommunity.com/app/620)
