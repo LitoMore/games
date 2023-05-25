@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-276-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-277-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2269-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2270-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -606,6 +606,7 @@
 - [F.I.S.T.: Forged In Shadow Torch](https://store.epicgames.com/en-US/p/fist-forged-in-shadow-torch)
 - [Fall Guys](https://store.epicgames.com/en-US/p/fall-guys)
 - [Fallout 3: Game of the Year Edition](https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition)
+- [Fallout: New Vegas - Ultimate Edition](https://store.epicgames.com/en-US/p/fallout-new-vegas--ultimate-edition)
 - [Farming Simulator 19](https://www.epicgames.com/store/en-US/p/farming-simulator-19)
 - [Faster Then Light](https://www.epicgames.com/store/en-US/p/faster-than-light)
 - [Filament](https://store.epicgames.com/en-US/p/filament-332a92)
