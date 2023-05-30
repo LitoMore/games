@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/App_Store-137-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-36-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-40-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2271-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2275-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -473,12 +473,15 @@
 
 ## Apple Arcade
 
+- [Alba: A Wildlife Adventure](https://apps.apple.com/app/id1528014682)
 - [Angry Birds Reloaded](https://apps.apple.com/us/app/id1539172625)
+- [Asphalt 8: Airborne+](https://apps.apple.com/app/id1563005359)
 - [Blek+](https://apps.apple.com/us/app/id1551231841)
 - [Bloons TD 6+](https://apps.apple.com/us/app/id1584423325)
 - [Bridge Constructor+](https://apps.apple.com/app/id1587908263)
 - [Crossy Road Castle](https://apps.apple.com/us/app/id1489275350)
 - [Cut the Rope Remastered](https://apps.apple.com/us/app/id1524615151)
+- [Dead Cells+](https://apps.apple.com/app/id1626984813)
 - [Doodle God Universe](https://apps.apple.com/us/app/id1539947531)
 - [Filpflop Solitaire+](https://apps.apple.com/app/id1551670425)
 - [Fruit Ninja Classic+](https://apps.apple.com/us/app/id1552127102)
@@ -507,6 +510,7 @@
 - [Taiko no Tatsujin Pop Tap Beat](https://apps.apple.com/us/app/id1463360242)
 - [Tangle Tower](https://apps.apple.com/us/app/id1466301290)
 - [The Room Two+](https://apps.apple.com/us/app/id1554087004)
+- [WHAT THE CAR?](https://apps.apple.com/app/id1534708672)
 - [WHAT THE GOLF?](https://apps.apple.com/us/app/id1415190483)
 - [Zookeeper World](https://apps.apple.com/app/id1370858242)
 

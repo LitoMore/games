@@ -1455,8 +1455,16 @@
       ],
       "gameList": [
         {
+          "name": "Alba: A Wildlife Adventure",
+          "website": "https://apps.apple.com/app/id1528014682"
+        },
+        {
           "name": "Angry Birds Reloaded",
           "website": "https://apps.apple.com/us/app/id1539172625"
+        },
+        {
+          "name": "Asphalt 8: Airborne+",
+          "website": "https://apps.apple.com/app/id1563005359"
         },
         {
           "name": "Blek+",
@@ -1477,6 +1485,10 @@
         {
           "name": "Cut the Rope Remastered",
           "website": "https://apps.apple.com/us/app/id1524615151"
+        },
+        {
+          "name": "Dead Cells+",
+          "website": "https://apps.apple.com/app/id1626984813"
         },
         {
           "name": "Doodle God Universe",
@@ -1589,6 +1601,10 @@
         {
           "name": "The Room Two+",
           "website": "https://apps.apple.com/us/app/id1554087004"
+        },
+        {
+          "name": "WHAT THE CAR?",
+          "website": "https://apps.apple.com/app/id1534708672"
         },
         {
           "name": "WHAT THE GOLF?",
