@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-226-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-227-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2275-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2276-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1221,6 +1221,7 @@
 - [Sid Meier’s Civilization VI](https://www.nintendo.com/games/detail/sid-meiers-civilization-vi-switch/)
 - [Snipperclips Plus - Cut it out, together!](https://www.nintendo.com/games/detail/snipperclips-plus-switch/)
 - [SNOW BROS. SPECIAL](https://www.nintendo.com/store/products/snow-bros-special-switch/)
+- [Sparklite](https://www.nintendo.com/store/products/sparklite-switch/)
 - [Splatoon™ 2](https://www.nintendo.com/games/detail/splatoon-2-switch/)
 - [Stardew Valley](https://www.nintendo.com/games/detail/stardew-valley-switch/)
 - [Super Bomberman R](https://www.nintendo.com/games/detail/super-bomberman-r-switch/)
