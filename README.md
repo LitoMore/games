@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Amazon_Games-219-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-136-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-137-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
     <img src="https://img.shields.io/badge/Apple_Arcade-36-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2270-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2271-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -447,6 +447,7 @@
 - [Shadowmatic](https://apps.apple.com/us/app/id775888026)
 - [Sky: Children of the Light](https://apps.apple.com/us/app/id1462117269)
 - [Sound Rebound](https://apps.apple.com/us/app/id1156775187)
+- [Sparklite](https://apps.apple.com/us/app/id1553922886)
 - [Splitter Critters](https://apps.apple.com/us/app/id1107320261)
 - [Steam Mobile](https://apps.apple.com/us/app/id495369748)
 - [Subway Surfers](https://apps.apple.com/us/app/id512939461)
