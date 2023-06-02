@@ -68,7 +68,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-406-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-151-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-152-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2276-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2277-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1728,6 +1728,7 @@
 - [Detroit: Become Human](https://www.playstation.com/en-us/games/detroit-become-human/)
 - [Devil May Cry 5 Special Edition](https://www.playstation.com/en-us/games/devil-may-cry-5-special-edition/)
 - [Diablo II: Resurrected](https://www.playstation.com/en-us/games/diablo-ii-resurrected/)
+- [Diablo IV Ultimate Edition](https://www.playstation.com/en-us/games/diablo-iv/)
 - [DiRT 5](https://www.playstation.com/en-us/games/dirt-5/)
 - [Disney/Pixar Toy Story 2: Buzz Lightyear to the Rescue!](https://store.playstation.com/en-hk/product/UP1082-CUSA33334_00-6265507718650825)
 - [Disney/Pixar Toy Story 3](https://store.playstation.com/en-us/product/UP1082-CUSA33343_00-4838282977086414)
