@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-277-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-278-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2277-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2278-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -672,6 +672,7 @@
 - [Maneater](https://store.epicgames.com/en-US/p/maneater)
 - [Metro: 2033 Redux](https://www.epicgames.com/store/en-US/p/metro-2033-redux)
 - [Metro: Last Light Redux](https://www.epicgames.com/store/en-US/p/metro-last-light-redux)
+- [Midnight Ghost Hunt](https://store.epicgames.com/en-US/p/midnight-ghost-hunt)
 - [Minit](https://www.epicgames.com/store/en-US/p/minit)
 - [MORDHAU](https://store.epicgames.com/en-US/p/mordhau)
 - [Mothergunship](https://www.epicgames.com/store/en-US/p/mothergunship)
