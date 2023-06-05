@@ -34,6 +34,9 @@
   <a href="#legacy-games">
     <img src="https://img.shields.io/badge/Legacy_Games-25-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
   </a>
+  <a href="#luna">
+    <img src="https://img.shields.io/badge/Luna-5-ddd?logo=luna&labelColor=9146ff&logoColor=white"/>
+  </a>
   <a href="#meta-quest">
     <img src="https://img.shields.io/badge/Meta_Quest-13-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
   </a>
@@ -105,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2293-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2298-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -919,6 +922,14 @@
 - [Up Left Out](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Varenje](https://legacygames.com/product/addling-adventures-3-pack/)
 - [Word of the Law: Death Mask Collector's Edition](https://legacygames.com/product/best-of-domini-3-pack/)
+
+## Luna
+
+- [Batman™: Arkham Knight](https://luna.amazon.com/detail/B0C3QB7QKV)
+- [Citizen Sleeper](https://luna.amazon.com/detail/B0BZBQLXXP)
+- [Fortnite](https://luna.amazon.com/detail/B0BTRVRN6M)
+- [Monster Harvest](https://luna.amazon.com/detail/B09KMBCMJ7)
+- [SteamWorld Heist: Ultimate Edition](https://luna.amazon.com/detail/B08F9FHM52)
 
 ## Meta Quest
 

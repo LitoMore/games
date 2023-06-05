@@ -3249,6 +3249,36 @@
       ]
     },
     {
+      "name": "Luna",
+      "anchor": "#luna",
+      "badge": "https://img.shields.io/badge/Luna-{{count}}-ddd?logo=luna&labelColor=9146ff&logoColor=white",
+      "hostnames": [
+        "luna.amazon.com"
+      ],
+      "gameList": [
+        {
+          "name": "Batman™: Arkham Knight",
+          "website": "https://luna.amazon.com/detail/B0C3QB7QKV"
+        },
+        {
+          "name": "Citizen Sleeper",
+          "website": "https://luna.amazon.com/detail/B0BZBQLXXP"
+        },
+        {
+          "name": "Fortnite",
+          "website": "https://luna.amazon.com/detail/B0BTRVRN6M"
+        },
+        {
+          "name": "Monster Harvest",
+          "website": "https://luna.amazon.com/detail/B09KMBCMJ7"
+        },
+        {
+          "name": "SteamWorld Heist: Ultimate Edition",
+          "website": "https://luna.amazon.com/detail/B08F9FHM52"
+        }
+      ]
+    },
+    {
       "name": "Meta Quest",
       "anchor": "#meta-quest",
       "badge": "https://img.shields.io/badge/Meta_Quest-{{count}}-ddd?logo=meta&labelColor=0467df&logoColor=white",
