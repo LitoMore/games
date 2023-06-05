@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
-    <img src="https://img.shields.io/badge/Legacy_Games-24-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Legacy_Games-25-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
   </a>
   <a href="#meta-quest">
     <img src="https://img.shields.io/badge/Meta_Quest-13-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
@@ -105,7 +105,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2292-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2293-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -902,6 +902,7 @@
 - [Hook](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [House Of 1000 Doors: Family Secrets](https://legacygames.com/product/house-of-1000-doors-5-pack/)
 - [Klocki](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
+- [Lila's Sky Ark](https://legacygames.com/prime-gaming-lilas-sky-ark/)
 - [LIT: Bend the Light](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Looking For Aliens](https://legacygames.com/prime-gaming-looking-for-aliens/)
 - [Lyne](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
