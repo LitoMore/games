@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-219-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-233-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-137-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -105,13 +105,14 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2278-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2292-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
 ## Amazon Games
 
 - [10 Second Ninja X](https://images-na.ssl-images-amazon.com/images/I/414fPmDGijL.jpg)
+- [3 Count Bout](https://m.media-amazon.com/images/I/51L-QmqpF+L.jpg)
 - [8Doors: Arum's Afterlife Adventure](https://images-na.ssl-images-amazon.com/images/I/41gm3-QznnL.jpg)
 - [A Blind Legend](https://images-na.ssl-images-amazon.com/images/I/41sJPY42QXS.jpg)
 - [A Normal Lost Phone](https://images-na.ssl-images-amazon.com/images/I/41qFAy59K7S.jpg)
@@ -121,6 +122,8 @@
 - [Adios](https://m.media-amazon.com/images/I/41dOpXvx1aL.jpg)
 - [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
 - [Aerial_Knight's Never Yield](https://m.media-amazon.com/images/I/51C2Xrs+KML.jpg)
+- [Agatha Knife](https://m.media-amazon.com/images/I/41kdbJ3YhBL.jpg)
+- [Alpha Mission II](https://m.media-amazon.com/images/I/51iHU1HrYSL.jpg)
 - [Another Lost Phone: Laura's Story](https://images-na.ssl-images-amazon.com/images/I/41D0oVq5z8S.jpg)
 - [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
 - [Art of Fighting 3: The Path of The Warrior](https://m.media-amazon.com/images/I/41RJRH6mqvL.jpg)
@@ -144,6 +147,7 @@
 - [Blasphemous](https://images-na.ssl-images-amazon.com/images/I/41nl6XNb9UL.jpg)
 - [Blazing Star](https://images-na.ssl-images-amazon.com/images/I/41bWigpfrxL.jpg)
 - [Blue Fire](https://images-na.ssl-images-amazon.com/images/I/41XVdqyZv9L.jpg)
+- [Bobo Army](https://m.media-amazon.com/images/I/51B2bdpOovL.jpg)
 - [Bomber Crew Deluxe](https://images-na.ssl-images-amazon.com/images/I/51bKrVtSuHL.jpg)
 - [Bombslinger](https://images-na.ssl-images-amazon.com/images/I/51BNGrQcHrS.jpg)
 - [Book of Demons](https://m.media-amazon.com/images/I/410WTAhoDtL.jpg)
@@ -197,8 +201,13 @@
 - [Indiana Jones and the Last Crusade](https://m.media-amazon.com/images/I/41IRuMAwVaL.jpg)
 - [Iris and the Giant](https://images-na.ssl-images-amazon.com/images/I/41OFIiY-UCL.jpg)
 - [Ironclad](https://images-na.ssl-images-amazon.com/images/I/41dbe4EmBxL.jpg)
+- [Kardboard Kings: Card Shop Simulator](https://m.media-amazon.com/images/I/51ND1W06JgL.jpg)
 - [King of the Monsters](https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg)
+- [King of the Monsters 2](https://m.media-amazon.com/images/I/4145HBoW6XL.jpg)
+- [Kizuna Encounter: Super Tag Battle](https://m.media-amazon.com/images/I/51fawP6GRbL.jpg)
+- [Lake](https://m.media-amazon.com/images/I/41FS4bBYB6L.jpg)
 - [Last Day of June](https://m.media-amazon.com/images/I/41HxHUD0lZL.jpg)
+- [Last Resort](https://m.media-amazon.com/images/I/41IguBbh2eL.jpg)
 - [Lawn Mowing Simulator](https://m.media-amazon.com/images/I/514M7jgBZcL.jpg)
 - [Liberated](https://images-na.ssl-images-amazon.com/images/I/41zyiCcz1hL.jpg)
 - [Little Big Workshop](https://images-na.ssl-images-amazon.com/images/I/41-1IghdbML.jpg)
@@ -224,6 +233,7 @@
 - [Move or Die - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51nCq1urIkL.jpg)
 - [Move Out](https://images-na.ssl-images-amazon.com/images/I/41+IRxmoXIL.jpg)
 - [Mugsters](https://images-na.ssl-images-amazon.com/images/I/41HorvHYMGL.jpg)
+- [Mutation Nation](https://m.media-amazon.com/images/I/51yA6YShFzL.jpg)
 - [Nanotale - Typing Chronicles](https://images-na.ssl-images-amazon.com/images/I/41nkwCHZKcL.jpg)
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
 - [Ninja Commando](https://m.media-amazon.com/images/I/51HDBvdytOL.jpg)
@@ -235,6 +245,7 @@
 - [Paper Beast - Folded Edition](https://images-na.ssl-images-amazon.com/images/I/41tL36ULpEL.jpg)
 - [Peaky Blinders: Mastermind](https://m.media-amazon.com/images/I/41clqqge1OL.jpg)
 - [Pesterquest](https://images-na.ssl-images-amazon.com/images/I/51hnvuspZzL.jpg)
+- [Planescape Torment: Enhanced Edition](https://m.media-amazon.com/images/I/41-eYom61AL.jpg)
 - [Plant Alpha](https://images-na.ssl-images-amazon.com/images/I/41NItUoNtCS.jpg)
 - [Portal Dogs](https://images-na.ssl-images-amazon.com/images/I/61AAnHadacL.jpg)
 - [Pulstar](https://images-na.ssl-images-amazon.com/images/I/41GDiMwGDsL.jpg)
@@ -257,6 +268,7 @@
 - [Secret Files: Sam Peters](https://images-na.ssl-images-amazon.com/images/I/412kSoip3LL.jpg)
 - [Secret Files: Tunguska](https://images-na.ssl-images-amazon.com/images/I/411b84JxTmS.jpg)
 - [Sengoku](https://m.media-amazon.com/images/I/51fwFtA2GrL.jpg)
+- [Sengoku 2](https://m.media-amazon.com/images/I/51JgwRKj6-L.jpg)
 - [Sengoku 3](https://images-na.ssl-images-amazon.com/images/I/51OqxYzuPUL.jpg)
 - [Serial Cleaner](https://images-na.ssl-images-amazon.com/images/I/41qAbIg1PpL.jpg)
 - [Shattered - Tale of the Forgotten King](https://images-na.ssl-images-amazon.com/images/I/41IDYv8CbdL.jpg)
@@ -286,9 +298,11 @@
 - [Tales of Monkey Island: Chapter 4](https://images-na.ssl-images-amazon.com/images/I/41hhIpGEo0L.jpg)
 - [Tales of Monkey Island: Chapter 5](https://images-na.ssl-images-amazon.com/images/I/41eby475mYL.jpg)
 - [Tales of the Neon Sea](https://images-na.ssl-images-amazon.com/images/I/61LxE2n7oYL.jpg)
+- [Tandem: A Tale of Shadows](https://m.media-amazon.com/images/I/41ayiPEttyL.jpg)
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
 - [Terraformers](https://m.media-amazon.com/images/I/51wSNz93pqL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
+- [The Almost Gone](https://m.media-amazon.com/images/I/31SxpFSboYL.jpg)
 - [The Amazing American Circus](https://m.media-amazon.com/images/I/41r44WuOwCL.jpg)
 - [The Blind Prophet](https://images-na.ssl-images-amazon.com/images/I/41cznbpARHS.jpg)
 - [The Crow's Eye](https://images-na.ssl-images-amazon.com/images/I/41dnBmCc-gL.jpg)
