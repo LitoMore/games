@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-6-ddd?logo=gameandwatch&labelColor=009644&logoColor=white"/>
   </a>
   <a href="#gogcom">
-    <img src="https://img.shields.io/badge/GOG.com-37-ddd?logo=gog.com&labelColor=86328a"/>
+    <img src="https://img.shields.io/badge/GOG.com-39-ddd?logo=gog.com&labelColor=86328a"/>
   </a>
   <a href="#google-play">
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2305-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2307-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -882,6 +882,8 @@
 - [METAL SLUG X](https://www.gog.com/game/metal_slug_x)
 - [Middle-earth™: Shadow of Mordor™ Game of the Year Edition](https://www.gog.com/en/game/middleearth_shadow_of_mordor)
 - [Middle-earth™: Shadow of War™](https://www.gog.com/en/game/middleearth_shadow_of_war)
+- [Neverwinter Nights: Enhanced Edition](https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_pack)
+- [Prey](https://www.gog.com/en/game/prey)
 - [Stellaris](https://www.gog.com/en/game/stellaris)
 - [The Beast Inside](https://www.gog.com/en/game/the_beast_inside)
 - [The Elder Scrolls II: Daggerfall](https://www.gog.com/en/game/the_elder_scrolls_chapter_ii_daggerfall)
