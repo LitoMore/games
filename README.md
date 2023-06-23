@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-233-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-240-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-137-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2298-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2305-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -134,6 +134,7 @@
 - [Ashwalkers: A Survival Journey](https://images-na.ssl-images-amazon.com/images/I/410aD1u-IWL.jpg)
 - [Astrologaster](https://images-na.ssl-images-amazon.com/images/I/41hglRnHErL.jpg)
 - [Automachef](https://images-na.ssl-images-amazon.com/images/I/61lCqx9OTyL.jpg)
+- [Autonauts](https://m.media-amazon.com/images/I/41qp5D85o6L._FMwebp_.jpg)
 - [BAFL - Brakes Are For Losers](https://images-na.ssl-images-amazon.com/images/I/41tTXAZ8GlL.jpg)
 - [Baldur's Gate: Enhanced Edition](https://m.media-amazon.com/images/I/41p6y1-VzyL.jpg)
 - [Bang Bang Racing](https://images-na.ssl-images-amazon.com/images/I/51-MBaCx5HL.jpg)
@@ -245,6 +246,7 @@
 - [Onsen Master](https://m.media-amazon.com/images/I/51vc5y0lIOL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
 - [Out of Line](https://images-na.ssl-images-amazon.com/images/I/31OX+MgkvXL.jpg)
+- [Over Top](https://m.media-amazon.com/images/I/51er+AcHRNL._FMwebp_.jpg)
 - [Paper Beast - Folded Edition](https://images-na.ssl-images-amazon.com/images/I/41tL36ULpEL.jpg)
 - [Peaky Blinders: Mastermind](https://m.media-amazon.com/images/I/41clqqge1OL.jpg)
 - [Pesterquest](https://images-na.ssl-images-amazon.com/images/I/51hnvuspZzL.jpg)
@@ -260,6 +262,7 @@
 - [Real Bout Fatal Fury 2: The Newcomers](https://m.media-amazon.com/images/I/416CZBA0rtL.jpg)
 - [Recompile](https://images-na.ssl-images-amazon.com/images/I/41xqQydsL6L.jpg)
 - [Red Wings: Aces of the Sky](https://images-na.ssl-images-amazon.com/images/I/41gp31NRJIL.jpg)
+- [Revita](https://m.media-amazon.com/images/I/31SbBb8do-L._FMwebp_.jpg)
 - [Rogue Heroes: Ruins of Tasos](https://images-na.ssl-images-amazon.com/images/I/51jks9rVXzL.jpg)
 - [Sam and Max Hit the Road](https://images-na.ssl-images-amazon.com/images/I/51ceukl9cAL.jpg)
 - [Samurai Shodown II](https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg)
@@ -280,6 +283,7 @@
 - [Sine Mora Ex](https://images-na.ssl-images-amazon.com/images/I/51D4U4R0PLL.jpg)
 - [SkyDrift](https://images-na.ssl-images-amazon.com/images/I/41rINvRQBFL.jpg)
 - [SNK 40th Anniversary Collection](https://images-na.ssl-images-amazon.com/images/I/51TN5AZ4PBL.jpg)
+- [Soccer Brawl](https://m.media-amazon.com/images/I/51mLzWCUKjL._FMwebp_.jpg)
 - [Song of Horror Complete Edition](https://images-na.ssl-images-amazon.com/images/I/41jD3actQoL.jpg)
 - [Space Crew: Legendary Edition](https://m.media-amazon.com/images/I/51Z3OUI+pkL.jpg)
 - [Space Warlord Organ Trading Simulator](https://m.media-amazon.com/images/I/51Tck7m-IBL.jpg)
@@ -288,6 +292,7 @@
 - [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
 - [Star Wars: Rogue Squadron](https://m.media-amazon.com/images/I/41fCya5-zCL.jpg)
 - [Stealth Bastard Deluxe](https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg)
+- [SteamWorld Dig 2](https://m.media-amazon.com/images/I/41g0nwOz9kL._FMwebp_.jpg)
 - [SteamWorld Quest: Hand of Gilgamech](https://images-na.ssl-images-amazon.com/images/I/512UzdrrfJL.jpg)
 - [Strata](https://images-na.ssl-images-amazon.com/images/I/41Y5n+c728L.jpg)
 - [Stubbs the Zombie in Rebel Without ap Pulse](https://images-na.ssl-images-amazon.com/images/I/41XpKqAuNnL.jpg)
@@ -326,9 +331,11 @@
 - [The Metronomicon: Slay the Dance Floor](https://images-na.ssl-images-amazon.com/images/I/51ZuaoTs-rL.jpg)
 - [The Secret of Monkey Island: Special Edition](https://images-na.ssl-images-amazon.com/images/I/61kOEDVeufL.jpg)
 - [The Stillness of the Wind](https://images-na.ssl-images-amazon.com/images/I/41PvAU18+ML.jpg)
+- [The Super Spy](https://m.media-amazon.com/images/I/315XSjDd5lL._FMwebp_.jpg)
 - [The Wanderer: Frankenstein's Creature](https://images-na.ssl-images-amazon.com/images/I/61BQKl6r4sL.jpg)
 - [Tiny Robots Recharged](https://images-na.ssl-images-amazon.com/images/I/513hyTSh9mL.jpg)
 - [Tools Up!](https://images-na.ssl-images-amazon.com/images/I/41C2-HXJKVL.jpg)
+- [Top Hunter: Roddy & Cathy](https://m.media-amazon.com/images/I/514DBbIoZ+L._FMwebp_.jpg)
 - [Tunche](https://m.media-amazon.com/images/I/41ntkl+enPL.jpg)
 - [Turnip Boy Commits Tax Evasion](https://images-na.ssl-images-amazon.com/images/I/51lw4F-Jt0L.jpg)
 - [Twinkle Star Sprites](https://m.media-amazon.com/images/I/51px6J79lQL.jpg)
