@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
-    <img src="https://img.shields.io/badge/Legacy_Games-25-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Legacy_Games-26-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
   </a>
   <a href="#luna">
     <img src="https://img.shields.io/badge/Luna-5-ddd?logo=luna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2314-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2315-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -917,6 +917,7 @@
 - [Evergarden](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Facility 47](https://legacygames.com/product/haunted-horrors-15-pack/)
 - [Family Mysteries: Poisonous Promises](https://legacygames.com/prime-gaming-poisonous-promises/)
+- [Gems of Destiny: Homeless Dwarf](https://legacygames.com/prime-gaming-gems-of-destiny/)
 - [Glass Masquerade: Origins](https://legacygames.com/product/glass-masquerade-3-pack/)
 - [Hook](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [House Of 1000 Doors: Family Secrets](https://legacygames.com/product/house-of-1000-doors-5-pack/)
