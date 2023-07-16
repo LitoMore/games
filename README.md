@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-240-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-247-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-137-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2307-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2314-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -136,6 +136,7 @@
 - [Automachef](https://images-na.ssl-images-amazon.com/images/I/61lCqx9OTyL.jpg)
 - [Autonauts](https://m.media-amazon.com/images/I/41qp5D85o6L._FMwebp_.jpg)
 - [BAFL - Brakes Are For Losers](https://images-na.ssl-images-amazon.com/images/I/41tTXAZ8GlL.jpg)
+- [Baldur's Gate II: Enhanced Edition](https://m.media-amazon.com/images/I/41DhcGVw9nL._FMwebp_.jpg)
 - [Baldur's Gate: Enhanced Edition](https://m.media-amazon.com/images/I/41p6y1-VzyL.jpg)
 - [Bang Bang Racing](https://images-na.ssl-images-amazon.com/images/I/51-MBaCx5HL.jpg)
 - [Banners of Ruin](https://m.media-amazon.com/images/I/41km6uBJ7LL.jpg)
@@ -164,6 +165,7 @@
 - [Cat Quest](https://images-na.ssl-images-amazon.com/images/I/51LJ5Ss5TNL.jpg)
 - [Chicken Police - Paint it RED!](https://m.media-amazon.com/images/I/416YkyuGr0L.jpg)
 - [Clouds & Sheep 2](https://images-na.ssl-images-amazon.com/images/I/51zmCFEilGL.jpg)
+- [Cook, Serve, Delicious! 3?!](https://m.media-amazon.com/images/I/41extQsOeTL._FMwebp_.jpg)
 - [Crossed Swords](https://m.media-amazon.com/images/I/516IUNhpK8L.jpg)
 - [Crypto Against All Odds](https://images-na.ssl-images-amazon.com/images/I/41aUXYHLK-L.jpg)
 - [Death Squared](https://images-na.ssl-images-amazon.com/images/I/4158UULS2ML.jpg)
@@ -238,10 +240,12 @@
 - [Move Out](https://images-na.ssl-images-amazon.com/images/I/41+IRxmoXIL.jpg)
 - [Mugsters](https://images-na.ssl-images-amazon.com/images/I/41HorvHYMGL.jpg)
 - [Mutation Nation](https://m.media-amazon.com/images/I/51yA6YShFzL.jpg)
+- [NAIRI: Tower of Shirin](https://m.media-amazon.com/images/I/41dBChN7i6L._FMwebp_.jpg)
 - [Nanotale - Typing Chronicles](https://images-na.ssl-images-amazon.com/images/I/41nkwCHZKcL.jpg)
 - [Newfound Courage](https://images-na.ssl-images-amazon.com/images/I/41QKC+9CiKL.jpg)
 - [Ninja Commando](https://m.media-amazon.com/images/I/51HDBvdytOL.jpg)
 - [Ninja Master's](https://m.media-amazon.com/images/I/51NP9Fpw2lL.jpg)
+- [Once Upon a Jester](https://m.media-amazon.com/images/I/41DFvtuSbPL._FMwebp_.jpg)
 - [One Hand Clapping](https://m.media-amazon.com/images/I/41eOcWj1hiL.jpg)
 - [Onsen Master](https://m.media-amazon.com/images/I/51vc5y0lIOL.jpg)
 - [Optica](https://images-na.ssl-images-amazon.com/images/I/41ECUA+UeoL.jpg)
@@ -264,6 +268,7 @@
 - [Red Wings: Aces of the Sky](https://images-na.ssl-images-amazon.com/images/I/41gp31NRJIL.jpg)
 - [Revita](https://m.media-amazon.com/images/I/31SbBb8do-L._FMwebp_.jpg)
 - [Rogue Heroes: Ruins of Tasos](https://images-na.ssl-images-amazon.com/images/I/51jks9rVXzL.jpg)
+- [Roguebook](https://m.media-amazon.com/images/I/51BXs6+MAqL._FMwebp_.jpg)
 - [Sam and Max Hit the Road](https://images-na.ssl-images-amazon.com/images/I/51ceukl9cAL.jpg)
 - [Samurai Shodown II](https://images-na.ssl-images-amazon.com/images/I/41biPj9lwzL.jpg)
 - [Samurai Shodown IV: Amakusa's Revenge](https://m.media-amazon.com/images/I/41YEkve9srL.jpg)
@@ -280,6 +285,7 @@
 - [Shattered - Tale of the Forgotten King](https://images-na.ssl-images-amazon.com/images/I/41IDYv8CbdL.jpg)
 - [Shock Troopers](https://images-na.ssl-images-amazon.com/images/I/51Cnw8dv7AL.jpg)
 - [Shock Troopers 2nd Squad](https://images-na.ssl-images-amazon.com/images/I/51RCuh-K5tL.jpg)
+- [Shovel Knight Showdown](https://m.media-amazon.com/images/I/51DXiJ7XgwL._FMwebp_.jpg)
 - [Sine Mora Ex](https://images-na.ssl-images-amazon.com/images/I/51D4U4R0PLL.jpg)
 - [SkyDrift](https://images-na.ssl-images-amazon.com/images/I/41rINvRQBFL.jpg)
 - [SNK 40th Anniversary Collection](https://images-na.ssl-images-amazon.com/images/I/51TN5AZ4PBL.jpg)
@@ -291,6 +297,7 @@
 - [Spinch](https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg)
 - [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
 - [Star Wars: Rogue Squadron](https://m.media-amazon.com/images/I/41fCya5-zCL.jpg)
+- [Star Wars: The Force Unleashed](https://m.media-amazon.com/images/I/41l2Q7aPP1L._FMwebp_.jpg)
 - [Stealth Bastard Deluxe](https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg)
 - [SteamWorld Dig 2](https://m.media-amazon.com/images/I/41g0nwOz9kL._FMwebp_.jpg)
 - [SteamWorld Quest: Hand of Gilgamech](https://images-na.ssl-images-amazon.com/images/I/512UzdrrfJL.jpg)
