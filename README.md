@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-406-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-152-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-154-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2316-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2318-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1781,6 +1781,7 @@
 - [echochrome™](https://store.playstation.com/en-hk/product/HP9000-CUSA32647_00-UCKS450820000000)
 - [echoshift](https://store.playstation.com/en-us/product/UP9000-CUSA33585_00-NPUG803030000000)
 - [Elden Ring](https://www.playstation.com/en-us/games/elden-ring)
+- [Endling - Extinction is Forever](https://www.playstation.com/en-us/games/endling-extinction-is-forever/)
 - [Everybody's Golf](https://store.playstation.com/en-hk/product/EP9000-CUSA32007_00-SCES009830000000)
 - [F.I.S.T: Forged in Shadow Torch](https://www.playstation.com/en-us/games/fist-forged-in-shadow-torch/)
 - [Fall Guys: Ultimate Knockout](https://www.playstation.com/en-us/games/fall-guys-ultimate-knockout/)
@@ -1880,6 +1881,7 @@
 - [Uncharted 4: A Thief’s End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
 - [UNCHARTED™: Legacy of Thieves Collection](https://www.playstation.com/en-us/games/uncharted-legacy-of-thieves-collection/)
 - [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
+- [Viewfinder](https://www.playstation.com/en-us/games/viewfinder/)
 - [Warhammer: Chaosbane](https://www.playstation.com/en-us/games/warhammer-chaosbane/)
 - [Warhammer: Chaosbane Slayer Edition](https://store.playstation.com/en-us/product/UP4008-PPSA01446_00-WHCBSIEA00000000)
 - [Watch Dogs®: Legion](https://www.playstation.com/en-us/games/watch-dogs-legion/)
