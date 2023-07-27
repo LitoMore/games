@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-247-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-248-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-137-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2318-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2319-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -358,6 +358,7 @@
 - [WRC 7 FIA World Rally Championship](https://images-na.ssl-images-amazon.com/images/I/41cDuOOqj5L.jpg)
 - [WRC 8](https://images-na.ssl-images-amazon.com/images/I/411gArERiJL.jpg)
 - [WRC 9](https://m.media-amazon.com/images/I/51QPV+BYAhL.jpg)
+- [Wytchwood](https://m.media-amazon.com/images/I/415751W4awL._FMwebp_.jpg)
 - [Yoku's Island Express](https://images-na.ssl-images-amazon.com/images/I/41XjHktTocS.jpg)
 - [Youtubers Life](https://images-na.ssl-images-amazon.com/images/I/41SwO+8GhyL.jpg)
 - [Zak McKracken and the Alien Mindbenders](https://images-na.ssl-images-amazon.com/images/I/41EVUhwZ9vL.jpg)
