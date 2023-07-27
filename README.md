@@ -4,6 +4,9 @@
   <a href="#amazon-games">
     <img src="https://img.shields.io/badge/Amazon_Games-248-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
+  <a href="#amazon-luna">
+    <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
+  </a>
   <a href="#app-store">
     <img src="https://img.shields.io/badge/App_Store-137-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
   </a>
@@ -33,9 +36,6 @@
   </a>
   <a href="#legacy-games">
     <img src="https://img.shields.io/badge/Legacy_Games-26-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
-  </a>
-  <a href="#luna">
-    <img src="https://img.shields.io/badge/Luna-5-ddd?logo=luna&labelColor=9146ff&logoColor=white"/>
   </a>
   <a href="#meta-quest">
     <img src="https://img.shields.io/badge/Meta_Quest-13-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
@@ -362,6 +362,14 @@
 - [Yoku's Island Express](https://images-na.ssl-images-amazon.com/images/I/41XjHktTocS.jpg)
 - [Youtubers Life](https://images-na.ssl-images-amazon.com/images/I/41SwO+8GhyL.jpg)
 - [Zak McKracken and the Alien Mindbenders](https://images-na.ssl-images-amazon.com/images/I/41EVUhwZ9vL.jpg)
+
+## Amazon Luna
+
+- [Batman™: Arkham Knight](https://luna.amazon.com/detail/B0C3QB7QKV)
+- [Citizen Sleeper](https://luna.amazon.com/detail/B0BZBQLXXP)
+- [Fortnite](https://luna.amazon.com/detail/B0BTRVRN6M)
+- [Monster Harvest](https://luna.amazon.com/detail/B09KMBCMJ7)
+- [SteamWorld Heist: Ultimate Edition](https://luna.amazon.com/detail/B08F9FHM52)
 
 ## App Store
 
@@ -941,14 +949,6 @@
 - [Up Left Out](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Varenje](https://legacygames.com/product/addling-adventures-3-pack/)
 - [Word of the Law: Death Mask Collector's Edition](https://legacygames.com/product/best-of-domini-3-pack/)
-
-## Luna
-
-- [Batman™: Arkham Knight](https://luna.amazon.com/detail/B0C3QB7QKV)
-- [Citizen Sleeper](https://luna.amazon.com/detail/B0BZBQLXXP)
-- [Fortnite](https://luna.amazon.com/detail/B0BTRVRN6M)
-- [Monster Harvest](https://luna.amazon.com/detail/B09KMBCMJ7)
-- [SteamWorld Heist: Ultimate Edition](https://luna.amazon.com/detail/B08F9FHM52)
 
 ## Meta Quest
 

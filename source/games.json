@@ -1004,6 +1004,36 @@
       ]
     },
     {
+      "name": "Amazon Luna",
+      "anchor": "#amazon-luna",
+      "badge": "https://img.shields.io/badge/Amazon_Luna-{{count}}-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white",
+      "hostnames": [
+        "luna.amazon.com"
+      ],
+      "gameList": [
+        {
+          "name": "Batman™: Arkham Knight",
+          "website": "https://luna.amazon.com/detail/B0C3QB7QKV"
+        },
+        {
+          "name": "Citizen Sleeper",
+          "website": "https://luna.amazon.com/detail/B0BZBQLXXP"
+        },
+        {
+          "name": "Fortnite",
+          "website": "https://luna.amazon.com/detail/B0BTRVRN6M"
+        },
+        {
+          "name": "Monster Harvest",
+          "website": "https://luna.amazon.com/detail/B09KMBCMJ7"
+        },
+        {
+          "name": "SteamWorld Heist: Ultimate Edition",
+          "website": "https://luna.amazon.com/detail/B08F9FHM52"
+        }
+      ]
+    },
+    {
       "name": "App Store",
       "anchor": "#app-store",
       "badge": "https://img.shields.io/badge/App_Store-{{count}}-ddd?logo=app-store&labelColor=0d96f6&logoColor=white",
@@ -3321,36 +3351,6 @@
         {
           "name": "Word of the Law: Death Mask Collector's Edition",
           "website": "https://legacygames.com/product/best-of-domini-3-pack/"
-        }
-      ]
-    },
-    {
-      "name": "Luna",
-      "anchor": "#luna",
-      "badge": "https://img.shields.io/badge/Luna-{{count}}-ddd?logo=luna&labelColor=9146ff&logoColor=white",
-      "hostnames": [
-        "luna.amazon.com"
-      ],
-      "gameList": [
-        {
-          "name": "Batman™: Arkham Knight",
-          "website": "https://luna.amazon.com/detail/B0C3QB7QKV"
-        },
-        {
-          "name": "Citizen Sleeper",
-          "website": "https://luna.amazon.com/detail/B0BZBQLXXP"
-        },
-        {
-          "name": "Fortnite",
-          "website": "https://luna.amazon.com/detail/B0BTRVRN6M"
-        },
-        {
-          "name": "Monster Harvest",
-          "website": "https://luna.amazon.com/detail/B09KMBCMJ7"
-        },
-        {
-          "name": "SteamWorld Heist: Ultimate Edition",
-          "website": "https://luna.amazon.com/detail/B08F9FHM52"
         }
       ]
     },
