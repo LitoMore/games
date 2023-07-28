@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-279-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-281-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2319-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2321-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -681,6 +681,7 @@
 - [Hell is other demons](https://www.epicgames.com/store/en-US/p/hell-is-other-demons)
 - [HITMAN](https://www.epicgames.com/store/en-US/p/hitman)
 - [Hob](https://www.epicgames.com/store/en-US/p/hob)
+- [Homeworld Remastered Collection](https://store.epicgames.com/en-US/p/homeworld-remastered-collection)
 - [Hood: Outlaws & Legends](https://store.epicgames.com/en-US/p/hood-outlaws-and-legends)
 - [Horizon Chase Turbo](https://www.epicgames.com/store/en-US/p/horizon-chase-turbo)
 - [Hue](https://www.epicgames.com/store/en-US/p/hue)
@@ -767,6 +768,7 @@
 - [SAMURAI SHODOWN NEOGEO COLLECTION](https://www.epicgames.com/store/en-US/p/samurai-shodown-neogeo-collection)
 - [Saturnalia](https://store.epicgames.com/en-US/p/saturnalia)
 - [Second Extinction™](https://www.epicgames.com/store/en-US/p/second-extinction)
+- [Severed Steel](https://store.epicgames.com/en-US/p/severed-steel)
 - [Shadow of the Tomb Raider: Definitive Edition](https://www.epicgames.com/store/en-US/p/shadow-of-the-tomb-raider)
 - [Shadow Tactics: Blades of the Shogun](https://www.epicgames.com/store/en-US/p/shadow-tactics)
 - [Shadowrun Dragonfall – Director's Cut](https://www.epicgames.com/store/en-US/p/shadowrun-dragonfall)
