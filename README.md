@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-282-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-283-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2323-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2324-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -737,6 +737,7 @@
 - [Paradigm](https://store.epicgames.com/en-US/p/paradigm-875c5c)
 - [Pathfinder: Kingmaker - Enhanced Plus Edition](https://www.epicgames.com/store/en-US/p/pathfinder-kingmaker)
 - [Pathway](https://www.epicgames.com/store/en-US/p/pathway)
+- [Payday 2 Prime Gaming Offer](https://store.epicgames.com/en-US/p/payday-2-payday-2-prime-gaming-offer-b4265e)
 - [PC Building Simulator](https://www.epicgames.com/store/en-US/p/pc-building-simulator)
 - [Pikuniku](https://www.epicgames.com/store/en-US/p/pikuniku)
 - [Pillars of Eternity - Definitive Edition](https://www.epicgames.com/store/en-US/p/pillars-of-eternity)
