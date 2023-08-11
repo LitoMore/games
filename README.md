@@ -68,10 +68,10 @@
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
   </a>
   <a href="#playstation4">
-    <img src="https://img.shields.io/badge/PlayStation_4-406-ddd?logo=playstation&labelColor=003791"/>
+    <img src="https://img.shields.io/badge/PlayStation_4-407-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-154-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-156-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2327-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2330-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1434,6 +1434,7 @@
 - [Dragon Star Varnir](https://store.playstation.com/en-us/product/UP0031-CUSA14503_00-VARNIR0000000000)
 - [Dragon's Crown Pro](https://store.playstation.com/en-us/product/UP2611-CUSA10454_00-DRAGONSCROWNPRO1)
 - [Dreamfall Chapters](https://store.playstation.com/en-us/product/UP2047-CUSA07307_00-DREAMFALLCHAPTER)
+- [Dreams Universe™](https://www.playstation.com/en-us/games/dreams/)
 - [Dynasty Warriors 7](https://en.wikipedia.org/wiki/Dynasty_Warriors_7)
 - [DYNASTY WARRIORS 8: Xtreme Legends Complete Edition](https://www.playstation.com/en-us/games/dynasty-warriors-8-xtreme-legends-complete-edition-ps4/)
 - [Eagle Flight](https://store.playstation.com/en-us/product/UP0001-CUSA04900_00-EAGLEFLIGHTGAME0)
@@ -1774,6 +1775,7 @@
 - [Days Gone](https://www.playstation.com/en-us/games/days-gone/)
 - [Dead by Daylight](https://www.playstation.com/en-us/games/dead-by-daylight/)
 - [DEATH STRANDING DIRECTOR'S CUT](https://www.playstation.com/en-us/games/death-stranding-directors-cut/)
+- [Death's Door](https://www.playstation.com/en-us/games/deaths-door/)
 - [DEATHLOOP](https://www.playstation.com/en-us/games/deathloop/)
 - [Deep Rock Galactic](https://store.playstation.com/en-us/product/UP4664-PPSA02967_00-DRGFULLGAMEPS5US)
 - [Deliver Us The Moon](https://store.playstation.com/en-us/product/UP4382-PPSA04137_00-DUTMPS5000000000)
@@ -1854,6 +1856,7 @@
 - [Operation: Tango](https://www.playstation.com/en-us/games/operation-tango/)
 - [Overcooked! All You Can Eat](https://store.playstation.com/en-gb/product/EP4064-CUSA23463_00-OVERCOOKEDAYCE00/)
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5/)
+- [PGA Tour 2K23](https://www.playstation.com/en-us/games/pga-tour-2k23/)
 - [Planet Coaster: Console Edition](https://www.playstation.com/en-us/games/planet-coaster-console-edition/)
 - [Ratchet & Clank: Rift Apart](https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/)
 - [Ratchet & Clank™](https://www.playstation.com/en-us/games/ratchet-and-clank/)
