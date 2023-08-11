@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-248-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-249-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#amazon-luna">
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2325-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2326-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -149,6 +149,7 @@
 - [Beholder](https://images-na.ssl-images-amazon.com/images/I/41sxMfZTa+S.jpg)
 - [Beholder 2](https://m.media-amazon.com/images/I/31X8wdrlrBL.jpg)
 - [BFF or Die](https://images-na.ssl-images-amazon.com/images/I/41e6drXiqqL.jpg)
+- [Blade Assault](https://m.media-amazon.com/images/I/51ErYzhvaFL._FMwebp_.jpg)
 - [Blasphemous](https://images-na.ssl-images-amazon.com/images/I/41nl6XNb9UL.jpg)
 - [Blazing Star](https://images-na.ssl-images-amazon.com/images/I/41bWigpfrxL.jpg)
 - [Blue Fire](https://images-na.ssl-images-amazon.com/images/I/41XVdqyZv9L.jpg)
