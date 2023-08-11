@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-227-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-228-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2324-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2325-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1308,6 +1308,7 @@
 - [Unravel Two](https://www.nintendo.com/games/detail/unravel-two-switch/)
 - [Unruly Heroes](https://www.nintendo.com/games/detail/unruly-heroes-switch/)
 - [Untitled Goose Game](https://www.nintendo.com/games/detail/untitled-goose-game-switch/)
+- [Vampire Survirors](https://www.nintendo.com/store/products/vampire-survivors-switch/)
 - [Venture Kid](https://www.nintendo.com/games/detail/venture-kid-switch/)
 - [VOEZ](https://www.nintendo.com/games/detail/voez-switch/)
 - [Warframe](https://www.nintendo.com/games/detail/warframe-switch/)
