@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-407-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-156-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-158-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2330-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2332-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1760,6 +1760,7 @@
 - [ASTRO's PLAYROOM](https://www.playstation.com/en-us/games/astros-playroom/)
 - [Atelier Ryza 2: Lost Legends & the Secret Fairy Ultimate Edition](https://store.playstation.com/en-us/product/UP4108-PPSA02093_00-ATELIERYZA2UE000)
 - [BALAN WONDERWORLD](https://www.playstation.com/en-us/games/balan-wonderworld/)
+- [Baldur's Gate 3](https://store.playstation.com/en-us/product/UP3526-PPSA14001_00-0507384846053057)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight/)
 - [Battlefield™ 1 Revolution](https://www.playstation.com/en-us/search/?q=Battlefield%201&smcid=web%3Apsn%3Aprimary%20nav%3Asearch%3ABattlefield%201)
 - [Bloodborne](https://www.playstation.com/en-us/games/bloodborne/)
@@ -1890,6 +1891,7 @@
 - [Tony Hawk's™ Pro Skater™ 1 + 2 - Cross-Gen Deluxe Bundle](https://store.playstation.com/en-us/product/UP0002-PPSA02176_00-TH12RTHEGAME0001)
 - [Tour de France 2021](https://store.playstation.com/en-us/product/UP6665-PPSA03341_00-TDF2100000000000)
 - [Tribes of Midgard](https://www.playstation.com/en-us/games/tribes-of-midgard/)
+- [Trine 5: A Clockwork Conspiracy](https://store.playstation.com/en-us/product/UP4389-PPSA14275_00-TRINE50000000000)
 - [Uncharted 4: A Thief’s End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
 - [UNCHARTED™: Legacy of Thieves Collection](https://www.playstation.com/en-us/games/uncharted-legacy-of-thieves-collection/)
 - [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
