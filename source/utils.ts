@@ -4,7 +4,8 @@ import { Game, Platform } from "./types.ts";
 const normalizeName = (name: string) =>
   name.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 
-export const nameCompare = (options?: { showErrors?: boolean }) =>
+export const nameCompare =
+  (options?: { showErrors?: boolean }) =>
   (a: Platform | Game, b: Platform | Game) => {
     const aName = normalizeName(a.name).toLowerCase();
     const bName = normalizeName(b.name).toLowerCase();
@@ -61,6 +62,14 @@ const unifySteamWebsite = (website: string): string => {
   return website;
 };
 
+const unifyAmazonGamesWebsite = (website: string): string => {
+  if (website.includes("https://gaming.amazon.com")) {
+    const url = new URL(website);
+    return url.origin + url.pathname;
+  }
+  return website;
+};
+
 export const websiteChecks = (anchor: string, website: string): string => {
   switch (anchor) {
     case "#app-store":
@@ -71,6 +80,8 @@ export const websiteChecks = (anchor: string, website: string): string => {
       return unifyEpicGamesWebsite(website);
     case "#steam":
       return unifySteamWebsite(website);
+    case "#amazon-games":
+      return unifyAmazonGamesWebsite(website);
     default:
       return website;
   }
@@ -97,7 +108,7 @@ export const fuzzyMatched = (name: string, searchString?: string) => {
     "i",
   );
 
-  return (searchPattern).exec(
+  return searchPattern.exec(
     normalizeName(name),
   );
 };
