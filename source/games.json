@@ -6,7 +6,8 @@
       "badge": "https://img.shields.io/badge/Amazon_Games-{{count}}-ddd?logo=amazon&labelColor=ff9900&logoColor=white",
       "hostnames": [
         "images-na.ssl-images-amazon.com",
-        "m.media-amazon.com"
+        "m.media-amazon.com",
+        "gaming.amazon.com"
       ],
       "gameList": [
         {
@@ -258,6 +259,10 @@
           "website": "https://images-na.ssl-images-amazon.com/images/I/51kJA4fOGJL.jpg"
         },
         {
+          "name": "Driftland: The Magic Revival",
+          "website": "https://gaming.amazon.com/driftland-the-magic-revival-aga/dp/amzn1.pg.item.0e358096-e31c-4935-8f10-82700234bad6/"
+        },
+        {
           "name": "Edgar - Bokbok in Boulzac",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41fkq-o+saL.jpg"
         },
@@ -304,6 +309,10 @@
         {
           "name": "Fishing: North Atlantic",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41dDH2US0hL.jpg"
+        },
+        {
+          "name": "Foretales",
+          "website": "https://gaming.amazon.com/foretales-aga/dp/amzn1.pg.item.7ff53549-47ea-42c2-8d53-f2caa989b4dd/"
         },
         {
           "name": "Frog Climbers",
@@ -368,6 +377,10 @@
         {
           "name": "In Other Waters",
           "website": "https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg"
+        },
+        {
+          "name": "In Sound Mind",
+          "website": "https://gaming.amazon.com/in-sound-mind-aga/dp/amzn1.pg.item.1a5c5cac-5445-48ba-89f6-91c4e0068399/"
         },
         {
           "name": "Indiana Jones and the Fate of Atlantis",
@@ -748,6 +761,10 @@
         {
           "name": "Star Wars: The Force Unleashed",
           "website": "https://m.media-amazon.com/images/I/41l2Q7aPP1L._FMwebp_.jpg"
+        },
+        {
+          "name": "Star Wars: The Force Unleashed II",
+          "website": "https://gaming.amazon.com/star-wars-the-force-unleashed-ii-aga/dp/amzn1.pg.item.fca126a9-efeb-4608-84d7-82fff369a107"
         },
         {
           "name": "Stealth Bastard Deluxe",

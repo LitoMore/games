@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-249-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-253-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#amazon-luna">
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2332-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2336-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -176,6 +176,7 @@
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
 - [Doors: Paradox](https://m.media-amazon.com/images/I/41uN8Z+bt0L.jpg)
 - [Double Kick Heroes](https://images-na.ssl-images-amazon.com/images/I/51kJA4fOGJL.jpg)
+- [Driftland: The Magic Revival](https://gaming.amazon.com/driftland-the-magic-revival-aga/dp/amzn1.pg.item.0e358096-e31c-4935-8f10-82700234bad6/)
 - [Edgar - Bokbok in Boulzac](https://images-na.ssl-images-amazon.com/images/I/41fkq-o+saL.jpg)
 - [Escape from Monkey Island](https://images-na.ssl-images-amazon.com/images/I/51xf40TaenL.jpg)
 - [Escape Machine City: Airborne](https://images-na.ssl-images-amazon.com/images/I/41EKDorEBoL.jpg)
@@ -188,6 +189,7 @@
 - [Fell Seal: Arbiter's Mark](https://images-na.ssl-images-amazon.com/images/I/41fqrLgoGjL.jpg)
 - [Figment](https://images-na.ssl-images-amazon.com/images/I/41Kj+hdi3lL.jpg)
 - [Fishing: North Atlantic](https://images-na.ssl-images-amazon.com/images/I/41dDH2US0hL.jpg)
+- [Foretales](https://gaming.amazon.com/foretales-aga/dp/amzn1.pg.item.7ff53549-47ea-42c2-8d53-f2caa989b4dd/)
 - [Frog Climbers](https://images-na.ssl-images-amazon.com/images/I/41nZGimGmBS.jpg)
 - [Galaxy of Pen and Paper](https://images-na.ssl-images-amazon.com/images/I/41pQeEecfEL.jpg)
 - [Garou: Mark of the Wolves](https://images-na.ssl-images-amazon.com/images/I/51BV14LaoRL.jpg)
@@ -204,6 +206,7 @@
 - [I am Fish](https://m.media-amazon.com/images/I/41+7C66DYqL.jpg)
 - [Icewind Dale: Enhanced Edition](https://m.media-amazon.com/images/I/415QLbMuGlL.jpg)
 - [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
+- [In Sound Mind](https://gaming.amazon.com/in-sound-mind-aga/dp/amzn1.pg.item.1a5c5cac-5445-48ba-89f6-91c4e0068399/)
 - [Indiana Jones and the Fate of Atlantis](https://images-na.ssl-images-amazon.com/images/I/41P0j0+tDwS.jpg)
 - [Indiana Jones and the Last Crusade](https://m.media-amazon.com/images/I/41IRuMAwVaL.jpg)
 - [Iris and the Giant](https://images-na.ssl-images-amazon.com/images/I/41OFIiY-UCL.jpg)
@@ -299,6 +302,7 @@
 - [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
 - [Star Wars: Rogue Squadron](https://m.media-amazon.com/images/I/41fCya5-zCL.jpg)
 - [Star Wars: The Force Unleashed](https://m.media-amazon.com/images/I/41l2Q7aPP1L._FMwebp_.jpg)
+- [Star Wars: The Force Unleashed II](https://gaming.amazon.com/star-wars-the-force-unleashed-ii-aga/dp/amzn1.pg.item.fca126a9-efeb-4608-84d7-82fff369a107)
 - [Stealth Bastard Deluxe](https://images-na.ssl-images-amazon.com/images/I/41hrcfrVq9L.jpg)
 - [SteamWorld Dig 2](https://m.media-amazon.com/images/I/41g0nwOz9kL._FMwebp_.jpg)
 - [SteamWorld Quest: Hand of Gilgamech](https://images-na.ssl-images-amazon.com/images/I/512UzdrrfJL.jpg)
