@@ -36,12 +36,12 @@ const unifyAppStoreWebsite = (website: string): string => {
 
 const unifyEpicGamesWebsite = (website: string): string => {
   const websitePattern =
-    /^https:\/\/www\.epicgames\.com\/store\/(?<languageCode>[a-z]{2}-[A-Z]{2})\/product\/(?<name>.+$)/;
+    /^https:\/\/(www|store)\.epicgames\.com\/store\/(?<languageCode>[a-z]{2}-[A-Z]{2})\/(p|product)\/(?<name>.+$)/;
 
   if (websitePattern.test(website)) {
     return website.replace(
       websitePattern,
-      "https://www.epicgames.com/store/en-US/p/$2",
+      "https://store.epicgames.com/store/en-US/p/$4",
     );
   }
 

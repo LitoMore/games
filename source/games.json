@@ -1846,21 +1846,20 @@
       "anchor": "#epic-games",
       "badge": "https://img.shields.io/badge/Epic_Games-{{count}}-ddd?logo=epic-games&labelColor=313131",
       "hostnames": [
-        "www.epicgames.com",
         "store.epicgames.com"
       ],
       "gameList": [
         {
           "name": "20XX",
-          "website": "https://www.epicgames.com/store/en-US/p/20xx"
+          "website": "https://store.epicgames.com/store/en-US/p/20xx"
         },
         {
           "name": "3 out of 10, EP 1: \"Welcome To Shovelworks\"",
-          "website": "https://www.epicgames.com/store/en-US/p/3-out-of-10-ep-1"
+          "website": "https://store.epicgames.com/store/en-US/p/3-out-of-10-ep-1"
         },
         {
           "name": "3 out of 10: Season Two",
-          "website": "https://www.epicgames.com/store/en-US/p/3-out-of-10-season-2"
+          "website": "https://store.epicgames.com/store/en-US/p/3-out-of-10-season-2"
         },
         {
           "name": "A Game Of Thrones: The Board Game Digital Edition",
@@ -1868,19 +1867,19 @@
         },
         {
           "name": "A Plague Tale: Innocence",
-          "website": "https://www.epicgames.com/store/en-US/p/a-plague-tale-innocence"
+          "website": "https://store.epicgames.com/store/en-US/p/a-plague-tale-innocence"
         },
         {
           "name": "Absolute Drift",
-          "website": "https://www.epicgames.com/store/en-US/p/absolute-drift"
+          "website": "https://store.epicgames.com/store/en-US/p/absolute-drift"
         },
         {
           "name": "ABZU",
-          "website": "https://www.epicgames.com/store/en-US/p/abzu"
+          "website": "https://store.epicgames.com/store/en-US/p/abzu"
         },
         {
           "name": "AER Memories of Old",
-          "website": "https://www.epicgames.com/store/en-US/p/aer-memories-of-old"
+          "website": "https://store.epicgames.com/store/en-US/p/aer-memories-of-old"
         },
         {
           "name": "Against All Odds",
@@ -1892,11 +1891,11 @@
         },
         {
           "name": "Alien: Isolation",
-          "website": "https://www.epicgames.com/store/en-US/p/alien-isolation"
+          "website": "https://store.epicgames.com/store/en-US/p/alien-isolation"
         },
         {
           "name": "Amnesia: A Machine for Pigs",
-          "website": "https://www.epicgames.com/store/en-US/p/amnesia-a-machine-for-pigs"
+          "website": "https://store.epicgames.com/store/en-US/p/amnesia-a-machine-for-pigs"
         },
         {
           "name": "Amnesia: Rebirth",
@@ -1904,15 +1903,15 @@
         },
         {
           "name": "Amnesia: The Dark Descent",
-          "website": "https://www.epicgames.com/store/en-US/p/amnesia-the-dark-descent"
+          "website": "https://store.epicgames.com/store/en-US/p/amnesia-the-dark-descent"
         },
         {
           "name": "Among the Sleep - Enhanced Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/among-the-sleep-enhanced-edition"
+          "website": "https://store.epicgames.com/store/en-US/p/among-the-sleep-enhanced-edition"
         },
         {
           "name": "Among Us",
-          "website": "https://www.epicgames.com/store/en-US/p/among-us"
+          "website": "https://store.epicgames.com/store/en-US/p/among-us"
         },
         {
           "name": "Ancient Enemy",
@@ -1920,27 +1919,27 @@
         },
         {
           "name": "ARK: Survival Evolved",
-          "website": "https://www.epicgames.com/store/en-US/p/ark"
+          "website": "https://store.epicgames.com/store/en-US/p/ark"
         },
         {
           "name": "Auto Chess",
-          "website": "https://www.epicgames.com/store/en-US/p/auto-chess"
+          "website": "https://store.epicgames.com/store/en-US/p/auto-chess"
         },
         {
           "name": "Automachef",
-          "website": "https://www.epicgames.com/store/en-US/p/automachef"
+          "website": "https://store.epicgames.com/store/en-US/p/automachef"
         },
         {
           "name": "Aven Colony",
-          "website": "https://www.epicgames.com/store/en-US/p/aven-colony"
+          "website": "https://store.epicgames.com/store/en-US/p/aven-colony"
         },
         {
           "name": "Aztez",
-          "website": "https://www.epicgames.com/store/en-US/p/aztez"
+          "website": "https://store.epicgames.com/store/en-US/p/aztez"
         },
         {
           "name": "Barony",
-          "website": "https://www.epicgames.com/store/en-US/p/barony"
+          "website": "https://store.epicgames.com/store/en-US/p/barony"
         },
         {
           "name": "BioShock: The Collection",
@@ -1948,11 +1947,11 @@
         },
         {
           "name": "Black Widow: Recharged",
-          "website": "https://www.epicgames.com/store/en-US/p/black-widow-recharged"
+          "website": "https://store.epicgames.com/store/en-US/p/black-widow-recharged"
         },
         {
           "name": "Blair Witch",
-          "website": "https://www.epicgames.com/store/en-US/p/blair-witch"
+          "website": "https://store.epicgames.com/store/en-US/p/blair-witch"
         },
         {
           "name": "Bloons TD 6",
@@ -1960,7 +1959,7 @@
         },
         {
           "name": "Borderlands 2",
-          "website": "https://www.epicgames.com/store/en-US/p/borderlands-2"
+          "website": "https://store.epicgames.com/store/en-US/p/borderlands-2"
         },
         {
           "name": "Borderlands 3",
@@ -1968,15 +1967,15 @@
         },
         {
           "name": "Borderlands: The Pre-Sequel",
-          "website": "https://www.epicgames.com/store/en-US/p/borderlands-the-pre-sequel"
+          "website": "https://store.epicgames.com/store/en-US/p/borderlands-the-pre-sequel"
         },
         {
           "name": "Bridge Constructor: The Walking Dead",
-          "website": "https://www.epicgames.com/store/en-US/p/bridge-constructor-the-walking-dead"
+          "website": "https://store.epicgames.com/store/en-US/p/bridge-constructor-the-walking-dead"
         },
         {
           "name": "Brothers - A Tale of Two Sons",
-          "website": "https://www.epicgames.com/store/en-US/p/brothers-a-tale-of-two-sons"
+          "website": "https://store.epicgames.com/store/en-US/p/brothers-a-tale-of-two-sons"
         },
         {
           "name": "Car Mechanic Simulator 2018",
@@ -1984,27 +1983,27 @@
         },
         {
           "name": "Carcassonne",
-          "website": "https://www.epicgames.com/store/en-US/p/carcassonne"
+          "website": "https://store.epicgames.com/store/en-US/p/carcassonne"
         },
         {
           "name": "Cave Story®'s Secret Santa",
-          "website": "https://www.epicgames.com/store/en-US/p/cave-storys-secret-santa-b6d437"
+          "website": "https://store.epicgames.com/store/en-US/p/cave-storys-secret-santa-b6d437"
         },
         {
           "name": "Cave Story+",
-          "website": "https://www.epicgames.com/store/en-US/p/cave-story-plus"
+          "website": "https://store.epicgames.com/store/en-US/p/cave-story-plus"
         },
         {
           "name": "Celeste",
-          "website": "https://www.epicgames.com/store/en-US/p/celeste"
+          "website": "https://store.epicgames.com/store/en-US/p/celeste"
         },
         {
           "name": "Centipede: Recharged",
-          "website": "https://www.epicgames.com/store/en-US/p/centipede-recharged"
+          "website": "https://store.epicgames.com/store/en-US/p/centipede-recharged"
         },
         {
           "name": "Cities: Skylines",
-          "website": "https://www.epicgames.com/store/en-US/p/cities-skylines"
+          "website": "https://store.epicgames.com/store/en-US/p/cities-skylines"
         },
         {
           "name": "City of Brass",
@@ -2016,11 +2015,11 @@
         },
         {
           "name": "Close To The Sun",
-          "website": "https://www.epicgames.com/store/en-US/p/close-to-the-sun"
+          "website": "https://store.epicgames.com/store/en-US/p/close-to-the-sun"
         },
         {
           "name": "Control",
-          "website": "https://www.epicgames.com/store/en-US/p/control"
+          "website": "https://store.epicgames.com/store/en-US/p/control"
         },
         {
           "name": "Cook, Serve, Delicious! 3?!",
@@ -2028,31 +2027,31 @@
         },
         {
           "name": "Costume Quest 2",
-          "website": "https://www.epicgames.com/store/en-US/p/costume-quest-2"
+          "website": "https://store.epicgames.com/store/en-US/p/costume-quest-2"
         },
         {
           "name": "Crashlands",
-          "website": "https://www.epicgames.com/store/en-US/p/crashlands"
+          "website": "https://store.epicgames.com/store/en-US/p/crashlands"
         },
         {
           "name": "Creature in the Well",
-          "website": "https://www.epicgames.com/store/en-US/p/creature-in-the-well"
+          "website": "https://store.epicgames.com/store/en-US/p/creature-in-the-well"
         },
         {
           "name": "Cris Tales",
-          "website": "https://www.epicgames.com/store/en-US/p/cris-tales"
+          "website": "https://store.epicgames.com/store/en-US/p/cris-tales"
         },
         {
           "name": "Crying Suns",
-          "website": "https://www.epicgames.com/store/en-US/p/crying-suns"
+          "website": "https://store.epicgames.com/store/en-US/p/crying-suns"
         },
         {
           "name": "DAEMON X MACHINA",
-          "website": "https://www.epicgames.com/store/en-US/p/daemon-x-machina"
+          "website": "https://store.epicgames.com/store/en-US/p/daemon-x-machina"
         },
         {
           "name": "Dandara: Trials of Fear Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/dandara"
+          "website": "https://store.epicgames.com/store/en-US/p/dandara"
         },
         {
           "name": "Dark Deity",
@@ -2060,15 +2059,15 @@
         },
         {
           "name": "Darkest Dungeon®",
-          "website": "https://www.epicgames.com/store/en-US/p/darkest-dungeon"
+          "website": "https://store.epicgames.com/store/en-US/p/darkest-dungeon"
         },
         {
           "name": "Darksiders II Deathinitive Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/darksiders2"
+          "website": "https://store.epicgames.com/store/en-US/p/darksiders2"
         },
         {
           "name": "Darksiders Warmastered Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/darksiders"
+          "website": "https://store.epicgames.com/store/en-US/p/darksiders"
         },
         {
           "name": "Darkwood",
@@ -2076,15 +2075,15 @@
         },
         {
           "name": "DARQ: Complete Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/darq-complete-edition"
+          "website": "https://store.epicgames.com/store/en-US/p/darq-complete-edition"
         },
         {
           "name": "Dead by Daylight",
-          "website": "https://www.epicgames.com/store/en-US/p/dead-by-daylight"
+          "website": "https://store.epicgames.com/store/en-US/p/dead-by-daylight"
         },
         {
           "name": "Death Coming",
-          "website": "https://www.epicgames.com/store/en-US/p/death-coming"
+          "website": "https://store.epicgames.com/store/en-US/p/death-coming"
         },
         {
           "name": "DEATH STRANDING",
@@ -2092,7 +2091,7 @@
         },
         {
           "name": "Defense Grid: The Awakening",
-          "website": "https://www.epicgames.com/store/en-US/p/defense-grid"
+          "website": "https://store.epicgames.com/store/en-US/p/defense-grid"
         },
         {
           "name": "DEMON'S TILT",
@@ -2100,7 +2099,7 @@
         },
         {
           "name": "Deponia: The Complete Journey",
-          "website": "https://www.epicgames.com/store/en-US/p/deponia-the-complete-journey"
+          "website": "https://store.epicgames.com/store/en-US/p/deponia-the-complete-journey"
         },
         {
           "name": "Destiny 2: Bungie 30th Anniversary Pack",
@@ -2128,11 +2127,11 @@
         },
         {
           "name": "Drawful 2",
-          "website": "https://www.epicgames.com/store/en-US/p/drawful-2"
+          "website": "https://store.epicgames.com/store/en-US/p/drawful-2"
         },
         {
           "name": "Dungeons 3",
-          "website": "https://www.epicgames.com/store/en-US/p/dungeons-3"
+          "website": "https://store.epicgames.com/store/en-US/p/dungeons-3"
         },
         {
           "name": "Duskers",
@@ -2140,7 +2139,7 @@
         },
         {
           "name": "Elite Dangerous",
-          "website": "https://www.epicgames.com/store/en-US/p/elite-dangerous"
+          "website": "https://store.epicgames.com/store/en-US/p/elite-dangerous"
         },
         {
           "name": "Encased",
@@ -2148,7 +2147,7 @@
         },
         {
           "name": "Enter The Gungeon",
-          "website": "https://www.epicgames.com/store/en-US/p/enter-the-gungeon"
+          "website": "https://store.epicgames.com/store/en-US/p/enter-the-gungeon"
         },
         {
           "name": "Epistory - Typing Chronicles",
@@ -2156,7 +2155,7 @@
         },
         {
           "name": "Europa Universalis IV",
-          "website": "https://www.epicgames.com/store/en-US/p/europa-universalis-iv"
+          "website": "https://store.epicgames.com/store/en-US/p/europa-universalis-iv"
         },
         {
           "name": "Evil Dead: The Game",
@@ -2188,11 +2187,11 @@
         },
         {
           "name": "Farming Simulator 19",
-          "website": "https://www.epicgames.com/store/en-US/p/farming-simulator-19"
+          "website": "https://store.epicgames.com/store/en-US/p/farming-simulator-19"
         },
         {
           "name": "Faster Then Light",
-          "website": "https://www.epicgames.com/store/en-US/p/faster-than-light"
+          "website": "https://store.epicgames.com/store/en-US/p/faster-than-light"
         },
         {
           "name": "Filament",
@@ -2204,11 +2203,11 @@
         },
         {
           "name": "Football Manager 2020",
-          "website": "https://www.epicgames.com/store/en-US/p/football-manager-2020"
+          "website": "https://store.epicgames.com/store/en-US/p/football-manager-2020"
         },
         {
           "name": "Football Manager 2021",
-          "website": "https://www.epicgames.com/store/en-US/p/football-manager-2021"
+          "website": "https://store.epicgames.com/store/en-US/p/football-manager-2021"
         },
         {
           "name": "Football Manager 2022",
@@ -2216,7 +2215,7 @@
         },
         {
           "name": "For The King",
-          "website": "https://www.epicgames.com/store/en-US/p/for-the-king"
+          "website": "https://store.epicgames.com/store/en-US/p/for-the-king"
         },
         {
           "name": "Fort Triumph",
@@ -2224,15 +2223,15 @@
         },
         {
           "name": "Fortnite",
-          "website": "https://www.epicgames.com/store/en-US/p/fortnite"
+          "website": "https://store.epicgames.com/store/en-US/p/fortnite"
         },
         {
           "name": "Frostpunk",
-          "website": "https://www.epicgames.com/store/en-US/p/frostpunk"
+          "website": "https://store.epicgames.com/store/en-US/p/frostpunk"
         },
         {
           "name": "Galactic Civilizations III",
-          "website": "https://www.epicgames.com/store/en-US/p/galactic-civilizations-iii"
+          "website": "https://store.epicgames.com/store/en-US/p/galactic-civilizations-iii"
         },
         {
           "name": "Gamedec - Definitive Edition",
@@ -2244,11 +2243,11 @@
         },
         {
           "name": "Genshin Impact",
-          "website": "https://www.epicgames.com/store/en-US/p/genshin-impact"
+          "website": "https://store.epicgames.com/store/en-US/p/genshin-impact"
         },
         {
           "name": "Ghostbusters: The Video Game Remastered",
-          "website": "https://www.epicgames.com/store/en-US/p/ghostbusters-the-video-game-remastered"
+          "website": "https://store.epicgames.com/store/en-US/p/ghostbusters-the-video-game-remastered"
         },
         {
           "name": "Gloomhaven",
@@ -2256,51 +2255,51 @@
         },
         {
           "name": "God's Trigger",
-          "website": "https://www.epicgames.com/store/en-US/p/gods-trigger"
+          "website": "https://store.epicgames.com/store/en-US/p/gods-trigger"
         },
         {
           "name": "Godfall Challenger Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/godfall--challenger-edition"
+          "website": "https://store.epicgames.com/store/en-US/p/godfall--challenger-edition"
         },
         {
           "name": "Gods Will Fall",
-          "website": "https://www.epicgames.com/store/en-US/p/gods-will-fall"
+          "website": "https://store.epicgames.com/store/en-US/p/gods-will-fall"
         },
         {
           "name": "Gone Home",
-          "website": "https://www.epicgames.com/store/en-US/p/gone-home"
+          "website": "https://store.epicgames.com/store/en-US/p/gone-home"
         },
         {
           "name": "GoNNER",
-          "website": "https://www.epicgames.com/store/en-US/p/gonner"
+          "website": "https://store.epicgames.com/store/en-US/p/gonner"
         },
         {
           "name": "Grand Theft Auto V",
-          "website": "https://www.epicgames.com/store/en-US/p/grand-theft-auto-v"
+          "website": "https://store.epicgames.com/store/en-US/p/grand-theft-auto-v"
         },
         {
           "name": "Guild of Dungeonerring",
-          "website": "https://www.epicgames.com/store/en-US/p/guild-of-dungeoneering-classic"
+          "website": "https://store.epicgames.com/store/en-US/p/guild-of-dungeoneering-classic"
         },
         {
           "name": "Halcyon 6 Starbase Commander",
-          "website": "https://www.epicgames.com/store/en-US/p/halcyon-6"
+          "website": "https://store.epicgames.com/store/en-US/p/halcyon-6"
         },
         {
           "name": "Hand of Fate 2",
-          "website": "https://www.epicgames.com/store/en-US/p/hand-of-fate-2"
+          "website": "https://store.epicgames.com/store/en-US/p/hand-of-fate-2"
         },
         {
           "name": "Hell is other demons",
-          "website": "https://www.epicgames.com/store/en-US/p/hell-is-other-demons"
+          "website": "https://store.epicgames.com/store/en-US/p/hell-is-other-demons"
         },
         {
           "name": "HITMAN",
-          "website": "https://www.epicgames.com/store/en-US/p/hitman"
+          "website": "https://store.epicgames.com/store/en-US/p/hitman"
         },
         {
           "name": "Hob",
-          "website": "https://www.epicgames.com/store/en-US/p/hob"
+          "website": "https://store.epicgames.com/store/en-US/p/hob"
         },
         {
           "name": "Homeworld Remastered Collection",
@@ -2312,11 +2311,11 @@
         },
         {
           "name": "Horizon Chase Turbo",
-          "website": "https://www.epicgames.com/store/en-US/p/horizon-chase-turbo"
+          "website": "https://store.epicgames.com/store/en-US/p/horizon-chase-turbo"
         },
         {
           "name": "Hue",
-          "website": "https://www.epicgames.com/store/en-US/p/hue"
+          "website": "https://store.epicgames.com/store/en-US/p/hue"
         },
         {
           "name": "Hundred Days - Winemaking Simulator",
@@ -2324,7 +2323,7 @@
         },
         {
           "name": "Idle Champions of the Forgotten Realms",
-          "website": "https://www.epicgames.com/store/en-US/p/idle-champions-of-the-forgotten-realms"
+          "website": "https://store.epicgames.com/store/en-US/p/idle-champions-of-the-forgotten-realms"
         },
         {
           "name": "In Sound Mind",
@@ -2332,11 +2331,11 @@
         },
         {
           "name": "InnerSpace",
-          "website": "https://www.epicgames.com/store/en-US/p/innerspace"
+          "website": "https://store.epicgames.com/store/en-US/p/innerspace"
         },
         {
           "name": "Inside",
-          "website": "https://www.epicgames.com/store/en-US/p/inside"
+          "website": "https://store.epicgames.com/store/en-US/p/inside"
         },
         {
           "name": "Insurmountable",
@@ -2344,7 +2343,7 @@
         },
         {
           "name": "Into The Breach",
-          "website": "https://www.epicgames.com/store/en-US/p/into-the-breach"
+          "website": "https://store.epicgames.com/store/en-US/p/into-the-breach"
         },
         {
           "name": "Iratus: Lord of the Dead",
@@ -2352,15 +2351,15 @@
         },
         {
           "name": "Ironcast",
-          "website": "https://www.epicgames.com/store/en-US/p/ironcast"
+          "website": "https://store.epicgames.com/store/en-US/p/ironcast"
         },
         {
           "name": "Jotun: Valhalla Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/jotun"
+          "website": "https://store.epicgames.com/store/en-US/p/jotun"
         },
         {
           "name": "Jurassic World Evolution",
-          "website": "https://www.epicgames.com/store/en-US/p/jurassic-world-evolution"
+          "website": "https://store.epicgames.com/store/en-US/p/jurassic-world-evolution"
         },
         {
           "name": "Just Die Already",
@@ -2372,11 +2371,11 @@
         },
         {
           "name": "Ken Follett's The Pillars of the Earth",
-          "website": "https://www.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth"
+          "website": "https://store.epicgames.com/store/en-US/p/ken-follets-the-pillars-of-the-earth"
         },
         {
           "name": "KID A MNESIA EXHIBITION",
-          "website": "https://www.epicgames.com/store/en-US/p/kid-a-mnesia-exhibition"
+          "website": "https://store.epicgames.com/store/en-US/p/kid-a-mnesia-exhibition"
         },
         {
           "name": "Killing Floor 2",
@@ -2384,11 +2383,11 @@
         },
         {
           "name": "Kingdom Come: Deliverance",
-          "website": "https://www.epicgames.com/store/en-US/p/kingdom-come-deliverance"
+          "website": "https://store.epicgames.com/store/en-US/p/kingdom-come-deliverance"
         },
         {
           "name": "Kingdom New Lands",
-          "website": "https://www.epicgames.com/store/en-US/p/kingdom-new-lands"
+          "website": "https://store.epicgames.com/store/en-US/p/kingdom-new-lands"
         },
         {
           "name": "Knockout City™",
@@ -2400,23 +2399,23 @@
         },
         {
           "name": "Layers of Fear 2",
-          "website": "https://www.epicgames.com/store/en-US/p/layers-of-fear-2"
+          "website": "https://store.epicgames.com/store/en-US/p/layers-of-fear-2"
         },
         {
           "name": "League of Legends",
-          "website": "https://www.epicgames.com/store/en-US/p/league-of-legends"
+          "website": "https://store.epicgames.com/store/en-US/p/league-of-legends"
         },
         {
           "name": "Legends of Runeterra",
-          "website": "https://www.epicgames.com/store/en-US/p/legends-of-runeterra"
+          "website": "https://store.epicgames.com/store/en-US/p/legends-of-runeterra"
         },
         {
           "name": "Loop Hero",
-          "website": "https://www.epicgames.com/store/en-US/p/loop-hero"
+          "website": "https://store.epicgames.com/store/en-US/p/loop-hero"
         },
         {
           "name": "Mages of Mystralia",
-          "website": "https://www.epicgames.com/store/en-US/p/mages-of-mystralia"
+          "website": "https://store.epicgames.com/store/en-US/p/mages-of-mystralia"
         },
         {
           "name": "Maneater",
@@ -2424,11 +2423,11 @@
         },
         {
           "name": "Metro: 2033 Redux",
-          "website": "https://www.epicgames.com/store/en-US/p/metro-2033-redux"
+          "website": "https://store.epicgames.com/store/en-US/p/metro-2033-redux"
         },
         {
           "name": "Metro: Last Light Redux",
-          "website": "https://www.epicgames.com/store/en-US/p/metro-last-light-redux"
+          "website": "https://store.epicgames.com/store/en-US/p/metro-last-light-redux"
         },
         {
           "name": "Midnight Ghost Hunt",
@@ -2436,7 +2435,7 @@
         },
         {
           "name": "Minit",
-          "website": "https://www.epicgames.com/store/en-US/p/minit"
+          "website": "https://store.epicgames.com/store/en-US/p/minit"
         },
         {
           "name": "MORDHAU",
@@ -2444,59 +2443,59 @@
         },
         {
           "name": "Mothergunship",
-          "website": "https://www.epicgames.com/store/en-US/p/mothergunship"
+          "website": "https://store.epicgames.com/store/en-US/p/mothergunship"
         },
         {
           "name": "Moving Out",
-          "website": "https://www.epicgames.com/store/en-US/p/moving-out"
+          "website": "https://store.epicgames.com/store/en-US/p/moving-out"
         },
         {
           "name": "MudRunner",
-          "website": "https://www.epicgames.com/store/en-US/p/mudrunner"
+          "website": "https://store.epicgames.com/store/en-US/p/mudrunner"
         },
         {
           "name": "Mutant Year Zero: Road to Eden",
-          "website": "https://www.epicgames.com/store/en-US/p/mutant-year-zero"
+          "website": "https://store.epicgames.com/store/en-US/p/mutant-year-zero"
         },
         {
           "name": "My Time At Portia",
-          "website": "https://www.epicgames.com/store/en-US/p/my-time-at-portia"
+          "website": "https://store.epicgames.com/store/en-US/p/my-time-at-portia"
         },
         {
           "name": "NBA 2K21",
-          "website": "https://www.epicgames.com/store/en-US/p/nba-2k21"
+          "website": "https://store.epicgames.com/store/en-US/p/nba-2k21"
         },
         {
           "name": "Neon Abyss ",
-          "website": "https://www.epicgames.com/store/en-US/p/neon-abyss"
+          "website": "https://store.epicgames.com/store/en-US/p/neon-abyss"
         },
         {
           "name": "Never Alone (Kisima Ingitchuna)",
-          "website": "https://www.epicgames.com/store/en-US/p/never-alone-kisima-ingitchuna"
+          "website": "https://store.epicgames.com/store/en-US/p/never-alone-kisima-ingitchuna"
         },
         {
           "name": "Next Up Hero",
-          "website": "https://www.epicgames.com/store/en-US/p/next-up-hero"
+          "website": "https://store.epicgames.com/store/en-US/p/next-up-hero"
         },
         {
           "name": "Night in the Woods",
-          "website": "https://www.epicgames.com/store/en-US/p/night-in-the-woods"
+          "website": "https://store.epicgames.com/store/en-US/p/night-in-the-woods"
         },
         {
           "name": "Nioh: The Complete Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/nioh-the-complete-edition"
+          "website": "https://store.epicgames.com/store/en-US/p/nioh-the-complete-edition"
         },
         {
           "name": "Obduction",
-          "website": "https://www.epicgames.com/store/en-US/p/obduction"
+          "website": "https://store.epicgames.com/store/en-US/p/obduction"
         },
         {
           "name": "Oddworld: New 'n' Tasty",
-          "website": "https://www.epicgames.com/store/en-US/p/oddworld-new-n-tasty"
+          "website": "https://store.epicgames.com/store/en-US/p/oddworld-new-n-tasty"
         },
         {
           "name": "Offworld Trading Company",
-          "website": "https://www.epicgames.com/store/en-US/p/offworld-trading-company"
+          "website": "https://store.epicgames.com/store/en-US/p/offworld-trading-company"
         },
         {
           "name": "Orwell: Keeping an Eye on You",
@@ -2504,15 +2503,15 @@
         },
         {
           "name": "Overcooked",
-          "website": "https://www.epicgames.com/store/en-US/p/overcooked"
+          "website": "https://store.epicgames.com/store/en-US/p/overcooked"
         },
         {
           "name": "Overcooked! 2",
-          "website": "https://www.epicgames.com/store/en-US/p/overcooked-2"
+          "website": "https://store.epicgames.com/store/en-US/p/overcooked-2"
         },
         {
           "name": "Paladins Epic Pack",
-          "website": "https://www.epicgames.com/store/en-US/p/paladins--paladins-epic-pack"
+          "website": "https://store.epicgames.com/store/en-US/p/paladins--paladins-epic-pack"
         },
         {
           "name": "Paradigm",
@@ -2520,11 +2519,11 @@
         },
         {
           "name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/pathfinder-kingmaker"
+          "website": "https://store.epicgames.com/store/en-US/p/pathfinder-kingmaker"
         },
         {
           "name": "Pathway",
-          "website": "https://www.epicgames.com/store/en-US/p/pathway"
+          "website": "https://store.epicgames.com/store/en-US/p/pathway"
         },
         {
           "name": "Payday 2 Prime Gaming Offer",
@@ -2532,27 +2531,27 @@
         },
         {
           "name": "PC Building Simulator",
-          "website": "https://www.epicgames.com/store/en-US/p/pc-building-simulator"
+          "website": "https://store.epicgames.com/store/en-US/p/pc-building-simulator"
         },
         {
           "name": "Pikuniku",
-          "website": "https://www.epicgames.com/store/en-US/p/pikuniku"
+          "website": "https://store.epicgames.com/store/en-US/p/pikuniku"
         },
         {
           "name": "Pillars of Eternity - Definitive Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/pillars-of-eternity"
+          "website": "https://store.epicgames.com/store/en-US/p/pillars-of-eternity"
         },
         {
           "name": "Pine",
-          "website": "https://www.epicgames.com/store/en-US/p/pine"
+          "website": "https://store.epicgames.com/store/en-US/p/pine"
         },
         {
           "name": "Prey",
-          "website": "https://www.epicgames.com/store/en-US/p/prey"
+          "website": "https://store.epicgames.com/store/en-US/p/prey"
         },
         {
           "name": "Prison Architect",
-          "website": "https://www.epicgames.com/store/en-US/p/prison-architect"
+          "website": "https://store.epicgames.com/store/en-US/p/prison-architect"
         },
         {
           "name": "Quake",
@@ -2560,11 +2559,11 @@
         },
         {
           "name": "Rage 2",
-          "website": "https://www.epicgames.com/store/en-US/p/rage-2"
+          "website": "https://store.epicgames.com/store/en-US/p/rage-2"
         },
         {
           "name": "Railway Empire",
-          "website": "https://www.epicgames.com/store/en-US/p/railway-empire"
+          "website": "https://store.epicgames.com/store/en-US/p/railway-empire"
         },
         {
           "name": "Realm Royale Reforged Epic Launch Bundle",
@@ -2572,7 +2571,7 @@
         },
         {
           "name": "Rebel Galaxy",
-          "website": "https://www.epicgames.com/store/en-US/p/rebel-galaxy"
+          "website": "https://store.epicgames.com/store/en-US/p/rebel-galaxy"
         },
         {
           "name": "Recipe For Disaster",
@@ -2584,11 +2583,11 @@
         },
         {
           "name": "Relicta",
-          "website": "https://www.epicgames.com/store/en-US/p/relicta"
+          "website": "https://store.epicgames.com/store/en-US/p/relicta"
         },
         {
           "name": "Remnant: From the Ashes",
-          "website": "https://www.epicgames.com/store/en-US/p/remnant-from-the-ashes"
+          "website": "https://store.epicgames.com/store/en-US/p/remnant-from-the-ashes"
         },
         {
           "name": "Ring of Pain",
@@ -2596,7 +2595,7 @@
         },
         {
           "name": "Rise of the Tomb Raider: 20 Year Celebration",
-          "website": "https://www.epicgames.com/store/en-US/p/rise-of-the-tomb-raider"
+          "website": "https://store.epicgames.com/store/en-US/p/rise-of-the-tomb-raider"
         },
         {
           "name": "Rising Hell",
@@ -2604,7 +2603,7 @@
         },
         {
           "name": "Rising Storm 2: Vietnam",
-          "website": "https://www.epicgames.com/store/en-US/p/rising-storm-2-vietnam"
+          "website": "https://store.epicgames.com/store/en-US/p/rising-storm-2-vietnam"
         },
         {
           "name": "Riverbond",
@@ -2612,7 +2611,7 @@
         },
         {
           "name": "Rogue Company",
-          "website": "https://www.epicgames.com/store/en-US/p/rogue-company"
+          "website": "https://store.epicgames.com/store/en-US/p/rogue-company"
         },
         {
           "name": "Rogue Legacy",
@@ -2620,7 +2619,7 @@
         },
         {
           "name": "RollerCoaster Tycoon® 3: Complete Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/rollercoaster-tycoon-3-complete-edition"
+          "website": "https://store.epicgames.com/store/en-US/p/rollercoaster-tycoon-3-complete-edition"
         },
         {
           "name": "RPG in a Box",
@@ -2640,15 +2639,15 @@
         },
         {
           "name": "Saints Row®: The Third™ Remastered",
-          "website": "https://www.epicgames.com/store/en-US/p/saints-row-the-third-remastered"
+          "website": "https://store.epicgames.com/store/en-US/p/saints-row-the-third-remastered"
         },
         {
           "name": "Salt and Sanctuary",
-          "website": "https://www.epicgames.com/store/en-US/p/salt-and-sanctuary"
+          "website": "https://store.epicgames.com/store/en-US/p/salt-and-sanctuary"
         },
         {
           "name": "SAMURAI SHODOWN NEOGEO COLLECTION",
-          "website": "https://www.epicgames.com/store/en-US/p/samurai-shodown-neogeo-collection"
+          "website": "https://store.epicgames.com/store/en-US/p/samurai-shodown-neogeo-collection"
         },
         {
           "name": "Saturnalia",
@@ -2656,7 +2655,7 @@
         },
         {
           "name": "Second Extinction™",
-          "website": "https://www.epicgames.com/store/en-US/p/second-extinction"
+          "website": "https://store.epicgames.com/store/en-US/p/second-extinction"
         },
         {
           "name": "Severed Steel",
@@ -2664,35 +2663,35 @@
         },
         {
           "name": "Shadow of the Tomb Raider: Definitive Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/shadow-of-the-tomb-raider"
+          "website": "https://store.epicgames.com/store/en-US/p/shadow-of-the-tomb-raider"
         },
         {
           "name": "Shadow Tactics: Blades of the Shogun",
-          "website": "https://www.epicgames.com/store/en-US/p/shadow-tactics"
+          "website": "https://store.epicgames.com/store/en-US/p/shadow-tactics"
         },
         {
           "name": "Shadowrun Dragonfall – Director's Cut",
-          "website": "https://www.epicgames.com/store/en-US/p/shadowrun-dragonfall"
+          "website": "https://store.epicgames.com/store/en-US/p/shadowrun-dragonfall"
         },
         {
           "name": "Shadowrun Hong Kong",
-          "website": "https://www.epicgames.com/store/en-US/p/shadowrun-hong-kong"
+          "website": "https://store.epicgames.com/store/en-US/p/shadowrun-hong-kong"
         },
         {
           "name": "Shadowrun Returns",
-          "website": "https://www.epicgames.com/store/en-US/p/shadowrun-returns"
+          "website": "https://store.epicgames.com/store/en-US/p/shadowrun-returns"
         },
         {
           "name": "Sheltered",
-          "website": "https://www.epicgames.com/store/en-US/p/sheltered"
+          "website": "https://store.epicgames.com/store/en-US/p/sheltered"
         },
         {
           "name": "Shenmue 3",
-          "website": "https://www.epicgames.com/store/en-US/p/shenmue-3"
+          "website": "https://store.epicgames.com/store/en-US/p/shenmue-3"
         },
         {
           "name": "Sherlock Holmes: Crimes and Punishments",
-          "website": "https://www.epicgames.com/store/en-US/p/sherlock-holmes-crimes-and-punishments"
+          "website": "https://store.epicgames.com/store/en-US/p/sherlock-holmes-crimes-and-punishments"
         },
         {
           "name": "Shop Titans",
@@ -2700,7 +2699,7 @@
         },
         {
           "name": "Sid Meier's Civilization® VI",
-          "website": "https://www.epicgames.com/store/en-US/p/sid-meiers-civilization-vi"
+          "website": "https://store.epicgames.com/store/en-US/p/sid-meiers-civilization-vi"
         },
         {
           "name": "Slain: Back From Hell",
@@ -2708,19 +2707,23 @@
         },
         {
           "name": "Sludge Life",
-          "website": "https://www.epicgames.com/store/en-US/p/sludge-life"
+          "website": "https://store.epicgames.com/store/en-US/p/sludge-life"
         },
         {
           "name": "Solitairica",
-          "website": "https://www.epicgames.com/store/en-US/p/solitairica"
+          "website": "https://store.epicgames.com/store/en-US/p/solitairica"
         },
         {
           "name": "Sonic Mania",
-          "website": "https://www.epicgames.com/store/en-US/p/sonic-mania"
+          "website": "https://store.epicgames.com/store/en-US/p/sonic-mania"
         },
         {
           "name": "Speed Brawl",
-          "website": "https://www.epicgames.com/store/en-US/p/speed-brawl"
+          "website": "https://store.epicgames.com/store/en-US/p/speed-brawl"
+        },
+        {
+          "name": "Spelldrifter",
+          "website": "https://store.epicgames.com/en-US/p/spelldrifter"
         },
         {
           "name": "Spirit of the North",
@@ -2728,7 +2731,7 @@
         },
         {
           "name": "STAR WARS™ Battlefront™ II: Celebration Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/star-wars-battlefront-2"
+          "website": "https://store.epicgames.com/store/en-US/p/star-wars-battlefront-2"
         },
         {
           "name": "STAR WARS™: Squadrons",
@@ -2736,23 +2739,23 @@
         },
         {
           "name": "Steep",
-          "website": "https://www.epicgames.com/store/en-US/p/steep"
+          "website": "https://store.epicgames.com/store/en-US/p/steep"
         },
         {
           "name": "Stick It To The Man",
-          "website": "https://www.epicgames.com/store/en-US/p/stick-it-to-the-man"
+          "website": "https://store.epicgames.com/store/en-US/p/stick-it-to-the-man"
         },
         {
           "name": "Stranded Deep",
-          "website": "https://www.epicgames.com/store/en-US/p/stranded-deep"
+          "website": "https://store.epicgames.com/store/en-US/p/stranded-deep"
         },
         {
           "name": "Stranger Things 3: The Game",
-          "website": "https://www.epicgames.com/store/en-US/p/stranger-things-3-the-game"
+          "website": "https://store.epicgames.com/store/en-US/p/stranger-things-3-the-game"
         },
         {
           "name": "Stubbs the Zombie in Rebel Without a Pulse",
-          "website": "https://www.epicgames.com/store/en-US/p/stubbs-the-zombie-in-rebel-without-a-pulse"
+          "website": "https://store.epicgames.com/store/en-US/p/stubbs-the-zombie-in-rebel-without-a-pulse"
         },
         {
           "name": "Submerged: Hidden Depths",
@@ -2760,15 +2763,15 @@
         },
         {
           "name": "Sundered: Eldritch Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/sundered-eldritch-edition"
+          "website": "https://store.epicgames.com/store/en-US/p/sundered-eldritch-edition"
         },
         {
           "name": "Sunless Sea",
-          "website": "https://www.epicgames.com/store/en-US/p/sunless-sea"
+          "website": "https://store.epicgames.com/store/en-US/p/sunless-sea"
         },
         {
           "name": "Superbrothers: Sword & Sworcery EP",
-          "website": "https://www.epicgames.com/store/en-US/p/superbrothers-sword-and-sworcery-ep"
+          "website": "https://store.epicgames.com/store/en-US/p/superbrothers-sword-and-sworcery-ep"
         },
         {
           "name": "Supraland",
@@ -2776,15 +2779,15 @@
         },
         {
           "name": "Surviving Mars",
-          "website": "https://www.epicgames.com/store/en-US/p/surviving-mars"
+          "website": "https://store.epicgames.com/store/en-US/p/surviving-mars"
         },
         {
           "name": "Tacoma",
-          "website": "https://www.epicgames.com/store/en-US/p/tacoma"
+          "website": "https://store.epicgames.com/store/en-US/p/tacoma"
         },
         {
           "name": "Tales of the Neon Sea",
-          "website": "https://www.epicgames.com/store/en-US/p/tales-of-the-neon-sea"
+          "website": "https://store.epicgames.com/store/en-US/p/tales-of-the-neon-sea"
         },
         {
           "name": "Tanenberg",
@@ -2796,11 +2799,11 @@
         },
         {
           "name": "Tharsis",
-          "website": "https://www.epicgames.com/store/en-US/p/tharsis"
+          "website": "https://store.epicgames.com/store/en-US/p/tharsis"
         },
         {
           "name": "The Alto Collection",
-          "website": "https://www.epicgames.com/store/en-US/p/the-alto-collection"
+          "website": "https://store.epicgames.com/store/en-US/p/the-alto-collection"
         },
         {
           "name": "The Captain",
@@ -2812,23 +2815,23 @@
         },
         {
           "name": "The Escapists",
-          "website": "https://www.epicgames.com/store/en-US/p/the-escapists"
+          "website": "https://store.epicgames.com/store/en-US/p/the-escapists"
         },
         {
           "name": "The Fall",
-          "website": "https://www.epicgames.com/store/en-US/p/the-fall"
+          "website": "https://store.epicgames.com/store/en-US/p/the-fall"
         },
         {
           "name": "The First Tree",
-          "website": "https://www.epicgames.com/store/en-US/p/the-first-tree"
+          "website": "https://store.epicgames.com/store/en-US/p/the-first-tree"
         },
         {
           "name": "The Lion's Song",
-          "website": "https://www.epicgames.com/store/en-US/p/the-lions-song"
+          "website": "https://store.epicgames.com/store/en-US/p/the-lions-song"
         },
         {
           "name": "The Long Dark",
-          "website": "https://www.epicgames.com/store/en-US/p/the-long-dark"
+          "website": "https://store.epicgames.com/store/en-US/p/the-long-dark"
         },
         {
           "name": "The Silent Age",
@@ -2836,35 +2839,35 @@
         },
         {
           "name": "The Spectrum Retreat",
-          "website": "https://www.epicgames.com/store/en-US/p/the-spectrum-retreat"
+          "website": "https://store.epicgames.com/store/en-US/p/the-spectrum-retreat"
         },
         {
           "name": "The Textorcist: The Story of Ray Bibbia",
-          "website": "https://www.epicgames.com/store/en-US/p/the-textorcist"
+          "website": "https://store.epicgames.com/store/en-US/p/the-textorcist"
         },
         {
           "name": "The Vanishing of Ethan Carter",
-          "website": "https://www.epicgames.com/store/en-US/p/the-vanishing-of-ethan-carter"
+          "website": "https://store.epicgames.com/store/en-US/p/the-vanishing-of-ethan-carter"
         },
         {
           "name": "The Wolf Among Us",
-          "website": "https://www.epicgames.com/store/en-US/p/the-wolf-among-us"
+          "website": "https://store.epicgames.com/store/en-US/p/the-wolf-among-us"
         },
         {
           "name": "The World Next Door",
-          "website": "https://www.epicgames.com/store/en-US/p/the-world-next-door"
+          "website": "https://store.epicgames.com/store/en-US/p/the-world-next-door"
         },
         {
           "name": "theHunter: Call of the Wild™",
-          "website": "https://www.epicgames.com/store/en-US/p/thehunter-call-of-the-wild"
+          "website": "https://store.epicgames.com/store/en-US/p/thehunter-call-of-the-wild"
         },
         {
           "name": "Ticket to Ride",
-          "website": "https://www.epicgames.com/store/en-US/p/ticket-to-ride"
+          "website": "https://store.epicgames.com/store/en-US/p/ticket-to-ride"
         },
         {
           "name": "Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure",
-          "website": "https://www.epicgames.com/store/en-US/p/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure"
+          "website": "https://store.epicgames.com/store/en-US/p/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure"
         },
         {
           "name": "ToeJam & Earl: Back in the Groove!",
@@ -2872,15 +2875,15 @@
         },
         {
           "name": "Tomb Raider GOTY",
-          "website": "https://www.epicgames.com/store/en-US/p/tomb-raider"
+          "website": "https://store.epicgames.com/store/en-US/p/tomb-raider"
         },
         {
           "name": "Torchlight II",
-          "website": "https://www.epicgames.com/store/en-US/p/torchlight-2"
+          "website": "https://store.epicgames.com/store/en-US/p/torchlight-2"
         },
         {
           "name": "Total War: WARHAMMER",
-          "website": "https://www.epicgames.com/store/en-US/p/total-war-warhammer"
+          "website": "https://store.epicgames.com/store/en-US/p/total-war-warhammer"
         },
         {
           "name": "Total War: WARHAMMER II",
@@ -2888,7 +2891,7 @@
         },
         {
           "name": "Train Sim World® 2",
-          "website": "https://www.epicgames.com/store/en-US/p/train-sim-world-2"
+          "website": "https://store.epicgames.com/store/en-US/p/train-sim-world-2"
         },
         {
           "name": "Train Valley 2",
@@ -2896,7 +2899,7 @@
         },
         {
           "name": "Tropico 5",
-          "website": "https://www.epicgames.com/store/en-US/p/tropico-5"
+          "website": "https://store.epicgames.com/store/en-US/p/tropico-5"
         },
         {
           "name": "Tunche",
@@ -2904,7 +2907,7 @@
         },
         {
           "name": "Tyranny - Gold Edition",
-          "website": "https://www.epicgames.com/store/en-US/p/tyranny"
+          "website": "https://store.epicgames.com/store/en-US/p/tyranny"
         },
         {
           "name": "Unrailed!",
@@ -2916,19 +2919,19 @@
         },
         {
           "name": "Vampyr",
-          "website": "https://www.epicgames.com/store/en-US/p/vampyr"
+          "website": "https://store.epicgames.com/store/en-US/p/vampyr"
         },
         {
           "name": "Verdun",
-          "website": "https://www.epicgames.com/store/en-US/p/verdun"
+          "website": "https://store.epicgames.com/store/en-US/p/verdun"
         },
         {
           "name": "Void Bastards",
-          "website": "https://www.epicgames.com/store/en-US/p/void-bastards"
+          "website": "https://store.epicgames.com/store/en-US/p/void-bastards"
         },
         {
           "name": "Wargame: Red Dragon",
-          "website": "https://www.epicgames.com/store/en-US/p/wargame-red-dragon"
+          "website": "https://store.epicgames.com/store/en-US/p/wargame-red-dragon"
         },
         {
           "name": "Warhammer 40,000: Gladius - Relics of War",
@@ -2940,15 +2943,15 @@
         },
         {
           "name": "Watch Dogs 2",
-          "website": "https://www.epicgames.com/store/en-US/p/watch-dogs-2"
+          "website": "https://store.epicgames.com/store/en-US/p/watch-dogs-2"
         },
         {
           "name": "Where The Water Tastes Like Wine",
-          "website": "https://www.epicgames.com/store/en-US/p/where-the-water-tastes-like-wine"
+          "website": "https://store.epicgames.com/store/en-US/p/where-the-water-tastes-like-wine"
         },
         {
           "name": "while True: learn()",
-          "website": "https://www.epicgames.com/store/en-US/p/while-true-learn"
+          "website": "https://store.epicgames.com/store/en-US/p/while-true-learn"
         },
         {
           "name": "Wildcat Gun Machine",
@@ -2956,11 +2959,11 @@
         },
         {
           "name": "Wilmot's Warehouse",
-          "website": "https://www.epicgames.com/store/en-US/p/wilmots-warehouse"
+          "website": "https://store.epicgames.com/store/en-US/p/wilmots-warehouse"
         },
         {
           "name": "Windbound",
-          "website": "https://www.epicgames.com/store/en-US/p/windbound"
+          "website": "https://store.epicgames.com/store/en-US/p/windbound"
         },
         {
           "name": "Wolfenstein: The New Order",
@@ -2972,7 +2975,7 @@
         },
         {
           "name": "World War Z: Aftermath",
-          "website": "https://www.epicgames.com/store/en-US/p/world-war-z"
+          "website": "https://store.epicgames.com/store/en-US/p/world-war-z"
         },
         {
           "name": "XCOM® 2",
@@ -2980,11 +2983,11 @@
         },
         {
           "name": "Yoku's Island Express",
-          "website": "https://www.epicgames.com/store/en-US/p/yokus-island-express"
+          "website": "https://store.epicgames.com/store/en-US/p/yokus-island-express"
         },
         {
           "name": "Yooka-Laylee",
-          "website": "https://www.epicgames.com/store/en-US/p/yooka-laylee"
+          "website": "https://store.epicgames.com/store/en-US/p/yooka-laylee"
         }
       ]
     },
