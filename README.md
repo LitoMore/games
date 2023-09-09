@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-298-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-299-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2347-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2348-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2125,6 +2125,7 @@
 - [CrossCode](https://steamcommunity.com/app/368340)
 - [Cygnus Enterprises](https://steamcommunity.com/app/1963520)
 - [Cyper Bodies](https://steamcommunity.com/app/2182820)
+- [DAVE THE DIVER](https://steamcommunity.com/app/1868140)
 - [Day of Defeat](https://steamcommunity.com/app/30)
 - [Day of Defeat: Source](https://steamcommunity.com/app/300)
 - [Deathmatch Classic](https://steamcommunity.com/app/40)
