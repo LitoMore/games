@@ -7873,10 +7873,13 @@
       "anchor": "#steam",
       "badge": "https://img.shields.io/badge/Steam-{{count}}-ddd?logo=steam&labelColor=171a21",
       "hostnames": [
-        "steamcommunity.com",
-        "steampowered.com"
+        "steamcommunity.com"
       ],
       "gameList": [
+        {
+          "name": "20 Minutes Till Dawn",
+          "website": "https://steamcommunity.com/app/1966900"
+        },
         {
           "name": "A Sinful Camp",
           "website": "https://steamcommunity.com/app/1748050"
@@ -7919,7 +7922,11 @@
         },
         {
           "name": "Baba Is You",
-          "website": "https://store.steampowered.com/app/736260"
+          "website": "https://steamcommunity.com/app/736260"
+        },
+        {
+          "name": "Baldur's Gate 3",
+          "website": "https://steamcommunity.com/app/1086940"
         },
         {
           "name": "Bastion",
@@ -8038,6 +8045,10 @@
           "website": "https://steamcommunity.com/app/368340"
         },
         {
+          "name": "Cygnus Enterprises",
+          "website": "https://steamcommunity.com/app/1963520"
+        },
+        {
           "name": "Cyper Bodies",
           "website": "https://steamcommunity.com/app/2182820"
         },
@@ -8135,7 +8146,7 @@
         },
         {
           "name": "Environmental Station Alpha",
-          "website": "https://store.steampowered.com/app/350070"
+          "website": "https://steamcommunity.com/app/350070"
         },
         {
           "name": "Escape Simulator",
@@ -8184,6 +8195,10 @@
         {
           "name": "Forward to the Sky",
           "website": "https://steamcommunity.com/app/333250"
+        },
+        {
+          "name": "Forza Horizon 5 - Premium Edition",
+          "website": "https://steamcommunity.com/app/1551360"
         },
         {
           "name": "Grand Theft Auto III",
@@ -8274,6 +8289,10 @@
           "website": "https://steamcommunity.com/app/1778320"
         },
         {
+          "name": "Hero's Adventure: Road to Passion",
+          "website": "https://steamcommunity.com/app/1948980"
+        },
+        {
           "name": "Heroes of the Three Kingdoms",
           "website": "https://steamcommunity.com/app/1437820"
         },
@@ -8303,7 +8322,7 @@
         },
         {
           "name": "Heroes® of Might & Magic® III - HD Edition",
-          "website": "https://store.steampowered.com/app/297000"
+          "website": "https://steamcommunity.com/app/297000"
         },
         {
           "name": "Ho Tu Lo Shu：The Books of Dragon",
@@ -8391,11 +8410,11 @@
         },
         {
           "name": "Lines Infinite",
-          "website": "https://steampowered.com/app/733050"
+          "website": "https://steamcommunity.com/app/733050"
         },
         {
           "name": "Lines X",
-          "website": "https://steampowered.com/app/724740"
+          "website": "https://steamcommunity.com/app/724740"
         },
         {
           "name": "Living together with Fox Demon",
@@ -8462,6 +8481,10 @@
           "website": "https://steamcommunity.com/app/1195290"
         },
         {
+          "name": "Muse Dash",
+          "website": "https://steamcommunity.com/app/774171"
+        },
+        {
           "name": "My Newborn Life In A Harem",
           "website": "https://steamcommunity.com/app/1742470"
         },
@@ -8487,7 +8510,7 @@
         },
         {
           "name": "Noita",
-          "website": "https://store.steampowered.com/app/881100"
+          "website": "https://steamcommunity.com/app/881100"
         },
         {
           "name": "Nomad Survival",
@@ -8495,7 +8518,7 @@
         },
         {
           "name": "Nonogram - The Greatest Painter",
-          "website": "https://steampowered.com/app/742490"
+          "website": "https://steamcommunity.com/app/742490"
         },
         {
           "name": "Oceanhorn: Monster of Uncharted Seas",
@@ -8642,6 +8665,10 @@
           "website": "https://steamcommunity.com/app/55230"
         },
         {
+          "name": "Sea of Stars",
+          "website": "https://steamcommunity.com/app/1244090"
+        },
+        {
           "name": "Secret Pie",
           "website": "https://steamcommunity.com/app/1802870"
         },
@@ -8671,7 +8698,11 @@
         },
         {
           "name": "Sorry, James",
-          "website": "https://steampowered.com/app/659190"
+          "website": "https://steamcommunity.com/app/659190"
+        },
+        {
+          "name": "Spellbook Demonslayers",
+          "website": "https://steamcommunity.com/app/2007530"
         },
         {
           "name": "Stardew Valley",
@@ -8679,19 +8710,19 @@
         },
         {
           "name": "Succubus Cafe",
-          "website": "https://store.steampowered.com/agecheck/app/1520500/"
+          "website": "https://steamcommunity.com/app/1520500"
         },
         {
           "name": "Sudoku Jigsaw",
-          "website": "https://steampowered.com/app/858040"
+          "website": "https://steamcommunity.com/app/858040"
         },
         {
           "name": "Sudoku Killer",
-          "website": "https://steampowered.com/app/861270"
+          "website": "https://steamcommunity.com/app/861270"
         },
         {
           "name": "Sudoku Universe",
-          "website": "https://steampowered.com/app/733070"
+          "website": "https://steamcommunity.com/app/733070"
         },
         {
           "name": "Super Meat Boy",
@@ -8755,11 +8786,15 @@
         },
         {
           "name": "The Big Journey",
-          "website": "https://steampowered.com/app/742480"
+          "website": "https://steamcommunity.com/app/742480"
         },
         {
           "name": "The Elder Scrolls Online",
           "website": "https://steamcommunity.com/app/306130"
+        },
+        {
+          "name": "The Elder Scrolls V: Skyrim Special Edition",
+          "website": "https://steamcommunity.com/app/489830"
         },
         {
           "name": "The Impregnation of the Elves: Conquest of the Arrogant Fairies by Impregnation",
@@ -8775,7 +8810,7 @@
         },
         {
           "name": "The Swapper",
-          "website": "https://store.steampowered.com/app/231160"
+          "website": "https://steamcommunity.com/app/231160"
         },
         {
           "name": "The Witch's Sexual Prison",
@@ -8906,12 +8941,16 @@
           "website": "https://steamcommunity.com/app/552500"
         },
         {
+          "name": "Warm Snow",
+          "website": "https://steamcommunity.com/app/1296830"
+        },
+        {
           "name": "WayOut",
           "website": "https://steamcommunity.com/app/551110"
         },
         {
           "name": "WayOut 2: Hex",
-          "website": "https://steampowered.com/app/585950"
+          "website": "https://steamcommunity.com/app/585950"
         },
         {
           "name": "We Were Here",
@@ -8956,6 +8995,10 @@
         {
           "name": "YAIBA: NINJA GAIDEN Z",
           "website": "https://steamcommunity.com/app/252230"
+        },
+        {
+          "name": "Yet Another Zombie Survivors",
+          "website": "https://steamcommunity.com/app/2163330"
         },
         {
           "name": "Zodiac fantasy 2",

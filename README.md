@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-287-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-298-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2336-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2347-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2081,6 +2081,7 @@
 
 ## Steam
 
+- [20 Minutes Till Dawn](https://steamcommunity.com/app/1966900)
 - [A Sinful Camp](https://steamcommunity.com/app/1748050)
 - [A Story About My Uncle](https://steamcommunity.com/app/278360)
 - [Age of Empires II (2013)](https://steamcommunity.com/app/221380)
@@ -2091,7 +2092,8 @@
 - [ARK: Survival Of The Fittest](https://steamcommunity.com/app/407530)
 - [Armored Fist 3](https://steamcommunity.com//app/32710)
 - [Aseprite](https://steamcommunity.com/app/431730)
-- [Baba Is You](https://store.steampowered.com/app/736260)
+- [Baba Is You](https://steamcommunity.com/app/736260)
+- [Baldur's Gate 3](https://steamcommunity.com/app/1086940)
 - [Bastion](https://steamcommunity.com/app/107100)
 - [Batman: Arkham Asylum GOTY Edition](https://steamcommunity.com/app/35140)
 - [Batman: Arkham City GOTY](https://steamcommunity.com/app/200260)
@@ -2121,6 +2123,7 @@
 - [Counter-Strike: Source](https://steamcommunity.com/app/240)
 - [Crayon Physics Deluxe](https://steamcommunity.com/app/26900)
 - [CrossCode](https://steamcommunity.com/app/368340)
+- [Cygnus Enterprises](https://steamcommunity.com/app/1963520)
 - [Cyper Bodies](https://steamcommunity.com/app/2182820)
 - [Day of Defeat](https://steamcommunity.com/app/30)
 - [Day of Defeat: Source](https://steamcommunity.com/app/300)
@@ -2145,7 +2148,7 @@
 - [Dream Hacker](https://steamcommunity.com/app/1850270)
 - [Elden Ring](https://steamcommunity.com/app/1245620)
 - [Elf Sex Farm](https://steamcommunity.com/app/1738990)
-- [Environmental Station Alpha](https://store.steampowered.com/app/350070)
+- [Environmental Station Alpha](https://steamcommunity.com/app/350070)
 - [Escape Simulator](https://steamcommunity.com/app/1435790)
 - [Estella's Nightmare: Sealed Space and a Succubus's Curse](https://steamcommunity.com/app/1925210)
 - [Evoland](https://steamcommunity.com/app/233470)
@@ -2158,6 +2161,7 @@
 - [Fate Seeker II](https://steamcommunity.com/app/1559390)
 - [FEZ](https://steamcommunity.com/app/224760)
 - [Forward to the Sky](https://steamcommunity.com/app/333250)
+- [Forza Horizon 5 - Premium Edition](https://steamcommunity.com/app/1551360)
 - [Grand Theft Auto III](https://steamcommunity.com/app/12100)
 - [Grand Theft Auto IV: The Complete Edition](https://steamcommunity.com/app/12210)
 - [Grand Theft Auto V](https://steamcommunity.com/app/271590)
@@ -2180,6 +2184,7 @@
 - [Half-Life: Source](https://steamcommunity.com/app/280)
 - [Halo Wars: Definitive Edition](https://steamcommunity.com/app/459220)
 - [Harem of Nurses](https://steamcommunity.com/app/1778320)
+- [Hero's Adventure: Road to Passion](https://steamcommunity.com/app/1948980)
 - [Heroes of the Three Kingdoms](https://steamcommunity.com/app/1437820)
 - [Heroes of the Three Kingdoms 2](https://steamcommunity.com/app/1437830)
 - [Heroes of the Three Kingdoms 3](https://steamcommunity.com/app/1437840)
@@ -2187,7 +2192,7 @@
 - [Heroes of the Three Kingdoms 5](https://steamcommunity.com/app/1437860)
 - [Heroes of the Three Kingdoms 6](https://steamcommunity.com/app/1437870)
 - [Heroes of the Three Kingdoms 7](https://steamcommunity.com/app/1437880)
-- [Heroes® of Might & Magic® III - HD Edition](https://store.steampowered.com/app/297000)
+- [Heroes® of Might & Magic® III - HD Edition](https://steamcommunity.com/app/297000)
 - [Ho Tu Lo Shu：The Books of Dragon](https://steamcommunity.com/app/952860)
 - [Human Fall Flat](https://steamcommunity.com/app/477160)
 - [ICEY](https://steamcommunity.com/app/553640)
@@ -2209,8 +2214,8 @@
 - [Lenna's Inception](https://steamcommunity.com/app/1114870)
 - [LIMBO](https://steamcommunity.com/app/48000)
 - [Linea, the Game](https://steamcommunity.com/app/428900)
-- [Lines Infinite](https://steampowered.com/app/733050)
-- [Lines X](https://steampowered.com/app/724740)
+- [Lines Infinite](https://steamcommunity.com/app/733050)
+- [Lines X](https://steamcommunity.com/app/724740)
 - [Living together with Fox Demon](https://steamcommunity.com/app/1528560)
 - [Loop Hero](https://steamcommunity.com/app/1282730)
 - [LYNE](https://steamcommunity.com/app/266010)
@@ -2227,15 +2232,16 @@
 - [Mirror Maker](https://steamcommunity.com/app/1007350)
 - [Mirror Party](https://steamcommunity.com/app/1787820)
 - [Moncage](https://steamcommunity.com/app/1195290)
+- [Muse Dash](https://steamcommunity.com/app/774171)
 - [My Newborn Life In A Harem](https://steamcommunity.com/app/1742470)
 - [Nayuta no Kiseki: KAI](https://steamcommunity.com/app/1732390)
 - [NEEDY STREAMER OVERLOAD](https://steamcommunity.com/app/1451940)
 - [New World](https://steamcommunity.com/app/1063730)
 - [Nobody Saves the World](https://steamcommunity.com/app/1432050)
 - [Noel The Mortal Fate S1-7](https://steamcommunity.com/app/850000)
-- [Noita](https://store.steampowered.com/app/881100)
+- [Noita](https://steamcommunity.com/app/881100)
 - [Nomad Survival](https://steamcommunity.com/app/1929870)
-- [Nonogram - The Greatest Painter](https://steampowered.com/app/742490)
+- [Nonogram - The Greatest Painter](https://steamcommunity.com/app/742490)
 - [Oceanhorn: Monster of Uncharted Seas](https://steamcommunity.com/app/339200)
 - [Oik](https://steamcommunity.com/app/588970)
 - [Oik 2](https://steamcommunity.com/app/611980)
@@ -2272,6 +2278,7 @@
 - [Rogue Stormers](https://steamcommunity.com/app/299480)
 - [RPG Maker MV](https://steamcommunity.com/app/363890)
 - [Saints Row: The Third](https://steamcommunity.com/app/55230)
+- [Sea of Stars](https://steamcommunity.com/app/1244090)
 - [Secret Pie](https://steamcommunity.com/app/1802870)
 - [Secret Series: BJ](https://steamcommunity.com/app/1874770)
 - [Shadow of the Tomb Raider](https://steamcommunity.com/app/750920)
@@ -2279,12 +2286,13 @@
 - [Shoot. Push. Repeat.](https://steamcommunity.com/app/1328810)
 - [Sleeping Dogs: Definitive Edition](https://steamcommunity.com/app/307690)
 - [Slime Rancher](https://steamcommunity.com/app/433340)
-- [Sorry, James](https://steampowered.com/app/659190)
+- [Sorry, James](https://steamcommunity.com/app/659190)
+- [Spellbook Demonslayers](https://steamcommunity.com/app/2007530)
 - [Stardew Valley](https://steamcommunity.com/app/413150)
-- [Succubus Cafe](https://store.steampowered.com/agecheck/app/1520500/)
-- [Sudoku Jigsaw](https://steampowered.com/app/858040)
-- [Sudoku Killer](https://steampowered.com/app/861270)
-- [Sudoku Universe](https://steampowered.com/app/733070)
+- [Succubus Cafe](https://steamcommunity.com/app/1520500)
+- [Sudoku Jigsaw](https://steamcommunity.com/app/858040)
+- [Sudoku Killer](https://steamcommunity.com/app/861270)
+- [Sudoku Universe](https://steamcommunity.com/app/733070)
 - [Super Meat Boy](https://steamcommunity.com/app/40800)
 - [Sword and Fairy](https://steamcommunity.com/app/1546570)
 - [Sword and Fairy 2](https://steamcommunity.com/app/1538460)
@@ -2300,12 +2308,13 @@
 - [Teddy Floppy Ear - The Race](https://steamcommunity.com/app/371420)
 - [Terraria](https://steamcommunity.com/app/105600)
 - [Textreme 2](https://steamcommunity.com/app/1516350)
-- [The Big Journey](https://steampowered.com/app/742480)
+- [The Big Journey](https://steamcommunity.com/app/742480)
 - [The Elder Scrolls Online](https://steamcommunity.com/app/306130)
+- [The Elder Scrolls V: Skyrim Special Edition](https://steamcommunity.com/app/489830)
 - [The Impregnation of the Elves: Conquest of the Arrogant Fairies by Impregnation](https://steamcommunity.com/app/2108290)
 - [The Lab](https://steamcommunity.com/app/450390)
 - [The Past Within](https://steamcommunity.com/app/1515210)
-- [The Swapper](https://store.steampowered.com/app/231160)
+- [The Swapper](https://steamcommunity.com/app/231160)
 - [The Witch's Sexual Prison](https://steamcommunity.com/app/1683950)
 - [The Witcher 2: Assassins of Kings Enhanced Edition](https://steamcommunity.com/app/20920)
 - [The Witcher 3: Wild Hunt](https://steamcommunity.com/app/292030)
@@ -2338,8 +2347,9 @@
 - [Virgo Versus The Zodiac](https://steamcommunity.com/app/920320)
 - [Wallpaper Engine](https://steamcommunity.com/app/431960)
 - [Warhammer: Vermintide 2](https://steamcommunity.com/app/552500)
+- [Warm Snow](https://steamcommunity.com/app/1296830)
 - [WayOut](https://steamcommunity.com/app/551110)
-- [WayOut 2: Hex](https://steampowered.com/app/585950)
+- [WayOut 2: Hex](https://steamcommunity.com/app/585950)
 - [We Were Here](https://steamcommunity.com/app/582500)
 - [We Were Here Together](https://steamcommunity.com/app/865360)
 - [We Were Here Too](https://steamcommunity.com/app/677160)
@@ -2351,6 +2361,7 @@
 - [Woman's Prison](https://steamcommunity.com/app/1527980)
 - [Wonder Boy: Returns Remix](https://steamcommunity.com/app/1112240)
 - [YAIBA: NINJA GAIDEN Z](https://steamcommunity.com/app/252230)
+- [Yet Another Zombie Survivors](https://steamcommunity.com/app/2163330)
 - [Zodiac fantasy 2](https://steamcommunity.com/app/2116890)
 - [Zup!](https://steamcommunity.com/app/533300)
 - [Zup! 2](https://steamcommunity.com/app/562220)

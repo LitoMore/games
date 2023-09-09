@@ -50,12 +50,12 @@ const unifyEpicGamesWebsite = (website: string): string => {
 
 const unifySteamWebsite = (website: string): string => {
   const websitePattern =
-    /^https:\/\/store\.steampowered\.com\/app\/(?<id>\d+)\/.*$/;
+    /^https:\/\/(store\.)*steampowered\.com\/app\/(?<id>\d+)\/*.*$/;
 
   if (websitePattern.test(website)) {
     return website.replace(
       websitePattern,
-      "https://steamcommunity.com/app/$1",
+      "https://steamcommunity.com/app/$2",
     );
   }
 

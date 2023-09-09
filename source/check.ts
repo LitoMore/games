@@ -11,16 +11,16 @@ const checkWebsite = () => {
     [];
   games.platforms.forEach((platform: Platform) => {
     platform.gameList.forEach((game: Game) => {
+      if (withFix) {
+        game.website = websiteChecks(platform.anchor, game.website);
+      }
+
       const valid = platform.hostnames.find((hostname) =>
         game.website.includes(hostname)
       );
 
       if (!valid) {
         invalidGames.push({ platform: platform.name, ...game });
-      }
-
-      if (withFix) {
-        game.website = websiteChecks(platform.anchor, game.website);
       }
     });
   });
