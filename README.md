@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-285-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-286-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2350-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2351-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -665,6 +665,7 @@
 - [Football Manager 2020](https://store.epicgames.com/store/en-US/p/football-manager-2020)
 - [Football Manager 2021](https://store.epicgames.com/store/en-US/p/football-manager-2021)
 - [Football Manager 2022](https://store.epicgames.com/en-US/p/football-manager-2022)
+- [Football Manager 2023](https://store.epicgames.com/en-US/p/football-manager-2023)
 - [For The King](https://store.epicgames.com/store/en-US/p/for-the-king)
 - [Fort Triumph](https://store.epicgames.com/en-US/p/fort-triumph)
 - [Fortnite](https://store.epicgames.com/store/en-US/p/fortnite)
