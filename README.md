@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-253-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-254-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#amazon-luna">
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2352-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2353-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -120,6 +120,7 @@
 - [A Blind Legend](https://images-na.ssl-images-amazon.com/images/I/41sJPY42QXS.jpg)
 - [A Normal Lost Phone](https://images-na.ssl-images-amazon.com/images/I/41qFAy59K7S.jpg)
 - [Abandon Ship](https://images-na.ssl-images-amazon.com/images/I/41Go92IhokL.jpg)
+- [Absolute Tactics: Daughters of Mercy](https://gaming.amazon.com/absolute-tactics-daughters-of-mercy-aga/dp/amzn1.pg.item.e0fd3215-197e-4793-8f89-d8ea0a112a00)
 - [Aces of Luftwaffe - Squadron](https://images-na.ssl-images-amazon.com/images/I/516gqDmaJML.jpg)
 - [Across the Grooves](https://images-na.ssl-images-amazon.com/images/I/41ABpwh3VGL.jpg)
 - [Adios](https://m.media-amazon.com/images/I/41dOpXvx1aL.jpg)
