@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-286-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-287-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2354-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2355-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -578,6 +578,7 @@
 - [20XX](https://store.epicgames.com/store/en-US/p/20xx)
 - [3 out of 10, EP 1: "Welcome To Shovelworks"](https://store.epicgames.com/store/en-US/p/3-out-of-10-ep-1)
 - [3 out of 10: Season Two](https://store.epicgames.com/store/en-US/p/3-out-of-10-season-2)
+- [911 Operator](https://store.epicgames.com/en-US/p/911-operator-585edd)
 - [A Game Of Thrones: The Board Game Digital Edition](https://store.epicgames.com/en-US/p/a-game-of-thrones-5858a3)
 - [A Plague Tale: Innocence](https://store.epicgames.com/store/en-US/p/a-plague-tale-innocence)
 - [Absolute Drift](https://store.epicgames.com/store/en-US/p/absolute-drift)
