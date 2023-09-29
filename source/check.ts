@@ -17,7 +17,7 @@ const checkWebsite = () => {
       }
 
       const valid = platform.hostnames.find((hostname) =>
-        game.name.includes("’") ||
+        !game.name.includes("’") ||
         game.website.includes(hostname)
       );
 
