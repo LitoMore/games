@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-287-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-289-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2355-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2357-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -724,6 +724,7 @@
 - [Metro: Last Light Redux](https://store.epicgames.com/store/en-US/p/metro-last-light-redux)
 - [Midnight Ghost Hunt](https://store.epicgames.com/en-US/p/midnight-ghost-hunt)
 - [Minit](https://store.epicgames.com/store/en-US/p/minit)
+- [Model Builder](https://store.epicgames.com/en-US/p/model-builder-f9b456)
 - [MORDHAU](https://store.epicgames.com/en-US/p/mordhau)
 - [Mothergunship](https://store.epicgames.com/store/en-US/p/mothergunship)
 - [Moving Out](https://store.epicgames.com/store/en-US/p/moving-out)
@@ -794,6 +795,7 @@
 - [Sludge Life](https://store.epicgames.com/store/en-US/p/sludge-life)
 - [Solitairica](https://store.epicgames.com/store/en-US/p/solitairica)
 - [Sonic Mania](https://store.epicgames.com/store/en-US/p/sonic-mania)
+- [Soulstice](https://store.epicgames.com/en-US/p/soulstice)
 - [Speed Brawl](https://store.epicgames.com/store/en-US/p/speed-brawl)
 - [Spelldrifter](https://store.epicgames.com/en-US/p/spelldrifter)
 - [Spirit of the North](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)
