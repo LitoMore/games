@@ -1,6 +1,6 @@
 import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
 import { Game, Platform } from "./types.ts";
-import { nameCompare, websiteChecks } from "./utils.ts";
+import { nameChecks, nameCompare, websiteChecks } from "./utils.ts";
 
 const gamesJson = await Deno.readTextFile("./games.json");
 const games = JSON.parse(gamesJson);
@@ -12,10 +12,12 @@ const checkWebsite = () => {
   games.platforms.forEach((platform: Platform) => {
     platform.gameList.forEach((game: Game) => {
       if (withFix) {
+        game.name = nameChecks(game.name);
         game.website = websiteChecks(platform.anchor, game.website);
       }
 
       const valid = platform.hostnames.find((hostname) =>
+        game.name.includes("’") ||
         game.website.includes(hostname)
       );
 

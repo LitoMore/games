@@ -70,6 +70,8 @@ const unifyAmazonGamesWebsite = (website: string): string => {
   return website;
 };
 
+export const nameChecks = (name: string): string => name.replaceAll("’", "'");
+
 export const websiteChecks = (anchor: string, website: string): string => {
   switch (anchor) {
     case "#app-store":
