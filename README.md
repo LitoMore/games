@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
-    <img src="https://img.shields.io/badge/Legacy_Games-28-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Legacy_Games-29-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
   </a>
   <a href="#meta-quest">
     <img src="https://img.shields.io/badge/Meta_Quest-13-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2360-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2361-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -969,6 +969,7 @@
 - [Rubek](https://legacygames.com/product/bonus-game-rubek/)
 - [Summertime Madness](https://legacygames.com/prime-gaming-summertime-madness/)
 - [The Wild Case](https://legacygames.com/product/addling-adventures-3-pack/)
+- [Unsolved Case: Murderous Script CE](https://legacygames.com/prime-gaming-unsolved-case-murderous-script/)
 - [Up Left Out](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Varenje](https://legacygames.com/product/addling-adventures-3-pack/)
 - [Word of the Law: Death Mask Collector's Edition](https://legacygames.com/product/best-of-domini-3-pack/)
