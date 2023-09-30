@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-254-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-257-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#amazon-luna">
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2357-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2360-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -174,6 +174,7 @@
 - [Defend the Rook](https://m.media-amazon.com/images/I/51NpzeUQxGL.jpg)
 - [Demon Hunter 2: New Chapter](https://images-na.ssl-images-amazon.com/images/I/41DRdSEQBaL.jpg)
 - [Desert Child](https://m.media-amazon.com/images/I/41RKhn5W0dL.jpg)
+- [Dexter Stardust: Adventures in Outer Space](https://gaming.amazon.com/dexter-stardust-adventures-in-outer-space-aga/dp/amzn1.pg.item.c03a78f6-a72e-4ceb-b0a2-5793ce667d51/)
 - [Do Not Feed the Monkeys](https://images-na.ssl-images-amazon.com/images/51c+Se62zvL.jpg)
 - [Doors: Paradox](https://m.media-amazon.com/images/I/41uN8Z+bt0L.jpg)
 - [Double Kick Heroes](https://images-na.ssl-images-amazon.com/images/I/51kJA4fOGJL.jpg)
@@ -204,6 +205,7 @@
 - [Hero's Hour](https://m.media-amazon.com/images/I/51G-5JeYbnL.jpg)
 - [Horace](https://m.media-amazon.com/images/I/51okOR41QSL.jpg)
 - [HUE](https://images-na.ssl-images-amazon.com/images/I/41esGVTJyfL.jpg)
+- [Hundred Days](https://gaming.amazon.com/hundred-days-aga/dp/amzn1.pg.item.41034478-cb3d-4625-ad9b-b353c9d1f0e8/)
 - [I am Fish](https://m.media-amazon.com/images/I/41+7C66DYqL.jpg)
 - [Icewind Dale: Enhanced Edition](https://m.media-amazon.com/images/I/415QLbMuGlL.jpg)
 - [In Other Waters](https://images-na.ssl-images-amazon.com/images/I/41eqjVCbI-L.jpg)
@@ -290,6 +292,7 @@
 - [Shattered - Tale of the Forgotten King](https://images-na.ssl-images-amazon.com/images/I/41IDYv8CbdL.jpg)
 - [Shock Troopers](https://images-na.ssl-images-amazon.com/images/I/51Cnw8dv7AL.jpg)
 - [Shock Troopers 2nd Squad](https://images-na.ssl-images-amazon.com/images/I/51RCuh-K5tL.jpg)
+- [Shotgun King: The Final Checkmate](https://gaming.amazon.com/shotgun-king-the-final-checkmate-aga/dp/amzn1.pg.item.ec444ec0-296b-4e6b-94a5-3de003776f66/)
 - [Shovel Knight Showdown](https://m.media-amazon.com/images/I/51DXiJ7XgwL._FMwebp_.jpg)
 - [Sine Mora Ex](https://images-na.ssl-images-amazon.com/images/I/51D4U4R0PLL.jpg)
 - [SkyDrift](https://images-na.ssl-images-amazon.com/images/I/41rINvRQBFL.jpg)
