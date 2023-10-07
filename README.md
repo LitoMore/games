@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-257-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-258-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#amazon-luna">
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2362-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2363-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -200,6 +200,7 @@
 - [Golazo! Soccer League](https://images-na.ssl-images-amazon.com/images/I/51DkCVKj2ML.jpg)
 - [Gone Viral](https://images-na.ssl-images-amazon.com/images/I/414ePg1PKAL.jpg)
 - [Grime](https://m.media-amazon.com/images/I/41rpNfakNDL.jpg)
+- [GRUNND](https://gaming.amazon.com/grunnd-aga/dp/amzn1.pg.item.03c3e6de-bee5-46ff-b9c6-00e0b0245319)
 - [Guild of Ascension](https://images-na.ssl-images-amazon.com/images/I/41AXRlYIHUL.jpg)
 - [Healer's Quest](https://images-na.ssl-images-amazon.com/images/I/41-kkv0v13S.jpg)
 - [Hero's Hour](https://m.media-amazon.com/images/I/51G-5JeYbnL.jpg)
