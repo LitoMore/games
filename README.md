@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-291-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-293-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2364-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2366-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -606,6 +606,7 @@
 - [BioShock: The Collection](https://store.epicgames.com/en-US/bundles/bioshock-the-collection)
 - [Black Widow: Recharged](https://store.epicgames.com/store/en-US/p/black-widow-recharged)
 - [Blair Witch](https://store.epicgames.com/store/en-US/p/blair-witch)
+- [Blazing Sails](https://store.epicgames.com/en-US/p/blazing-sails)
 - [Bloons TD 6](https://store.epicgames.com/en-US/p/bloons-td-6-bf95a0)
 - [Borderlands 2](https://store.epicgames.com/store/en-US/p/borderlands-2)
 - [Borderlands 3](https://store.epicgames.com/en-US/p/borderlands-3)
@@ -760,6 +761,7 @@
 - [Pine](https://store.epicgames.com/store/en-US/p/pine)
 - [Prey](https://store.epicgames.com/store/en-US/p/prey)
 - [Prison Architect](https://store.epicgames.com/store/en-US/p/prison-architect)
+- [Q.U.B.E. ULTIMATE BUNDLE](https://store.epicgames.com/en-US/bundles/qube-ultimate-bundle)
 - [Quake](https://store.epicgames.com/en-US/p/quake)
 - [Rage 2](https://store.epicgames.com/store/en-US/p/rage-2)
 - [Railway Empire](https://store.epicgames.com/store/en-US/p/railway-empire)
