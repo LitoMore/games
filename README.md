@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Zelda-6-ddd?logo=gameandwatch&labelColor=009644&logoColor=white"/>
   </a>
   <a href="#gogcom">
-    <img src="https://img.shields.io/badge/GOG.com-41-ddd?logo=gog.com&labelColor=86328a"/>
+    <img src="https://img.shields.io/badge/GOG.com-42-ddd?logo=gog.com&labelColor=86328a"/>
   </a>
   <a href="#google-play">
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2366-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2367-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -923,6 +923,7 @@
 - [METAL SLUG X](https://www.gog.com/game/metal_slug_x)
 - [Middle-earth™: Shadow of Mordor™ Game of the Year Edition](https://www.gog.com/en/game/middleearth_shadow_of_mordor)
 - [Middle-earth™: Shadow of War™](https://www.gog.com/en/game/middleearth_shadow_of_war)
+- [Monster Prom 2: Monster Camp](https://www.gog.com/en/game/monster_prom_2_monster_camp)
 - [Neverwinter Nights: Enhanced Edition](https://www.gog.com/en/game/neverwinter_nights_enhanced_edition_pack)
 - [Ozymandias: Bronze Age Empire Sim](https://www.gog.com/en/game/ozymandias_bronze_age_empire_sim)
 - [Prey](https://www.gog.com/en/game/prey)
