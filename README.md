@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-293-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-296-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2367-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2370-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -688,6 +688,7 @@
 - [Godfall Challenger Edition](https://store.epicgames.com/store/en-US/p/godfall--challenger-edition)
 - [Godlike Burger](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)
 - [Gods Will Fall](https://store.epicgames.com/store/en-US/p/gods-will-fall)
+- [Golden Light](https://store.epicgames.com/en-US/p/golden-light-f543b3)
 - [Gone Home](https://store.epicgames.com/store/en-US/p/gone-home)
 - [GoNNER](https://store.epicgames.com/store/en-US/p/gonner)
 - [Grand Theft Auto V](https://store.epicgames.com/store/en-US/p/grand-theft-auto-v)
@@ -708,6 +709,7 @@
 - [Inside](https://store.epicgames.com/store/en-US/p/inside)
 - [Insurmountable](https://store.epicgames.com/en-US/p/insurmountable-b02c31)
 - [Into The Breach](https://store.epicgames.com/store/en-US/p/into-the-breach)
+- [Invincible Presents: Atom Eve](https://store.epicgames.com/en-US/p/atom-eve-ff090d)
 - [Iratus: Lord of the Dead](https://store.epicgames.com/en-US/p/iratus-d0e5ba)
 - [Ironcast](https://store.epicgames.com/store/en-US/p/ironcast)
 - [Jotun: Valhalla Edition](https://store.epicgames.com/store/en-US/p/jotun)
@@ -764,6 +766,7 @@
 - [Q.U.B.E. ULTIMATE BUNDLE](https://store.epicgames.com/en-US/bundles/qube-ultimate-bundle)
 - [Quake](https://store.epicgames.com/en-US/p/quake)
 - [Rage 2](https://store.epicgames.com/store/en-US/p/rage-2)
+- [Rage 2: Deluxe Edition](https://store.epicgames.com/en-US/p/rage-2)
 - [Railway Empire](https://store.epicgames.com/store/en-US/p/railway-empire)
 - [Realm Royale Reforged Epic Launch Bundle](https://store.epicgames.com/en-US/p/realm-royale-reforged--epic-launch-bundle)
 - [Rebel Galaxy](https://store.epicgames.com/store/en-US/p/rebel-galaxy)
