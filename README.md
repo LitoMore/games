@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-258-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-260-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#amazon-luna">
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2370-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2372-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -183,6 +183,7 @@
 - [Escape from Monkey Island](https://images-na.ssl-images-amazon.com/images/I/51xf40TaenL.jpg)
 - [Escape Machine City: Airborne](https://images-na.ssl-images-amazon.com/images/I/41EKDorEBoL.jpg)
 - [Etherborn](https://m.media-amazon.com/images/I/31MCfObjElL.jpg)
+- [Evan's Remains](https://gaming.amazon.com/evans-remains-aga/dp/amzn1.pg.item.127ec50c-6a07-48a0-bd7c-cc929e918427/)
 - [Fahrenheit: Indigo Prophecy Remastered](https://images-na.ssl-images-amazon.com/images/I/41VPSnTYLXL.jpg)
 - [Faraway 2: Jungle Escape](https://m.media-amazon.com/images/I/41Nb3YW4uyL.jpg)
 - [Faraway: Arctic Escape](https://m.media-amazon.com/images/I/41jw9dBIdeL.jpg)
@@ -313,6 +314,7 @@
 - [SteamWorld Quest: Hand of Gilgamech](https://images-na.ssl-images-amazon.com/images/I/512UzdrrfJL.jpg)
 - [Strata](https://images-na.ssl-images-amazon.com/images/I/41Y5n+c728L.jpg)
 - [Stubbs the Zombie in Rebel Without ap Pulse](https://images-na.ssl-images-amazon.com/images/I/41XpKqAuNnL.jpg)
+- [Super Adventure Hand](https://gaming.amazon.com/super-adventure-hand-aga/dp/amzn1.pg.item.3e6ac1ca-ec46-4e2d-b443-e483832f8534/)
 - [Super Sidekicks](https://m.media-amazon.com/images/I/41SB1uxSkgL.jpg)
 - [Suzerain](https://images-na.ssl-images-amazon.com/images/I/419ZhSyzHsL.jpg)
 - [Swimsanity! - Couch Party Edition](https://images-na.ssl-images-amazon.com/images/I/51m6tg4jpcL.jpg)
