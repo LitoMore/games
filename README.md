@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-296-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-297-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2378-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2379-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -648,6 +648,7 @@
 - [Death Coming](https://store.epicgames.com/store/en-US/p/death-coming)
 - [DEATH STRANDING](https://store.epicgames.com/en-US/p/death-stranding)
 - [Defense Grid: The Awakening](https://store.epicgames.com/store/en-US/p/defense-grid)
+- [Deliver Us Mars](https://store.epicgames.com/en-US/p/deliver-us-mars)
 - [DEMON'S TILT](https://store.epicgames.com/en-US/p/demons-tilt)
 - [Deponia: The Complete Journey](https://store.epicgames.com/store/en-US/p/deponia-the-complete-journey)
 - [Destiny 2: Bungie 30th Anniversary Pack](https://store.epicgames.com/en-US/p/destiny-2--bungie-30th-anniversary-pack)
