@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-260-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-264-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#amazon-luna">
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2374-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2378-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -147,6 +147,7 @@
 - [BATS: Bloodsucker Anti-Terror Squad](https://m.media-amazon.com/images/I/51KJYPcOdML.jpg)
 - [Beasts of Maravilla Island](https://images-na.ssl-images-amazon.com/images/I/41MAEezbuQL.jpg)
 - [Before I Forge](https://images-na.ssl-images-amazon.com/images/I/314xBFn+hsL.jpg)
+- [Behind the Frame: The Finest Scenery](https://gaming.amazon.com/behind-the-frame-the-finest-scenery-aga/dp/amzn1.pg.item.7cbc3fa2-9a7e-4eea-9da0-511e7490f198/)
 - [Beholder](https://images-na.ssl-images-amazon.com/images/I/41sxMfZTa+S.jpg)
 - [Beholder 2](https://m.media-amazon.com/images/I/31X8wdrlrBL.jpg)
 - [BFF or Die](https://images-na.ssl-images-amazon.com/images/I/41e6drXiqqL.jpg)
@@ -270,6 +271,7 @@
 - [Pumped BMX Pro](https://images-na.ssl-images-amazon.com/images/I/41fr0Yo28cL.jpg)
 - [Puzzle Agent](https://images-na.ssl-images-amazon.com/images/I/417yiWhPz4L.jpg)
 - [Puzzle Agent 2](https://images-na.ssl-images-amazon.com/images/I/41gCrfJk1CL.jpg)
+- [Q.U.B.E: Director's Cut](https://gaming.amazon.com/qube-directors-cut-aga/dp/amzn1.pg.item.d96a9b75-d8e2-45d6-9371-d700be33115b/)
 - [RAD](https://images-na.ssl-images-amazon.com/images/I/617XkOfU4VL.jpg)
 - [Rain World](https://images-na.ssl-images-amazon.com/images/I/41IcvCvhLnL.jpg)
 - [Real Bout Fatal Fury 2: The Newcomers](https://m.media-amazon.com/images/I/416CZBA0rtL.jpg)
@@ -306,6 +308,7 @@
 - [Spellcaster University](https://images-na.ssl-images-amazon.com/images/I/41PIVqSa7-L.jpg)
 - [Spinch](https://images-na.ssl-images-amazon.com/images/I/51uOoi38obL.jpg)
 - [Spitkiss](https://images-na.ssl-images-amazon.com/images/I/51aZfsCs3xL.jpg)
+- [Star Wars: Knihgts of the Old Republic](https://gaming.amazon.com/star-wars-knights-of-the-old-republic-aga/dp/amzn1.pg.item.37653d14-bc85-4256-90a6-0515943686ba/)
 - [Star Wars: Rogue Squadron](https://m.media-amazon.com/images/I/41fCya5-zCL.jpg)
 - [Star Wars: The Force Unleashed](https://m.media-amazon.com/images/I/41l2Q7aPP1L._FMwebp_.jpg)
 - [Star Wars: The Force Unleashed II](https://gaming.amazon.com/star-wars-the-force-unleashed-ii-aga/dp/amzn1.pg.item.fca126a9-efeb-4608-84d7-82fff369a107)
@@ -338,6 +341,7 @@
 - [The Darkside Detective](https://images-na.ssl-images-amazon.com/images/I/41tZxZmSuAL.jpg)
 - [The Darkside Detective: A Fumble in the Dark](https://images-na.ssl-images-amazon.com/images/I/41wNV4jXqvL.jpg)
 - [The Dig](https://m.media-amazon.com/images/I/31XGmn45WVL.jpg)
+- [The Dungeon of Naheulbeuk: The Amulet of Chaos](https://gaming.amazon.com/the-dungeon-of-naheulbeuk-the-amulet-of-chaos-aga/dp/amzn1.pg.item.a6d298c6-f4df-4fc1-b5a5-e24de0f8cb06/)
 - [The Escapists](https://images-na.ssl-images-amazon.com/images/I/41Kb8VDshJL.jpg)
 - [The King of Fighters '98 Ultimate Match Final Edition](https://images-na.ssl-images-amazon.com/images/I/41qpZ-kv70L.jpg)
 - [The King of Fighters 2000](https://images-na.ssl-images-amazon.com/images/I/41Wjf4l03CL.jpg)
