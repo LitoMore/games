@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-299-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-304-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2379-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2384-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2113,6 +2113,7 @@
 ## Steam
 
 - [20 Minutes Till Dawn](https://steamcommunity.com/app/1966900)
+- [A Dance of Fire and Ice](https://steamcommunity.com/app/977950)
 - [A Sinful Camp](https://steamcommunity.com/app/1748050)
 - [A Story About My Uncle](https://steamcommunity.com/app/278360)
 - [Age of Empires II (2013)](https://steamcommunity.com/app/221380)
@@ -2170,6 +2171,7 @@
 - [Delta Force: Xtreme 2](https://steamcommunity.com/app/32610)
 - [Destiny 2](https://steamcommunity.com/app/1085660)
 - [Devil Girl](https://steamcommunity.com/app/1466180)
+- [Diablo® IV](https://steamcommunity.com/app/2344520)
 - [Dice Tower Defense](https://steamcommunity.com/app/700660)
 - [DiRT 4](https://steamcommunity.com/app/421020)
 - [DiRT Rally](https://steamcommunity.com/app/310560)
@@ -2250,6 +2252,7 @@
 - [Lines X](https://steamcommunity.com/app/724740)
 - [Living together with Fox Demon](https://steamcommunity.com/app/1528560)
 - [Loop Hero](https://steamcommunity.com/app/1282730)
+- [Love Is All Around](https://steamcommunity.com/app/2322560)
 - [LYNE](https://steamcommunity.com/app/266010)
 - [Mad Max](https://steamcommunity.com/app/234140)
 - [Marvel Heroes Omega](https://steamcommunity.com/app/226320)
@@ -2267,6 +2270,7 @@
 - [Muse Dash](https://steamcommunity.com/app/774171)
 - [My Newborn Life In A Harem](https://steamcommunity.com/app/1742470)
 - [Nayuta no Kiseki: KAI](https://steamcommunity.com/app/1732390)
+- [Necesse](https://steamcommunity.com/app/1169040)
 - [NEEDY STREAMER OVERLOAD](https://steamcommunity.com/app/1451940)
 - [New World](https://steamcommunity.com/app/1063730)
 - [Nobody Saves the World](https://steamcommunity.com/app/1432050)
@@ -2392,6 +2396,7 @@
 - [Wolcen: Lords of Mayhem](https://steamcommunity.com/app/424370)
 - [Woman's Prison](https://steamcommunity.com/app/1527980)
 - [Wonder Boy: Returns Remix](https://steamcommunity.com/app/1112240)
+- [Wordle](https://steamcommunity.com/app/1334000)
 - [YAIBA: NINJA GAIDEN Z](https://steamcommunity.com/app/252230)
 - [Yet Another Zombie Survivors](https://steamcommunity.com/app/2163330)
 - [Zodiac fantasy 2](https://steamcommunity.com/app/2116890)
