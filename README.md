@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
-    <img src="https://img.shields.io/badge/Legacy_Games-29-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Legacy_Games-30-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
   </a>
   <a href="#meta-quest">
     <img src="https://img.shields.io/badge/Meta_Quest-13-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2402-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2403-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -983,6 +983,7 @@
 - [Lila's Sky Ark](https://legacygames.com/prime-gaming-lilas-sky-ark/)
 - [LIT: Bend the Light](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Looking For Aliens](https://legacygames.com/prime-gaming-looking-for-aliens/)
+- [Lost Lands: Sand Captivity - Collector's Edition](https://legacygames.com/prime-gaming-lost-lands-sand-captivity/)
 - [Lunar Axe](https://legacygames.com/prime-gaming-lunar-axe/)
 - [Lyne](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
 - [Naboki](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
