@@ -9512,7 +9512,8 @@
       "hostnames": [
         "www.minecraft.net",
         "wulin.fhyx.com",
-        "redcandlegames.com"
+        "redcandlegames.com",
+        "hardestinterview.com"
       ],
       "gameList": [
         {
@@ -9530,6 +9531,10 @@
         {
           "name": "Tale of Wuxia",
           "website": "https://wulin.fhyx.com/"
+        },
+        {
+          "name": "The Interview Is Tough",
+          "website": "https://shop.hardestinterview.com"
         }
       ]
     },

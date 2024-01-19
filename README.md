@@ -92,7 +92,7 @@
     <img src="https://img.shields.io/badge/WeGame-2-ddd?logo=wegame&labelColor=faab00&logoColor=white"/>
   </a>
   <a href="#windows">
-    <img src="https://img.shields.io/badge/Windows-4-ddd?logo=windows&labelColor=0078d6"/>
+    <img src="https://img.shields.io/badge/Windows-5-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
     <img src="https://img.shields.io/badge/Xbox_Series_X-93-ddd?logo=xbox&labelColor=333333"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2385-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2386-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2496,6 +2496,7 @@
 - [Devotion](https://redcandlegames.com/devotion)
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Tale of Wuxia](https://wulin.fhyx.com/)
+- [The Interview Is Tough](https://shop.hardestinterview.com)
 
 ## Xbox Series X
 
