@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-264-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-269-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#amazon-luna">
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2394-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2399-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -119,6 +119,7 @@
 - [8Doors: Arum's Afterlife Adventure](https://images-na.ssl-images-amazon.com/images/I/41gm3-QznnL.jpg)
 - [A Blind Legend](https://images-na.ssl-images-amazon.com/images/I/41sJPY42QXS.jpg)
 - [A Normal Lost Phone](https://images-na.ssl-images-amazon.com/images/I/41qFAy59K7S.jpg)
+- [A Tiny Sticker Tale](https://gaming.amazon.com/a-tiny-sticker-tale-aga/dp/amzn1.pg.item.34446159-c28f-411c-8225-538c42342e94/)
 - [Abandon Ship](https://images-na.ssl-images-amazon.com/images/I/41Go92IhokL.jpg)
 - [Absolute Tactics: Daughters of Mercy](https://gaming.amazon.com/absolute-tactics-daughters-of-mercy-aga/dp/amzn1.pg.item.e0fd3215-197e-4793-8f89-d8ea0a112a00)
 - [Aces of Luftwaffe - Squadron](https://images-na.ssl-images-amazon.com/images/I/516gqDmaJML.jpg)
@@ -127,8 +128,10 @@
 - [Adventures of Chris](https://images-na.ssl-images-amazon.com/images/I/51g9eFeGz6L.jpg)
 - [Aerial_Knight's Never Yield](https://m.media-amazon.com/images/I/51C2Xrs+KML.jpg)
 - [Agatha Knife](https://m.media-amazon.com/images/I/41kdbJ3YhBL.jpg)
+- [Aground](https://gaming.amazon.com/aground-aga/dp/amzn1.pg.item.05bb703d-4c0d-4e14-ac83-66d1593bb521/)
 - [Alpha Mission II](https://m.media-amazon.com/images/I/51iHU1HrYSL.jpg)
 - [Another Lost Phone: Laura's Story](https://images-na.ssl-images-amazon.com/images/I/41D0oVq5z8S.jpg)
+- [APICO](https://gaming.amazon.com/apico-aga/dp/amzn1.pg.item.bb5a36af-f400-439e-af36-8afc155cb487/)
 - [Art of Fighting 2](https://images-na.ssl-images-amazon.com/images/I/414147AuF8L.jpg)
 - [Art of Fighting 3: The Path of The Warrior](https://m.media-amazon.com/images/I/41RJRH6mqvL.jpg)
 - [As Far as the Eye](https://images-na.ssl-images-amazon.com/images/I/41XsOFu8tBL.jpg)
@@ -181,6 +184,7 @@
 - [Double Kick Heroes](https://images-na.ssl-images-amazon.com/images/I/51kJA4fOGJL.jpg)
 - [Driftland: The Magic Revival](https://gaming.amazon.com/driftland-the-magic-revival-aga/dp/amzn1.pg.item.0e358096-e31c-4935-8f10-82700234bad6/)
 - [Edgar - Bokbok in Boulzac](https://images-na.ssl-images-amazon.com/images/I/41fkq-o+saL.jpg)
+- [Endling: Extinction is Forever](https://gaming.amazon.com/endling-extinction-is-forever-aga/dp/amzn1.pg.item.7247acee-9403-405e-a254-bd92419cf007/)
 - [Escape from Monkey Island](https://images-na.ssl-images-amazon.com/images/I/51xf40TaenL.jpg)
 - [Escape Machine City: Airborne](https://images-na.ssl-images-amazon.com/images/I/41EKDorEBoL.jpg)
 - [Etherborn](https://m.media-amazon.com/images/I/31MCfObjElL.jpg)
@@ -221,6 +225,7 @@
 - [King of the Monsters](https://images-na.ssl-images-amazon.com/images/I/51rMaIXRwwL.jpg)
 - [King of the Monsters 2](https://m.media-amazon.com/images/I/4145HBoW6XL.jpg)
 - [Kizuna Encounter: Super Tag Battle](https://m.media-amazon.com/images/I/51fawP6GRbL.jpg)
+- [Kombinera](https://gaming.amazon.com/kombinera-epic/dp/amzn1.pg.item.f4c0b80b-5b4a-4d86-aa8c-363fb2fa591c/)
 - [Lake](https://m.media-amazon.com/images/I/41FS4bBYB6L.jpg)
 - [Last Day of June](https://m.media-amazon.com/images/I/41HxHUD0lZL.jpg)
 - [Last Resort](https://m.media-amazon.com/images/I/41IguBbh2eL.jpg)
