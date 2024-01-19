@@ -1990,6 +1990,14 @@
           "website": "https://store.epicgames.com/store/en-US/p/ark"
         },
         {
+          "name": "Asteroids: Recharged",
+          "website": "https://store.epicgames.com/en-US/p/asteroids-recharged"
+        },
+        {
+          "name": "Atari Mania",
+          "website": "https://store.epicgames.com/en-US/p/atari-mania-702c68"
+        },
+        {
           "name": "Auto Chess",
           "website": "https://store.epicgames.com/store/en-US/p/auto-chess"
         },
@@ -2508,6 +2516,10 @@
         {
           "name": "Loop Hero",
           "website": "https://store.epicgames.com/store/en-US/p/loop-hero"
+        },
+        {
+          "name": "LOVE",
+          "website": "https://store.epicgames.com/en-US/p/love-65c4d0"
         },
         {
           "name": "Mages of Mystralia",

@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-298-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-301-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2399-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2402-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -609,6 +609,8 @@
 - [Among Us](https://store.epicgames.com/store/en-US/p/among-us)
 - [Ancient Enemy](https://store.epicgames.com/en-US/p/ancient-enemy)
 - [ARK: Survival Evolved](https://store.epicgames.com/store/en-US/p/ark)
+- [Asteroids: Recharged](https://store.epicgames.com/en-US/p/asteroids-recharged)
+- [Atari Mania](https://store.epicgames.com/en-US/p/atari-mania-702c68)
 - [Auto Chess](https://store.epicgames.com/store/en-US/p/auto-chess)
 - [Automachef](https://store.epicgames.com/store/en-US/p/automachef)
 - [Aven Colony](https://store.epicgames.com/store/en-US/p/aven-colony)
@@ -739,6 +741,7 @@
 - [League of Legends](https://store.epicgames.com/store/en-US/p/league-of-legends)
 - [Legends of Runeterra](https://store.epicgames.com/store/en-US/p/legends-of-runeterra)
 - [Loop Hero](https://store.epicgames.com/store/en-US/p/loop-hero)
+- [LOVE](https://store.epicgames.com/en-US/p/love-65c4d0)
 - [Mages of Mystralia](https://store.epicgames.com/store/en-US/p/mages-of-mystralia)
 - [Maneater](https://store.epicgames.com/en-US/p/maneater)
 - [Marvel's Guardians of the Galaxy](https://store.epicgames.com/en-US/p/marvels-guardians-of-the-galaxy)
