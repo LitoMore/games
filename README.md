@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-304-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-312-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2386-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2394-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2398,6 +2398,14 @@
 - [Woman's Prison](https://steamcommunity.com/app/1527980)
 - [Wonder Boy: Returns Remix](https://steamcommunity.com/app/1112240)
 - [Wordle](https://steamcommunity.com/app/1334000)
+- [Xuan-Yuan Sword 2](https://steamcommunity.com/app/1508740)
+- [Xuan-Yuan Sword V](https://steamcommunity.com/app/1728520)
+- [Xuan-Yuan Sword: Dance of the Maple Leaves](https://steamcommunity.com/app/1508750)
+- [Xuan-Yuan Sword: Mists Beyond the Mountains](https://steamcommunity.com/app/1638230)
+- [Xuan-Yuan Sword: The Cloud of Han](https://steamcommunity.com/app/1870140)
+- [Xuan-Yuan Sword: The Clouds Faraway](https://steamcommunity.com/app/1870150)
+- [Xuan-Yuan Sword: The Gate of Firmament](https://steamcommunity.com/app/427030)
+- [Xuan-Yuan Sword: The Scar of Sky](https://steamcommunity.com/app/1638220)
 - [YAIBA: NINJA GAIDEN Z](https://steamcommunity.com/app/252230)
 - [Yet Another Zombie Survivors](https://steamcommunity.com/app/2163330)
 - [Zodiac fantasy 2](https://steamcommunity.com/app/2116890)
