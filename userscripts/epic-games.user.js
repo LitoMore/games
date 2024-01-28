@@ -16,7 +16,7 @@ const uesrConfig = {
   developmentMode: false, // Use development mode, games won't actually claim.
 };
 
-const { configure, fireEvent, screen, waitFor } = window.TestingLibraryDom;
+const { configure, fireEvent, screen, waitFor } = globalThis.TestingLibraryDom;
 
 configure({ asyncUtilTimeout: 1000 * 30 });
 
@@ -34,7 +34,7 @@ redeemEntrance.addEventListener("mouseenter", () => {
 });
 document.body.appendChild(redeemEntrance);
 
-if (window.location.pathname.includes("/purchase")) {
+if (globalThis.location.pathname.includes("/purchase")) {
   redeemEntrance.style.display = "none";
   try {
     await waitForPlaceOrder();
@@ -55,7 +55,7 @@ function getFreeGames() {
     el,
     name:
       el.querySelector('[data-testid="offer-title-info-title"]').textContent,
-    url: window.location.origin + el.getAttribute("href"),
+    url: globalThis.location.origin + el.getAttribute("href"),
   }));
 
   return freeGames;
@@ -127,7 +127,7 @@ async function redeem(game) {
 
 async function redeemAll() {
   if (!checkLoginState()) {
-    window.alert("Requires sign-in for redeeming games.");
+    globalThis.alert("Requires sign-in for redeeming games.");
     return;
   }
 

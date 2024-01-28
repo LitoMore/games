@@ -12,7 +12,7 @@
 // ==/UserScript==
 
 const { configure, fireEvent, screen, waitFor, within } =
-  window.TestingLibraryDom;
+  globalThis.TestingLibraryDom;
 
 configure({ asyncUtilTimeout: 1000 * 30 });
 
@@ -34,11 +34,11 @@ redeemEntrance.addEventListener("mouseenter", () => {
 document.body.appendChild(redeemEntrance);
 
 async function processes() {
-  if (/^\/[a-z]{2}-[a-z]{2}\/$/i.exec(window.location.pathname)) {
+  if (/^\/[a-z]{2}-[a-z]{2}\/$/i.exec(globalThis.location.pathname)) {
     localStorage.removeItem("xbox-redeem");
   }
 
-  if (window.location.pathname.includes("/live/gold")) {
+  if (globalThis.location.pathname.includes("/live/gold")) {
     fireEvent.click(document.querySelector('a[href="#gameswithgold"]'));
     const freeGames = (await screen.findAllByLabelText(/Free with gold/)).map(
       (
@@ -55,8 +55,8 @@ async function processes() {
     redeemEntrance.textContent = "DonE";
   }
 
-  if (window.location.pathname.includes("/games/store/")) {
-    const storageKey = `xbox-redeem:${window.location.pathname}`;
+  if (globalThis.location.pathname.includes("/games/store/")) {
+    const storageKey = `xbox-redeem:${globalThis.location.pathname}`;
     try {
       await Promise.any([checkIfOwned(), checkIfAvailable()]);
     } catch (error) {
