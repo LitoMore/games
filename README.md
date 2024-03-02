@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-302-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-305-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2409-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2412-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -625,6 +625,7 @@
 - [Borderlands 2](https://store.epicgames.com/store/en-US/p/borderlands-2)
 - [Borderlands 3](https://store.epicgames.com/en-US/p/borderlands-3)
 - [Borderlands: The Pre-Sequel](https://store.epicgames.com/store/en-US/p/borderlands-the-pre-sequel)
+- [Breakout: Recharged](https://store.epicgames.com/en-US/p/breakout-recharged)
 - [Bridge Constructor: The Walking Dead](https://store.epicgames.com/store/en-US/p/bridge-constructor-the-walking-dead)
 - [Brothers - A Tale of Two Sons](https://store.epicgames.com/store/en-US/p/brothers-a-tale-of-two-sons)
 - [Car Mechanic Simulator 2018](https://store.epicgames.com/en-US/p/car-mechanic-simulator-2018)
@@ -707,6 +708,7 @@
 - [Gone Home](https://store.epicgames.com/store/en-US/p/gone-home)
 - [GoNNER](https://store.epicgames.com/store/en-US/p/gonner)
 - [Grand Theft Auto V](https://store.epicgames.com/store/en-US/p/grand-theft-auto-v)
+- [Gravitar: Rechanged](https://store.epicgames.com/en-US/p/gravitar-recharged-e606fe)
 - [Guild of Dungeonerring](https://store.epicgames.com/store/en-US/p/guild-of-dungeoneering-classic)
 - [Halcyon 6 Starbase Commander](https://store.epicgames.com/store/en-US/p/halcyon-6)
 - [Hand of Fate 2](https://store.epicgames.com/store/en-US/p/hand-of-fate-2)
@@ -750,6 +752,7 @@
 - [Metro: Last Light Redux](https://store.epicgames.com/store/en-US/p/metro-last-light-redux)
 - [Midnight Ghost Hunt](https://store.epicgames.com/en-US/p/midnight-ghost-hunt)
 - [Minit](https://store.epicgames.com/store/en-US/p/minit)
+- [Missile Command: Recharged](https://store.epicgames.com/en-US/p/missile-command-recharged-2022-33e34b)
 - [Model Builder](https://store.epicgames.com/en-US/p/model-builder-f9b456)
 - [MORDHAU](https://store.epicgames.com/en-US/p/mordhau)
 - [Mothergunship](https://store.epicgames.com/store/en-US/p/mothergunship)
