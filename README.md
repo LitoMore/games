@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-312-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-317-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2403-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2408-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2228,6 +2228,7 @@
 - [Half-Life: Source](https://steamcommunity.com/app/280)
 - [Halo Wars: Definitive Edition](https://steamcommunity.com/app/459220)
 - [Harem of Nurses](https://steamcommunity.com/app/1778320)
+- [HELLDIVERS™ 2](https://steamcommunity.com/app/553850)
 - [Hero's Adventure: Road to Passion](https://steamcommunity.com/app/1948980)
 - [Heroes of the Three Kingdoms](https://steamcommunity.com/app/1437820)
 - [Heroes of the Three Kingdoms 2](https://steamcommunity.com/app/1437830)
@@ -2283,6 +2284,7 @@
 - [Necesse](https://steamcommunity.com/app/1169040)
 - [NEEDY STREAMER OVERLOAD](https://steamcommunity.com/app/1451940)
 - [New World](https://steamcommunity.com/app/1063730)
+- [No Man's Sky](https://steamcommunity.com/app/275850)
 - [Nobody Saves the World](https://steamcommunity.com/app/1432050)
 - [Noel The Mortal Fate S1-7](https://steamcommunity.com/app/850000)
 - [Noita](https://steamcommunity.com/app/881100)
@@ -2299,6 +2301,7 @@
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
 - [Owlboy](https://steamcommunity.com/app/115800)
 - [OxU](https://steamcommunity.com/app/2097180)
+- [Palworld](https://steamcommunity.com/app/1623730)
 - [Papers, Please](https://steamcommunity.com/app/239030)
 - [PerfectLover](https://steamcommunity.com/app/1181140)
 - [PICO PARK](https://steamcommunity.com/app/1509960)
@@ -2344,6 +2347,7 @@
 - [Sword and Fairy 2](https://steamcommunity.com/app/1538460)
 - [Sword and Fairy 3](https://steamcommunity.com/app/1536070)
 - [Sword and Fairy 3 Ex](https://steamcommunity.com/app/1536080)
+- [Taboo Trail](https://steamcommunity.com/app/2455060)
 - [Tachyon: The Fringe](https://steamcommunity.com/app/32760)
 - [Tale of Immortal](https://steamcommunity.com/app/1468810)
 - [Tales From Space: Mutant Blobs Attack](https://steamcommunity.com/app/206370)
@@ -2374,6 +2378,7 @@
 - [Tomb Raider](https://steamcommunity.com/app/203160)
 - [Tomb Raider (VI): THe Angel of Darkness](https://steamcommunity.com/app/225020)
 - [Tomb Raider I](https://steamcommunity.com/app/224960)
+- [Tomb Raider I-III Remastered Starring Lara Croft](https://steamcommunity.com/app/2478970)
 - [Tomb Raider II](https://steamcommunity.com/app/225300)
 - [Tomb Raider III: Adventures of Lara Croft](https://steamcommunity.com/app/225320)
 - [Tomb Raider: Anniversary](https://steamcommunity.com/app/8000)
