@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#amazon-games">
-    <img src="https://img.shields.io/badge/Amazon_Games-269-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon_Games-270-ddd?logo=amazon&labelColor=ff9900&logoColor=white"/>
   </a>
   <a href="#amazon-luna">
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2412-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2413-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -334,6 +334,7 @@
 - [Tales of Monkey Island: Chapter 5](https://images-na.ssl-images-amazon.com/images/I/41eby475mYL.jpg)
 - [Tales of the Neon Sea](https://images-na.ssl-images-amazon.com/images/I/61LxE2n7oYL.jpg)
 - [Tandem: A Tale of Shadows](https://m.media-amazon.com/images/I/41ayiPEttyL.jpg)
+- [Tempest 4000](https://gaming.amazon.com/tempest-4000-aga/dp/amzn1.pg.item.379ef57a-7bc2-4ffc-b48c-66b11a4311ec/)
 - [Tengami](https://images-na.ssl-images-amazon.com/images/I/41SDr1++-KL.jpg)
 - [Terraformers](https://m.media-amazon.com/images/I/51wSNz93pqL.jpg)
 - [The Academy: First Riddle](https://images-na.ssl-images-amazon.com/images/I/41rwaiddguL.jpg)
