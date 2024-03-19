@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-407-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-163-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-164-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2420-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2421-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1921,6 +1921,7 @@
 - [Resident Evil Village](https://www.playstation.com/en-us/games/resident-evil-village/)
 - [Returnal](https://www.playstation.com/en-us/games/returnal/)
 - [RIDE 4](https://www.playstation.com/en-us/games/ride-4/)
+- [Rise of the Ronin™](https://store.playstation.com/en-us/product/UP9000-PPSA04539_00-RONINFULLGAME001)
 - [Rocket Arena](https://www.playstation.com/en-us/games/rocket-arena/)
 - [Rogue Explorer](https://store.playstation.com/en-us/product/UP2005-PPSA04547_00-ROGUEEXPLORER000)
 - [Sackboy: A Big Adventure](https://www.playstation.com/en-us/games/sackboy-a-big-adventure/)
