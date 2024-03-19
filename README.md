@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-407-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-158-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-163-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2413-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2418-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1852,6 +1852,7 @@
 - [FINAL FANTASY VII REMAKE INTERGRADE](https://www.playstation.com/en-us/games/final-fantasy-vii-remake-intergrade/)
 - [FINAL FANTASY XV ROYAL EDITION](https://store.playstation.com/en-us/product/UP0082-CUSA01633_00-FFXVROYALEDITION)
 - [First Class Trouble](https://www.playstation.com/en-us/games/first-class-trouble/)
+- [FOAMSTARS](https://store.playstation.com/en-us/product/UP0082-PPSA18730_00-FOAMSTARS0000000)
 - [FORECLOSED](https://store.playstation.com/en-us/product/UP1260-PPSA02483_00-4653158974428182)
 - [Ghost of Tsushima Director's Cut](https://www.playstation.com/en-us/games/ghost-of-tsushima/)
 - [Ghostrunner](https://www.playstation.com/en-us/games/ghostrunner/)
@@ -1861,6 +1862,7 @@
 - [Grand Theft Auto V](https://www.playstation.com/en-us/games/grand-theft-auto-v/)
 - [GreedFall - Standard Edition](https://www.playstation.com/en-us/games/greedfall/)
 - [Hades](https://www.playstation.com/en-us/games/hades/)
+- [HELLDIVERS™ 2](https://store.playstation.com/en-us/product/UP9000-PPSA01413_00-HELLDIVERS200000)
 - [Hogwarts Legacy](https://www.playstation.com/en-us/games/hogwarts-legacy/)
 - [Hood: Outlaws & Legends](https://www.playstation.com/en-us/games/hood-outlaws-and-legends/)
 - [Horizon Forbidden West](https://www.playstation.com/en-us/games/horizon-forbidden-west/)
@@ -1886,6 +1888,7 @@
 - [Maquette](https://store.playstation.com/en-hk/product/HP2418-PPSA01834_00-MAQUETTESIEJASIA)
 - [Marvel's Avengers](https://www.playstation.com/en-us/games/marvels-avengers/)
 - [Marvel's Guardians of the Galaxy](https://www.playstation.com/en-us/games/marvels-guardians-of-the-galaxy/)
+- [Marvel's Spider-Man 2](https://store.playstation.com/en-us/product/UP9000-PPSA03016_00-MARVELSPIDERMAN2)
 - [Marvel's Spider-Man Remastered](https://www.playstation.com/en-us/games/marvels-spider-man-remastered/)
 - [Marvel's Spider-Man: Miles Morales](https://www.playstation.com/en-us/games/marvels-spider-man-miles-morales/)
 - [Metro Exodus](https://store.playstation.com/en-us/product/UP2047-PPSA02395_00-METROEXODUS0GEN9)
@@ -1922,6 +1925,7 @@
 - [Saints Row: The Third Remastered](https://store.playstation.com/en-us/product/UP2047-PPSA02873_00-SRTTRPS5SIEA0000)
 - [SCARLET NEXUS](https://www.playstation.com/en-us/games/scarlet-nexus/)
 - [Soundfall](https://store.playstation.com/en-us/product/UP0481-PPSA03801_00-9482550928209070)
+- [Stellar Blade™](https://store.playstation.com/en-us/product/UP9000-PPSA13196_00-STELLARBLADEDDE0)
 - [Stray](https://www.playstation.com/en-us/games/stray/)
 - [Super Stardust Portable](https://store.playstation.com/en-us/product/UP9000-PPSA07135_00-NPUG802210000000)
 - [Sword and Fairy: Together Forever](https://store.playstation.com/en-us/product/UP2005-PPSA07612_00-5540106463966137)
@@ -1944,6 +1948,7 @@
 - [Trine 5: A Clockwork Conspiracy](https://store.playstation.com/en-us/product/UP4389-PPSA14275_00-TRINE50000000000)
 - [Uncharted 4: A Thief's End](https://www.playstation.com/en-us/games/uncharted-4-a-thiefs-end/)
 - [UNCHARTED™: Legacy of Thieves Collection](https://www.playstation.com/en-us/games/uncharted-legacy-of-thieves-collection/)
+- [Unicorn Overlord](https://store.playstation.com/en-us/product/UP0177-PPSA09770_00-UNICORNOVERLORD0)
 - [Until Dawn](https://www.playstation.com/en-us/games/until-dawn/)
 - [Viewfinder](https://www.playstation.com/en-us/games/viewfinder/)
 - [Warhammer: Chaosbane](https://www.playstation.com/en-us/games/warhammer-chaosbane/)
