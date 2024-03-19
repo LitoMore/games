@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-228-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-230-ddd?logo=nintendo-switch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2418-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2420-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1308,6 +1308,7 @@
 - [Pokémon™ Violet](https://www.nintendo.com/store/products/pokemon-violet-switch/)
 - [Pokémon™: Let's Go, Eevee!](https://www.nintendo.com/games/detail/pokemon-lets-go-eevee-switch/)
 - [Pokémon™: Let's Go, Pikachu!](https://www.nintendo.com/games/detail/pokemon-lets-go-pikachu-switch/)
+- [Princess Peach™: Showtime!](https://www.nintendo.com/us/store/products/princess-peach-showtime-switch/)
 - [Rayman® Legends Definitive Edition](https://www.nintendo.com/games/detail/rayman-legends-definitive-edition-switch/)
 - [Resident Evil Revelations Collection](https://www.nintendo.com/games/detail/resident-evil-revelations-collection-switch/)
 - [Resident Evil Triple Pack](https://www.nintendo.com/games/detail/resident-evil-triple-pack-switch/)
@@ -1334,6 +1335,7 @@
 - [Super Mario Maker™ 2](https://www.nintendo.com/games/detail/super-mario-maker-2-switch/)
 - [Super Mario Odyssey™](https://www.nintendo.com/games/detail/super-mario-odyssey-switch/)
 - [Super Mario Party™](https://www.nintendo.com/games/detail/super-mario-party-switch/)
+- [Super Mario RPG™](https://www.nintendo.com/us/store/products/super-mario-rpg-switch/)
 - [Super Mario™ 3D All-Stars](https://www.nintendo.com/games/detail/super-mario-3d-all-stars-switch/)
 - [Super Mario™ 3D World + Bowser's Fury](https://www.nintendo.com/games/detail/super-mario-3d-world-plus-bowsers-fury-switch/)
 - [Super Nintendo Entertainment System™ - Nintendo Switch Online](https://www.nintendo.com/games/detail/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
