@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-317-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-333-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2423-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2439-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2144,6 +2144,7 @@
 - [Age of Empires II (2013)](https://steamcommunity.com/app/221380)
 - [Age of Empires® III: Complete Collection](https://steamcommunity.com/app/105450)
 - [Age of Mythology: Extended Edition](https://steamcommunity.com/app/266840)
+- [ANNO: Mutationem](https://steamcommunity.com/app/1368030)
 - [Ara Fell: Enhanced Edition](https://steamcommunity.com/app/440540)
 - [ARK: Survival Evolved](https://steamcommunity.com/app/346110)
 - [ARK: Survival Of The Fittest](https://steamcommunity.com/app/407530)
@@ -2168,6 +2169,17 @@
 - [Chained Echoes](https://steamcommunity.com/app/1229240)
 - [Circuits](https://steamcommunity.com/app/282760)
 - [Comanche 4](https://steamcommunity.com/app/32750)
+- [Command & Conquer™ 3 Tiberium Wars™](https://steamcommunity.com/app/24790)
+- [Command & Conquer™ 3: Kane's Wrath](https://steamcommunity.com/app/24810)
+- [Command & Conquer™ 4: Tiberian Twilight](https://steamcommunity.com/app/47700)
+- [Command & Conquer™ and The Covert Operations™](https://steamcommunity.com/app/2229830)
+- [Command & Conquer™ Generals](https://steamcommunity.com/app/2229870)
+- [Command & Conquer™ Generals Zero Hour](https://steamcommunity.com/app/2732960)
+- [Command & Conquer™ Red Alert™ 2 and Yuri's Revenge™](https://steamcommunity.com/app/2229850)
+- [Command & Conquer™ Red Alert™ 3](https://steamcommunity.com/app/17480)
+- [Command & Conquer™ Red Alert™ 3 - Uprising](https://steamcommunity.com/app/24800)
+- [Command & Conquer™ Renegade](https://steamcommunity.com/app/2229890)
+- [Command & Conquer™ Tiberian Sun™ and Firestorm™](https://steamcommunity.com/app/2229880)
 - [Commandos 2 - HD Remaster](https://steamcommunity.com/app/1100410)
 - [Commandos 2: Men of Courage](https://steamcommunity.com/app/6830)
 - [Commandos 3: Destination Berlin](https://steamcommunity.com/app/6840)
@@ -2264,6 +2276,7 @@
 - [ISEKAI QUEST](https://steamcommunity.com/app/1268110)
 - [Joint Operations: Combined Arms Gold](https://steamcommunity.com/app/32770)
 - [Just Cause 4 Reloaded](https://steamcommunity.com/app/517630)
+- [KinitoPET](https://steamcommunity.com/app/2075070)
 - [Lara Croft and the Guardian of Light](https://steamcommunity.com/app/35130)
 - [Lara Croft and the Temple of Osiris](https://steamcommunity.com/app/289690)
 - [Lara Croft GO](https://steamcommunity.com/app/540840)
@@ -2278,6 +2291,7 @@
 - [Lines X](https://steamcommunity.com/app/724740)
 - [Living together with Fox Demon](https://steamcommunity.com/app/1528560)
 - [Loop Hero](https://steamcommunity.com/app/1282730)
+- [Lotus Lantern: Rescue Mother](https://steamcommunity.com/app/2319030)
 - [Love Is All Around](https://steamcommunity.com/app/2322560)
 - [LYNE](https://steamcommunity.com/app/266010)
 - [Mad Max](https://steamcommunity.com/app/234140)
@@ -2325,6 +2339,7 @@
 - [Portal 2](https://steamcommunity.com/app/620)
 - [POSTAL 2](https://steamcommunity.com/app/223470)
 - [POSTAL 2: Paradise Lost](https://steamcommunity.com/app/360960)
+- [Potion Permit](https://steamcommunity.com/app/1337760)
 - [Prince of Qin](https://steamcommunity.com/app/970500)
 - [Project: Mirror](https://steamcommunity.com/app/2171840)
 - [PUBG: BATTLEGROUNDS](https://steamcommunity.com/app/578080)
@@ -2437,6 +2452,7 @@
 - [Xuan-Yuan Sword: The Scar of Sky](https://steamcommunity.com/app/1638220)
 - [YAIBA: NINJA GAIDEN Z](https://steamcommunity.com/app/252230)
 - [Yet Another Zombie Survivors](https://steamcommunity.com/app/2163330)
+- [Zapper: One Wicked Cricket](https://steamcommunity.com/app/2766060)
 - [Zodiac fantasy 2](https://steamcommunity.com/app/2116890)
 - [Zup!](https://steamcommunity.com/app/533300)
 - [Zup! 2](https://steamcommunity.com/app/562220)
