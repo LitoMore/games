@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-407-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-164-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-166-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2421-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2423-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1841,6 +1841,7 @@
 - [DiRT 5](https://www.playstation.com/en-us/games/dirt-5/)
 - [Disney/Pixar Toy Story 2: Buzz Lightyear to the Rescue!](https://store.playstation.com/en-hk/product/UP1082-CUSA33334_00-6265507718650825)
 - [Disney/Pixar Toy Story 3](https://store.playstation.com/en-us/product/UP1082-CUSA33343_00-4838282977086414)
+- [Dragon's Dogma 2](https://store.playstation.com/en-us/product/UP0102-PPSA09663_00-DD2GAME000000000)
 - [EA SPORTS™ FIFA 22](https://www.playstation.com/en-us/games/ea-sports-fifa-22/)
 - [echochrome™](https://store.playstation.com/en-hk/product/HP9000-CUSA32647_00-UCKS450820000000)
 - [echoshift](https://store.playstation.com/en-us/product/UP9000-CUSA33585_00-NPUG803030000000)
@@ -1914,6 +1915,7 @@
 - [Persona 5](https://www.playstation.com/en-us/games/persona-5/)
 - [PGA Tour 2K23](https://www.playstation.com/en-us/games/pga-tour-2k23/)
 - [Planet Coaster: Console Edition](https://www.playstation.com/en-us/games/planet-coaster-console-edition/)
+- [Prince of Persia: The Lost Crown](https://store.playstation.com/en-us/product/UP0001-PPSA10067_00-MEMSTDED00000000)
 - [Ratchet & Clank: Rift Apart](https://www.playstation.com/en-us/games/ratchet-and-clank-rift-apart/)
 - [Ratchet & Clank™](https://www.playstation.com/en-us/games/ratchet-and-clank/)
 - [RESIDENT EVIL 7 biohazard](https://www.playstation.com/en-us/games/resident-evil-7-biohazard/)
