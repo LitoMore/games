@@ -53,13 +53,13 @@
     <img src="https://img.shields.io/badge/Nintendo_3DS-5-ddd?logo=nintendo-3ds&labelColor=d12228"/>
   </a>
   <a href="#nintendo-64">
-    <img src="https://img.shields.io/badge/Nintendo_64-18-ddd?logo=nintendo&labelColor=0124a6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Nintendo_64-18-ddd?logo=nintendo&logoSize=auto&labelColor=0124a6&logoColor=white"/>
   </a>
   <a href="#nintendo-ds">
     <img src="https://img.shields.io/badge/Nintendo_DS-4-ddd?logo=nintendo-3ds&labelColor=221e1f"/>
   </a>
   <a href="#nintendo-entertainment-system">
-    <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&labelColor=fe0100&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&logoSize=auto&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
     <img src="https://img.shields.io/badge/Nintendo_Switch-230-ddd?logo=nintendo-switch&labelColor=e60012"/>
@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Steam-333-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
-    <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
   </a>
   <a href="#ubisoft-connect">
     <img src="https://img.shields.io/badge/Ubisoft_Connect-4-ddd?logo=ubisoft&labelColor=0070ff"/>

@@ -3748,7 +3748,7 @@
       "name": "Nintendo 64™",
       "anchor": "#nintendo-64",
       "duplication": true,
-      "badge": "https://img.shields.io/badge/Nintendo_64-{{count}}-ddd?logo=nintendo&labelColor=0124a6&logoColor=white",
+      "badge": "https://img.shields.io/badge/Nintendo_64-{{count}}-ddd?logo=nintendo&logoSize=auto&labelColor=0124a6&logoColor=white",
       "hostnames": [
         "www.nintendo.com"
       ],
@@ -3858,7 +3858,7 @@
       "name": "Nintendo Entertainment System™",
       "anchor": "#nintendo-entertainment-system",
       "duplication": true,
-      "badge": "https://img.shields.io/badge/NES-{{count}}-ddd?logo=nintendo&labelColor=fe0100&logoColor=white",
+      "badge": "https://img.shields.io/badge/NES-{{count}}-ddd?logo=nintendo&logoSize=auto&labelColor=fe0100&logoColor=white",
       "hostnames": [
         "www.nintendo.com"
       ],
@@ -9437,7 +9437,7 @@
       "name": "Super Nintendo Entertainment System™",
       "anchor": "#super-nintendo-entertainment-system",
       "duplication": true,
-      "badge": "https://img.shields.io/badge/SNES-{{count}}-ddd?logo=nintendo&labelColor=fc0c18&logoColor=white",
+      "badge": "https://img.shields.io/badge/SNES-{{count}}-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white",
       "hostnames": [
         "www.nintendo.com"
       ],
