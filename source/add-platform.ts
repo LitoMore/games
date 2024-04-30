@@ -1,5 +1,5 @@
-import { bold, cyan } from "https://deno.land/std/fmt/colors.ts";
-import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
+import { bold, cyan } from "@std/fmt/colors";
+import logSymbols from "npm:log-symbols";
 import { GamesJson } from "./types.ts";
 import { nameCompare } from "./utils.ts";
 

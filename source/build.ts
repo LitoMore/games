@@ -1,4 +1,4 @@
-import logSymbols from "https://raw.githubusercontent.com/sindresorhus/log-symbols/main/browser.js";
+import logSymbols from "npm:log-symbols";
 import { GamesJson } from "./types.ts";
 import { nameCompare } from "./utils.ts";
 
