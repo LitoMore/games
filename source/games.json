@@ -3223,7 +3223,7 @@
           "https://www.gog.com/game/jazz_jackrabbit_2_collection"
         ]
       },
-      "badge": "https://img.shields.io/badge/GOG.com-{{count}}-ddd?logo=gog.com&labelColor=86328a",
+      "badge": "https://img.shields.io/badge/GOG.com-{{count}}-ddd?logo=gog.com&logoSize=auto&labelColor=86328a",
       "hostnames": [
         "www.gog.com",
         "ghostrunnergame.com"
