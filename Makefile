@@ -5,27 +5,27 @@ lint:
 	deno lint -q
 
 add:
-	cd source && deno run --allow-env --allow-read --allow-write add.ts "$(anchor)" "$(name)" "$(website)"
+	deno run --allow-env --allow-read --allow-write source/add.ts
 
 add-platform:
-	cd source && deno run --allow-env --allow-read --allow-write add-platform.ts "$(anchor)" "$(name)" "$(badge)" "$(hostnames)"
+	deno run --allow-env --allow-read --allow-write source/add-platform.ts
 
 check:
-	cd source && deno run --allow-env --allow-read check.ts
+	deno run --allow-env --allow-read source/check.ts
 
 fix:
-	cd source && deno run --allow-env --allow-read --allow-write check.ts --fix
+	deno run --allow-env --allow-read --allow-write source/check.ts --fix
 
 build:
-	cd source && deno run --allow-env --allow-read --allow-write build.ts
+	deno run --allow-env --allow-read --allow-write source/build.ts
 
 reset:
-	cd source && deno run --allow-env --allow-read --allow-write reset.ts
+	deno run --allow-env --allow-read --allow-write source/reset.ts
 
 search:
-	cd source && deno run --allow-env --allow-read search.ts "$(anchor)" "$(name)"
+	deno run --allow-env --allow-read source/search.ts
 
 summary:
-	cd source && deno run --allow-read summary.ts
+	deno run --allow-env --allow-read source/summary.ts
 
 default: lint check build

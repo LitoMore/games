@@ -1,8 +1,7 @@
 import logSymbols from "npm:log-symbols";
-import { GamesJson } from "./types.ts";
+import { loadGamesJson, writeGamesJson } from "./utils.ts";
 
-const gamesJson = await Deno.readTextFile("./games.json");
-const games = JSON.parse(gamesJson) as GamesJson;
+const games = await loadGamesJson();
 
 games.platforms.forEach((platform) => {
   platform.hostnames = [];
@@ -11,6 +10,5 @@ games.platforms.forEach((platform) => {
 
 games.related = [];
 
-const jsonFile = JSON.stringify(games, null, 2);
-await Deno.writeTextFile("./games.json", jsonFile + "\n");
+await writeGamesJson(games);
 console.log(logSymbols.success, "Reset to default done.");

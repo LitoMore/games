@@ -1,9 +1,7 @@
 import logSymbols from "npm:log-symbols";
-import { GamesJson } from "./types.ts";
-import { nameCompare } from "./utils.ts";
+import { loadGamesJson, nameCompare, writeReadme } from "./utils.ts";
 
-const gamesJson = await Deno.readTextFile("./games.json");
-const games = JSON.parse(gamesJson) as GamesJson;
+const games = await loadGamesJson();
 
 const titleSection = `<h1 align="center">GAMES</h1>
 `;
@@ -77,5 +75,5 @@ const relatedSection = games.related.length > 0
 const markdownContent = titleSection + badgesSection + descriptionSection +
   ciSection + gamesSection + relatedSection;
 
-await Deno.writeTextFile("../README.md", markdownContent);
+await writeReadme(markdownContent);
 console.log(logSymbols.success, "Compiled successfully.");

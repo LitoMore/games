@@ -1,7 +1,6 @@
-import { GamesJson } from "./types.ts";
+import { loadGamesJson } from "./utils.ts";
 
-const gamesJson = await Deno.readTextFile("./games.json");
-const games = JSON.parse(gamesJson) as GamesJson;
+const games = await loadGamesJson();
 
 const summary = [
   ...games.platforms.map(

@@ -1,9 +1,14 @@
 import logSymbols from "npm:log-symbols";
 import { Game, Platform } from "./types.ts";
-import { nameChecks, nameCompare, websiteChecks } from "./utils.ts";
+import {
+  loadGamesJson,
+  nameChecks,
+  nameCompare,
+  websiteChecks,
+  writeGamesJson,
+} from "./utils.ts";
 
-const gamesJson = await Deno.readTextFile("./games.json");
-const games = JSON.parse(gamesJson);
+const games = await loadGamesJson();
 const withFix = Deno.args.includes("--fix");
 
 const checkWebsite = () => {
@@ -49,8 +54,7 @@ checkPlatformOrder();
 checkGamesOrder();
 
 if (withFix) {
-  const jsonFile = JSON.stringify(games, null, 2);
-  await Deno.writeTextFile("./games.json", jsonFile + "\n");
+  await writeGamesJson(games);
 }
 
 console.log(logSymbols.success, "Validation passed.");

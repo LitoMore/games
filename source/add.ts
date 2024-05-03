@@ -1,12 +1,17 @@
 import { bold, cyan, green } from "@std/fmt/colors";
 import logSymbols from "npm:log-symbols";
-import { GamesJson } from "./types.ts";
-import { nameCompare, websiteChecks } from "./utils.ts";
+import input from "npm:@inquirer/input";
+import {
+  loadGamesJson,
+  nameCompare,
+  websiteChecks,
+  writeGamesJson,
+} from "./utils.ts";
 
-const gamesJson = await Deno.readTextFile("./games.json");
-const games = JSON.parse(gamesJson) as GamesJson;
-
-let [anchor, name, website] = Deno.args;
+const games = await loadGamesJson();
+const anchor = await input({ message: "anchor:" });
+const name = await input({ message: "name:" });
+let website = await input({ message: "website:" });
 
 if (!(anchor && name && website)) {
   console.error(
@@ -60,11 +65,9 @@ const game = {
 };
 
 foundPlatform.gameList.push(game);
-
 foundPlatform.gameList.sort(nameCompare());
 
-const jsonFile = JSON.stringify(games, null, 2);
-await Deno.writeTextFile("./games.json", jsonFile + "\n");
+await writeGamesJson(games);
 console.log(
   logSymbols.success,
   `${green(bold(name))} added to ${cyan(bold(foundPlatform.name))}.`,

@@ -1,5 +1,21 @@
+import { join } from "@std/path/join";
 import logSymbols from "npm:log-symbols";
-import { Game, Platform } from "./types.ts";
+import { Game, GamesJson, Platform } from "./types.ts";
+
+const gamesJsonPath = join(import.meta.dirname ?? ".", "games.json");
+const readmePath = join(import.meta.dirname ?? ".", "..", "README.md");
+
+export const loadGamesJson = async () => {
+  const file = await Deno.readTextFile(gamesJsonPath);
+  const games = JSON.parse(file) as GamesJson;
+  return games;
+};
+
+export const writeGamesJson = (games: GamesJson) =>
+  Deno.writeTextFile(gamesJsonPath, JSON.stringify(games, null, 2) + "\n");
+
+export const writeReadme = (content: string) =>
+  Deno.writeTextFile(readmePath, content);
 
 const normalizeName = (name: string) =>
   name.normalize("NFD").replace(/[\u0300-\u036f]/g, "");

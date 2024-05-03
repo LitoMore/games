@@ -1,12 +1,13 @@
 import { bold, cyan } from "@std/fmt/colors";
 import logSymbols from "npm:log-symbols";
-import { GamesJson } from "./types.ts";
-import { nameCompare } from "./utils.ts";
+import input from "npm:@inquirer/input";
+import { loadGamesJson, nameCompare, writeGamesJson } from "./utils.ts";
 
-const gamesJson = await Deno.readTextFile("./games.json");
-const games = JSON.parse(gamesJson) as GamesJson;
-
-const [anchor, name, badge, hostnames] = Deno.args;
+const games = await loadGamesJson();
+const anchor = await input({ message: "anchor:" });
+const name = await input({ message: "name:" });
+const badge = await input({ message: "badge:" });
+const hostnames = await input({ message: "hostnames:" });
 
 if (!(anchor && name && badge && hostnames)) {
   console.error(
@@ -33,10 +34,8 @@ const platform = {
 };
 
 games.platforms.push(platform);
-
 games.platforms.sort(nameCompare());
 
-const jsonFile = JSON.stringify(games, null, 2);
-await Deno.writeTextFile("./games.json", jsonFile + "\n");
+await writeGamesJson(games);
 console.log(logSymbols.success, `${name} added.`);
 console.log(platform);
