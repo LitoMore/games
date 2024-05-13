@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-333-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-334-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2439-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2440-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2277,6 +2277,7 @@
 - [Joint Operations: Combined Arms Gold](https://steamcommunity.com/app/32770)
 - [Just Cause 4 Reloaded](https://steamcommunity.com/app/517630)
 - [KinitoPET](https://steamcommunity.com/app/2075070)
+- [Knowledge, or know Lady](https://steamcommunity.com/app/2786680)
 - [Lara Croft and the Guardian of Light](https://steamcommunity.com/app/35130)
 - [Lara Croft and the Temple of Osiris](https://steamcommunity.com/app/289690)
 - [Lara Croft GO](https://steamcommunity.com/app/540840)
