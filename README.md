@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-407-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-166-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-167-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2440-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2441-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1815,6 +1815,7 @@
 - [Baldur's Gate 3](https://store.playstation.com/en-us/product/UP3526-PPSA14001_00-0507384846053057)
 - [Batman™: Arkham Knight](https://www.playstation.com/en-us/games/batman-arkham-knight/)
 - [Battlefield™ 1 Revolution](https://www.playstation.com/en-us/search/?q=Battlefield%201&smcid=web%3Apsn%3Aprimary%20nav%3Asearch%3ABattlefield%201)
+- [Black Myth: Wukong](https://store.playstation.com/en-hk/product/HP6545-PPSA23226_00-GAME000000000000)
 - [Bloodborne](https://www.playstation.com/en-us/games/bloodborne/)
 - [Bugsnax](https://www.playstation.com/en-us/games/bugsnax/)
 - [Call of Duty®: Black Ops Cold War](https://www.playstation.com/en-us/games/call-of-duty-black-ops-cold-war/)
