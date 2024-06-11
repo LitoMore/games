@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-334-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-335-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2441-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2442-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2160,6 +2160,7 @@
 - [Batman™: Arkham Knight](https://steamcommunity.com/app/208650)
 - [Batman™: Arkham Origins](https://steamcommunity.com/app/209000)
 - [Besiege](https://steamcommunity.com/app/346010)
+- [Black Myth: Wukong](https://steamcommunity.com/app/2358720)
 - [Blackout Z: Slaughterhouse Edition](https://steamcommunity.com/app/729660)
 - [Bloody Spell](https://steamcommunity.com/app/992300/)
 - [Bloons TD 6](https://steamcommunity.com/app/960090)
