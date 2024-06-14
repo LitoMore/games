@@ -18,3 +18,4 @@ for (const p of games.platforms) {
 }
 
 console.table(matchedGames);
+Deno.exit(0);

@@ -77,3 +77,4 @@ const markdownContent = titleSection + badgesSection + descriptionSection +
 
 await writeReadme(markdownContent);
 console.log(logSymbols.success, "Compiled successfully.");
+Deno.exit(0);

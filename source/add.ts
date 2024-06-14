@@ -73,3 +73,4 @@ console.log(
   `${green(bold(name))} added to ${cyan(bold(foundPlatform.name))}.`,
 );
 console.table(game);
+Deno.exit(0);

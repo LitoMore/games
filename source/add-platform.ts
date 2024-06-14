@@ -39,3 +39,4 @@ games.platforms.sort(nameCompare());
 await writeGamesJson(games);
 console.log(logSymbols.success, `${name} added.`);
 console.log(platform);
+Deno.exit(0);

@@ -19,3 +19,4 @@ const summary = [
 ];
 
 console.table(summary);
+Deno.exit(0);

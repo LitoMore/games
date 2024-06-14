@@ -12,3 +12,4 @@ games.related = [];
 
 await writeGamesJson(games);
 console.log(logSymbols.success, "Reset to default done.");
+Deno.exit(0);

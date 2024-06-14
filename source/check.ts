@@ -58,3 +58,4 @@ if (withFix) {
 }
 
 console.log(logSymbols.success, "Validation passed.");
+Deno.exit(0);
