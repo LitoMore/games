@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-335-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-336-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2442-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2443-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2145,6 +2145,7 @@
 - [Age of Empires II (2013)](https://steamcommunity.com/app/221380)
 - [Age of Empires® III: Complete Collection](https://steamcommunity.com/app/105450)
 - [Age of Mythology: Extended Edition](https://steamcommunity.com/app/266840)
+- [ANIMAL WELL](https://steamcommunity.com/app/813230)
 - [ANNO: Mutationem](https://steamcommunity.com/app/1368030)
 - [Ara Fell: Enhanced Edition](https://steamcommunity.com/app/440540)
 - [ARK: Survival Evolved](https://steamcommunity.com/app/346110)
