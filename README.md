@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/badge/PlayStation_4-407-ddd?logo=playstation&labelColor=003791"/>
   </a>
   <a href="#playstation5">
-    <img src="https://img.shields.io/badge/PlayStation_5-167-ddd?logo=playstation&labelColor=white&logoColor=black"/>
+    <img src="https://img.shields.io/badge/PlayStation_5-168-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2443-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2444-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -1804,6 +1804,7 @@
 ## PlayStation®5
 
 - [A Plague Tale: Innocence](https://www.playstation.com/en-us/games/a-plague-tale-innocence/)
+- [ANIMAL WELL](https://store.playstation.com/en-us/product/UP7425-PPSA06799_00-9351926314516028)
 - [ANNO: Mutationem](https://www.playstation.com/en-us/games/anno-mutationem/)
 - [Ape Escape](https://store.playstation.com/en-hk/product/EP9000-CUSA31965_00-SCES01564P000000)
 - [Arcadegeddon](https://www.playstation.com/en-us/games/arcadegeddon/)
