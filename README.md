@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-336-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-337-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2444-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2445-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2247,6 +2247,7 @@
 - [Guacamelee! Super Turbo Championship Edition](https://steamcommunity.com/app/275390)
 - [Gujian3](https://steamcommunity.com/app/994280)
 - [Guts and Glory](https://steamcommunity.com/app/537340)
+- [Hades II](https://steamcommunity.com/app/1145350)
 - [Half-Life](https://steamcommunity.com/app/70)
 - [Half-Life 2](https://steamcommunity.com/app/220)
 - [Half-Life 2: Deathmatch](https://steamcommunity.com/app/320)
