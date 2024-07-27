@@ -2,8 +2,8 @@ import input from "npm:@inquirer/input";
 import { fuzzyMatched, loadGamesJson } from "./utils.ts";
 
 const games = await loadGamesJson();
-const anchor = await input({ message: "anchor:" });
-const name = await input({ message: "name:" });
+const anchor = Deno.env.get("anchor") ?? await input({ message: "anchor:" });
+const name = Deno.env.get("name") ?? await input({ message: "name:" });
 
 const matchedGames = [];
 

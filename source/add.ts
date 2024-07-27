@@ -9,9 +9,9 @@ import {
 } from "./utils.ts";
 
 const games = await loadGamesJson();
-const anchor = await input({ message: "anchor:" });
-const name = await input({ message: "name:" });
-let website = await input({ message: "website:" });
+const anchor = Deno.env.get("anchor") ?? await input({ message: "anchor:" });
+const name = Deno.env.get("name") ?? await input({ message: "name:" });
+let website = Deno.env.get("website") ?? await input({ message: "website:" });
 
 if (!(anchor && name && website)) {
   console.error(

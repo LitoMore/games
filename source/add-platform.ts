@@ -4,10 +4,11 @@ import input from "npm:@inquirer/input";
 import { loadGamesJson, nameCompare, writeGamesJson } from "./utils.ts";
 
 const games = await loadGamesJson();
-const anchor = await input({ message: "anchor:" });
-const name = await input({ message: "name:" });
-const badge = await input({ message: "badge:" });
-const hostnames = await input({ message: "hostnames:" });
+const anchor = Deno.env.get("anchor") ?? await input({ message: "anchor:" });
+const name = Deno.env.get("name") ?? await input({ message: "name:" });
+const badge = Deno.env.get("badge") ?? await input({ message: "badge:" });
+const hostnames = Deno.env.get("hostnames") ??
+  await input({ message: "hostnames:" });
 
 if (!(anchor && name && badge && hostnames)) {
   console.error(
