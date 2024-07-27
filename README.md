@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-337-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-344-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2445-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2452-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2146,6 +2146,7 @@
 - [Age of Empires II (2013)](https://steamcommunity.com/app/221380)
 - [Age of Empires® III: Complete Collection](https://steamcommunity.com/app/105450)
 - [Age of Mythology: Extended Edition](https://steamcommunity.com/app/266840)
+- [American Truck Simulator](https://steamcommunity.com/app/270880)
 - [ANIMAL WELL](https://steamcommunity.com/app/813230)
 - [ANNO: Mutationem](https://steamcommunity.com/app/1368030)
 - [Ara Fell: Enhanced Edition](https://steamcommunity.com/app/440540)
@@ -2153,6 +2154,7 @@
 - [ARK: Survival Of The Fittest](https://steamcommunity.com/app/407530)
 - [Armored Fist 3](https://steamcommunity.com//app/32710)
 - [Aseprite](https://steamcommunity.com/app/431730)
+- [Assetto Corsa](https://steamcommunity.com/app/244210)
 - [Baba Is You](https://steamcommunity.com/app/736260)
 - [Baldur's Gate 3](https://steamcommunity.com/app/1086940)
 - [Bastion](https://steamcommunity.com/app/107100)
@@ -2216,6 +2218,7 @@
 - [Dice Tower Defense](https://steamcommunity.com/app/700660)
 - [DiRT 4](https://steamcommunity.com/app/421020)
 - [DiRT Rally](https://steamcommunity.com/app/310560)
+- [Disco Elysium - The Final Cut](https://steamcommunity.com/app/632470)
 - [Doki Doki Literature Club](https://steamcommunity.com/app/698780)
 - [Don't Starve](https://steamcommunity.com/app/219740)
 - [Don't Starve Together](https://steamcommunity.com/app/322330)
@@ -2226,6 +2229,7 @@
 - [Environmental Station Alpha](https://steamcommunity.com/app/350070)
 - [Escape Simulator](https://steamcommunity.com/app/1435790)
 - [Estella's Nightmare: Sealed Space and a Succubus's Curse](https://steamcommunity.com/app/1925210)
+- [Euro Truck Simulator 2](https://steamcommunity.com/app/227300)
 - [Evoland](https://steamcommunity.com/app/233470)
 - [Evoland 2](https://steamcommunity.com/app/359310)
 - [Evoland Legendary Edition](https://steamcommunity.com/app/1020470)
@@ -2307,6 +2311,7 @@
 - [Metro 2033 Redux](https://steamcommunity.com/app/286690)
 - [Metro: Last Light Redux](https://steamcommunity.com/app/287390)
 - [Middle-earth™: Shadow of Mordor™](https://steamcommunity.com/app/241930)
+- [Middle-earth™: Shadow of War™](https://steamcommunity.com/app/356190)
 - [MiG-29 Fulcrum](https://steamcommunity.com/app/32740)
 - [MILF Conditioning](https://steamcommunity.com/app/1924680)
 - [mirror](https://steamcommunity.com/app/644560)
@@ -2334,6 +2339,8 @@
 - [Oik Reloaded](https://steamcommunity.com/app/1044220)
 - [OneShot](https://steamcommunity.com/app/420530)
 - [Oozi: Earth Adventure](https://steamcommunity.com/app/257990)
+- [Ori and the Blind Forest](https://steamcommunity.com/app/261570)
+- [Ori and the Will of the Wisps](https://steamcommunity.com/app/1057090)
 - [Owlboy](https://steamcommunity.com/app/115800)
 - [OxU](https://steamcommunity.com/app/2097180)
 - [Palworld](https://steamcommunity.com/app/1623730)
