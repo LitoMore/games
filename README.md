@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-344-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-365-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2452-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2473-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2168,10 +2168,18 @@
 - [Blackout Z: Slaughterhouse Edition](https://steamcommunity.com/app/729660)
 - [Bloody Spell](https://steamcommunity.com/app/992300/)
 - [Bloons TD 6](https://steamcommunity.com/app/960090)
+- [Boneraiser Minions](https://steamcommunity.com/app/1944570)
 - [Borderlands 2](https://steamcommunity.com/app/49520)
 - [Braid](https://steamcommunity.com/app/26800)
 - [Breach & Clear](https://steamcommunity.com/app/266130)
 - [Breach & Clear: Deadline Rebirth (2016)](https://steamcommunity.com/app/310890)
+- [Cats Hidden Around the World](https://steamcommunity.com/app/2377970)
+- [Cats Hidden in Bali](https://steamcommunity.com/app/2356500)
+- [Cats Hidden in China](https://steamcommunity.com/app/2608040)
+- [Cats Hidden in Georgia](https://steamcommunity.com/app/2485180)
+- [Cats Hidden in Italy](https://steamcommunity.com/app/2313240)
+- [Cats Hidden in Maple Hollow](https://steamcommunity.com/app/2551170)
+- [Cats Hidden in Paris](https://steamcommunity.com/app/2313250)
 - [Chained Echoes](https://steamcommunity.com/app/1229240)
 - [Circuits](https://steamcommunity.com/app/282760)
 - [Comanche 4](https://steamcommunity.com/app/32750)
@@ -2224,6 +2232,8 @@
 - [Don't Starve Together](https://steamcommunity.com/app/322330)
 - [Dota 2](https://steamcommunity.com/app/570)
 - [Dream Hacker](https://steamcommunity.com/app/1850270)
+- [Dream Tactics](https://steamcommunity.com/app/1897650)
+- [Dungeons & Degenerate Gamblers](https://steamcommunity.com/app/2400510)
 - [Elden Ring](https://steamcommunity.com/app/1245620)
 - [Elf Sex Farm](https://steamcommunity.com/app/1738990)
 - [Environmental Station Alpha](https://steamcommunity.com/app/350070)
@@ -2239,6 +2249,7 @@
 - [Fate Seeker](https://steamcommunity.com/app/882790)
 - [Fate Seeker II](https://steamcommunity.com/app/1559390)
 - [FEZ](https://steamcommunity.com/app/224760)
+- [Forager](https://steamcommunity.com/app/751780)
 - [Forward to the Sky](https://steamcommunity.com/app/333250)
 - [Forza Horizon 5 - Premium Edition](https://steamcommunity.com/app/1551360)
 - [Grand Theft Auto III](https://steamcommunity.com/app/12100)
@@ -2277,11 +2288,13 @@
 - [Ho Tu Lo Shu：The Books of Dragon](https://steamcommunity.com/app/952860)
 - [Human Fall Flat](https://steamcommunity.com/app/477160)
 - [ICEY](https://steamcommunity.com/app/553640)
+- [Idol Hands 2](https://steamcommunity.com/app/2053940)
 - [Idol Manager](https://steamcommunity.com/app/821880)
 - [Imprisoned Queen](https://steamcommunity.com/app/1528550)
 - [Indie Game: The Movie](https://steamcommunity.com/app/207080)
 - [INSIDE](https://steamcommunity.com/app/304430)
 - [Intralism](https://steamcommunity.com/app/513510)
+- [ISEKAI FRONTLINE](https://steamcommunity.com/app/1924140)
 - [ISEKAI QUEST](https://steamcommunity.com/app/1268110)
 - [Joint Operations: Combined Arms Gold](https://steamcommunity.com/app/32770)
 - [Just Cause 4 Reloaded](https://steamcommunity.com/app/517630)
@@ -2303,6 +2316,7 @@
 - [Loop Hero](https://steamcommunity.com/app/1282730)
 - [Lotus Lantern: Rescue Mother](https://steamcommunity.com/app/2319030)
 - [Love Is All Around](https://steamcommunity.com/app/2322560)
+- [Luck be a Landlord](https://steamcommunity.com/app/1404850)
 - [LYNE](https://steamcommunity.com/app/266010)
 - [Mad Max](https://steamcommunity.com/app/234140)
 - [Marvel Heroes Omega](https://steamcommunity.com/app/226320)
@@ -2345,6 +2359,7 @@
 - [OxU](https://steamcommunity.com/app/2097180)
 - [Palworld](https://steamcommunity.com/app/1623730)
 - [Papers, Please](https://steamcommunity.com/app/239030)
+- [Peeping Dorm Manager](https://steamcommunity.com/app/2273420)
 - [PerfectLover](https://steamcommunity.com/app/1181140)
 - [PICO PARK](https://steamcommunity.com/app/1509960)
 - [Pixel Art Coloring Book](https://steamcommunity.com/app/1576340)
@@ -2380,6 +2395,7 @@
 - [Slime Rancher](https://steamcommunity.com/app/433340)
 - [Sorry, James](https://steamcommunity.com/app/659190)
 - [Spellbook Demonslayers](https://steamcommunity.com/app/2007530)
+- [Splodey](https://steamcommunity.com/app/2204170)
 - [Stardew Valley](https://steamcommunity.com/app/413150)
 - [Succubus Cafe](https://steamcommunity.com/app/1520500)
 - [Sudoku Jigsaw](https://steamcommunity.com/app/858040)
@@ -2401,6 +2417,7 @@
 - [Teddy Floppy Ear - The Race](https://steamcommunity.com/app/371420)
 - [Terraria](https://steamcommunity.com/app/105600)
 - [Textreme 2](https://steamcommunity.com/app/1516350)
+- [TH3-M15 GUILD](https://steamcommunity.com/app/2602290)
 - [The Big Journey](https://steamcommunity.com/app/742480)
 - [The Elder Scrolls Online](https://steamcommunity.com/app/306130)
 - [The Elder Scrolls V: Skyrim Special Edition](https://steamcommunity.com/app/489830)
@@ -2440,6 +2457,7 @@
 - [Vampire Survivors](https://steamcommunity.com/app/1794680)
 - [Virgo Versus The Zodiac](https://steamcommunity.com/app/920320)
 - [Wallpaper Engine](https://steamcommunity.com/app/431960)
+- [Wandering Sword](https://steamcommunity.com/app/1876890)
 - [Warhammer: Vermintide 2](https://steamcommunity.com/app/552500)
 - [Warm Snow](https://steamcommunity.com/app/1296830)
 - [WayOut](https://steamcommunity.com/app/551110)
@@ -2452,6 +2470,7 @@
 - [Wish](https://steamcommunity.com/app/1207780)
 - [WISH Paradise](https://steamcommunity.com/app/1573300)
 - [Wolcen: Lords of Mayhem](https://steamcommunity.com/app/424370)
+- [Wolf of Stock Street](https://steamcommunity.com/app/1658310)
 - [Woman's Prison](https://steamcommunity.com/app/1527980)
 - [Wonder Boy: Returns Remix](https://steamcommunity.com/app/1112240)
 - [Wordle](https://steamcommunity.com/app/1334000)
@@ -2483,6 +2502,8 @@
 - [Zup! Z](https://steamcommunity.com/app/1218900)
 - [Zup! Zero](https://steamcommunity.com/app/610360)
 - [Zup! Zero 2](https://steamcommunity.com/app/658550)
+- [Zwei: The Arges Adventure](https://steamcommunity.com/app/427680)
+- [Zwei: The Ilvard Insurrection](https://steamcommunity.com/app/427700)
 
 ## Super Nintendo Entertainment System™
 
