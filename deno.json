@@ -1,6 +1,11 @@
 {
-  "imports": {
-    "@std/fmt": "jsr:@std/fmt@^0.224.0",
-    "@std/path": "jsr:@std/path@^0.224.0"
-  }
+	"fmt": {
+		"useTabs": true,
+		"singleQuote": true,
+		"exclude": ["README.md"]
+	},
+	"imports": {
+		"@std/fmt": "jsr:@std/fmt@^0.224.0",
+		"@std/path": "jsr:@std/path@^0.224.0"
+	}
 }

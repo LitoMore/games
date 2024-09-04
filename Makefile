@@ -1,8 +1,11 @@
 .DEFAULT_GOAL := default
-.SILENT: lint add add-platform check fix build reset search summary
+.SILENT: fmt-check lint add add-platform check fix build reset search summary
+
+fmt-check:
+	deno fmt --check --quiet
 
 lint:
-	deno lint -q
+	deno lint --quiet
 
 add:
 	deno --allow-run --allow-env --allow-read --allow-write source/add.ts anchor=$(anchor) name=$(name) website=$(website)
@@ -28,4 +31,4 @@ search:
 summary:
 	deno --allow-run --allow-env --allow-read source/summary.ts
 
-default: lint check build
+default: fmt-check lint check build
