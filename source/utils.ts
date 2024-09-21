@@ -1,5 +1,5 @@
 import { join } from '@std/path/join';
-import logSymbols from 'npm:log-symbols';
+import logSymbols from 'log-symbols';
 import { Game, GamesJson, Platform } from './types.ts';
 
 const gamesJsonPath = join(import.meta.dirname ?? '.', 'games.json');

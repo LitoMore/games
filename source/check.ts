@@ -1,4 +1,4 @@
-import logSymbols from 'npm:log-symbols';
+import logSymbols from 'log-symbols';
 import { Game, Platform } from './types.ts';
 import {
 	loadGamesJson,

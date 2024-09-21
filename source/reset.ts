@@ -1,4 +1,4 @@
-import logSymbols from 'npm:log-symbols';
+import logSymbols from 'log-symbols';
 import { loadGamesJson, writeGamesJson } from './utils.ts';
 
 const games = await loadGamesJson();

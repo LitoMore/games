@@ -1,4 +1,4 @@
-import input from 'npm:@inquirer/input';
+import input from '@inquirer/input';
 import { fuzzyMatched, loadGamesJson } from './utils.ts';
 
 const games = await loadGamesJson();

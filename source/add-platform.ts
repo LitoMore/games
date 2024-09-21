@@ -1,6 +1,6 @@
 import { bold, cyan } from '@std/fmt/colors';
-import logSymbols from 'npm:log-symbols';
-import input from 'npm:@inquirer/input';
+import logSymbols from 'log-symbols';
+import input from '@inquirer/input';
 import { loadGamesJson, nameCompare, writeGamesJson } from './utils.ts';
 
 const games = await loadGamesJson();
