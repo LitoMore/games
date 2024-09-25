@@ -8,27 +8,27 @@ lint:
 	deno lint --quiet
 
 add:
-	deno --allow-run --allow-env --allow-read --allow-write source/add.ts anchor=$(anchor) name=$(name) website=$(website)
+	deno --allow-env --allow-read --allow-write source/add.ts anchor=$(anchor) name=$(name) website=$(website)
 
 add-platform:
-	deno --allow-run --allow-env --allow-read --allow-write source/add-platform.ts
+	deno --allow-env --allow-read --allow-write source/add-platform.ts
 
 check:
-	deno --allow-run --allow-env --allow-read source/check.ts
+	deno --allow-env --allow-read source/check.ts
 
 fix:
-	deno --allow-run --allow-env --allow-read --allow-write source/check.ts --fix
+	deno --allow-env --allow-read --allow-write source/check.ts --fix
 
 build:
-	deno --allow-run --allow-env --allow-read --allow-write source/build.ts
+	deno --allow-env --allow-read --allow-write source/build.ts
 
 reset:
-	deno --allow-run --allow-env --allow-read --allow-write source/reset.ts
+	deno --allow-env --allow-read --allow-write source/reset.ts
 
 search:
-	deno --allow-run --allow-env --allow-read source/search.ts
+	deno --allow-env --allow-read source/search.ts
 
 summary:
-	deno --allow-run --allow-env --allow-read source/summary.ts
+	deno --allow-env --allow-read source/summary.ts
 
 default: fmt-check lint check build
