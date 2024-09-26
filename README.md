@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-305-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-307-ddd?logo=epic-games&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-365-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-374-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -108,7 +108,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2473-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2484-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -855,6 +855,7 @@
 - [The Escapists](https://store.epicgames.com/store/en-US/p/the-escapists)
 - [The Fall](https://store.epicgames.com/store/en-US/p/the-fall)
 - [The First Tree](https://store.epicgames.com/store/en-US/p/the-first-tree)
+- [The Last Stand: Aftermath](https://store.epicgames.com/en-US/p/the-last-stand-aftermath)
 - [The Lion's Song](https://store.epicgames.com/store/en-US/p/the-lions-song)
 - [The Long Dark](https://store.epicgames.com/store/en-US/p/the-long-dark)
 - [The Silent Age](https://store.epicgames.com/en-US/p/the-silent-age-eb6972)
@@ -867,6 +868,7 @@
 - [Ticket to Ride](https://store.epicgames.com/store/en-US/p/ticket-to-ride)
 - [Tiny Tina's Assault on Dragon Keep: A Wonderlands One-shot Adventure](https://store.epicgames.com/store/en-US/p/tiny-tinas-assault-on-dragon-keep-a-wonderlands-one-shot-adventure)
 - [ToeJam & Earl: Back in the Groove!](https://store.epicgames.com/en-US/p/toejam-and-earl-back-in-the-groove-cddc16)
+- [TOEM](https://store.epicgames.com/en-US/p/toem)
 - [Tomb Raider GOTY](https://store.epicgames.com/store/en-US/p/tomb-raider)
 - [Torchlight II](https://store.epicgames.com/store/en-US/p/torchlight-2)
 - [Total War: WARHAMMER](https://store.epicgames.com/store/en-US/p/total-war-warhammer)
@@ -2140,13 +2142,18 @@
 ## Steam
 
 - [20 Minutes Till Dawn](https://steamcommunity.com/app/1966900)
+- [A Building Full of Cats](https://steamcommunity.com/app/1969080)
+- [A Castle Full of Cats](https://steamcommunity.com/app/2070550)
 - [A Dance of Fire and Ice](https://steamcommunity.com/app/977950)
+- [A Park Full of Cats: Haunted Ride](https://steamcommunity.com/app/2673390)
 - [A Sinful Camp](https://steamcommunity.com/app/1748050)
 - [A Story About My Uncle](https://steamcommunity.com/app/278360)
+- [A Tower Full of Cats](https://steamcommunity.com/app/2179170)
 - [Age of Empires II (2013)](https://steamcommunity.com/app/221380)
 - [Age of Empires® III: Complete Collection](https://steamcommunity.com/app/105450)
 - [Age of Mythology: Extended Edition](https://steamcommunity.com/app/266840)
 - [American Truck Simulator](https://steamcommunity.com/app/270880)
+- [An Arcade Full of Cats: TimeWarp Trouble](https://steamcommunity.com/app/2582360)
 - [ANIMAL WELL](https://steamcommunity.com/app/813230)
 - [ANNO: Mutationem](https://steamcommunity.com/app/1368030)
 - [Ara Fell: Enhanced Edition](https://steamcommunity.com/app/440540)
@@ -2338,6 +2345,7 @@
 - [Necesse](https://steamcommunity.com/app/1169040)
 - [NEEDY STREAMER OVERLOAD](https://steamcommunity.com/app/1451940)
 - [New World](https://steamcommunity.com/app/1063730)
+- [Nine Sols](https://steamcommunity.com/app/1809540)
 - [No Man's Sky](https://steamcommunity.com/app/275850)
 - [Nobody Saves the World](https://steamcommunity.com/app/1432050)
 - [Noel The Mortal Fate S1-7](https://steamcommunity.com/app/850000)
@@ -2383,6 +2391,7 @@
 - [Rise of Nations: Extended Edition](https://steamcommunity.com/app/287450)
 - [Rise of the Tomb Raider](https://steamcommunity.com/app/391220)
 - [Rogue Stormers](https://steamcommunity.com/app/299480)
+- [Romantic Escapades](https://steamcommunity.com/app/2897760)
 - [RPG Maker MV](https://steamcommunity.com/app/363890)
 - [Saints Row: The Third](https://steamcommunity.com/app/55230)
 - [Sea of Stars](https://steamcommunity.com/app/1244090)
@@ -2397,6 +2406,7 @@
 - [Spellbook Demonslayers](https://steamcommunity.com/app/2007530)
 - [Splodey](https://steamcommunity.com/app/2204170)
 - [Stardew Valley](https://steamcommunity.com/app/413150)
+- [Stray Cats in Cozy Town: Night Lights](https://steamcommunity.com/app/2993420)
 - [Succubus Cafe](https://steamcommunity.com/app/1520500)
 - [Sudoku Jigsaw](https://steamcommunity.com/app/858040)
 - [Sudoku Killer](https://steamcommunity.com/app/861270)
@@ -2452,6 +2462,7 @@
 - [Trine 3: The Artifacts of Power](https://steamcommunity.com/app/319910)
 - [Unheard](https://steamcommunity.com/app/942970)
 - [Universe Sandbox](https://steamcommunity.com/app/230290)
+- [Unpacking](https://steamcommunity.com/app/1135690)
 - [V Rising](https://steamcommunity.com/app/1604030)
 - [Valheim](https://steamcommunity.com/app/892970)
 - [Vampire Survivors](https://steamcommunity.com/app/1794680)
