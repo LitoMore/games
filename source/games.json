@@ -7451,6 +7451,24 @@
 			]
 		},
 		{
+			"name": "Red Candle Games",
+			"anchor": "#red-candle-games",
+			"badge": "https://img.shields.io/badge/Red_Candle_Games-{{count}}-ddd?logo=redcandlegames&labelColor=d23735&logoColor=white",
+			"hostnames": [
+				"shop.redcandlegames.com"
+			],
+			"gameList": [
+				{
+					"name": "Detention",
+					"website": "https://shop.redcandlegames.com/app/detention"
+				},
+				{
+					"name": "Devotion",
+					"website": "https://shop.redcandlegames.com/app/devotion"
+				}
+			]
+		},
+		{
 			"name": "SEGA Genesis™",
 			"anchor": "#sega-genesis",
 			"duplication": true,
@@ -9908,14 +9926,6 @@
 				"hardestinterview.com"
 			],
 			"gameList": [
-				{
-					"name": "Detention",
-					"website": "https://redcandlegames.com/detention"
-				},
-				{
-					"name": "Devotion",
-					"website": "https://redcandlegames.com/devotion"
-				},
 				{
 					"name": "Minecraft",
 					"website": "https://www.minecraft.net/en-us"

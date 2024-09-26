@@ -73,6 +73,9 @@
   <a href="#playstation5">
     <img src="https://img.shields.io/badge/PlayStation_5-168-ddd?logo=playstation&labelColor=white&logoColor=black"/>
   </a>
+  <a href="#red-candle-games">
+    <img src="https://img.shields.io/badge/Red_Candle_Games-2-ddd?logo=redcandlegames&labelColor=d23735&logoColor=white"/>
+  </a>
   <a href="#sega-genesis">
     <img src="https://img.shields.io/badge/SEGA_Genesis-29-ddd?logo=sega&labelColor=03297b&logoColor=white"/>
   </a>
@@ -92,7 +95,7 @@
     <img src="https://img.shields.io/badge/WeGame-2-ddd?logo=wegame&labelColor=faab00&logoColor=white"/>
   </a>
   <a href="#windows">
-    <img src="https://img.shields.io/badge/Windows-5-ddd?logo=windows&labelColor=0078d6"/>
+    <img src="https://img.shields.io/badge/Windows-3-ddd?logo=windows&labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
     <img src="https://img.shields.io/badge/Xbox_Series_X-93-ddd?logo=xbox&labelColor=333333"/>
@@ -1974,6 +1977,11 @@
 - [Yakuza: Like a Dragon](https://www.playstation.com/en-hk/games/yakuza-like-a-dragon/)
 - [Zero Strain](https://store.playstation.com/en-us/product/UP2005-PPSA03915_00-ZEROSTRAIN000000)
 
+## Red Candle Games
+
+- [Detention](https://shop.redcandlegames.com/app/detention)
+- [Devotion](https://shop.redcandlegames.com/app/devotion)
+
 ## SEGA Genesis™
 
 - [Alien Soldier](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
@@ -2590,8 +2598,6 @@
 
 ## Windows
 
-- [Detention](https://redcandlegames.com/detention)
-- [Devotion](https://redcandlegames.com/devotion)
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Tale of Wuxia](https://wulin.fhyx.com/)
 - [The Interview Is Tough](https://shop.hardestinterview.com)
