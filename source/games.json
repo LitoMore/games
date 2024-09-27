@@ -1125,7 +1125,7 @@
 		{
 			"name": "App Store",
 			"anchor": "#app-store",
-			"badge": "https://img.shields.io/badge/App_Store-{{count}}-ddd?logo=app-store&labelColor=0d96f6&logoColor=white",
+			"badge": "https://img.shields.io/badge/App_Store-{{count}}-ddd?logo=appstore&labelColor=0d96f6&logoColor=white",
 			"hostnames": [
 				"apps.apple.com",
 				"www.moastray.game"
@@ -1684,7 +1684,7 @@
 		{
 			"name": "Apple Arcade",
 			"anchor": "#apple-arcade",
-			"badge": "https://img.shields.io/badge/Apple_Arcade-{{count}}-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white",
+			"badge": "https://img.shields.io/badge/Apple_Arcade-{{count}}-ddd?logo=applearcade&labelColor=fd574e&logoColor=white",
 			"hostnames": [
 				"apps.apple.com"
 			],
@@ -1912,7 +1912,7 @@
 		{
 			"name": "Epic Games",
 			"anchor": "#epic-games",
-			"badge": "https://img.shields.io/badge/Epic_Games-{{count}}-ddd?logo=epic-games&labelColor=313131",
+			"badge": "https://img.shields.io/badge/Epic_Games-{{count}}-ddd?logo=epicgames&labelColor=313131",
 			"hostnames": [
 				"store.epicgames.com"
 			],
@@ -3150,7 +3150,7 @@
 		{
 			"name": "Facebook Gaming",
 			"anchor": "#facebook-gaming",
-			"badge": "https://img.shields.io/badge/Facebook_Gaming-{{count}}-ddd?logo=facebook-gaming&labelColor=005FED",
+			"badge": "https://img.shields.io/badge/Facebook_Gaming-{{count}}-ddd?logo=facebookgaming&labelColor=005FED",
 			"hostnames": [
 				"www.facebook.com"
 			],
@@ -3418,7 +3418,7 @@
 		{
 			"name": "Google Play",
 			"anchor": "#google-play",
-			"badge": "https://img.shields.io/badge/Google_Play-{{count}}-ddd?logo=google-play&labelColor=414141",
+			"badge": "https://img.shields.io/badge/Google_Play-{{count}}-ddd?logo=googleplay&labelColor=414141",
 			"hostnames": [
 				"play.google.com"
 			],
@@ -3656,7 +3656,7 @@
 		{
 			"name": "Microsoft Store",
 			"anchor": "#microsoft-store",
-			"badge": "https://img.shields.io/badge/Microsoft_Store-{{count}}-ddd?logo=microsoft&labelColor=0067c0",
+			"badge": "https://img.shields.io/badge/Microsoft_Store-{{count}}-ddd?labelColor=0067c0",
 			"hostnames": [
 				"www.microsoft.com",
 				"www.xbox.com"
@@ -4128,7 +4128,7 @@
 		{
 			"name": "Nintendo Switch™",
 			"anchor": "#nintendo-switch",
-			"badge": "https://img.shields.io/badge/Nintendo_Switch-{{count}}-ddd?logo=nintendo-switch&labelColor=e60012",
+			"badge": "https://img.shields.io/badge/Nintendo_Switch-{{count}}-ddd?logo=nintendoswitch&labelColor=e60012",
 			"hostnames": [
 				"www.nintendo.com",
 				"www.nintendo.co.jp",
@@ -9918,7 +9918,7 @@
 		{
 			"name": "Windows",
 			"anchor": "#windows",
-			"badge": "https://img.shields.io/badge/Windows-{{count}}-ddd?logo=windows&labelColor=0078d6",
+			"badge": "https://img.shields.io/badge/Windows-{{count}}-ddd?labelColor=0078d6",
 			"hostnames": [
 				"www.minecraft.net",
 				"wulin.fhyx.com",
@@ -9943,7 +9943,7 @@
 		{
 			"name": "Xbox Series X",
 			"anchor": "#xbox-series-x",
-			"badge": "https://img.shields.io/badge/Xbox_Series_X-{{count}}-ddd?logo=xbox&labelColor=333333",
+			"badge": "https://img.shields.io/badge/Xbox_Series_X-{{count}}-ddd?labelColor=333333",
 			"hostnames": [
 				"www.microsoft.com",
 				"www.xbox.com",

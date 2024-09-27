@@ -8,19 +8,19 @@
     <img src="https://img.shields.io/badge/Amazon_Luna-5-ddd?logo=amazonluna&labelColor=9146ff&logoColor=white"/>
   </a>
   <a href="#app-store">
-    <img src="https://img.shields.io/badge/App_Store-137-ddd?logo=app-store&labelColor=0d96f6&logoColor=white"/>
+    <img src="https://img.shields.io/badge/App_Store-137-ddd?logo=appstore&labelColor=0d96f6&logoColor=white"/>
   </a>
   <a href="#apple-arcade">
-    <img src="https://img.shields.io/badge/Apple_Arcade-40-ddd?logo=apple-arcade&labelColor=fd574e&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Apple_Arcade-40-ddd?logo=applearcade&labelColor=fd574e&logoColor=white"/>
   </a>
   <a href="#battlenet">
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-307-ddd?logo=epic-games&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-307-ddd?logo=epicgames&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
-    <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebook-gaming&labelColor=005FED"/>
+    <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebookgaming&labelColor=005FED"/>
   </a>
   <a href="#game--watch-super-mario-bros">
     <img src="https://img.shields.io/badge/Game%20%26%20Watch%3A%20Mario-4-ddd?logo=gameandwatch&labelColor=e81a2f&logoColor=white"/>
@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/GOG.com-44-ddd?logo=gog.com&logoSize=auto&labelColor=86328a"/>
   </a>
   <a href="#google-play">
-    <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=google-play&labelColor=414141"/>
+    <img src="https://img.shields.io/badge/Google_Play-7-ddd?logo=googleplay&labelColor=414141"/>
   </a>
   <a href="#legacy-games">
     <img src="https://img.shields.io/badge/Legacy_Games-30-ddd?logo=legacygames&labelColor=144b9e&logoColor=white"/>
@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/Meta_Quest-13-ddd?logo=meta&labelColor=0467df&logoColor=white"/>
   </a>
   <a href="#microsoft-store">
-    <img src="https://img.shields.io/badge/Microsoft_Store-5-ddd?logo=microsoft&labelColor=0067c0"/>
+    <img src="https://img.shields.io/badge/Microsoft_Store-5-ddd?labelColor=0067c0"/>
   </a>
   <a href="#netflix-games">
     <img src="https://img.shields.io/badge/Netflix_Games-3-ddd?logo=netflix&labelColor=e50914"/>
@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/NES-63-ddd?logo=nintendo&logoSize=auto&labelColor=fe0100&logoColor=white"/>
   </a>
   <a href="#nintendo-switch">
-    <img src="https://img.shields.io/badge/Nintendo_Switch-230-ddd?logo=nintendo-switch&labelColor=e60012"/>
+    <img src="https://img.shields.io/badge/Nintendo_Switch-230-ddd?logo=nintendoswitch&labelColor=e60012"/>
   </a>
   <a href="#origin">
     <img src="https://img.shields.io/badge/Origin-12-ddd?logo=origin&labelColor=f56c2D&logoColor=white"/>
@@ -95,10 +95,10 @@
     <img src="https://img.shields.io/badge/WeGame-2-ddd?logo=wegame&labelColor=faab00&logoColor=white"/>
   </a>
   <a href="#windows">
-    <img src="https://img.shields.io/badge/Windows-3-ddd?logo=windows&labelColor=0078d6"/>
+    <img src="https://img.shields.io/badge/Windows-3-ddd?labelColor=0078d6"/>
   </a>
   <a href="#xbox-series-x">
-    <img src="https://img.shields.io/badge/Xbox_Series_X-93-ddd?logo=xbox&labelColor=333333"/>
+    <img src="https://img.shields.io/badge/Xbox_Series_X-93-ddd?labelColor=333333"/>
   </a>
 </p>
 
