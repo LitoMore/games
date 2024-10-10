@@ -1,6 +1,7 @@
 import logSymbols from 'log-symbols';
 import { Game, Platform } from './types.ts';
 import {
+	isValidGame,
 	loadGamesJson,
 	nameChecks,
 	nameCompare,
@@ -21,12 +22,7 @@ const checkWebsite = () => {
 				game.website = websiteChecks(platform.anchor, game.website);
 			}
 
-			const valid = platform.hostnames.find((hostname) =>
-				!game.name.includes('’') &&
-				game.website.includes(hostname)
-			);
-
-			if (!valid) {
+			if (!isValidGame(platform, game)) {
 				invalidGames.push({ platform: platform.name, ...game });
 			}
 		});

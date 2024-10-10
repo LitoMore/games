@@ -2,6 +2,7 @@ import { bold, cyan, green } from '@std/fmt/colors';
 import logSymbols from 'log-symbols';
 import input from '@inquirer/input';
 import {
+	isValidGame,
 	loadGamesJson,
 	nameCompare,
 	websiteChecks,
@@ -45,6 +46,11 @@ if (!foundPlatform) {
 }
 
 website = websiteChecks(foundPlatform.anchor, website);
+
+if (!isValidGame(foundPlatform, { name, website })) {
+	console.error(logSymbols.error, 'Invalid game info');
+	Deno.exit(1);
+}
 
 if (
 	foundPlatform.gameList.find((g) => {

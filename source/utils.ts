@@ -130,3 +130,10 @@ export const fuzzyMatched = (name: string, searchString?: string) => {
 		normalizeName(name),
 	);
 };
+
+export const isValidGame = (platform: Platform, game: Game) => {
+	return platform.hostnames.some((hostname) =>
+		!game.name.includes('’') &&
+		game.website.includes(hostname)
+	);
+};
