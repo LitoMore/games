@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-374-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-375-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -111,7 +111,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2484-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2485-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2153,6 +2153,7 @@
 - [A Building Full of Cats](https://steamcommunity.com/app/1969080)
 - [A Castle Full of Cats](https://steamcommunity.com/app/2070550)
 - [A Dance of Fire and Ice](https://steamcommunity.com/app/977950)
+- [A Little to the Left](https://steamcommunity.com/app/1629520)
 - [A Park Full of Cats: Haunted Ride](https://steamcommunity.com/app/2673390)
 - [A Sinful Camp](https://steamcommunity.com/app/1748050)
 - [A Story About My Uncle](https://steamcommunity.com/app/278360)
