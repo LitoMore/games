@@ -1,5 +1,5 @@
 .DEFAULT_GOAL := default
-.SILENT: fmt-check lint type-check add add-platform check fix build reset search summary
+.SILENT: fmt-check lint type-check add add-platform check fix build reset search summary blog
 
 fmt-check:
 	deno fmt --quiet --check
@@ -33,5 +33,8 @@ search:
 
 summary:
 	deno --allow-env --allow-read source/summary.ts
+
+blog:
+	cat README.md | sed -r 's/<h1.+h1>//g' | sed -r 's/<h2/<h3/g' | sed -r 's/<\/h2/<\/h4/g' | pbcopy
 
 default: fmt-check lint type-check check build
