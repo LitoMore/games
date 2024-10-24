@@ -115,7 +115,7 @@
   </a>
 </p>
 
-## Amazon Games
+<h2 id="amazon-games">Amazon Games</h2>
 
 - [10 Second Ninja X](https://images-na.ssl-images-amazon.com/images/I/414fPmDGijL.jpg)
 - [3 Count Bout](https://m.media-amazon.com/images/I/51L-QmqpF+L.jpg)
@@ -388,7 +388,7 @@
 - [Youtubers Life](https://images-na.ssl-images-amazon.com/images/I/41SwO+8GhyL.jpg)
 - [Zak McKracken and the Alien Mindbenders](https://images-na.ssl-images-amazon.com/images/I/41EVUhwZ9vL.jpg)
 
-## Amazon Luna
+<h2 id="amazon-luna">Amazon Luna</h2>
 
 - [Batman™: Arkham Knight](https://luna.amazon.com/detail/B0C3QB7QKV)
 - [Citizen Sleeper](https://luna.amazon.com/detail/B0BZBQLXXP)
@@ -396,7 +396,7 @@
 - [Monster Harvest](https://luna.amazon.com/detail/B09KMBCMJ7)
 - [SteamWorld Heist: Ultimate Edition](https://luna.amazon.com/detail/B08F9FHM52)
 
-## App Store
+<h2 id="app-store">App Store</h2>
 
 - [3 Tiles: Connect Tile Matching](https://apps.apple.com/app/id1525211513)
 - [A Dark Dragon](https://apps.apple.com/au/app/id1029839730)
@@ -536,7 +536,7 @@
 - [Whack Your Boss Cartoon Land](https://apps.apple.com/us/app/id1198806318)
 - [Whack Your Computer](https://apps.apple.com/us/app/id1184075782)
 
-## Apple Arcade
+<h2 id="apple-arcade">Apple Arcade</h2>
 
 - [Alba: A Wildlife Adventure](https://apps.apple.com/app/id1528014682)
 - [Angry Birds Reloaded](https://apps.apple.com/us/app/id1539172625)
@@ -579,7 +579,7 @@
 - [WHAT THE GOLF?](https://apps.apple.com/us/app/id1415190483)
 - [Zookeeper World](https://apps.apple.com/app/id1370858242)
 
-## Battle.net
+<h2 id="battlenet">Battle.net</h2>
 
 - [Call of Duty®: Modern Warfare®](https://us.shop.battle.net/en-us/family/call-of-duty-mw)
 - [Diablo® II: Resurrected™](https://diablo2.blizzard.com)
@@ -592,7 +592,7 @@
 - [StarCraft®: Remastered](https://starcraft.com)
 - [World of Warcraft®](https://worldofwarcraft.com/en-us/)
 
-## Epic Games
+<h2 id="epic-games">Epic Games</h2>
 
 - [20XX](https://store.epicgames.com/store/en-US/p/20xx)
 - [3 out of 10, EP 1: "Welcome To Shovelworks"](https://store.epicgames.com/store/en-US/p/3-out-of-10-ep-1)
@@ -902,18 +902,18 @@
 - [Yoku's Island Express](https://store.epicgames.com/store/en-US/p/yokus-island-express)
 - [Yooka-Laylee](https://store.epicgames.com/store/en-US/p/yooka-laylee)
 
-## Facebook Gaming
+<h2 id="facebook-gaming">Facebook Gaming</h2>
 
 - [Angry Birds](https://www.facebook.com/gaming/play/1825153594465039)
 
-## Game & Watch™: Super Mario Bros.™
+<h2 id="game--watch-super-mario-bros">Game & Watch™: Super Mario Bros.™</h2>
 
 - [Game & Watch™: Ball](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
 - [Game & Watch™: Time](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
 - [Super Mario Bros.](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
 - [Super Mario Bros.: The Lost Levels](https://www.nintendo.com/products/detail/game-and-watch-super-mario-bros/)
 
-## Game & Watch™: The Legend of Zelda™
+<h2 id="game--watch-the-legend-of-zelda">Game & Watch™: The Legend of Zelda™</h2>
 
 - [Game & Watch™: Time](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
 - [Game & Watch™: Timer](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
@@ -922,7 +922,7 @@
 - [The Legend of Zelda™](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
 - [Zelda II: The Adventure of Link™](https://www.nintendo.com/products/detail/game-and-watch-the-legend-of-zelda/)
 
-## GOG.com
+<h2 id="gogcom">GOG.com</h2>
 
 - [ArcaniA](https://www.gog.com/game/arcania)
 - [ArcaniA: Fall of Setarrif](https://www.gog.com/game/arcania_fall_of_setarrif)
@@ -969,7 +969,7 @@
 - [The Witcher Goodies Collection](https://www.gog.com/game/the_witcher_goodies_collection)
 - [Wolfenstein: The New Order](https://www.gog.com/en/game/wolfenstein_the_new_order)
 
-## Google Play
+<h2 id="google-play">Google Play</h2>
 
 - [Crusaders Quest](https://play.google.com/store/apps/details?id=com.nhnent.SKQUEST)
 - [Cytus](https://play.google.com/store/apps/details?id=com.rayark.Cytus.full)
@@ -979,7 +979,7 @@
 - [Subway Surfers](https://play.google.com/store/apps/details?id=com.kiloo.subwaysurf)
 - [Temple Run 2](https://play.google.com/store/apps/details?id=com.imangi.templerun2)
 
-## Legacy Games
+<h2 id="legacy-games">Legacy Games</h2>
 
 - [Angelo & Deemon: One Hell of a Quest](https://legacygames.com/product/addling-adventures-3-pack/)
 - [Evergarden](https://legacygames.com/product/puzzle-of-the-year-10-pack/)
@@ -1012,7 +1012,7 @@
 - [Varenje](https://legacygames.com/product/addling-adventures-3-pack/)
 - [Word of the Law: Death Mask Collector's Edition](https://legacygames.com/product/best-of-domini-3-pack/)
 
-## Meta Quest
+<h2 id="meta-quest">Meta Quest</h2>
 
 - [Beat Saber](https://www.oculus.com/experiences/quest/2448060205267927)
 - [Blade & Sorcery: Nomad](https://www.oculus.com/experiences/quest/2031826350263349)
@@ -1028,7 +1028,7 @@
 - [VRChat](https://www.oculus.com/experiences/quest/1856672347794301)
 - [WHAT THE BAT?](https://www.oculus.com/experiences/quest/5251672408247712/)
 
-## Microsoft Store
+<h2 id="microsoft-store">Microsoft Store</h2>
 
 - [Adera](https://www.microsoft.com/en-us/p/adera/9wzdncrfjb4p)
 - [Candy Crush Saga](https://www.microsoft.com/en-us/p/candy-crush-saga/9nblggh18846)
@@ -1036,17 +1036,17 @@
 - [ilomilo plus](https://www.microsoft.com/store/productId/9WZDNCRFHW7P)
 - [Tentacles: Enter the Mind](https://www.microsoft.com/en-us/p/tentacles-enter-the-mind/9wzdncrfjb4n)
 
-## Netflix Games
+<h2 id="netflix-games">Netflix Games</h2>
 
 - [Hextech Mayhem Netflix Edition](https://apps.apple.com/us/app/id1589160731)
 - [Krispee Street](https://apps.apple.com/us/app/id1597202855)
 - [NETFLIX Poinpy](https://apps.apple.com/us/app/id1615093407)
 
-## Nexon
+<h2 id="nexon">Nexon</h2>
 
 - [MapleStory](https://www.nexon.com/main/en/MapleStory/details)
 
-## Nintendo 3DS™
+<h2 id="nintendo-3ds">Nintendo 3DS™</h2>
 
 - [MapleStory: The Girl's Fate](https://namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC%20%EC%9A%B4%EB%AA%85%EC%9D%98%20%EC%86%8C%EB%85%80)
 - [Mario & Luigi: Dream Team](https://www.nintendo.com/games/detail/mario-and-luigi-dream-team-3ds/)
@@ -1054,7 +1054,7 @@
 - [The Legend of Zelda: A Link Between Worlds](https://www.nintendo.com/games/detail/the-legend-of-zelda-a-link-between-worlds-3ds/)
 - [The Legend of Zelda: The Minish Cap](https://www.nintendolife.com/reviews/3ds-eshop/legend_of_zelda_the_minish_cap_gba)
 
-## Nintendo 64™
+<h2 id="nintendo-64">Nintendo 64™</h2>
 
 - [Banjo-Kazooie](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [Dr. Mario 64](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
@@ -1075,14 +1075,14 @@
 - [WIN BACK: COVERT OPERATIONS](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 - [Yoshi's Story](https://www.nintendo.com/switch/online-service/nintendo-64-nintendo-switch-online-switch/)
 
-## Nintendo DS™
+<h2 id="nintendo-ds">Nintendo DS™</h2>
 
 - [Animal Crossing: Wild World](https://www.nintendo.com/games/detail/animal-crossing-wild-world-wii-u/)
 - [MapleStory DS](https://nintendo.fandom.com/wiki/MapleStory_DS)
 - [The Legend of Zelda: Phantom Hourglass](https://www.nintendo.com/games/detail/the-legend-of-zelda-phantom-hourglass-wii-u/)
 - [The Legend of Zelda: Spirit Tracks](https://www.nintendo.com/games/detail/the-legend-of-zelda-spirit-tracks-wii-u/)
 
-## Nintendo Entertainment System™
+<h2 id="nintendo-entertainment-system">Nintendo Entertainment System™</h2>
 
 - [ADVENTURES OF LOLO](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Balloon Fight™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
@@ -1148,7 +1148,7 @@
 - [Yoshi™](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Zelda II: The Adventure of Link](https://www.nintendo.com/switch/online-service/nintendo-entertainment-system-nintendo-switch-online-switch/)
 
-## Nintendo Switch™
+<h2 id="nintendo-switch">Nintendo Switch™</h2>
 
 - [1-2-Switch](https://www.nintendo.com/games/detail/1-2-switch-switch/)
 - [30-in-1 Game Collection](https://www.nintendo.com/games/detail/30-in-1-game-collection-switch/)
@@ -1381,7 +1381,7 @@
 - [Yoshi's Crafted World™](https://www.nintendo.com/games/detail/yoshis-crafted-world-switch/)
 - [Zumba® Burn It Up!](https://www.nintendo.com/games/detail/zumba-burn-it-up-switch/)
 
-## Origin
+<h2 id="origin">Origin</h2>
 
 - [Battlefield™ 1](https://www.origin.com/hkg/en-us/store/battlefield/battlefield-1)
 - [Battlefield™ 4](https://www.origin.com/hkg/en-us/store/battlefield/battlefield-4)
@@ -1396,7 +1396,7 @@
 - [STAR WARS Jedi: Fallen Order™](https://www.origin.com/usa/en-us/store/star-wars/star-wars-jedi-fallen-order)
 - [STAR WARS™: Squadrons](https://www.origin.com/usa/en-us/store/star-wars/star-wars-squadrons)
 
-## PlayStation®4
+<h2 id="playstation4">PlayStation®4</h2>
 
 - [11-11 Memories Retold](https://store.playstation.com/en-us/product/UP0700-CUSA13505_00-ELEVENELEVEN1111)
 - [13 Sentinels: Aegis Rim](https://www.playstation.com/en-us/games/13-sentinels-aegis-rim/)
@@ -1806,7 +1806,7 @@
 - [ZOMBI](https://store.playstation.com/en-us/product/UP0001-CUSA01886_00-ZUNEXTPS4PORT001)
 - [Zombie Army 4: Dead War](https://www.playstation.com/en-us/games/zombie-army-4-dead-war/)
 
-## PlayStation®5
+<h2 id="playstation5">PlayStation®5</h2>
 
 - [A Plague Tale: Innocence](https://www.playstation.com/en-us/games/a-plague-tale-innocence/)
 - [ANIMAL WELL](https://store.playstation.com/en-us/product/UP7425-PPSA06799_00-9351926314516028)
@@ -1977,12 +1977,12 @@
 - [Yakuza: Like a Dragon](https://www.playstation.com/en-hk/games/yakuza-like-a-dragon/)
 - [Zero Strain](https://store.playstation.com/en-us/product/UP2005-PPSA03915_00-ZEROSTRAIN000000)
 
-## Red Candle Games
+<h2 id="red-candle-games">Red Candle Games</h2>
 
 - [Detention](https://shop.redcandlegames.com/app/detention)
 - [Devotion](https://shop.redcandlegames.com/app/devotion)
 
-## SEGA Genesis™
+<h2 id="sega-genesis">SEGA Genesis™</h2>
 
 - [Alien Soldier](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Altered Beast](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
@@ -2014,7 +2014,7 @@
 - [ToeJam & Earl](https://www.nintendo.com/switch/online-service/sega-genesis-nintendo-switch-online-switch/)
 - [Zero Wing](https://www.nintendo.com/store/products/sega-genesis-nintendo-switch-online-switch/)
 
-## Stadia
+<h2 id="stadia">Stadia</h2>
 
 - [Adam Wolfe](https://stadia.google.com/store/details/5c7fb29c666241a48c90d7cc42a65b39rcp1/sku/1d6d5c15623b4196be5b521ed57bdf76p)
 - [Arcade Paradise](https://stadia.google.com/game/arcade-paradise)
@@ -2147,7 +2147,7 @@
 - [Ys IX: Monstrum Nox](https://stadia.google.com/store/details/b2c9b37fb3eb4089ad91f30b4e30ce92rcp1/sku/a5b7783b7e1b4c1684870124bd338eb1p)
 - [Ys VIII: Lacrimosa of DANA](https://stadia.google.com/store/details/7ced0b517b144dd98529ceffab963791rcp1/sku/b51c2723938547a99ebfb2e3b2ae320dp)
 
-## Steam
+<h2 id="steam">Steam</h2>
 
 - [20 Minutes Till Dawn](https://steamcommunity.com/app/1966900)
 - [A Building Full of Cats](https://steamcommunity.com/app/1969080)
@@ -2525,7 +2525,7 @@
 - [Zwei: The Arges Adventure](https://steamcommunity.com/app/427680)
 - [Zwei: The Ilvard Insurrection](https://steamcommunity.com/app/427700)
 
-## Super Nintendo Entertainment System™
+<h2 id="super-nintendo-entertainment-system">Super Nintendo Entertainment System™</h2>
 
 - [Bombuzal](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [BRAWL BROTHERS](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
@@ -2585,25 +2585,25 @@
 - [Tuff E Nuff](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 - [Wild Guns](https://www.nintendo.com/switch/online-service/super-nintendo-entertainment-system-nintendo-switch-online-switch/)
 
-## Ubisoft Connect
+<h2 id="ubisoft-connect">Ubisoft Connect</h2>
 
 - [Assassin's Creed Origins](https://store.ubi.com/us/assassins-creed--origins/592450934e0165f46c8b456a.html)
 - [Far Cry 4](https://www.ubisoft.com/en-us/game/far-cry/far-cry-4)
 - [Heroes of Might and Magic® 2: Gold](https://store.ubi.com/ie/game?pid=5902fbba88a7e3f0618b4567)
 - [Rayman® 2: The Great Escape](https://store.ubi.com/us/game/?lang=en_US&pid=56c4947e88a7e300458b465c)
 
-## WeGame
+<h2 id="wegame">WeGame</h2>
 
 - [League of Legends](https://www.wegame.com.cn/store/26/lol)
 - [RIVE](https://www.wegame.com.cn/store/2000229/RIVE)
 
-## Windows
+<h2 id="windows">Windows</h2>
 
 - [Minecraft](https://www.minecraft.net/en-us)
 - [Tale of Wuxia](https://wulin.fhyx.com/)
 - [The Interview Is Tough](https://shop.hardestinterview.com)
 
-## Xbox Series X
+<h2 id="xbox-series-x">Xbox Series X</h2>
 
 - [Aaero](https://www.microsoft.com/en-us/p/Aaero/BZR51XD70NKD)
 - [Aerial_Knight's Never Yield](https://www.xbox.com/en-us/games/store/aerial-knights-never-yield/9nvl4dz9hkfz)

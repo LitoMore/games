@@ -20,6 +20,9 @@ export const writeReadme = (content: string) =>
 const normalizeName = (name: string) =>
 	name.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
 
+export const titleToAnchor = (title: string) =>
+	title.replaceAll(' ', '-').toLowerCase().replaceAll(/[&®™:.]/g, '');
+
 export const nameCompare =
 	(options?: { showErrors?: boolean }) =>
 	(a: Platform | Game, b: Platform | Game) => {

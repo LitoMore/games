@@ -1,5 +1,10 @@
 import logSymbols from 'log-symbols';
-import { loadGamesJson, nameCompare, writeReadme } from './utils.ts';
+import {
+	loadGamesJson,
+	nameCompare,
+	titleToAnchor,
+	writeReadme,
+} from './utils.ts';
 
 const games = await loadGamesJson();
 
@@ -16,7 +21,7 @@ const badgesSection = games.platforms.map((p) => p.gameList.length).reduce((
 ${
 		games.platforms.map((platform) =>
 			platform.gameList.length > 0
-				? `  <a href="${platform.anchor}">
+				? `  <a href="#${titleToAnchor(platform.name)}">
     <img src="${
 					platform.badge.replace('{{count}}', String(platform.gameList.length))
 				}"/>
@@ -52,7 +57,7 @@ const ciSection = `
 const gamesSection = games.platforms.map((platform) =>
 	platform.gameList.length > 0
 		? `
-## ${platform.name}\n\n${
+<h2 id="${titleToAnchor(platform.name)}">${platform.name}</h2>\n\n${
 			platform.gameList.sort(nameCompare()).map((game) =>
 				`- [${game.name}](${game.website})\n`
 			).join(
