@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Battle.net-10-ddd?logo=battle.net&labelColor=002650&logoColor=white"/>
   </a>
   <a href="#epic-games">
-    <img src="https://img.shields.io/badge/Epic_Games-307-ddd?logo=epicgames&labelColor=313131"/>
+    <img src="https://img.shields.io/badge/Epic_Games-308-ddd?logo=epicgames&labelColor=313131"/>
   </a>
   <a href="#facebook-gaming">
     <img src="https://img.shields.io/badge/Facebook_Gaming-1-ddd?logo=facebookgaming&labelColor=005FED"/>
@@ -111,7 +111,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2485-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2486-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -861,6 +861,7 @@
 - [The Last Stand: Aftermath](https://store.epicgames.com/en-US/p/the-last-stand-aftermath)
 - [The Lion's Song](https://store.epicgames.com/store/en-US/p/the-lions-song)
 - [The Long Dark](https://store.epicgames.com/store/en-US/p/the-long-dark)
+- [The Lord of the Rings: Return to Moria™](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)
 - [The Silent Age](https://store.epicgames.com/en-US/p/the-silent-age-eb6972)
 - [The Spectrum Retreat](https://store.epicgames.com/store/en-US/p/the-spectrum-retreat)
 - [The Textorcist: The Story of Ray Bibbia](https://store.epicgames.com/store/en-US/p/the-textorcist)
