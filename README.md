@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/Netflix_Games-3-ddd?logo=netflix&labelColor=e50914"/>
   </a>
   <a href="#nexon">
-    <img src="https://img.shields.io/badge/-1-ddd?logo=nexon&labelColor=212224&logoSize=auto&logoWidth=50"/>
+    <img src="https://img.shields.io/badge/Nexon-1-ddd?logo=nexon&labelColor=212224&logoSize=auto"/>
   </a>
   <a href="#nintendo-3ds">
     <img src="https://img.shields.io/badge/Nintendo_3DS-5-ddd?logo=nintendo-3ds&labelColor=d12228"/>

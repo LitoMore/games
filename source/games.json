@@ -3713,7 +3713,7 @@
 		{
 			"name": "Nexon",
 			"anchor": "#nexon",
-			"badge": "https://img.shields.io/badge/-{{count}}-ddd?logo=nexon&labelColor=212224&logoSize=auto&logoWidth=50",
+			"badge": "https://img.shields.io/badge/Nexon-{{count}}-ddd?logo=nexon&labelColor=212224&logoSize=auto",
 			"hostnames": [
 				"www.nexon.com"
 			],
