@@ -108,32 +108,6 @@ export const websiteChecks = (anchor: string, website: string): string => {
 	}
 };
 
-export const fuzzyMatched = (name: string, searchString?: string) => {
-	if (!searchString) return true;
-
-	if (searchString.startsWith('@')) {
-		return normalizeName(name).toLowerCase().replace(
-			/[^a-z0-9]/g,
-			'',
-		)
-			.includes(
-				normalizeName(searchString.slice(1)).toLowerCase().replace(
-					/[^a-z0-9]/g,
-					'',
-				),
-			);
-	}
-
-	const searchPattern = new RegExp(
-		normalizeName(searchString).split('').join('.*'),
-		'i',
-	);
-
-	return searchPattern.exec(
-		normalizeName(name),
-	);
-};
-
 export const isValidGame = (platform: Platform, game: Game) => {
 	return platform.hostnames.some((hostname) =>
 		!game.name.includes('’') &&
