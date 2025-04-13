@@ -1,7 +1,6 @@
 import input from '@inquirer/input';
 import { Searcher } from 'fast-fuzzy';
 import { loadGamesJson } from './utils.ts';
-import { Game } from './types.ts';
 
 const games = await loadGamesJson();
 const anchor = Deno.env.get('anchor') ?? await input({ message: 'anchor:' });
