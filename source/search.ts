@@ -7,7 +7,7 @@ const games = await loadGamesJson();
 const anchor = Deno.env.get('anchor') ?? await input({ message: 'anchor:' });
 const name = Deno.env.get('name') ?? await input({ message: 'name:' });
 
-let matchedGames: Game[] = [];
+let matchedGames: Array<{ platform: string; name: string }> = [];
 
 const platformSearcher = new Searcher(games.platforms, {
 	keySelector: ((p) => [p.name, p.anchor]),
@@ -23,7 +23,10 @@ for (const p of filteredPlatforms) {
 	});
 
 	const filteredGames = gamesSearcher.search(name);
-	matchedGames = [...matchedGames, ...filteredGames];
+	matchedGames = [
+		...matchedGames,
+		...filteredGames.map((g) => ({ platform: p.name, name: g.name })),
+	];
 }
 
 console.table(matchedGames);
