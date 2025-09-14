@@ -4,7 +4,7 @@
     "jsr:@std/fmt@^1.0.8": "1.0.8",
     "jsr:@std/internal@^1.0.10": "1.0.10",
     "jsr:@std/path@^1.1.2": "1.1.2",
-    "npm:@inquirer/input@^4.2.1": "4.2.1",
+    "npm:@inquirer/input@^4.2.2": "4.2.2",
     "npm:fast-fuzzy@^1.12.0": "1.12.0",
     "npm:log-symbols@^7.0.1": "7.0.1"
   },
@@ -23,8 +23,8 @@
     }
   },
   "npm": {
-    "@inquirer/core@10.1.15": {
-      "integrity": "sha512-8xrp836RZvKkpNbVvgWUlxjT4CraKk2q+I3Ksy+seI2zkcE+y6wNs1BVhgcv8VyImFecUhdQrYLdW32pAjwBdA==",
+    "@inquirer/core@10.2.0": {
+      "integrity": "sha512-NyDSjPqhSvpZEMZrLCYUquWNl+XC/moEcVFqS55IEYIYsY0a1cUCevSqk7ctOlnm/RaSBU5psFryNlxcmGrjaA==",
       "dependencies": [
         "@inquirer/figures",
         "@inquirer/type",
@@ -39,8 +39,8 @@
     "@inquirer/figures@1.0.13": {
       "integrity": "sha512-lGPVU3yO9ZNqA7vTYz26jny41lE7yoQansmqdMLBEfqaGsmdg7V3W9mK9Pvb5IL4EVZ9GnSDGMO/cJXud5dMaw=="
     },
-    "@inquirer/input@4.2.1": {
-      "integrity": "sha512-tVC+O1rBl0lJpoUZv4xY+WGWY8V5b0zxU1XDsMsIHYregdh7bN5X5QnIONNBAl0K765FYlAfNHS2Bhn7SSOVow==",
+    "@inquirer/input@4.2.2": {
+      "integrity": "sha512-hqOvBZj/MhQCpHUuD3MVq18SSoDNHy7wEnQ8mtvs71K8OPZVXJinOzcvQna33dNYLYE4LkA9BlhAhK6MJcsVbw==",
       "dependencies": [
         "@inquirer/core",
         "@inquirer/type"
@@ -152,8 +152,8 @@
         "strip-ansi"
       ]
     },
-    "yoctocolors-cjs@2.1.2": {
-      "integrity": "sha512-cYVsTjKl8b+FrnidjibDWskAv7UKOfcwaVZdp/it9n1s9fU3IkgDbhdIRKCW4JDsAlECJY0ytoVPT3sK6kideA=="
+    "yoctocolors-cjs@2.1.3": {
+      "integrity": "sha512-U/PBtDf35ff0D8X8D0jfdzHYEPFxAI7jJlxZXwCSez5M3190m+QobIfh+sWDWSHMCWWJN2AWamkegn6vr6YBTw=="
     },
     "yoctocolors@2.1.1": {
       "integrity": "sha512-GQHQqAopRhwU8Kt1DDM8NjibDXHC8eoh1erhGAJPEyveY9qqVeXvVikNKrDz69sHowPMorbPUrH/mx8c50eiBQ=="
@@ -163,7 +163,7 @@
     "dependencies": [
       "jsr:@std/fmt@^1.0.8",
       "jsr:@std/path@^1.1.2",
-      "npm:@inquirer/input@^4.2.1",
+      "npm:@inquirer/input@^4.2.2",
       "npm:fast-fuzzy@^1.12.0",
       "npm:log-symbols@^7.0.1"
     ]

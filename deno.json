@@ -7,7 +7,7 @@
 		]
 	},
 	"imports": {
-		"@inquirer/input": "npm:@inquirer/input@^4.2.1",
+		"@inquirer/input": "npm:@inquirer/input@^4.2.2",
 		"@std/fmt": "jsr:@std/fmt@^1.0.8",
 		"@std/path": "jsr:@std/path@^1.1.2",
 		"fast-fuzzy": "npm:fast-fuzzy@^1.12.0",
