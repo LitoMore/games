@@ -7,9 +7,9 @@
 		]
 	},
 	"imports": {
-		"@inquirer/input": "npm:@inquirer/input@^4.2.2",
+		"@inquirer/input": "npm:@inquirer/input@^5.0.1",
 		"@std/fmt": "jsr:@std/fmt@^1.0.8",
-		"@std/path": "jsr:@std/path@^1.1.2",
+		"@std/path": "jsr:@std/path@^1.1.3",
 		"fast-fuzzy": "npm:fast-fuzzy@^1.12.0",
 		"log-symbols": "npm:log-symbols@^7.0.1"
 	}
