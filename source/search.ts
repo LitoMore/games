@@ -9,7 +9,7 @@ const name = Deno.env.get('name') ?? await input({ message: 'name:' });
 let matchedGames: Array<{ platform: string; name: string }> = [];
 
 const platformSearcher = new Searcher(games.platforms, {
-	keySelector: ((p) => [p.name, p.anchor]),
+	keySelector: (p) => [p.name, p.anchor],
 });
 
 const filteredPlatforms = anchor
@@ -18,7 +18,7 @@ const filteredPlatforms = anchor
 
 for (const p of filteredPlatforms) {
 	const gamesSearcher = new Searcher(p.gameList, {
-		keySelector: ((g) => g.name),
+		keySelector: (g) => g.name,
 	});
 
 	const filteredGames = gamesSearcher.search(name);
