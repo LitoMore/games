@@ -8138,6 +8138,10 @@
 			],
 			"gameList": [
 				{
+					"name": "100 Asian Cats",
+					"website": "https://steamcommunity.com/app/2667970"
+				},
+				{
 					"name": "20 Minutes Till Dawn",
 					"website": "https://steamcommunity.com/app/1966900"
 				},
@@ -8158,8 +8162,8 @@
 					"website": "https://steamcommunity.com/app/1629520"
 				},
 				{
-					"name": "A Park Full of Cats: Haunted Ride",
-					"website": "https://steamcommunity.com/app/2673390"
+					"name": "A Park Full of Cats",
+					"website": "https://steamcommunity.com/app/2610090"
 				},
 				{
 					"name": "A Sinful Camp",
@@ -8178,7 +8182,7 @@
 					"website": "https://steamcommunity.com/app/221380"
 				},
 				{
-					"name": "Age of Empires® III: Complete Collection",
+					"name": "Age of Empires® III (2007)",
 					"website": "https://steamcommunity.com/app/105450"
 				},
 				{
@@ -8190,8 +8194,8 @@
 					"website": "https://steamcommunity.com/app/270880"
 				},
 				{
-					"name": "An Arcade Full of Cats: TimeWarp Trouble",
-					"website": "https://steamcommunity.com/app/2582360"
+					"name": "An Arcade Full of Cats",
+					"website": "https://steamcommunity.com/app/2368470"
 				},
 				{
 					"name": "ANIMAL WELL",
@@ -8200,6 +8204,10 @@
 				{
 					"name": "ANNO: Mutationem",
 					"website": "https://steamcommunity.com/app/1368030"
+				},
+				{
+					"name": "Aperture Desk Job",
+					"website": "https://steamcommunity.com/app/1902490"
 				},
 				{
 					"name": "Ara Fell: Enhanced Edition",
@@ -8215,7 +8223,7 @@
 				},
 				{
 					"name": "Armored Fist 3",
-					"website": "https://steamcommunity.com//app/32710"
+					"website": "https://steamcommunity.com/app/32710"
 				},
 				{
 					"name": "Aseprite",
@@ -8228,6 +8236,10 @@
 				{
 					"name": "Baba Is You",
 					"website": "https://steamcommunity.com/app/736260"
+				},
+				{
+					"name": "Balatro",
+					"website": "https://steamcommunity.com/app/2379780"
 				},
 				{
 					"name": "Baldur's Gate 3",
@@ -8258,7 +8270,7 @@
 					"website": "https://steamcommunity.com/app/209000"
 				},
 				{
-					"name": "Bejeweled® 3",
+					"name": "Bejeweled 3",
 					"website": "https://steamcommunity.com/app/78000"
 				},
 				{
@@ -8274,8 +8286,8 @@
 					"website": "https://steamcommunity.com/app/729660"
 				},
 				{
-					"name": "Bloody Spell",
-					"website": "https://steamcommunity.com/app/992300/"
+					"name": "Blade&Sword",
+					"website": "https://steamcommunity.com/app/1792820"
 				},
 				{
 					"name": "Bloons TD 6",
@@ -8290,6 +8302,10 @@
 					"website": "https://steamcommunity.com/app/49520"
 				},
 				{
+					"name": "Borderless Gaming",
+					"website": "https://steamcommunity.com/app/388080"
+				},
+				{
 					"name": "Braid",
 					"website": "https://steamcommunity.com/app/26800"
 				},
@@ -8302,44 +8318,8 @@
 					"website": "https://steamcommunity.com/app/310890"
 				},
 				{
-					"name": "Cats Hidden Around the World",
-					"website": "https://steamcommunity.com/app/2377970"
-				},
-				{
-					"name": "Cats Hidden Around the World 2",
-					"website": "https://steamcommunity.com/app/2951880"
-				},
-				{
-					"name": "Cats Hidden in Bali",
-					"website": "https://steamcommunity.com/app/2356500"
-				},
-				{
-					"name": "Cats Hidden in China",
-					"website": "https://steamcommunity.com/app/2608040"
-				},
-				{
-					"name": "Cats Hidden in Georgia",
-					"website": "https://steamcommunity.com/app/2485180"
-				},
-				{
-					"name": "Cats Hidden in Germany",
-					"website": "https://steamcommunity.com/app/2776570"
-				},
-				{
-					"name": "Cats Hidden in Italy",
-					"website": "https://steamcommunity.com/app/2313240"
-				},
-				{
-					"name": "Cats Hidden in Japan",
-					"website": "https://steamcommunity.com/app/2700540"
-				},
-				{
-					"name": "Cats Hidden in Maple Hollow",
-					"website": "https://steamcommunity.com/app/2551170"
-				},
-				{
-					"name": "Cats Hidden in Paris",
-					"website": "https://steamcommunity.com/app/2313250"
+					"name": "Brotato",
+					"website": "https://steamcommunity.com/app/1942280"
 				},
 				{
 					"name": "Chained Echoes",
@@ -8358,15 +8338,23 @@
 					"website": "https://steamcommunity.com/app/32750"
 				},
 				{
-					"name": "Command & Conquer™ 3 Tiberium Wars™",
-					"website": "https://steamcommunity.com/app/24790"
-				},
-				{
-					"name": "Command & Conquer™ 3: Kane's Wrath",
+					"name": "Command & Conquer 3: Kane's Wrath™",
 					"website": "https://steamcommunity.com/app/24810"
 				},
 				{
-					"name": "Command & Conquer™ 4: Tiberian Twilight",
+					"name": "Command & Conquer 3: Tiberium Wars™",
+					"website": "https://steamcommunity.com/app/24790"
+				},
+				{
+					"name": "Command & Conquer: Red Alert™ 2 and Yuri's Revenge™",
+					"website": "https://steamcommunity.com/app/2229850"
+				},
+				{
+					"name": "Command & Conquer: Red Alert™, Counterstrike™ and The Aftermath™",
+					"website": "https://steamcommunity.com/app/2229840"
+				},
+				{
+					"name": "Command & Conquer™ 4 Tiberian Twilight",
 					"website": "https://steamcommunity.com/app/47700"
 				},
 				{
@@ -8374,16 +8362,8 @@
 					"website": "https://steamcommunity.com/app/2229830"
 				},
 				{
-					"name": "Command & Conquer™ Generals",
-					"website": "https://steamcommunity.com/app/2229870"
-				},
-				{
 					"name": "Command & Conquer™ Generals Zero Hour",
 					"website": "https://steamcommunity.com/app/2732960"
-				},
-				{
-					"name": "Command & Conquer™ Red Alert™ 2 and Yuri's Revenge™",
-					"website": "https://steamcommunity.com/app/2229850"
 				},
 				{
 					"name": "Command & Conquer™ Red Alert™ 3",
@@ -8394,12 +8374,16 @@
 					"website": "https://steamcommunity.com/app/24800"
 				},
 				{
-					"name": "Command & Conquer™ Renegade",
-					"website": "https://steamcommunity.com/app/2229890"
-				},
-				{
 					"name": "Command & Conquer™ Tiberian Sun™ and Firestorm™",
 					"website": "https://steamcommunity.com/app/2229880"
+				},
+				{
+					"name": "Command & Conquer™: Generals",
+					"website": "https://steamcommunity.com/app/2229870"
+				},
+				{
+					"name": "Command & Conquer™: Renegade",
+					"website": "https://steamcommunity.com/app/2229890"
 				},
 				{
 					"name": "Commandos 2 - HD Remaster",
@@ -8426,16 +8410,16 @@
 					"website": "https://steamcommunity.com/app/10"
 				},
 				{
+					"name": "Counter-Strike 2",
+					"website": "https://steamcommunity.com/app/730"
+				},
+				{
 					"name": "Counter-Strike: Condition Zero",
 					"website": "https://steamcommunity.com/app/80"
 				},
 				{
 					"name": "Counter-Strike: Condition Zero Deleted Scenes",
 					"website": "https://steamcommunity.com/app/100"
-				},
-				{
-					"name": "Counter-Strike: Global Offensive",
-					"website": "https://steamcommunity.com/app/730"
 				},
 				{
 					"name": "Counter-Strike: Source",
@@ -8450,12 +8434,20 @@
 					"website": "https://steamcommunity.com/app/368340"
 				},
 				{
-					"name": "Cygnus Enterprises",
+					"name": "Crusaders Quest : Hero Town",
+					"website": "https://steamcommunity.com/app/4126220"
+				},
+				{
+					"name": "Cyber Bodies",
+					"website": "https://steamcommunity.com/app/2182820"
+				},
+				{
+					"name": "Cygnus",
 					"website": "https://steamcommunity.com/app/1963520"
 				},
 				{
-					"name": "Cyper Bodies",
-					"website": "https://steamcommunity.com/app/2182820"
+					"name": "Dark Secrets of Showbiz",
+					"website": "https://steamcommunity.com/app/1778270"
 				},
 				{
 					"name": "DAVE THE DIVER",
@@ -8474,24 +8466,24 @@
 					"website": "https://steamcommunity.com/app/40"
 				},
 				{
-					"name": "Delta Force",
+					"name": "Delta Force 1",
 					"website": "https://steamcommunity.com/app/32620"
-				},
-				{
-					"name": "Delta Force — Black Hawk Down: Team Sabre",
-					"website": "https://steamcommunity.com/app/32680"
 				},
 				{
 					"name": "Delta Force 2",
 					"website": "https://steamcommunity.com/app/32630"
 				},
 				{
-					"name": "Delta Force Land Warrior",
-					"website": "https://steamcommunity.com/app/32640"
-				},
-				{
 					"name": "Delta Force: Black Hawk Down",
 					"website": "https://steamcommunity.com/app/32670"
+				},
+				{
+					"name": "Delta Force: Black Hawk Down - Team Sabre",
+					"website": "https://steamcommunity.com/app/32680"
+				},
+				{
+					"name": "Delta Force: Land Warrior",
+					"website": "https://steamcommunity.com/app/32640"
 				},
 				{
 					"name": "Delta Force: Task Force Dagger",
@@ -8518,10 +8510,6 @@
 					"website": "https://steamcommunity.com/app/2344520"
 				},
 				{
-					"name": "Dice Tower Defense",
-					"website": "https://steamcommunity.com/app/700660"
-				},
-				{
 					"name": "DiRT 4",
 					"website": "https://steamcommunity.com/app/421020"
 				},
@@ -8530,12 +8518,8 @@
 					"website": "https://steamcommunity.com/app/310560"
 				},
 				{
-					"name": "Disco Elysium - The Final Cut",
+					"name": "Disco Elysium",
 					"website": "https://steamcommunity.com/app/632470"
-				},
-				{
-					"name": "Doki Doki Literature Club",
-					"website": "https://steamcommunity.com/app/698780"
 				},
 				{
 					"name": "Don't Starve",
@@ -8544,10 +8528,6 @@
 				{
 					"name": "Don't Starve Together",
 					"website": "https://steamcommunity.com/app/322330"
-				},
-				{
-					"name": "Dota 2",
-					"website": "https://steamcommunity.com/app/570"
 				},
 				{
 					"name": "Dream Hacker",
@@ -8562,7 +8542,7 @@
 					"website": "https://steamcommunity.com/app/2400510"
 				},
 				{
-					"name": "Elden Ring",
+					"name": "ELDEN RING",
 					"website": "https://steamcommunity.com/app/1245620"
 				},
 				{
@@ -8576,6 +8556,10 @@
 				{
 					"name": "Environmental Station Alpha",
 					"website": "https://steamcommunity.com/app/350070"
+				},
+				{
+					"name": "Escape From Duckov",
+					"website": "https://steamcommunity.com/app/3167020"
 				},
 				{
 					"name": "Escape Simulator",
@@ -8610,8 +8594,8 @@
 					"website": "https://steamcommunity.com/app/32730"
 				},
 				{
-					"name": "Fairy Biography2：Confidante",
-					"website": "https://steamcommunity.com/app/2172510"
+					"name": "Fantastic Orc",
+					"website": "https://steamcommunity.com/app/2672110"
 				},
 				{
 					"name": "Fate Seeker",
@@ -8634,7 +8618,7 @@
 					"website": "https://steamcommunity.com/app/333250"
 				},
 				{
-					"name": "Forza Horizon 5 - Premium Edition",
+					"name": "Forza Horizon 5",
 					"website": "https://steamcommunity.com/app/1551360"
 				},
 				{
@@ -8642,12 +8626,24 @@
 					"website": "https://steamcommunity.com/app/12100"
 				},
 				{
+					"name": "Grand Theft Auto III",
+					"website": "https://steamcommunity.com/app/12230"
+				},
+				{
 					"name": "Grand Theft Auto IV: The Complete Edition",
 					"website": "https://steamcommunity.com/app/12210"
 				},
 				{
-					"name": "Grand Theft Auto V",
+					"name": "Grand Theft Auto V Enhanced",
+					"website": "https://steamcommunity.com/app/3240220"
+				},
+				{
+					"name": "Grand Theft Auto V Legacy",
 					"website": "https://steamcommunity.com/app/271590"
+				},
+				{
+					"name": "Grand Theft Auto: San Andreas",
+					"website": "https://steamcommunity.com/app/12120"
 				},
 				{
 					"name": "Grand Theft Auto: San Andreas",
@@ -8656,6 +8652,10 @@
 				{
 					"name": "Grand Theft Auto: Vice City",
 					"website": "https://steamcommunity.com/app/12110"
+				},
+				{
+					"name": "Grand Theft Auto: Vice City",
+					"website": "https://steamcommunity.com/app/12240"
 				},
 				{
 					"name": "Guacamelee! 2",
@@ -8670,8 +8670,12 @@
 					"website": "https://steamcommunity.com/app/275390"
 				},
 				{
-					"name": "Gujian3",
+					"name": "Gujian3(古剑奇谭三)",
 					"website": "https://steamcommunity.com/app/994280"
+				},
+				{
+					"name": "Guns of Icarus Online",
+					"website": "https://steamcommunity.com/app/209080"
 				},
 				{
 					"name": "Guts and Glory",
@@ -8692,18 +8696,6 @@
 				{
 					"name": "Half-Life 2: Deathmatch",
 					"website": "https://steamcommunity.com/app/320"
-				},
-				{
-					"name": "Half-Life 2: Episode One",
-					"website": "https://steamcommunity.com/app/380"
-				},
-				{
-					"name": "Half-Life 2: Episode Two",
-					"website": "https://steamcommunity.com/app/420"
-				},
-				{
-					"name": "Half-Life 2: Lost Coast",
-					"website": "https://steamcommunity.com/app/340"
 				},
 				{
 					"name": "Half-Life Deathmatch: Source",
@@ -8738,6 +8730,10 @@
 					"website": "https://steamcommunity.com/app/1948980"
 				},
 				{
+					"name": "Heroes of Might & Magic III - HD Edition",
+					"website": "https://steamcommunity.com/app/297000"
+				},
+				{
 					"name": "Heroes of the Three Kingdoms",
 					"website": "https://steamcommunity.com/app/1437820"
 				},
@@ -8766,12 +8762,8 @@
 					"website": "https://steamcommunity.com/app/1437880"
 				},
 				{
-					"name": "Heroes® of Might & Magic® III - HD Edition",
-					"website": "https://steamcommunity.com/app/297000"
-				},
-				{
-					"name": "Ho Tu Lo Shu：The Books of Dragon",
-					"website": "https://steamcommunity.com/app/952860"
+					"name": "Hogwarts Legacy",
+					"website": "https://steamcommunity.com/app/990080"
 				},
 				{
 					"name": "Hollow Knight: Silksong",
@@ -8784,6 +8776,10 @@
 				{
 					"name": "ICEY",
 					"website": "https://steamcommunity.com/app/553640"
+				},
+				{
+					"name": "Idol Hands",
+					"website": "https://steamcommunity.com/app/1745310"
 				},
 				{
 					"name": "Idol Hands 2",
@@ -8802,6 +8798,10 @@
 					"website": "https://steamcommunity.com/app/207080"
 				},
 				{
+					"name": "Infinite Tao",
+					"website": "https://steamcommunity.com/app/2151580"
+				},
+				{
 					"name": "INSIDE",
 					"website": "https://steamcommunity.com/app/304430"
 				},
@@ -8818,12 +8818,20 @@
 					"website": "https://steamcommunity.com/app/1268110"
 				},
 				{
-					"name": "Joint Operations: Combined Arms Gold",
+					"name": "It Takes Two",
+					"website": "https://steamcommunity.com/app/1426210"
+				},
+				{
+					"name": "Joint Operations: Combined Arms",
 					"website": "https://steamcommunity.com/app/32770"
 				},
 				{
-					"name": "Just Cause 4 Reloaded",
+					"name": "Just Cause 4",
 					"website": "https://steamcommunity.com/app/517630"
+				},
+				{
+					"name": "Kaiju Princess",
+					"website": "https://steamcommunity.com/app/1732180"
 				},
 				{
 					"name": "KinitoPET",
@@ -8890,10 +8898,6 @@
 					"website": "https://steamcommunity.com/app/1282730"
 				},
 				{
-					"name": "Lotus Lantern: Rescue Mother",
-					"website": "https://steamcommunity.com/app/2319030"
-				},
-				{
 					"name": "Love Is All Around",
 					"website": "https://steamcommunity.com/app/2322560"
 				},
@@ -8908,10 +8912,6 @@
 				{
 					"name": "Mad Max",
 					"website": "https://steamcommunity.com/app/234140"
-				},
-				{
-					"name": "Marvel Heroes Omega",
-					"website": "https://steamcommunity.com/app/226320"
 				},
 				{
 					"name": "Melatonin",
@@ -8950,8 +8950,12 @@
 					"website": "https://steamcommunity.com/app/1924680"
 				},
 				{
-					"name": "mirror",
+					"name": "Mirror",
 					"website": "https://steamcommunity.com/app/644560"
+				},
+				{
+					"name": "Mirror 2: Project X",
+					"website": "https://steamcommunity.com/app/1832640"
 				},
 				{
 					"name": "Mirror Maker",
@@ -8974,6 +8978,10 @@
 					"website": "https://steamcommunity.com/app/1742470"
 				},
 				{
+					"name": "Natsuki's Life In Prison",
+					"website": "https://steamcommunity.com/app/1528000"
+				},
+				{
 					"name": "Nayuta no Kiseki: KAI",
 					"website": "https://steamcommunity.com/app/1732390"
 				},
@@ -8986,7 +8994,7 @@
 					"website": "https://steamcommunity.com/app/1451940"
 				},
 				{
-					"name": "New World",
+					"name": "New World: Aeternum",
 					"website": "https://steamcommunity.com/app/1063730"
 				},
 				{
@@ -9002,7 +9010,7 @@
 					"website": "https://steamcommunity.com/app/1432050"
 				},
 				{
-					"name": "Noel The Mortal Fate S1-7",
+					"name": "Noel the Mortal Fate Complete Edition",
 					"website": "https://steamcommunity.com/app/850000"
 				},
 				{
@@ -9016,6 +9024,10 @@
 				{
 					"name": "Nonogram - The Greatest Painter",
 					"website": "https://steamcommunity.com/app/742490"
+				},
+				{
+					"name": "Novastella Island",
+					"website": "https://steamcommunity.com/app/2096310"
 				},
 				{
 					"name": "Oceanhorn: Monster of Uncharted Seas",
@@ -9038,14 +9050,6 @@
 					"website": "https://steamcommunity.com/app/781810"
 				},
 				{
-					"name": "Oik 5",
-					"website": "https://steamcommunity.com/app/992050"
-				},
-				{
-					"name": "Oik Reloaded",
-					"website": "https://steamcommunity.com/app/1044220"
-				},
-				{
 					"name": "OneShot",
 					"website": "https://steamcommunity.com/app/420530"
 				},
@@ -9056,6 +9060,10 @@
 				{
 					"name": "Ori and the Blind Forest",
 					"website": "https://steamcommunity.com/app/261570"
+				},
+				{
+					"name": "Ori and the Blind Forest: Definitive Edition",
+					"website": "https://steamcommunity.com/app/387290"
 				},
 				{
 					"name": "Ori and the Will of the Wisps",
@@ -9094,11 +9102,11 @@
 					"website": "https://steamcommunity.com/app/1509960"
 				},
 				{
-					"name": "Pixel Art Coloring Book",
-					"website": "https://steamcommunity.com/app/1576340"
+					"name": "Plague Inc: Evolved",
+					"website": "https://steamcommunity.com/app/246620"
 				},
 				{
-					"name": "Plants vs. Zombies",
+					"name": "Plants vs. Zombies: Game of the Year",
 					"website": "https://steamcommunity.com/app/3590"
 				},
 				{
@@ -9114,20 +9122,16 @@
 					"website": "https://steamcommunity.com/app/223470"
 				},
 				{
-					"name": "POSTAL 2: Paradise Lost",
-					"website": "https://steamcommunity.com/app/360960"
-				},
-				{
 					"name": "Potion Permit",
 					"website": "https://steamcommunity.com/app/1337760"
 				},
 				{
-					"name": "Prince of Qin",
-					"website": "https://steamcommunity.com/app/970500"
-				},
-				{
 					"name": "Project: Mirror",
 					"website": "https://steamcommunity.com/app/2171840"
+				},
+				{
+					"name": "Psychic Kung Fu Master",
+					"website": "https://steamcommunity.com/app/3313720"
 				},
 				{
 					"name": "PUBG: BATTLEGROUNDS",
@@ -9154,6 +9158,10 @@
 					"website": "https://steamcommunity.com/app/1271190"
 				},
 				{
+					"name": "RACCOIN: Coin Pusher Roguelike",
+					"website": "https://steamcommunity.com/app/3784030"
+				},
+				{
 					"name": "Rescuing You in the Infinite Loop",
 					"website": "https://steamcommunity.com/app/1778280"
 				},
@@ -9162,7 +9170,7 @@
 					"website": "https://steamcommunity.com/app/653530"
 				},
 				{
-					"name": "Revenge on Gold Diggers",
+					"name": "Revenge on gold diggers ",
 					"website": "https://steamcommunity.com/app/3350200"
 				},
 				{
@@ -9182,6 +9190,18 @@
 					"website": "https://steamcommunity.com/app/391220"
 				},
 				{
+					"name": "Road to Empress I",
+					"website": "https://steamcommunity.com/app/3478050"
+				},
+				{
+					"name": "Road to Empress Ⅱ",
+					"website": "https://steamcommunity.com/app/4148240"
+				},
+				{
+					"name": "Robolife-Days with Aino",
+					"website": "https://steamcommunity.com/app/1477810"
+				},
+				{
 					"name": "Rogue Stormers",
 					"website": "https://steamcommunity.com/app/299480"
 				},
@@ -9198,32 +9218,24 @@
 					"website": "https://steamcommunity.com/app/55230"
 				},
 				{
-					"name": "Sea of Stars",
+					"name": "Sea of Stars: Sunset Edition",
 					"website": "https://steamcommunity.com/app/1244090"
 				},
 				{
-					"name": "Secret Pie",
+					"name": "Secret Pie (Adult Version)",
 					"website": "https://steamcommunity.com/app/1802870"
 				},
 				{
-					"name": "Secret Series: BJ",
+					"name": "Secret Series : BJ",
 					"website": "https://steamcommunity.com/app/1874770"
 				},
 				{
-					"name": "Sekiro™: Shadows Die Twice - GOTY Edition",
+					"name": "Sekiro™: Shadows Die Twice",
 					"website": "https://steamcommunity.com/app/814380"
 				},
 				{
 					"name": "Shadow of the Tomb Raider",
 					"website": "https://steamcommunity.com/app/750920"
-				},
-				{
-					"name": "Shoot, push, portals",
-					"website": "https://steamcommunity.com/app/1197990"
-				},
-				{
-					"name": "Shoot. Push. Repeat.",
-					"website": "https://steamcommunity.com/app/1328810"
 				},
 				{
 					"name": "Sleeping Dogs: Definitive Edition",
@@ -9238,6 +9250,14 @@
 					"website": "https://steamcommunity.com/app/659190"
 				},
 				{
+					"name": "Sorry, James Demo",
+					"website": "https://steamcommunity.com/app/740210"
+				},
+				{
+					"name": "Soulstone Survivors",
+					"website": "https://steamcommunity.com/app/2066020"
+				},
+				{
 					"name": "Spellbook Demonslayers",
 					"website": "https://steamcommunity.com/app/2007530"
 				},
@@ -9250,8 +9270,8 @@
 					"website": "https://steamcommunity.com/app/413150"
 				},
 				{
-					"name": "Stray Cats in Cozy Town: Night Lights",
-					"website": "https://steamcommunity.com/app/2993420"
+					"name": "Stray Cats in Cozy Town",
+					"website": "https://steamcommunity.com/app/2901140"
 				},
 				{
 					"name": "Succubus Cafe",
@@ -9294,7 +9314,7 @@
 					"website": "https://steamcommunity.com/app/1536080"
 				},
 				{
-					"name": "Taboo Trail",
+					"name": "Taboo Trial",
 					"website": "https://steamcommunity.com/app/2455060"
 				},
 				{
@@ -9302,11 +9322,7 @@
 					"website": "https://steamcommunity.com/app/32760"
 				},
 				{
-					"name": "Tale of Immortal",
-					"website": "https://steamcommunity.com/app/1468810"
-				},
-				{
-					"name": "Tales From Space: Mutant Blobs Attack",
+					"name": "Tales from Space: Mutant Blobs Attack",
 					"website": "https://steamcommunity.com/app/206370"
 				},
 				{
@@ -9338,14 +9354,6 @@
 					"website": "https://steamcommunity.com/app/105600"
 				},
 				{
-					"name": "Textreme 2",
-					"website": "https://steamcommunity.com/app/1516350"
-				},
-				{
-					"name": "TH3-M15 GUILD",
-					"website": "https://steamcommunity.com/app/2602290"
-				},
-				{
 					"name": "The Big Journey",
 					"website": "https://steamcommunity.com/app/742480"
 				},
@@ -9360,10 +9368,6 @@
 				{
 					"name": "The Impregnation of the Elves: Conquest of the Arrogant Fairies by Impregnation",
 					"website": "https://steamcommunity.com/app/2108290"
-				},
-				{
-					"name": "The Lab",
-					"website": "https://steamcommunity.com/app/450390"
 				},
 				{
 					"name": "The Past Within",
@@ -9398,7 +9402,7 @@
 					"website": "https://steamcommunity.com/app/518790"
 				},
 				{
-					"name": "There Is No Game: Jam Edition 2015",
+					"name": "There is no game: Jam Edition 2015",
 					"website": "https://steamcommunity.com/app/1241700"
 				},
 				{
@@ -9418,7 +9422,7 @@
 					"website": "https://steamcommunity.com/app/203160"
 				},
 				{
-					"name": "Tomb Raider (VI): THe Angel of Darkness",
+					"name": "Tomb Raider (VI): The Angel of Darkness (2003)",
 					"website": "https://steamcommunity.com/app/225020"
 				},
 				{
@@ -9442,7 +9446,7 @@
 					"website": "https://steamcommunity.com/app/8000"
 				},
 				{
-					"name": "Tomb Raider: Chronicles",
+					"name": "Tomb Raider: Chronicles (2000)",
 					"website": "https://steamcommunity.com/app/225000"
 				},
 				{
@@ -9450,7 +9454,7 @@
 					"website": "https://steamcommunity.com/app/7000"
 				},
 				{
-					"name": "Tomb Raider: The Last Revelation",
+					"name": "Tomb Raider: The Last Revelation (1999)",
 					"website": "https://steamcommunity.com/app/224980"
 				},
 				{
@@ -9460,6 +9464,46 @@
 				{
 					"name": "Torchlight II",
 					"website": "https://steamcommunity.com/app/200710"
+				},
+				{
+					"name": "Travellin Cats Around the World",
+					"website": "https://steamcommunity.com/app/2377970"
+				},
+				{
+					"name": "Travellin Cats Around the World 2",
+					"website": "https://steamcommunity.com/app/2951880"
+				},
+				{
+					"name": "Travellin Cats in Bali",
+					"website": "https://steamcommunity.com/app/2356500"
+				},
+				{
+					"name": "Travellin Cats in China",
+					"website": "https://steamcommunity.com/app/2608040"
+				},
+				{
+					"name": "Travellin Cats in Georgia",
+					"website": "https://steamcommunity.com/app/2485180"
+				},
+				{
+					"name": "Travellin Cats in Germany",
+					"website": "https://steamcommunity.com/app/2776570"
+				},
+				{
+					"name": "Travellin Cats in Italy",
+					"website": "https://steamcommunity.com/app/2313240"
+				},
+				{
+					"name": "Travellin Cats in Japan",
+					"website": "https://steamcommunity.com/app/2700540"
+				},
+				{
+					"name": "Travellin Cats in Maple Hollow",
+					"website": "https://steamcommunity.com/app/2551170"
+				},
+				{
+					"name": "Travellin Cats in Paris",
+					"website": "https://steamcommunity.com/app/2313250"
 				},
 				{
 					"name": "Trine",
@@ -9474,7 +9518,11 @@
 					"website": "https://steamcommunity.com/app/319910"
 				},
 				{
-					"name": "Unheard",
+					"name": "UnderMine",
+					"website": "https://steamcommunity.com/app/656350"
+				},
+				{
+					"name": "Unheard - Voices of Crime",
 					"website": "https://steamcommunity.com/app/942970"
 				},
 				{
@@ -9498,8 +9546,12 @@
 					"website": "https://steamcommunity.com/app/1794680"
 				},
 				{
-					"name": "Virgo Versus The Zodiac",
+					"name": "Virgo Versus the Zodiac",
 					"website": "https://steamcommunity.com/app/920320"
+				},
+				{
+					"name": "Waifu Fighter",
+					"website": "https://steamcommunity.com/app/1757490"
 				},
 				{
 					"name": "Wallpaper Engine",
@@ -9514,20 +9566,12 @@
 					"website": "https://steamcommunity.com/app/552500"
 				},
 				{
-					"name": "Warm Snow",
-					"website": "https://steamcommunity.com/app/1296830"
-				},
-				{
 					"name": "WayOut",
 					"website": "https://steamcommunity.com/app/551110"
 				},
 				{
 					"name": "WayOut 2: Hex",
 					"website": "https://steamcommunity.com/app/585950"
-				},
-				{
-					"name": "We Were Here",
-					"website": "https://steamcommunity.com/app/582500"
 				},
 				{
 					"name": "We Were Here Together",
@@ -9566,7 +9610,11 @@
 					"website": "https://steamcommunity.com/app/1527980"
 				},
 				{
-					"name": "Wonder Boy: Returns Remix",
+					"name": "Women's Prison",
+					"website": "https://steamcommunity.com/app/2085410"
+				},
+				{
+					"name": "Wonder Boy Returns Remix",
 					"website": "https://steamcommunity.com/app/1112240"
 				},
 				{
@@ -9620,10 +9668,6 @@
 				{
 					"name": "Zapper: One Wicked Cricket",
 					"website": "https://steamcommunity.com/app/2766060"
-				},
-				{
-					"name": "Zodiac fantasy 2",
-					"website": "https://steamcommunity.com/app/2116890"
 				},
 				{
 					"name": "Zuma Deluxe",
@@ -9700,6 +9744,26 @@
 				{
 					"name": "Zwei: The Ilvard Insurrection",
 					"website": "https://steamcommunity.com/app/427700"
+				},
+				{
+					"name": "嗜血印 Bloody Spell",
+					"website": "https://steamcommunity.com/app/992300"
+				},
+				{
+					"name": "暖雪 Warm Snow",
+					"website": "https://steamcommunity.com/app/1296830"
+				},
+				{
+					"name": "河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon)",
+					"website": "https://steamcommunity.com/app/952860"
+				},
+				{
+					"name": "秦殇",
+					"website": "https://steamcommunity.com/app/970500"
+				},
+				{
+					"name": "鬼谷八荒 Tale of Immortal",
+					"website": "https://steamcommunity.com/app/1468810"
 				}
 			]
 		},

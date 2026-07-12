@@ -37,4 +37,7 @@ summary:
 blog:
 	cat README.md | sed -r 's/<h1.+h1>//g' | sed -r 's/<h2/<h3/g' | sed -r 's/<\/h2/<\/h4/g' | pbcopy
 
+fetch-steam:
+	deno --allow-env --allow-net --allow-read --allow-write source/fetch-steam.ts
+
 default: fmt-check lint type-check check build
