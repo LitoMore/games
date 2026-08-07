@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-407-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-410-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -111,7 +111,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2518-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2521-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2406,6 +2406,7 @@
 - [qop 4](https://steamcommunity.com/app/966630)
 - [Queen's Glory](https://steamcommunity.com/app/1271190)
 - [RACCOIN: Coin Pusher Roguelike](https://steamcommunity.com/app/3784030)
+- [Rain World](https://steamcommunity.com/app/312520)
 - [Rescuing You in the Infinite Loop](https://steamcommunity.com/app/1778280)
 - [Return of the Obra Dinn](https://steamcommunity.com/app/653530)
 - [Revenge on gold diggers ](https://steamcommunity.com/app/3350200)
@@ -2501,6 +2502,7 @@
 - [Unpacking](https://steamcommunity.com/app/1135690)
 - [V Rising](https://steamcommunity.com/app/1604030)
 - [Valheim](https://steamcommunity.com/app/892970)
+- [Vampire Crawlers](https://steamcommunity.com/app/3265700)
 - [Vampire Survivors](https://steamcommunity.com/app/1794680)
 - [Virgo Versus the Zodiac](https://steamcommunity.com/app/920320)
 - [Waifu Fighter](https://steamcommunity.com/app/1757490)
@@ -2533,6 +2535,7 @@
 - [YAIBA: NINJA GAIDEN Z](https://steamcommunity.com/app/252230)
 - [Yet Another Zombie Survivors](https://steamcommunity.com/app/2163330)
 - [Zapper: One Wicked Cricket](https://steamcommunity.com/app/2766060)
+- [ZM Desktop Elf](https://steamcommunity.com/app/3003300)
 - [Zuma Deluxe](https://steamcommunity.com/app/3330)
 - [Zup!](https://steamcommunity.com/app/533300)
 - [Zup! 2](https://steamcommunity.com/app/562220)
