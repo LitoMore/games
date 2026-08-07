@@ -1,5 +1,5 @@
 .DEFAULT_GOAL := default
-.SILENT: fmt-check lint type-check add add-platform check fix build reset search summary blog
+.SILENT: fmt-check lint type-check add add-platform check fetch-steam fix build reset search summary blog
 
 fmt-check:
 	deno fmt --quiet --check
@@ -39,5 +39,6 @@ blog:
 
 fetch-steam:
 	deno --allow-env --allow-net --allow-read --allow-write source/fetch-steam.ts
+	${MAKE} fix
 
 default: fmt-check lint type-check check build
