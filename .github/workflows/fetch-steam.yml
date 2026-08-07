@@ -1,0 +1,98 @@
+name: Fetch Steam games
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fetch-steam
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+
+      - name: Set up Deno
+        uses: denoland/setup-deno@v1
+        with:
+          deno-version: v2.x
+
+      - name: Fetch Steam games
+        env:
+          STEAM_WEB_API_KEY: ${{ secrets.STEAM_WEB_API_KEY }}
+        run: make fetch-steam
+
+      - name: Generate GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v3
+        with:
+          client-id: ${{ secrets.LITOMORE_APP_CLIENT_ID }}
+          private-key: ${{ secrets.LITOMORE_APP_SECRET_KEY }}
+          permission-contents: write
+
+      - name: Commit and push changes
+        env:
+          APP_SLUG: ${{ steps.app-token.outputs.app-slug }}
+          GH_TOKEN: ${{ steps.app-token.outputs.token }}
+        run: |
+          git add source/games.json
+
+          if git diff --cached --quiet; then
+            echo "No Steam game changes to commit."
+            echo "No changes were found." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+
+          before_games="$RUNNER_TEMP/steam-games-before.tsv"
+          after_games="$RUNNER_TEMP/steam-games-after.tsv"
+          added_games="$RUNNER_TEMP/steam-games-added.tsv"
+          removed_games="$RUNNER_TEMP/steam-games-removed.tsv"
+
+          git show HEAD:source/games.json \
+            | jq -r '.platforms[] | select(.anchor == "#steam") | .gameList[] | [.website, .name] | @tsv' \
+            | LC_ALL=C sort > "$before_games"
+          jq -r '.platforms[] | select(.anchor == "#steam") | .gameList[] | [.website, .name] | @tsv' source/games.json \
+            | LC_ALL=C sort > "$after_games"
+          comm -13 "$before_games" "$after_games" > "$added_games"
+          comm -23 "$before_games" "$after_games" > "$removed_games"
+
+          app_user="${APP_SLUG}[bot]"
+          app_user_id=$(gh api "/users/$app_user" --jq '.id')
+          git config user.name "$app_user"
+          git config user.email "${app_user_id}+${app_user}@users.noreply.github.com"
+          git commit -m "Update Steam games"
+          gh auth setup-git
+          git pull --rebase origin main
+          git push origin HEAD:main
+
+          write_game_items() {
+            heading=$1
+            game_file=$2
+
+            if [ ! -s "$game_file" ]; then
+              return
+            fi
+
+            echo "$heading"
+            while IFS=$'\t' read -r website name; do
+              escaped_name=$(printf '%s' "$name" | jq -Rr '@html')
+              escaped_website=$(printf '%s' "$website" | jq -Rr '@html')
+              printf '%s\n' "- <code>$escaped_name</code> — <code>$escaped_website</code>"
+            done < "$game_file"
+            echo
+          }
+
+          {
+            write_game_items "Added" "$added_games"
+            write_game_items "Removed" "$removed_games"
+          } >> "$GITHUB_STEP_SUMMARY"
