@@ -17,13 +17,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out main
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
         with:
           ref: main
           persist-credentials: false
 
       - name: Set up Deno
-        uses: denoland/setup-deno@v1
+        uses: denoland/setup-deno@v2
         with:
           deno-version: v2.x
 
@@ -37,7 +37,7 @@ jobs:
         uses: actions/create-github-app-token@v3
         with:
           client-id: ${{ secrets.LITOMORE_APP_CLIENT_ID }}
-          private-key: ${{ secrets.LITOMORE_APP_SECRET_KEY }}
+          private-key: ${{ secrets.LITOMORE_APP_PRIVATE_KEY }}
           permission-contents: write
 
       - name: Commit and push changes
