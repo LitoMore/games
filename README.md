@@ -2463,7 +2463,7 @@
 - [The Swapper](https://steamcommunity.com/app/231160)
 - [The Witch's Sexual Prison](https://steamcommunity.com/app/1683950)
 - [The Witcher 2: Assassins of Kings Enhanced Edition](https://steamcommunity.com/app/20920)
-- [The Witcher 3: Wild Hunt](https://steamcommunity.com/app/292030)
+- [The Witcher 3: Wild Hunt - Complete Edition](https://steamcommunity.com/app/292030)
 - [The Witcher: Enhanced Edition](https://steamcommunity.com/app/20900)
 - [The Witness](https://steamcommunity.com/app/210970)
 - [theHunter: Call of the Wild™](https://steamcommunity.com/app/518790)

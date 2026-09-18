@@ -32,6 +32,9 @@ jobs:
           STEAM_WEB_API_KEY: ${{ secrets.STEAM_WEB_API_KEY }}
         run: make fetch-steam
 
+      - name: Validate and update README
+        run: make
+
       - name: Generate GitHub App token
         id: app-token
         uses: actions/create-github-app-token@v3
@@ -45,7 +48,7 @@ jobs:
           APP_SLUG: ${{ steps.app-token.outputs.app-slug }}
           GH_TOKEN: ${{ steps.app-token.outputs.token }}
         run: |
-          git add source/games.json
+          git add source/games.json README.md
 
           if git diff --cached --quiet; then
             echo "No Steam game changes to commit."
