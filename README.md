@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-412-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-414-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -111,7 +111,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2523-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2525-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2187,6 +2187,7 @@
 - [Besiege](https://steamcommunity.com/app/346010)
 - [Black Myth: Wukong](https://steamcommunity.com/app/2358720)
 - [Blackout Z: Slaughterhouse Edition](https://steamcommunity.com/app/729660)
+- [Blade & Sword 2: Ancient Legend](https://steamcommunity.com/app/2924510)
 - [Blade&Sword](https://steamcommunity.com/app/1792820)
 - [Bloons TD 6](https://steamcommunity.com/app/960090)
 - [Boneraiser Minions](https://steamcommunity.com/app/1944570)
@@ -2341,6 +2342,7 @@
 - [Lines X](https://steamcommunity.com/app/724740)
 - [Living together with Fox Demon](https://steamcommunity.com/app/1528560)
 - [Loop Hero](https://steamcommunity.com/app/1282730)
+- [Lossless Scaling](https://steamcommunity.com/app/993090)
 - [Love Is All Around](https://steamcommunity.com/app/2322560)
 - [Luck be a Landlord](https://steamcommunity.com/app/1404850)
 - [LYNE](https://steamcommunity.com/app/266010)
