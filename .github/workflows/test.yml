@@ -1,0 +1,15 @@
+name: Node.js
+on: [push]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Node.js
+    steps:
+      - uses: actions/checkout@v7
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+      - run: npm install
+      - run: npm test
+      - run: npm run summary

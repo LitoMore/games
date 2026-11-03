@@ -1,15 +1,14 @@
 import logSymbols from 'log-symbols';
-import { loadGamesJson, writeGamesJson } from './utils.ts';
+import {loadGamesJson, writeGamesJson} from './utils.ts';
 
 const games = await loadGamesJson();
 
-games.platforms.forEach((platform) => {
+for (const platform of games.platforms) {
 	platform.hostnames = [];
 	platform.gameList = [];
-});
+}
 
 games.related = [];
 
 await writeGamesJson(games);
 console.log(logSymbols.success, 'Reset to default done.');
-Deno.exit(0);

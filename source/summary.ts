@@ -1,10 +1,10 @@
-import { loadGamesJson } from './utils.ts';
+import {loadGamesJson} from './utils.ts';
 
 const games = await loadGamesJson();
 
 const summary = [
 	...games.platforms.map(
-		(platform) => ({
+		platform => ({
 			platform: platform.name,
 			count: platform.gameList.length,
 		}),
@@ -19,4 +19,3 @@ const summary = [
 ];
 
 console.table(summary);
-Deno.exit(0);

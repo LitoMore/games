@@ -1,0 +1,40 @@
+{
+	"name": "games",
+	"private": true,
+	"type": "module",
+	"engines": {
+		"node": ">=24.15.0"
+	},
+	"scripts": {
+		"test": "npm run lint && npm run type-check && npm run check && npm run build",
+		"lint": "xo",
+		"type-check": "tsc --noEmit",
+		"add": "node source/add.ts",
+		"add-platform": "node source/add-platform.ts",
+		"check": "node source/check.ts",
+		"fix": "node source/check.ts --fix",
+		"build": "node source/build.ts",
+		"reset": "node source/reset.ts",
+		"search": "node source/search.ts",
+		"summary": "node source/summary.ts",
+		"blog": "node source/blog.ts | pbcopy",
+		"fetch-steam": "node source/fetch-steam.ts && npm run fix"
+	},
+	"dependencies": {
+		"@inquirer/input": "^5.0.1",
+		"fast-fuzzy": "^1.12.0",
+		"ky": "^2.0.2",
+		"log-symbols": "^7.0.1",
+		"yoctocolors": "^2.1.1"
+	},
+	"devDependencies": {
+		"@types/node": "^24.0.0",
+		"typescript": "^6.0.3",
+		"xo": "^5.0.1"
+	},
+	"xo": [
+		{
+			"ignores": ["README.md"]
+		}
+	]
+}

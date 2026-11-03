@@ -1,29 +1,30 @@
-import { bold, cyan } from '@std/fmt/colors';
+#!/usr/bin/env node
+import process from 'node:process';
+import {bold, cyan} from 'yoctocolors';
 import logSymbols from 'log-symbols';
 import input from '@inquirer/input';
-import { loadGamesJson, nameCompare, writeGamesJson } from './utils.ts';
+import {loadGamesJson, nameCompare, writeGamesJson} from './utils.ts';
 
 const games = await loadGamesJson();
-const anchor = Deno.env.get('anchor') ?? await input({ message: 'anchor:' });
-const name = Deno.env.get('name') ?? await input({ message: 'name:' });
-const badge = Deno.env.get('badge') ?? await input({ message: 'badge:' });
-const hostnames = Deno.env.get('hostnames') ??
-	await input({ message: 'hostnames:' });
+const anchor = process.env.anchor ?? await input({message: 'anchor:'});
+const name = process.env.name ?? await input({message: 'name:'});
+const badge = process.env.badge ?? await input({message: 'badge:'});
+const hostnames = process.env.hostnames
+	?? await input({message: 'hostnames:'});
 
-if (!(anchor && name && badge && hostnames)) {
+const missingFields = Object.entries({
+	anchor, name, badge, hostnames,
+})
+	.filter(([, value]) => value.length === 0)
+	.map(([key]) => cyan(bold(key)));
+
+if (missingFields.length > 0) {
 	console.error(
 		logSymbols.error,
-		`${
-			[
-				anchor ? '' : 'anchor',
-				name ? '' : 'name',
-				badge ? '' : 'badge',
-				hostnames ? '' : 'hostnames',
-			].filter(Boolean).map((x) => cyan(bold(x))).join(', ')
-		} required.`,
+		`${missingFields.join(', ')} required.`,
 	);
 
-	Deno.exit(1);
+	process.exit(1);
 }
 
 const platform = {
@@ -40,4 +41,3 @@ games.platforms.sort(nameCompare());
 await writeGamesJson(games);
 console.log(logSymbols.success, `${name} added.`);
 console.log(platform);
-Deno.exit(0);

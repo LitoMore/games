@@ -11,24 +11,24 @@ const games = await loadGamesJson();
 const titleSection = `<h1 align="center">GAMES</h1>
 `;
 
-const badgesSection = games.platforms.map((p) => p.gameList.length).reduce((
-		a: number,
-		b: number,
-	) => a + b
-	) > 0
+const badgesSection = games.platforms.map(p => p.gameList.length).reduce((
+	a: number,
+	b: number,
+) => a + b,
+) > 0
 	? `
 <p align="center">
 ${
-		games.platforms.map((platform) =>
-			platform.gameList.length > 0
-				? `  <a href="#${titleToAnchor(platform.name)}">
+	games.platforms.map(platform =>
+		platform.gameList.length > 0
+			? `  <a href="#${titleToAnchor(platform.name)}">
     <img src="${
-					platform.badge.replace('{{count}}', String(platform.gameList.length))
-				}"/>
+		platform.badge.replace('{{count}}', () => String(platform.gameList.length))
+	}"/>
   </a>\n`
-				: ''
-		).join('')
-	}</p>
+			: '',
+	).join('')
+}</p>
 `
 	: '';
 
@@ -41,30 +41,30 @@ const descriptionSection = `
 const ciSection = `
 <p align="center">
   <a href="https://github.com/LitoMore/games/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/deno.yml?branch=main&logo=deno&logoColor=000&label=Deno&labelColor=fff"/>
+    <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/node.js.yml?branch=main&logo=nodedotjs&logoColor=000&label=Node.js&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
     <img src="https://img.shields.io/badge/Games_Total-${
-	games.platforms.map((p) => p.gameList.length).reduce((
-		a: number,
-		b: number,
-	) => a + b)
-}-ddd?style=social&logo=github-sponsors"/>
+		games.platforms.map(p => p.gameList.length).reduce((
+			a: number,
+			b: number,
+		) => a + b)
+	}-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 `;
 
-const gamesSection = games.platforms.map((platform) =>
+const gamesSection = games.platforms.map(platform =>
 	platform.gameList.length > 0
 		? `
 <h2 id="${titleToAnchor(platform.name)}">${platform.name}</h2>\n\n${
-			platform.gameList.sort(nameCompare()).map((game) =>
-				`- [${game.name}](${game.website})\n`
-			).join(
-				'',
-			)
-		}`
-		: ''
+	platform.gameList.sort(nameCompare()).map(game =>
+		`- [${game.name}](${game.website})\n`,
+	).join(
+		'',
+	)
+}`
+		: '',
 ).join('');
 
 const relatedSection = games.related.length > 0
@@ -77,9 +77,8 @@ const relatedSection = games.related.length > 0
 `
 	: '';
 
-const markdownContent = titleSection + badgesSection + descriptionSection +
-	ciSection + gamesSection + relatedSection;
+const markdownContent = titleSection + badgesSection + descriptionSection
+	+ ciSection + gamesSection + relatedSection;
 
 await writeReadme(markdownContent);
 console.log(logSymbols.success, 'Compiled successfully.');
-Deno.exit(0);

@@ -22,18 +22,20 @@ jobs:
           ref: main
           persist-credentials: false
 
-      - name: Set up Deno
-        uses: denoland/setup-deno@v2
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
         with:
-          deno-version: v2.x
+          node-version: 24
+
+      - run: npm install
 
       - name: Fetch Steam games
         env:
           STEAM_WEB_API_KEY: ${{ secrets.STEAM_WEB_API_KEY }}
-        run: make fetch-steam
+        run: npm run fetch-steam
 
       - name: Validate and update README
-        run: make
+        run: npm test
 
       - name: Generate GitHub App token
         id: app-token
