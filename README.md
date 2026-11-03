@@ -108,7 +108,7 @@
 
 <p align="center">
   <a href="https://github.com/LitoMore/games/actions">
-    <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/test.yml?branch=main&logo=nodedotjs&logoColor=000&label=Node.js&labelColor=fff"/>
+    <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/test.yml?branch=main&logo=nodedotjs&logoColor=5FA04E&label=Node.js&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
     <img src="https://img.shields.io/badge/Games_Total-2525-ddd?style=social&logo=github-sponsors"/>
