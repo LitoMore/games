@@ -83,7 +83,7 @@
     <img src="https://img.shields.io/badge/Stadia-130-ddd?logo=stadia&labelColor=cd2640"/>
   </a>
   <a href="#steam">
-    <img src="https://img.shields.io/badge/Steam-414-ddd?logo=steam&labelColor=171a21"/>
+    <img src="https://img.shields.io/badge/Steam-415-ddd?logo=steam&labelColor=171a21"/>
   </a>
   <a href="#super-nintendo-entertainment-system">
     <img src="https://img.shields.io/badge/SNES-57-ddd?logo=nintendo&logoSize=auto&labelColor=fc0c18&logoColor=white"/>
@@ -111,7 +111,7 @@
     <img src="https://img.shields.io/github/actions/workflow/status/LitoMore/games/test.yml?branch=main&logo=nodedotjs&logoColor=000&label=Node.js&labelColor=fff"/>
   </a>
   <a href="https://github.com/LitoMore/games/blame/main/README.md">
-    <img src="https://img.shields.io/badge/Games_Total-2525-ddd?style=social&logo=github-sponsors"/>
+    <img src="https://img.shields.io/badge/Games_Total-2526-ddd?style=social&logo=github-sponsors"/>
   </a>
 </p>
 
@@ -2289,6 +2289,7 @@
 - [Guns of Icarus Online](https://steamcommunity.com/app/209080)
 - [Guts and Glory](https://steamcommunity.com/app/537340)
 - [Hades II](https://steamcommunity.com/app/1145350)
+- [Haiku, the Robot](https://steamcommunity.com/app/1231880)
 - [Half-Life](https://steamcommunity.com/app/70)
 - [Half-Life 2](https://steamcommunity.com/app/220)
 - [Half-Life 2: Deathmatch](https://steamcommunity.com/app/320)
